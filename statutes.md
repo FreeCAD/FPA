@@ -4,7 +4,7 @@
 
 ### 1. Name and form
 
-It is hereby created  created an **international association with non-profit aim**  named: “**The FreeCAD project association**”. This association is ruled by Part III, Book 10 of the Code of Societies ans Associations under the Belgian law. It is created for an undefined duration.
+It is hereby created an **international association with non-profit aim**  named: “**The FreeCAD project association**”. This association is ruled by Part III, Book 10 of the Code of Societies and Associations under the Belgian law. It is created for an undefined duration.
 
 
 
@@ -91,7 +91,7 @@ Societies will be represented by the persons who are authorised to do so.
 
 The general assembly can be held by videoconference or any other means that allow the entirety of its members to communicate simultaneously  (conference calls, video-conference, telephone, etc). The general assembly can also cast valid votes remotely, by consulting its members by letter, fax, email or any other mean of communication.
 
-The general assembly will only consider voting valid if more than the half of its members  participate or are represented to the vote.
+The general assembly will only consider voting valid if more than the half of its members participate or are represented to the vote.
 
 
 
@@ -120,7 +120,7 @@ This association can be dissolved by unanimous vote of the members. The administ
 
 
 
-### 12. General  provisions
+### 12. General provisions
 
 Anything that is not specified in the present statutes, particularly publication formalities, will be ruled according to Book 10 of the Code of Societies and Associations of the Belgian law.
 
