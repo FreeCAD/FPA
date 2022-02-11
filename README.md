@@ -14,6 +14,7 @@ The management and operating of the association is entirely transparent and publ
 * [Association members](roster.md)
 * Accounting reports
     * [2021](reports/2021.md)
+    * [2022](reports/2022.md)
 
 
 
