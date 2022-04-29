@@ -19,6 +19,7 @@ The management and operating of the association is entirely transparent and publ
 * Accounting reports
     * [2021](reports/2021.md)
     * [2022](reports/2022.md)
+* [AISBL guidelines](aisbl_guide.md) useful for us as well as for other projects
 
 
 
