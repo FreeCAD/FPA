@@ -2,7 +2,7 @@
 
 
 
-The **FreeCAD Project association** is an internal non-profit association created by FreeCAD administrators and core developers in November 2021 and seated in Belgium. Its goal is to support and protect the [FreeCAD project](https://freecad.org). 
+The **FreeCAD Project association** (FPA) is an international non-profit association created by FreeCAD administrators and core developers in November 2021 and seated in Belgium. Its goal is to support and protect the [FreeCAD project](https://freecad.org). 
 
 The FreeCAD Project Association is composed of ordinary members, who form the general assembly, and an administrative body,  formed by the chairperson plus any number of other members elected to it. Meetings and votes of the members happen on a dedicated section of the [FreeCAD forum](https://forum.freecad.org).
 
@@ -25,5 +25,5 @@ The management and operating of the association is entirely transparent and publ
 
 ### Contact
 
-All members can be contacted individually by sending them a private message on the [FreeCAD forum](https://forum.freecad.org). The contact link to each member can be found on the [association members](roster.md) list. The administration board can also be contacted via the fpa@freecad.org email address.
+All members can be contacted individually by sending them a private message on the [FreeCAD forum](https://forum.freecad.org). The contact link to each member can be found on the [association members](roster.md) list. The administration board can also be contacted via the fpa@freecad.org email address. The FPA is registered in Belgium under entreprise number [781867807](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807) and its bank account IBAN number is BE04 0019 2896 4531.
 
