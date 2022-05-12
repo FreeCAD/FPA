@@ -25,7 +25,7 @@ The management and operating of the association is entirely transparent and publ
 
 ### Contact
 
-All members can be contacted individually by sending them a private message on the [FreeCAD forum](https://forum.freecad.org). The contact link to each member can be found on the [association members](roster.md) list. The administration board can also be contacted via the fpa@freecad.org email address. 
+All members can be contacted individually by sending them a private message on the [FreeCAD forum](https://forum.freecad.org). The contact link to each member can be found on the [association members](roster.md) list. The administration board can also be contacted via the [fpa@freecad.org](mailto:fpa@freecad.org) email address. 
 
 
 
@@ -34,7 +34,7 @@ All members can be contacted individually by sending them a private message on t
 The FPA is registered in Belgium as an AISBL under number [781867807](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807) and is aimed at organizing donations for the FreeCAD project. We are currently setting up different donation options, check the [donations page](https://wiki.freecadweb.org/Donate) for options. FreeCAD currently offers the following donation channels:
 
 * Bank account: BE04 0019 2896 4531
-* [PayPal one-time donation](https://www.paypal.com/donate/?hosted_button_id=XUHSYF99855RA)
+* [PayPal](mailto:fpa@freecad.org)
 * [OpenCollective](https://opencollective.com/freecad)
 * [LiberaPay team account](https://liberapay.com/FreeCAD/)
 * [BountySource](https://salt.bountysource.com/teams/freecad)
