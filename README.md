@@ -31,14 +31,20 @@ All members can be contacted individually by sending them a private message on t
 
 ### Donations
 
-The FPA is registered in Belgium as an AISBL under number [781867807](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807)
+The FPA is registered in Belgium as an AISBL under number [781867807](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807) and is aimed at organizing donations for the FreeCAD project. We are currently setting up different donation options, check the [donations page](https://wiki.freecadweb.org/Donate) for options. FreeCAD currently offers the following donation channels:
 
 * Bank account: BE04 0019 2896 4531
-* OpenCollective: https://opencollective.com/freecad
-* LiberaPay team account: https://liberapay.com/FreeCAD/
+* [PayPal one-time donation](https://www.paypal.com/donate/?hosted_button_id=XUHSYF99855RA)
+* [OpenCollective](https://opencollective.com/freecad)
+* [LiberaPay team account](https://liberapay.com/FreeCAD/)
+* [BountySource](https://salt.bountysource.com/teams/freecad)
 
 
 
 ### Sponsoring suggestions
 
-The FPA is designed to help FreeCAD and its developers. If you have an idea that could benefit from funding, please [open an issue](https://github.com/FreeCAD/FPA/issues) here!
+The FPA is designed to help FreeCAD and its developers. You can:
+
+* Check what has already been spent and how much we have in our wallet by browsing the reports above
+* Consult the [current funding ideas](https://github.com/FreeCAD/FPA/issues)
+* If you have an idea that could benefit from funding, [open an issue](https://github.com/FreeCAD/FPA/issues) here.
