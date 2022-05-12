@@ -25,5 +25,15 @@ The management and operating of the association is entirely transparent and publ
 
 ### Contact
 
-All members can be contacted individually by sending them a private message on the [FreeCAD forum](https://forum.freecad.org). The contact link to each member can be found on the [association members](roster.md) list. The administration board can also be contacted via the fpa@freecad.org email address, which is read by FPA administrators. The FPA is registered in Belgium under entreprise number [781867807](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807) and its bank account IBAN number is BE04 0019 2896 4531.
+All members can be contacted individually by sending them a private message on the [FreeCAD forum](https://forum.freecad.org). The contact link to each member can be found on the [association members](roster.md) list. The administration board can also be contacted via the fpa@freecad.org email address. 
+
+
+
+### Donations
+
+The FPA is registered in Belgium as an AISBL under number [781867807](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807)
+
+* Bank account: BE04 0019 2896 4531
+* OpenCollective: https://opencollective.com/freecad
+* LiberaPay team account: https://liberapay.com/FreeCAD/
 
