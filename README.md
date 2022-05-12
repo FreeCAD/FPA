@@ -37,3 +37,8 @@ The FPA is registered in Belgium as an AISBL under number [781867807](https://kb
 * OpenCollective: https://opencollective.com/freecad
 * LiberaPay team account: https://liberapay.com/FreeCAD/
 
+
+
+### Sponsoring suggestions
+
+The FPA is designed to help FreeCAD and its developers. If you have an idea that could benefit from funding, please [open an issue](https://github.com/FreeCAD/FPA/issues) here!
