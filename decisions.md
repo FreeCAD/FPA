@@ -16,3 +16,4 @@ Below are the decisions taken by vote of the association members
 * Elect [sgrogan](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=4252) to the administrative body. **voted on 2022.01.26**
 * Creating a new github account for the FPA. **voted on 2022.02.11**
 * Approve the 2022 budget. **voted on 2022.04.05**
+* Add [uwestoehr](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=23505) as an ordinary member. **voted on 2022.05.13**

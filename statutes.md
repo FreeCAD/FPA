@@ -4,7 +4,7 @@
 
 ### 1. Name and form
 
-It is hereby created an **international association with non-profit aim**  named: “**The FreeCAD project association**”. This association is ruled by Part III, Book 10 of the Code of Societies and Associations under the Belgian law. It is created for an undefined duration.
+It is hereby created an **international association with non-profit aim** named: “**The FreeCAD project association**”. This association is ruled by Part III, Book 10 of the Code of Societies and Associations under the Belgian law. It is created for an undefined duration.
 
 
 
