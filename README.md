@@ -36,7 +36,7 @@ The FPA is registered in Belgium as an AISBL under number [781867807](https://kb
 * Bank account: BE04 0019 2896 4531
 * [PayPal](https://www.paypal.com/donate/?hosted_button_id=M3Z8BGW6DB69Q)
 * [OpenCollective](https://opencollective.com/freecad)
-* [LiberaPay team account](https://liberapay.com/FreeCAD/)
+* [LiberaPay team account](https://liberapay.com/FreeCAD/) (not managed by the FPA)
 * [BountySource](https://salt.bountysource.com/teams/freecad)
 
 
