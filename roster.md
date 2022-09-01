@@ -2,7 +2,7 @@
 
 
 
-### Association members
+### Active members
 
 | Nick       | Full Name       | Role   | Join Date    |
 | ---------- | --------------- | ------ | ---------    |
