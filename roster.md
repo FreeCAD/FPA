@@ -12,7 +12,8 @@
 | [ickby](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=686)        | Stefan Tröger   | Member | founder    |
 | [yorik](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=68)         | Yorik van Havre | Chairperson | founder    |
 | [wandererfan](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=1375) |                 | Member | 2022.01.10 |
-
+| [Kunda](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=12229) |                 | Member | 2022.08.30 |
+| [uwestoehr](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=23505) | Uwe Stöhr       | Member | 2022.09.01 |
 *For privacy concerns, some members opted for their full name to not be exposed on the internet*
 
 
