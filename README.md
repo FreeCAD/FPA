@@ -38,6 +38,7 @@ The FPA is registered in Belgium as an AISBL under number [781867807](https://kb
 * [OpenCollective](https://opencollective.com/freecad)
 * [LiberaPay team account](https://liberapay.com/FreeCAD/) (not managed by the FPA)
 * [BountySource](https://salt.bountysource.com/teams/freecad)
+* [Stripe](https://donate.stripe.com/14k3ei9TYgwFclq145)
 
 
 ### Tax deduction
