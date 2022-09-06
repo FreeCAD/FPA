@@ -17,3 +17,5 @@ Below are the decisions taken by vote of the association members
 * Creating a new github account for the FPA. **voted on 2022.02.11**
 * Approve the 2022 budget. **voted on 2022.04.05**
 * Add rules defining members inactive status. **voted on 2022.07.26**
+* Add [Kunda1](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=12229) as an ordinary member. **voted on 2022.08.31**
+* Add [uwestoehr](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=23505) as an ordinary member **voted on 2022.09.01**
