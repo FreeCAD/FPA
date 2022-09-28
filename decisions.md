@@ -1,10 +1,6 @@
 # <img src="images/freecad.svg" style="zoom:50%;" /> FreeCAD project association decisions
 
-
-
 Below are the decisions taken by vote of the association members
-
-
 
 * Approve [association statutes](https://github.com/FreeCAD/FPA/blob/main/statutes.md). **voted on 2021.09.09**
 * Spend EUR 2000 on association setup. **voted on 2021.09.09**
@@ -19,3 +15,5 @@ Below are the decisions taken by vote of the association members
 * Add [rules](https://github.com/FreeCAD/FPA/commit/e40eaeea0a3a665a6c8e6eb20a64bfc0e34ba121) defining members inactive status. **voted on 2022.07.26**
 * Add [Kunda1](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=12229) as an ordinary member. **voted on 2022.08.31**
 * Add [uwestoehr](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=23505) as an ordinary member **voted on 2022.09.01**
+* Add [chennes]([FreeCAD Forum - Login](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=11959)) as an ordinary member **voted on 2022.09.26**
+* Set up a [blog](https://blog.freecad.org) and web store **voted on 2022/.09.26**
