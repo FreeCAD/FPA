@@ -16,4 +16,5 @@ Below are the decisions taken by vote of the association members
 * Add [Kunda1](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=12229) as an ordinary member. **voted on 2022.08.31**
 * Add [uwestoehr](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=23505) as an ordinary member **voted on 2022.09.01**
 * Add [chennes]([FreeCAD Forum - Login](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=11959)) as an ordinary member **voted on 2022.09.26**
-* Set up a [blog](https://blog.freecad.org) and web store **voted on 2022/.09.26**
+* Set up a [blog](https://blog.freecad.org) and web store **voted on 2022.09.26**
+* Grant USD 1000 to [jnxd] for his work on [BSpline tools](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=5734) **voted on 2022.09.26**
