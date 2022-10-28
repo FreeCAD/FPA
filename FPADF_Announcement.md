@@ -15,5 +15,5 @@ Any contributor who wishes to be considered for a grant should submit a proposal
 Proposals will be considered by the FPA general body and approved by vote.
 
 Grant applications may be forwarded to any member of the FPA for consideration.
-
+The FreeCAD Project Association would like to expand the number and type of grants given.  Donations made to the FPA and designated DEVELOPMENT FUND will be used for this purpose. 
 **added on 2022.08.28**
