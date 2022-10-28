@@ -5,7 +5,7 @@
 
 The FreeCAD Project Association is pleased to announce the creation of the FPA Development Fund (FPADF). The FPADF offers grants to individuals for contributions to FreeCAD.
 
-Initially, grants from the FPADF will be capped at US$1000 and grants will be awarded only for work on the FreeCAD code base.
+Grants are capped at US$1000 and will be awarded only for work on the FreeCAD code base.
 
 The cap may be raised as the FPA gains experience in the awarding of grants and as available funds allow.
 
