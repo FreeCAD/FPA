@@ -17,17 +17,20 @@ The management and operating of the association is entirely transparent and publ
 * The [Royal decree](royal_decree.pdf) giving official existence to the association
 
 * Spending plans
-  
+
   * [2022](budgets/2022.md)
 
 * Accounting reports
-  
+
   * [2021](reports/2021.md)
   * [2022](reports/2022.md)
 
 * [AISBL guidelines](aisbl_guide.md) useful for us as well as for other projects
 
 * [FreeCAD trademark](trademark.pdf) owned by the FPA
+### Handbook
+
+The [FPA Handbook](./handbook/index) covers our procedures, history, values and much more.
 
 ### Contact
 
