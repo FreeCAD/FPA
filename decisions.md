@@ -19,3 +19,9 @@ Below are the decisions taken by vote of the association members
 * Set up a [blog](https://blog.freecad.org) and web store **voted on 2022.09.26**
 * Grant USD 1000 to [jnxd](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=5734) for his work on [BSpline tools](https://forum.freecadweb.org/viewtopic.php?f=9&t=71130&p=628543) **voted on 2022.09.26**
 * Give the FPA administrators a USD 100 per occasion spending authority **voted on 2022.10.20**
+* Elect [Chennes](https://forum.freecadweb.org/viewtopic.php?f=43&t=73351) to the administrative group **voted on 2022-11-15
+* Elect [Wandererfan](https://forum.freecadweb.org/viewtopic.php?f=43&t=73352) to the administrative group **voted on 2022-11-15
+* Approve [Join codeberg and make monthly $10 donation](https://forum.freecadweb.org/viewtopic.php?f=43&t=71841) **voted on 2022-11-15
+* Approve [Funding travel for developers attending FOSDEM 2023](https://forum.freecadweb.org/viewtopic.php?f=43&t=72953) **voted on 2022-11-15
+* Approve [Creation of the FPA Development Fund](https://forum.freecadweb.org/viewtopic.php?f=43&t=71849) **voted on 2022-11-15
+* Grant USD 1000 to [Realthunder](https://forum.freecadweb.org/viewtopic.php?f=43&t=72792)  **voted on 2022-11-15
