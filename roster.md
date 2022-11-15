@@ -21,6 +21,8 @@
 | --------- | ------------ | ---------- | ---------- |
 | yorik     | Chairperson  | 2021.11.30 | 2023.11.30 |
 | sliptonic | Board member | 2022.01.24 | 2024.01.24 |
+| Chennes   | Board member | 2022.11.15 | 2024.11-15 |
+| Wandererfan   | Board member | 2022.11.15 | 2024.11-15 |
 
 ### Chairperson
 
