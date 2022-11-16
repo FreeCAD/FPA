@@ -25,6 +25,11 @@ The management and operating of the association is entirely transparent and publ
   * [2021](reports/2021.md)
   * [2022](reports/2022.md)
 
+* Ongoing projects
+
+  * [Development fund](projects/FPADF_Announcement.md)
+  * [FOSDEM 2023 travel grant](projects/FOSDEM_travel_grants.md)
+
 * [AISBL guidelines](aisbl_guide.md) useful for us as well as for other projects
 
 * [FreeCAD trademark](trademark.pdf) owned by the FPA

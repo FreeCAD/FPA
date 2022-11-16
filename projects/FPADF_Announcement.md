@@ -1,4 +1,4 @@
-## <img src="images/freecad.svg" style="zoom:50%;" /> FreeCAD Project Association Development Fund
+## <img src="../images/freecad.svg" style="zoom:50%;" /> FreeCAD Project Association Development Fund
 
 
 #### Announcement - FPA Development Fund
