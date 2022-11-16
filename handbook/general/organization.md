@@ -2,12 +2,12 @@
 title: "Organization"
 description:
     "How the FPA is organized"
-layout: about
+layout: default
 ---
 
-# {{% param "title" %}}
+# {{page.title}}
 
-{{% param "description" %}}
+{{page.description}}
 
 # Legal Structure
 

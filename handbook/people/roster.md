@@ -1,4 +1,14 @@
-# <img src="images/freecad.svg" style="zoom:50%;" /> FreeCAD project association members
+---
+title: Roster
+description:
+  Current FPA membership
+layout: default
+---
+
+# {{page.title}}
+
+{{page.description}}
+
 
 ### Active members
 

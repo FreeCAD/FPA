@@ -23,6 +23,13 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
+          <nav class="main-nav">
+            <ul>
+                <li><a href="/FPA">Home</a></li>
+                <li><a href="/FPA/handbook/index">Handbook</a></li>
+            </ul>
+          </nav>
+
           {% if site.show_downloads %}
             <section id="downloads">
               <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
@@ -30,6 +37,23 @@
             </section>
           {% endif %}
         </header>
+    <style>
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+        nav ul li {
+            margin-right: 10px;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: #0090ff;
+        }
+        nav ul li a:hover {
+            text-decoration: underline;
+        }
+        
+    </style>
     </div>
 
     <!-- MAIN CONTENT -->
@@ -45,8 +69,10 @@
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
   </body>
+   {% if page.mermaid %}
+   {% include markdown-enhancements/mermaid.html %}
+   {% endif %}
 </html>

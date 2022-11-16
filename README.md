@@ -2,35 +2,31 @@
 
 The **FreeCAD Project association** (FPA) is an international non-profit association created by FreeCAD administrators and core developers in November 2021 and seated in Belgium. Its goal is to support and protect the [FreeCAD project](https://freecad.org). 
 
-The FreeCAD Project Association is composed of ordinary members, who form the general assembly, and an administrative body,  formed by the chairperson plus any number of other members elected to it. Meetings and votes of the members happen on a dedicated section of the [FreeCAD forum](https://forum.freecad.org).
-
-The management and operating of the association is entirely transparent and publicly accessible. This repository contains all files and reports of the FreeCAD project association:
-
-* [Association statutes](statutes.md)
-
-* [Additional rules](rules.md)
-
-* [Association decisions](decisions.md)
-
-* [Association members](roster.md)
 
 * The [Royal decree](royal_decree.pdf) giving official existence to the association
 
-* Spending plans
-
-  * [2022](budgets/2022.md)
-
-* Accounting reports
-
-  * [2021](reports/2021.md)
-  * [2022](reports/2022.md)
-
-* [AISBL guidelines](aisbl_guide.md) useful for us as well as for other projects
-
 * [FreeCAD trademark](trademark.pdf) owned by the FPA
+
 ### Handbook
 
-The [FPA Handbook](./handbook/index) covers our procedures, history, values and much more.
+The [FPA Handbook](./handbook/index) covers our procedures, rules, decisions, history, values and much more.
+
+
+### Budget
+
+* [2022](budgets/2022.md)
+
+### Reports
+
+* [2021](reports/2021.md)
+* [2022](reports/2022.md)
+
+
+### Membership
+
+The FreeCAD Project Association is composed of ordinary members, who form the general assembly, and an administrative body,  formed by the chairperson plus any number of other members elected to it. Meetings and votes of the members happen on a dedicated section of the [FreeCAD forum](https://forum.freecad.org).
+
+* [Association members](./handbook/people/roster)
 
 ### Contact
 

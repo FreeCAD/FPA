@@ -1,9 +1,13 @@
-# <img src="images/freecad.svg" style="zoom:50%;" /> AISBL guidelines
+---
+title: "AISBL Guide"
+description:
+    "This document contains things to know to create and manage an AISBL (International non-profit association seated in Belgium). We fill information here as we learn it, so don't expect to find here complete, definitive information."
+layout: default
+---
 
+# {{page.title}}
 
-
-This document contains things to know to create and manage an AISBL (International non-profit association seated in Belgium). We fill information here as we learn it, so don't expect to find here complete, definitive information.
-
+{{page.description}}
 
 
 ## Reasons to choose the AISBL formula

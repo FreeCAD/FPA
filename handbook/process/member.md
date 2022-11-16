@@ -1,4 +1,13 @@
-# Adding members
+---
+title: "Adding Members"
+description:
+    "How members are added"
+layout: default
+---
+
+# {{page.title}}
+
+{{page.description}}
 
 ## General Considerations
 
@@ -15,4 +24,22 @@ When proposing a vote to add members, the following criteria may be helpful:
 
 ## Adding General Assembly (GA) members
 
+* contact them privately to see if they're interested
+    * Point them to this handbook, particularly the page on expectations
+* Conduct vote
+* When approved:
+    * Add them to forum permissions so they can see the group
+    * 
+
 ## Adding Administrative Team (AT) members
+
+Administrative team members should:
+* Have a low-threshold to action.  They should be willing to take action, make changes, edit files, send pull requests etc without asking permission
+* Have a good understanding of how the FPA operates
+* Have a good history of availability and response.
+
+* contact them privately to see if they're interested
+* Conduct vote
+* When approved
+    * Add to FPA public and private repos
+    * Update the roster

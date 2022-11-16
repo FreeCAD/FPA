@@ -1,4 +1,13 @@
-# Conducting a Vote
+---
+title: "Voting"
+description:
+    "How the FPA conducts a vote"
+layout: default
+---
+
+# {{page.title}}
+
+{{page.description}}
 
 The voting process is designed to achieve three purposes:
 

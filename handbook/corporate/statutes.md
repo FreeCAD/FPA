@@ -1,4 +1,13 @@
-## <img src="images/freecad.svg" style="zoom:50%;" />  The FreeCAD project association statutes
+---
+title: "Association Statutes"
+description:
+    "This is a markdown version of the corporate charter filed to incorporate the association."
+layout: default
+---
+
+# {{page.title}}
+
+{{page.description}}
 
 
 

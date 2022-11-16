@@ -1,4 +1,13 @@
-# Values
+---
+title: "Values"
+description:
+    "Our core values guide our decisions"
+layout: default
+---
+
+# {{page.title}}
+
+{{page.description}}
 
 ## Transparency
 Transparency means we believe our decisions and official actions should be accessible to the general community. The FPA (and all organizations) need to keep some secrets (passwords, bank account numbers, etc). We occasionally need to keep things confidential that affect partners or individuals.

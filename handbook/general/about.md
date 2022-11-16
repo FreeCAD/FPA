@@ -2,12 +2,12 @@
 title: "About the FPA"
 description:
     "Learn about the mission of the FPA and the people who run it."
-layout: about
+layout: default
 ---
 
-# {{% param "title" %}}
+# {{page.title}}
 
-{{% param "description" %}}
+{{page.description}}
 
 # Mission
 

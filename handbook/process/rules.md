@@ -1,9 +1,13 @@
-## <img src="images/freecad.svg" style="zoom:50%;" /> FreeCAD project association additional rules
+---
+title: "FPA Adopted Rules"
+description:
+    "The rules below are added to the [statutes](statutes.md) by member votes and have the same level of validity."
+layout: default
+---
 
+# {{page.title}}
 
-
-The rules below are added to the [statutes](statutes.md) by member votes and have the same level of validity.
-
+{{page.description}}
 
 
 #### Administrative body mandate duration
