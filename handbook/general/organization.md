@@ -42,15 +42,15 @@ The **administrative body** is made of the chairperson, plus one or more other m
 Members of the administrative handle the day-to-day administrative tasks including:
 
 - Accounting
-- yearly report
+- Annual report
 - Preparation of annual budget
 - Maintaining the [roster](../people/roster)
 - Paying for services
 - Scheduling regular FPA meetings
 - Engaging accoutants, attorneys, or other profesionals
 
-## Inactive Members.
+## Inactive Members
 
-Inactive members are members who were approved by a membership vote but have since become inactive. Members can become inactive either voluntarily or through a [reconfirmation](../process/reconfirmation). Inactive members are not counted toward a vote quorum.
+Inactive members are members who were approved by a membership vote but have not recently participated in votes, meetings, or other FPA activities. Members are shifted to Inactive status either by directly requesting such a status change or through a [reconfirmation](../process/reconfirmation). Inactive members are not counted toward a vote quorum.
 
-Inactive members can become active again, simply by notifying a member of the administrative team.
+Inactive members can become active again by notifying a member of the administrative team. No additional vote is required.
