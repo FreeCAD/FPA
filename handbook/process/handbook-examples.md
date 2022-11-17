@@ -129,7 +129,6 @@ So I prefer using HTML tags like this:
 [Mermaid](https://mermaid-js.github.io/mermaid/#/) let you describe diagrams using text. The actual image is generated automatically.
 
 Code like:
-Note: Actaual mermaid blocks start with three ticks and the word 'mermaid' and end with three ticks.
 
 ```
 sequenceDiagram
@@ -142,6 +141,9 @@ sequenceDiagram
     Bob-->Alice: Checking with John...
     Alice->John: Yes... John, how are you?
 ```
+
+Note: Actaual mermaid blocks start with three ticks and the word 'mermaid' and end with three ticks.
+
 Yields a graph like:
 
 ```mermaid
