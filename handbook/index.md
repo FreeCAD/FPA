@@ -11,7 +11,7 @@ layout: default
 
 {{page.description}}
 
-This handbook is modeled on the [GitHub "handbook first" concept](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/).  It should be the
+This handbook is modeled on the [GitLab "handbook first" concept](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/).  It should be the
 authoritative record of how the FPA operates. It documents the consensus opinion
 of why various rules exist, procedures, tools, expectations, and lessons learned.
 
