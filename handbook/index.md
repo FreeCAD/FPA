@@ -38,8 +38,13 @@ This handbook has several major sections:
 - [Issues](./process/issues)
 - [Handbook process](./process/handbook)
 
+## Resource access and management
+- [Source code](./process/source_code_access)
+- [Social media](./process/socialmedia)
+- [Forum](./process/forum)
+
 ## Initiatives
-- FPA Development Fund
+- [FPA Development Fund](./FPADF/FPADF_Announcement)
 
 ## People
 - [Current Members](./people/roster)
