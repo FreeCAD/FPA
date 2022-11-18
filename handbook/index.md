@@ -43,6 +43,6 @@ This handbook has several major sections:
 
 ## People
 - [Current Members](./people/roster)
-- [What is Expected of Members](./people/expecations)
+- [What is Expected of Members](./people/expectations)
 - [Adding Members](./process/member)
 - [Periodic Reconfirmation](./process/reconfirmation)
