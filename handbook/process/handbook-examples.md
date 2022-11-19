@@ -241,7 +241,7 @@ sequenceDiagram
 
 # Foot Notes
 
-This is a note[^1]. Footnotes can have captions like[^this]. You can reference to the same note multiple times like[^this]. Foot notes can have many other options like[^this-one]. Or just like [^that]. This is a [reference style link][linkid] to a page. And [this][linkid] is also a link. As is [this][] and [that].
+This is a note[^1]. Footnotes can have captions like[^this]. You can reference to the same note multiple times like[^this]. Foot notes can have many other options like[^this-one]. Or just like [^that]. This is a [reference style link](linkid) to a page. And [this][linkid] is also a link. As is [this][] and [that].
 
 # Titles
 
