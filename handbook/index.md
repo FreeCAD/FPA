@@ -42,9 +42,11 @@ This handbook has several major sections:
 - [Source code](./process/source_code_access)
 - [Social media](./process/socialmedia)
 - [Forum](./process/forum)
+- [Funds access](./process/fundsaccess)
 
 ## Initiatives
 - [FPA Development Fund](./FPADF/FPADF_Announcement)
+    - [Funded projects](./FPADF/funded_projects)
 
 ## People
 - [Current Members](./people/roster)
