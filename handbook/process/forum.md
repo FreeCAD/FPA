@@ -23,8 +23,17 @@ The FreeCAD Forum is hosted on fra2.freecad.io in an lxd container called "forum
 
 ### Adding a Moderator
 
-(Technical steps here)
+When asked to do so by the Forum moderation team, an FPA member with Administrator privileges on the FreeCAD Forum will add a registered forum user to the "Global moderators" group. To do so:
+1) Log into the FreeCAD forum
+2) Click the icon for accessing the administrative area
+3) Re-authenticate
+4) Choose "Manager users" from the left-hand sidebar
+5) Enter the username to modify
+6) Select "Global moderators" from the "Add user to group:" drop-down menu
+7) Click "Submit"
+
+Removing a moderator is a similar process: omit steps 6 and 7, and instead click "Remove member from group".
 
 ### Other Forums Maintenance Tasks
 
-(Tasks here)
+phpbb issues periodic software updates -- when needed, the primary server administrator (Kurt Kremitzki) applies these updates, along with any other server maintenance tasks.
