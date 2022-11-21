@@ -29,6 +29,10 @@ This handbook has several major sections:
 
 ## Corporate
 - [AISBL Guide](./corporate/aisbl_guide)
+    - [Rationale for choosing AISBL](./corporate/AISBL/rationale)
+    - [Creation of the FPA](./corporate/AISBL/creation)
+    - [Mandatory Yearly Tasks](./corporate/AISBL/mandatory_tasks)
+    - [Useful Links](./corporate/AISBL/links)
 - [FPA Statutes](./corporate/statutes)
 - [Rules](./process/rules)
 - [Decisions](./process/decisions)
