@@ -37,6 +37,9 @@ Provide an alternate communication mechanisem (email address, phone number, etc)
 
 If you are tagged in a topic, please respond to the topic within 24-48 hours.
 
+If you're going to be away for an extended period of time, let someone know, especially if you are concerned about specific issues or upcoming votes.
+
+
 ### Lead by Example
 
 Whatever we want to see in the general community we should be doing ourselves as much as possible.
