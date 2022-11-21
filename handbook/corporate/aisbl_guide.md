@@ -108,40 +108,39 @@ Most banks in Europe are not very keen to open accounts for small non-profits, s
 
 #### General calendar
 
-|                                 | J    | F    | M    | A    | M    | J    | J    | A    | S    | O    | N    | D    |
-| ------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Association tax declaration     |      |      | x    |      |      |      |      |      |      |      |      |      |
-| General assembly                |      |      |      | x    |      |      |      |      |      |      |      |      |
-| Approval of last year's report  |      |      |      | x    |      |      |      |      |      |      |      |      |
-| Updating of UBO register        |      |      |      | x    |      |      |      |      |      |      |      |      |
-| Filing of last year's report    |      |      |      |      | x    |      |      |      |      |      |      |      |
-| Approval of next year's budget  |      |      |      |      |      | x    |      |      |      |      |      |      |
-| Tax declaration                 |      |      |      |      |      |      |      |      | x    |      |      |      |
-| VAT declarations, if applicable | x    |      | x    |      |      | x    |      |      | x    |      |      |      |
-
-
+|                                    | J   | F   | M   | A   | M   | J   | J   | A   | S   | O   | N   | D   |
+| ---------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Association tax declaration        |     |     | x   |     |     |     |     |     |     |     |     |     |
+| General assembly                   |     |     |     | x   |     |     |     |     |     |     |     |     |
+| Approval of last year's report     |     |     |     | x   |     |     |     |     |     |     |     |     |
+| Updating of UBO register           |     |     |     | x   |     |     |     |     |     |     |     |     |
+| Filing of last year's report       |     |     |     |     | x   |     |     |     |     |     |     |     |
+| Approval of next year's budget     |     |     |     |     |     | x   |     |     |     |     |     |     |
+| Tax declaration                    |     |     |     |     |     |     |     |     | x   |     |     |     |
+| VAT declarations, if applicable    |     |     | x   |     |     | x   |     |     | x   |     |     | x   |
+| VAT list of clients, if applicablr |     |     |     |     |     |     |     |     |     |     |     | x   |
 
 #### Determining the type of the AISBL
 
 The size of the AISBL determines its accounting obligations:
 
 * The **nano association** does not exceed more than one of the following criteria:     
-    * 5 full-time equivalent (FTE) workers on average over the year
-    * € 334,500 in revenue excluding VAT (excluding exceptional revenue)
-    * € 1,337,500 in total Assets
-    * € 1,337,500 in total Debts
+  * 5 full-time equivalent (FTE) workers on average over the year
+  * € 334,500 in revenue excluding VAT (excluding exceptional revenue)
+  * € 1,337,500 in total Assets
+  * € 1,337,500 in total Debts
 * The **micro association** does not exceed more than one of the following criteria:     
-    * 10 FTE workers on average over the year
-    * € 7,000,000 in turnover excluding VAT (excluding exceptional receipts)
-    * € 3,500,000 balance sheet total 3. 
+  * 10 FTE workers on average over the year
+  * € 7,000,000 in turnover excluding VAT (excluding exceptional receipts)
+  * € 3,500,000 balance sheet total 3. 
 * The **small association** does not exceed more than 1 of the following criteria:
-    * 50 FTE workers on average over the year
-    * € 9,000,000 in turnover excluding VAT (excluding exceptional receipts)
-    * € 4,500,000 balance sheet total
+  * 50 FTE workers on average over the year
+  * € 9,000,000 in turnover excluding VAT (excluding exceptional receipts)
+  * € 4,500,000 balance sheet total
 * The **large association**  exceeds more than 1 of the following criteria:
-    * 50 FTE workers on average over the year
-    * € 9,000,000 in turnover excluding VAT (excluding exceptional receipts)
-    * € 4,500,000 balance sheet total
+  * 50 FTE workers on average over the year
+  * € 9,000,000 in turnover excluding VAT (excluding exceptional receipts)
+  * € 4,500,000 balance sheet total
 
 #### General assembly
 
@@ -194,16 +193,33 @@ The declaration must be submitted **by October 28**.
 
 #### VAT
 
-An ASBL may be subject to VAT if it carries out a regular and independent economic activity (with or without profit) for which goods are supplied or services are performed. This activity can be main or secondary. When an ASBL does not deliver goods or services for consideration but only receives donations, it is not subject to VAT and does not need to have a VAT identification number.
+An AISBL may be subject to VAT if it carries out a regular and independent economic activity (with or without profit) for which **goods are supplied** or **services are performed**. This activity can be main or secondary. When an AISBL does not deliver goods or services for consideration but only receives donations, it is not subject to VAT and does not need to have a VAT identification number.
 
 The association can still, however, perform occasional commercial activities and is not liable for VAT for such (ex. selling pancakes) provided that:     
 
 * the ASBL is exempt from VAT (above)
 
 * the activities are organized with the aim of providing financial support to the non-profit organization     
+
 * the activity is organized by the ASBL and that any contribution is for the benefit of the ASBL only 
 
 Warning: Activities of this kind **cannot occur frequently**, otherwise they will be considered a main activity.
+
+When starting commercial activities, essentially **the selling of goods or services**, the AISBL must register to the VAT. To complete the registration, the following information is needed:
+
+* The yearly income
+
+* The [NACE categorie(s)](https://statbel.fgov.be/sites/default/files/Over_Statbel_FR/Nomenclaturen/NACE-BEL%202008_FR.pdfhttps://statbel.fgov.be/sites/default/files/Over_Statbel_FR/Nomenclaturen/NACE-BEL%202008_FR.pdf) to which the AISBL belongs to
+
+* Which parts of the yearly income fall under [Article 44](https://questionfiscale.be/wp-content/uploads/2021/04/Article-44-CTVA.pdf)
+
+After registering to the VAT, the AISBL must:
+
+* File quarterly reports, stating the total amount of operations (in and out) subject to VAT
+
+* File yearly list of VAT clients the AISBL has sold goods or services to
+
+* Retain a VAT of 21% over all sold goods or services, and pay that amount quarterly to the finance administration
 
 #### UBO register
 
@@ -227,6 +243,26 @@ The declaration must be filed **no later than March 31**. Each ASBL receives, in
 #### Social report
 
 Non-profit organisations that employ an average of 20 or more staff per year, including small non-profit organisations, must draw up a social balance sheet.
+
+## Employment and contracting
+
+AISBLs can contract workers, either as **independent workers** or **employee workers**.
+
+Warning, a member of the AISBL being contracted as a worker (independent or employee) can often be seen as a conflict of interests. Such situations need to be extremely well and clearly formulated and written.
+
+#### Employee workers
+
+Contracting **employees** requires a large amount of [administrative procedures](http://vieassociative.be/sites/default/files/20150819-formalites-administratives-engager-travailleur.pdf) (FR), mainly register to different social security levels and contract an insurance against work damages. An employee contract can be full or part time, and with no time limit or with a certain time frame, for a certian kind of tasks or not. Part of employment boost measures, Belgium offers several kinds of helps to employers.
+
+#### Independent workers
+
+An AISBL can contract an independent worker without any regulation or inscription. However, in this case, all the burden of taxes, social securities and everything else is the responsability of the worker. It is therefore important that the worker shows their compliance to this. It is usually done by issuing an **invoice** where details over the worker's social security or tax inscription are given, which could allow the AISBL to check that the worker is indeed in order with their tax administration.
+
+
+
+
+
+
 
 
 
@@ -252,6 +288,8 @@ General info:
 * [Updated (2020) statutes model](https://claire-ai.org/wp-content/uploads/2020/02/CLAIRE-Statuts-FR-1.pdf)
 * [ASBL/AISBL tax portal](https://finances.belgium.be/fr/asbl)
 * [Obligations comptables des ASBL](https://1819.brussels/infotheque/assurances-fiscalite-comptabilite/les-asbl-leurs-obligations-comptables) (FR)
+* [Bounty hunting vs employment](https://pwwl.de/en/bounty-hunters-on-the-move-bug-bounties-in-the-employment-relationship/)
+* [ASBL and employment](https://pro.guidesocial.be/articles/dossiers-a-la-une/article/les-possibilites-de-remuneration-dans-une-asbl) (FR)
 
 Belgian associations or companies who can provide services like accounting or legal services to AISBLs:
 
@@ -263,4 +301,8 @@ Belgian associations or companies who can provide services like accounting or le
 
 * [Model of procuration](http://www.cost-coa.eu/wp-content/uploads/31_Annex_V_COA.pdf)
 
-      
+* VAT for AISBLs (FR)
+
+* [NACE codes](https://statbel.fgov.be/sites/default/files/Over_Statbel_FR/Nomenclaturen/NACE-BEL%202008_FR.pdf) (FR)
+
+* [Article 44](https://questionfiscale.be/wp-content/uploads/2021/04/Article-44-CTVA.pdf) (FR)
