@@ -26,7 +26,7 @@ The [FPA Handbook](./handbook/index.md) covers our procedures, rules, decisions,
 
 The FreeCAD Project Association is composed of ordinary members, who form the general assembly, and an administrative body,  formed by the chairperson plus any number of other members elected to it. Meetings and votes of the members happen on a dedicated section of the [FreeCAD forum](https://forum.freecad.org).
 
-* [Association members](./handbook/people/roster)
+* [Association members](./handbook/people/roster.md)
 
 ### Contact
 

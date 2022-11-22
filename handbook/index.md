@@ -22,39 +22,39 @@ document is collaboratively maintained by all active FPA members.
 This handbook has several major sections:
 
 ## General
-- [About the FPA](./general/about)
-- [History](./general/history)
-- [Values](./general/values)
-- [Organization](./general/organization)
+- [About the FPA](./general/about.md)
+- [History](./general/history.md)
+- [Values](./general/values.md)
+- [Organization](./general/organization.md)
 
 ## Corporate
-- [AISBL Guide](./corporate/aisbl_guide)
-    - [Rationale for choosing AISBL](./corporate/AISBL/rationale)
-    - [Creation of the FPA](./corporate/AISBL/creation)
-    - [Mandatory Yearly Tasks](./corporate/AISBL/mandatory_tasks)
-    - [Useful Links](./corporate/AISBL/links)
-- [FPA Statutes](./corporate/statutes)
-- [Rules](./process/rules)
-- [Decisions](./process/decisions)
+- [AISBL Guide](./corporate/aisbl_guide.md)
+    - [Rationale for choosing AISBL](./corporate/AISBL/rationale.md)
+    - [Creation of the FPA](./corporate/AISBL/creation.md)
+    - [Mandatory Yearly Tasks](./corporate/AISBL/mandatory_tasks.md)
+    - [Useful Links](./corporate/AISBL/links.md)
+- [FPA Statutes](./corporate/statutes.md)
+- [Rules](./process/rules.md)
+- [Decisions](./process/decisions.md)
 
 ## Process
-- [Conducting a vote](./process/voting)
-- [Issues](./process/issues)
-- [Handbook process](./process/handbook)
+- [Conducting a vote](./process/voting.md)
+- [Issues](./process/issues.md)
+- [Handbook process](./process/handbook.md)
 
 ## Resource access and management
-- [Source code](./process/source_code_access)
-- [Social media](./process/socialmedia)
-- [Forum](./process/forum)
-- [Funds access](./process/fundsaccess)
+- [Source code](./process/source_code_access.md)
+- [Social media](./process/socialmedia.md)
+- [Forum](./process/forum.md)
+- [Funds access](./process/fundsaccess.md)
 
 ## Initiatives
-- [FPA Development Fund](../projects/FPADF/FPADF_Announcement)
-    - [Funded projects](../projects/FPADF/funded_projects)
-- [FOSDEM Travel Grants](../projects/FOSDEM_Travel/FOSDEM_travel_grants)
+- [FPA Development Fund](../projects/FPADF/FPADF_Announcement.md)
+    - [Funded projects](../projects/FPADF/funded_projects.md)
+- [FOSDEM Travel Grants](../projects/FOSDEM_Travel/FOSDEM_travel_grants.md)
 
 ## People
-- [Current Members](./people/roster)
-- [What is Expected of Members](./people/expectations)
-- [Adding Members](./process/member)
-- [Periodic Reconfirmation](./process/reconfirmation)
+- [Current Members](./people/roster.md)
+- [What is Expected of Members](./people/expectations.md)
+- [Adding Members](./process/member.md)
+- [Periodic Reconfirmation](./process/reconfirmation.md)
