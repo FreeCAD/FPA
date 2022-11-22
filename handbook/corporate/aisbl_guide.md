@@ -12,7 +12,7 @@ layout: default
 
 ## Table of Contents
 
-1. [Rationale for choosing AISBL](./AISBL/rationale)
-2. [Creation of the FPA](./AISBL/creation)
-3. [Mandatory Yearly Tasks](./AISBL/mandatory_tasks)
-4. [Useful Links](./AISBL/links)
+1. [Rationale for choosing AISBL](./AISBL/rationale.md)
+2. [Creation of the FPA](./AISBL/creation.md)
+3. [Mandatory Yearly Tasks](./AISBL/mandatory_tasks.md)
+4. [Useful Links](./AISBL/links.md)

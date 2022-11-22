@@ -88,7 +88,7 @@ When the vote has either achieved consensus and passed or been defeated, the per
 
 * Edit the first post and change the poll.  Set the Run Poll to  'Until' and set the end time a minute or two in the future.  Then submit.  Within a minute the poll will expire and the votes will be locked.
 * Remove the 'Sticky' from the topic.
-* Update the [Decisions](../process/decisions) file
-* If the vote added, removed, or otherwise changed FPA membership, update the [roster](../people/roster)
+* Update the [Decisions](../process/decisions.md) file
+* If the vote added, removed, or otherwise changed FPA membership, update the [roster](../people/roster.md)
 * Reply to the topic explaining the outcome.  (eg.  "This vote is passed by consensus"). This last post indicates when the initiative has passed and becomes effective unless the initiative itself contained an effective date.
 * If the vote results in a change (e.g. to spend money, to update membership, etc.), disseminate the final result to the public as transparently as possible. It is not necessary to include the specific poll numbers or who voted for which option, but to the extent possible the final outcome of the vote should be made public.

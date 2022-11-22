@@ -11,7 +11,7 @@ layout: default
 
 ## Overview
 
-The FreeCAD Project Association gives grants to active developers as described in [the announcement of the development fund](./FPADF/FPADF_Announcement).
+The FreeCAD Project Association gives grants to active developers as described in [the announcement of the development fund](./FPADF/FPADF_Announcement.md).
 
 ## Funded Initiatives
 

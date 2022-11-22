@@ -14,14 +14,14 @@ The [FreeCAD project association (FPA)](https://github.com/FreeCAD/FPA) is offer
 
 - Any person listed under “The team” on the FreeCAD forum is eligible automatically.
 - Any person with an approved FreeCAD-related talk at FOSDEM is eligible automatically.
-- Any other FreeCAD community member not fitting in the 
-  above categories may apply for a grant, but only candidates with 
+- Any other FreeCAD community member not fitting in the
+  above categories may apply for a grant, but only candidates with
   significant contributions to FreeCAD will be considered by the FPA. FPA members will decide upon each case individually based on criteria 
   including volume of code contributions as well as duration and extent of
    community participation.
 - Grants will be issued on a first-come, first-served basis.
-- Any person interested must request a grant: no grant 
-  will be awarded automatically. All requests will be considered and must 
+- Any person interested must request a grant: no grant
+  will be awarded automatically. All requests will be considered and must
   be approved by the FPA.
 - Requests must be submitted by sending an email to the FPA at [fpa@freecad.org](mailto:fpa@freecad.org) no later than December 31st, 2022.
 
@@ -31,10 +31,10 @@ The [FreeCAD project association (FPA)](https://github.com/FreeCAD/FPA) is offer
 - Candidates must submit proof of travel expenses to the FPA (e.g. a train or plane ticket) in order to obtain a grant.
 - If travel by train is available„ train should be used preferably instead of plane. The FPA will deliberate over cases that don’t follow this guideline.
 
-**When do I get the money?**  
+**When do I get the money?**
 It might take some time to process payments. We will do our best to process payments as quickly as possible but grant recipients will pay for their ticket upfront and receive reimbursement.  
 
-**How to help**  
+**How to help**
 Even if you can’t attend, you can How to help someone else go. Any donation to the FPA received up to February 3rd, 2023, and labeled or otherwise communicated to the FPA as “FOSDEM travel” will increase the total maximum amount to be spent commensurately.  
 
 Finally, as money is limited and this is the first time such action is organized, we ask potential applicants to be conscious of others’ financial need, and leave as much as possible the money for those who most need it.  

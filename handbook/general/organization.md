@@ -14,7 +14,7 @@ layout: default
 
 ## 1. Form
 
-The FPA is an **international association with non-profit aim**  ([AISBL](../corporate/aisbl_guide)) named: “**The FreeCAD project association**”. This association is ruled by Part III, Book 10 of the Code of Societies and Associations under the Belgian law. It is created for an undefined duration.
+The FPA is an **international association with non-profit aim**  ([AISBL](../corporate/aisbl_guide.md)) named: “**The FreeCAD project association**”. This association is ruled by Part III, Book 10 of the Code of Societies and Associations under the Belgian law. It is created for an undefined duration.
 
 ## 2. location
 
@@ -44,13 +44,13 @@ Members of the administrative handle the day-to-day administrative tasks includi
 - Accounting
 - Annual report
 - Preparation of annual budget
-- Maintaining the [roster](../people/roster)
+- Maintaining the [roster](../people/roster.md)
 - Paying for services
 - Scheduling regular FPA meetings
 - Engaging accoutants, attorneys, or other profesionals
 
 ## Inactive Members
 
-Inactive members are members who were approved by a membership vote but have not recently participated in votes, meetings, or other FPA activities. Members are shifted to Inactive status either by directly requesting such a status change or through a [reconfirmation](../process/reconfirmation). Inactive members are not counted toward a vote quorum.
+Inactive members are members who were approved by a membership vote but have not recently participated in votes, meetings, or other FPA activities. Members are shifted to Inactive status either by directly requesting such a status change or through a [reconfirmation](../process/reconfirmation.md). Inactive members are not counted toward a vote quorum.
 
 Inactive members can become active again by notifying a member of the administrative team. No additional vote is required.

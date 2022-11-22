@@ -40,13 +40,13 @@ The handbook is a section of the FPA repository, which is rendered with Github P
 
 There's a handy page of examples that cover:
 
-- [Cautions](./handbook-examples#cautions)
-- [Highlights](./handbook-examples#highlights)
-- [Blocks, Quotes, Code](./handbook-examples#blocks)
-- [Other Elements](./handbook-examples#other-elements)
-- [Images](./handbook-examples#images)
-- [Lists](./handbook-examples#lists)
-- [Graphs](./handbook-examples#mermaid)
-- [Tables](./handbook-examples#tables)
-- [Foot Notes](./handbook-examples#foot-notes)
-- [Titles](./handbook-examples#titles)
+- [Cautions](./handbook-examples.md#cautions)
+- [Highlights](./handbook-examples.md#highlights)
+- [Blocks, Quotes, Code](./handbook-examples.md#blocks)
+- [Other Elements](./handbook-examples.md#other-elements)
+- [Images](./handbook-examples.md#images)
+- [Lists](./handbook-examples.md#lists)
+- [Graphs](./handbook-examples.md#mermaid)
+- [Tables](./handbook-examples.md#tables)
+- [Foot Notes](./handbook-examples.md#foot-notes)
+- [Titles](./handbook-examples.md#titles)
