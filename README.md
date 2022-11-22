@@ -9,7 +9,7 @@ The **FreeCAD Project association** (FPA) is an international non-profit associa
 
 ### Handbook
 
-The [FPA Handbook](./handbook/index) covers our procedures, rules, decisions, history, values and much more.
+The [FPA Handbook](./handbook/index.md) covers our procedures, rules, decisions, history, values and much more.
 
 
 ### Budget
