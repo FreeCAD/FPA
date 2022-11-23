@@ -1,5 +1,13 @@
-## <img src="images/freecad.svg" style="zoom:50%;" /> FreeCAD Project Association Development Fund
+---
+title: "FPA Development Fund"
+description:
+   "Grants to accelerate FreeCAD Development"
+layout: default
+---
 
+# {{page.title}}
+
+{{page.description}}
 
 #### Announcement - FPA Development Fund
 

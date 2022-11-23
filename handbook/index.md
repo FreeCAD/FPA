@@ -48,10 +48,8 @@ This handbook has several major sections:
 - [Forum](./process/forum.md)
 - [Funds access](./process/fundsaccess.md)
 
-## Initiatives
-- [FPA Development Fund](../projects/FPADF/FPADF_Announcement.md)
-    - [Funded projects](../projects/FPADF/funded_projects.md)
-- [FOSDEM Travel Grants](../projects/FOSDEM_Travel/FOSDEM_travel_grants.md)
+## Programs and Initiatives
+- [How the FPA uses its money](../projects/index.md)
 
 ## People
 - [Current Members](./people/roster.md)
