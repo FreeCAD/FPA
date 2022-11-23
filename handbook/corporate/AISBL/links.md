@@ -29,6 +29,10 @@ General info:
 * [Obligations comptables des ASBL](https://1819.brussels/infotheque/assurances-fiscalite-comptabilite/les-asbl-leurs-obligations-comptables) (FR)
 * [Bounty hunting vs employment](https://pwwl.de/en/bounty-hunters-on-the-move-bug-bounties-in-the-employment-relationship/)
 * [ASBL and employment](https://pro.guidesocial.be/articles/dossiers-a-la-une/article/les-possibilites-de-remuneration-dans-une-asbl) (FR)
+* [CGAP Glossary of French Accounting Terms](https://www.cgap.org/sites/default/files/CGAP-Glossary-English-to-French-Jan-2007.pdf)
+* [PlanComptables French/English, English/French dictionary of accounting terms](https://www.plancomptable.com/en/french-accounting-financial-terms-glossary-vocabulary.htm)
+* [CNC Comptes annuels des ASBL, AISBL et fondations qui tiennent une comptabilité simplifiée](https://www.cnc-cbn.be/fr/node/2143) (FR)
+
 
 Belgian associations or companies who can provide services like accounting or legal services to AISBLs:
 
