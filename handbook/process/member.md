@@ -50,3 +50,4 @@ To add a GA member to the AT:
 * When approved
     * Add to FPA public and private repos
     * Update the roster
+    * If the new member doesn't already have a wordpress.com account, have them create one.  Then add it to the blog.freecad.org account so they can review and edit blog posts.
