@@ -49,7 +49,7 @@ This handbook has several major sections:
 - [Funds access](./process/fundsaccess.md)
 
 ## Programs and Initiatives
-- [How the FPA uses its money](../projects/index.md)
+- [How the FPA uses its money](../programs.md)
 
 ## People
 - [Current Members](./people/roster.md)

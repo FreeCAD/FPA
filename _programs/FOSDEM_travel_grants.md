@@ -1,7 +1,7 @@
 ---
 title: "FOSDEM Travel Grants"
 description:
-   "The [FreeCAD project association (FPA)](https://github.com/FreeCAD/FPA) is offering travel grants to help FreeCAD developers and community members attend [FOSDEM 2023](https://fosdem.org/2023/) in Brussels, Belgium. In addition to the official FOSDEM events on February 4th and 5th, we will be organizing a dedicated [FreeCAD meeting day](https://github.com/FreeCAD/FPA/issues/22) on Friday, February 3rd. Grants are intended to help cover travel expenses and will be awarded based on the following criteria"
+   "Travel grants to help FreeCAD developers and community members attend FOSDEM 2023 in Brussels, Belgium."
 layout: default
 ---
 
@@ -10,6 +10,7 @@ layout: default
 {{page.description}}
 
 
+"The [FreeCAD project association (FPA)](https://github.com/FreeCAD/FPA) is offering travel grants to help FreeCAD developers and community members attend [FOSDEM 2023](https://fosdem.org/2023/) in Brussels, Belgium. In addition to the official FOSDEM events on February 4th and 5th, we will be organizing a dedicated [FreeCAD meeting day](https://github.com/FreeCAD/FPA/issues/22) on Friday, February 3rd. Grants are intended to help cover travel expenses and will be awarded based on the following criteria"
 
 **The Program**
 
