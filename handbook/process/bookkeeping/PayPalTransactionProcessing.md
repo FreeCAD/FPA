@@ -1,6 +1,6 @@
 # Process for posting transactions on the PayPal account to the FPA accounts.
 
-![OpenCollective Processing](/PayPalTransactionProcessing.svg)
+![OpenCollective Processing](./PayPalTransactionProcessing.svg)
 
 ## To obtain a csv file of transactions on the FPA PayPal account:
 * log in to the FPA PayPal account

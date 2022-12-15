@@ -1,6 +1,6 @@
-# Process for posting transactions on Open Collective to the FPA accounts.
+# Process for posting transactions on OpenCollective to the FPA accounts.
 
-![OpenCollective Processing](/OpenCollectiveTransactionProcessing.svg)
+![OpenCollective Processing](./OpenCollectiveTransactionProcessing.svg)
 
 ## To obtain a csv file of transactions on the FPA Open Collective account, 
 * log in to your Open Collective account
