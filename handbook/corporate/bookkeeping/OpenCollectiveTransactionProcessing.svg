@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="6cm" height="18cm" viewBox="463 98 117 345" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 499.525 101 L 533.65,101 C 528.531,109 526.825,113 526.825,121 C 526.825,129 528.531,133 533.65,141 L 499.525,141 C 494.406,133 492.7,129 492.7,121 C 492.7,113 494.406,109 499.525,101z"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="513.175" y="124.881">
+        <tspan x="513.175" y="124.881">csv</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="464.624" y="205" width="114.75" height="38" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="521.999" y="227.881">
+        <tspan x="521.999" y="227.881">splitmaker_OC</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 487.936 300 L 537.373,300 C 529.957,308 527.486,312 527.486,320 C 527.486,328 529.957,332 537.373,340 L 487.936,340 C 480.52,332 478.048,328 478.048,320 C 478.048,312 480.52,308 487.936,300z"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="507.711" y="323.881">
+        <tspan x="507.711" y="323.881">splits</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="486.312" y="401" width="77.375" height="40" rx="0" ry="0"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="494.049" y1="401" x2="494.049" y2="441"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="555.949" y1="401" x2="555.949" y2="441"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="525" y="424.881">
+        <tspan x="525" y="424.881">gnuCash</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="523.124" y1="142.004" x2="522.407" y2="194.299"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="522.304,201.798 517.441,191.73 522.407,194.299 527.44,191.867 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="522.112" y1="243.992" x2="522.368" y2="289.258"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="522.41,296.758 517.354,286.787 522.368,289.258 527.354,286.73 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="523.052" y1="340.959" x2="524.253" y2="390.307"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="524.435,397.805 519.193,387.93 524.253,390.307 529.19,387.686 "/>
+    </g>
+  </g>
+</svg>
