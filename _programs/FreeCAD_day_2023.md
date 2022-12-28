@@ -1,7 +1,7 @@
 ---
 title: "FreeCAD meeting day 2023"
 description:
-   "A meeting of FreeCAd developers and users in 2023 in Brussels, Belgium."
+   "A meeting of FreeCAD developers and users in 2023 in Brussels, Belgium."
 layout: default
 ---
 
