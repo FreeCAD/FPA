@@ -1,6 +1,6 @@
 # Process for posting transactions on the BNP bank account to the FPA accounts.
 
-![BNP Processing](/BNPTransactionProcessing.svg)
+![BNP Processing](./BNPTransactionProcessing.svg)
 
 ## A csv file of transactions on the BNP account can be obtained from [Yorik] on request.  This file must be split into various types of transactions for posting:
 * donations in (direct and Github), 

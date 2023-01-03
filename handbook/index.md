@@ -41,6 +41,7 @@ This handbook has several major sections:
 - [Conducting a vote](./process/voting.md)
 - [Issues](./process/issues.md)
 - [Handbook process](./process/handbook.md)
+- [Bookkeeping](./process/bookkeeping/overview.md)
 
 ## Resource access and management
 - [Source code](./process/source_code_access.md)
