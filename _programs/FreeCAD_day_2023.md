@@ -57,4 +57,6 @@ The [Brussels hackerspace](https://hsbxl.be) organizes a [byteweek](https://hsbx
 
 We look forward to meeting you in Brussels!
 
+[Add to calendar](../freecad_events.ics)
+
 **added on 2022.12.28**
