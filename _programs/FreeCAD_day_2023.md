@@ -53,7 +53,7 @@ For who will already be in Brussels the night before, we plan to meet for food a
 
 **HSBXL byteweek**
 
-The [Brussels hackerspace](https://hsbxl.be) organizes a [byteweek](https://hsbxl.be/events/byteweek/2023/) during the week prior to the FOSDEM. FreeCAD will participate during one of these days (to be decided), so we'll spend a day coding there. Feel free to join!
+The [Brussels hackerspace](https://hsbxl.be) organizes a [byteweek](https://hsbxl.be/events/byteweek/2023/) during the week prior to the FOSDEM. FreeCAD will participate on [Thursday, February 2nd, from 10AM to 6PM](https://hsbxl.be/events/byteweek/2023/2023-02-02/), and several developers will spend a day coding there. Feel free to join!
 
 We look forward to meeting you in Brussels!
 
