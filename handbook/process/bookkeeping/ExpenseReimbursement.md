@@ -25,5 +25,12 @@ and paid.  The receipient, an invoice should be created, posted and
 paid. The payment should be charged back to **Dettes à l'égard des membres** and offset against
 the appropriate **Valeurs disponibles** subaccount.
 
-
+## Paying from BountySource
+To pay an expense claim from the FPA BountySource account:
+* create an issue for the expense in the FPA Github repo. 
+* post a bounty on BountySource
+* close the issue on Github
+* have the member claim the bounty on BountySource
+* approve the member's claim on BountySource
+* BountySource will transfer the money to the member.
 
