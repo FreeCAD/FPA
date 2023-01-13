@@ -71,7 +71,7 @@ with open(inputFileName) as csvIn:
         baseAmount = float(convertValue(line[iValue]))
         if baseAmount < 0:
             # withdrawals require manual handling to avoid duplication with BNP transactions
-            print("record: {0} amount: (1} requires manual handling".format(recordsIn, baseAmount))
+            print("record: {0} amount: {1} requires manual handling".format(recordsIn, baseAmount))
             recordsIn += 1
             continue
         
