@@ -9,10 +9,11 @@ import csv
 import sys
 import random
 
-iDate = 0
-iDesc = 3
-iValue = 10
+iDate = 1
+iDesc = 7
+iValue = 4
 iFee1 = 11
+iFee2 = 12
 
 inputFileName = "inTXOC.csv"
 outputFileName = "outTxOC.csv"
@@ -61,6 +62,8 @@ with open(inputFileName) as csvIn:
         feeAmount = baseValue * serviceRate   #USD
         if len(line) > iFee1:
             feeAmount = abs(float(line[iFee1]))
+        if len(line) > iFee2:
+            feeAmount += abs(float(line[iFee2]))
         netValue = baseValue - feeAmount      #USD
         row = [""] + [""] + [""] + [feeAccount] + [feeAmount] + [txCounterStart + recordsIn] #USD
         csvWriter.writerow(row)

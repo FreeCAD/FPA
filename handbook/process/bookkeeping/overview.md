@@ -30,6 +30,10 @@ A number of Python scripts that reduce manual data entry are available in the [F
 ## Making Payments
 
 How to spend the FPA's money.
-- [FPADF Grants](FPADFGrants.md)
-- [Expense Reimbursement](ExpenseReimbursement.md)
+- [FPADF Grants](./FPADFGrants.md)
+- [Expense Reimbursement](./ExpenseReimbursement.md)
+- [OpenCollective Payouts](./OpenCollectivePayouts.md)
+- [BountySource Payouts](./BountySourcePayouts.md)
+- [PayPal Payouts](./PayPalPayouts.md)
+- [BNP Payouts](./BNPPayouts.md)
 

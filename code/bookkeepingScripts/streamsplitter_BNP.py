@@ -6,7 +6,7 @@
 #             2) csv of withdrawal tx for manual handling
 # NOTE: BNP tx are completely in EUR
 # usage: python3 streamsplitter_BNP.py inputFile.csv donationFile.csv transferFile.csv withdrawalFile.csv
-#        python3 streamsplitter_BNP.py BNP_Misc_testTXIN.csv BNP_Misc_testDonationTXOUT.csv BNP_Misc_testTransferTXOUT.csv BNP_Misc_testWithdrawalTXOUT.csv
+#        python3 streamsplitter_BNP.py BNP_Misc_testTXIN.csv BNP_Misc_testDonationTXOUT.csv BNP_Misc_testPPTXOUT.csv BNP_Misc_testManualTXOUT.csv
 import csv
 import sys
 import random
