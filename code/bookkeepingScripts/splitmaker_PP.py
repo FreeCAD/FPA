@@ -28,6 +28,7 @@ def convertValue(inValue):
 
 iDate = 0
 iDesc = 3
+iType = 4
 iValue = 7
 iFee = 8
 
@@ -52,7 +53,8 @@ tradingInAccount = "Trading:CURRENCY:USD"
 tradingOutAccount = "Trading:CURRENCY:EUR"
 feeAccount = "Depenses:Autres dépenses:Fees and Commissions:PayPal Cashout"
 commodityString = "CURRENCY::USD"
-conversionRate = 0.9665    # this has to match the price in gnuCash Price db
+exceptionString = "General Currency Conversion"
+conversionRate = 0.9232    # this has to match the price in gnuCash Price db
 serviceRate = 0.094        # this is an approximation for when the input doesn't include fees
 reverseValue = -1.0
 txCounterStart = random.randint(9000, 10000)
@@ -75,6 +77,13 @@ with open(inputFileName) as csvIn:
             recordsIn += 1
             continue
         
+        if line[iType] == exceptionString:
+            # multi currency transactions have an extra record in the csv file from PayPal that we need to ignore
+            # these may be filtered out in the previous check for withdrawals
+            print("record: {0} amount: {1} type: {2} is ignored".format(recordsIn, baseAmount, line[iType]))
+            recordsIn += 1
+            continue
+            
         #line 1 - basic transaction USD
         reversedValue = baseAmount * reverseValue
         row = [date] + [commodityString] + [line[iDesc]]+ [inAccount] + [reversedValue] + [txCounterStart + recordsIn]
