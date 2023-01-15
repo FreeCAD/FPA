@@ -10,6 +10,9 @@ To do this, the payee should have both an OpenCollective account and a PayPal ac
 
 Amounts are paid out via PayPal or wire transfer (using WISE - www.wise.com).
 
+OpenCollective collects it's fees at donation time, so no fee needs to be added to the
+payout amount.
+
 ## An example:
 
 Jane Author submits a blog article that is accepted for publication.  Jane is now
