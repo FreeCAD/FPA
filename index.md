@@ -35,7 +35,7 @@ The FreeCAD Project Association is composed of ordinary members, who form the ge
 
 ### Contact
 
-All members can be contacted individually by sending them a private message on the [FreeCAD forum](https://forum.freecad.org). The contact link to each member can be found on the [association members](roster.md) list. The administration board can also be contacted via the [fpa@freecad.org](mailto:fpa@freecad.org) email address. 
+All members can be contacted individually by sending them a private message on the [FreeCAD forum](https://forum.freecad.org). The contact link to each member can be found on the [association members](./handbook/people/roster.md) list. The administration board can also be contacted via the [fpa@freecad.org](mailto:fpa@freecad.org) email address.
 
 ### Donations
 
