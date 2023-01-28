@@ -1,12 +1,12 @@
 #!/usr/bin/python3
 
 # input csv of BNP primary transactions and output 
-#             1) csv of donation tx to feed splitmaker_BNPDon.py
-#             2) csv of PayPal tx to feed splitmaker_BNPPP.py
+#             1) csv of non-Paypal deposits tx to feed splitmaker_BNPDon.py
+#             2) csv of PayPal transfer tx to feed splitmaker_BNPPP.py
 #             2) csv of withdrawal tx for manual handling
 # NOTE: BNP tx are completely in EUR
-# usage: python3 streamsplitter_BNP.py inputFile.csv donationFile.csv transferFile.csv withdrawalFile.csv
-#        python3 streamsplitter_BNP.py BNP_Misc_testTXIN.csv BNP_Misc_testDonationTXOUT.csv BNP_Misc_testPPTXOUT.csv BNP_Misc_testManualTXOUT.csv
+# usage: python3 streamsplitter_BNP.py inputFile.csv deposits.csv pptransfers.csv withdrawals.csv
+
 import csv
 import sys
 import random
@@ -29,13 +29,14 @@ iDesc = 8  #Nom de la contrepartie
 iValue = 3
 iType = 6  #Type de transaction
 bankFeeString = "Coûts opérations diverses"
-paypalToken = "PayPal"
+paypalTokenMixed = "PayPal"
+paypalTokenCaps = "PAYPAL"
 txCounterStart = random.randint(1000, 5000)
 
 inputFileName = "inTxBNP.csv"
-outputDonationFileName = "outTxBNPDonation.csv"
-outputPayPalTransferFileName = "outTxBNPPayPalTransfer.csv"
-outputWithdrawalFileName = "outTxBNPWithdrawal.csv"
+outputDonationFileName = "BNPDepositToSplit.csv"
+outputPayPalTransferFileName = "BNPPayPalToSplit.csv"
+outputWithdrawalFileName = "BNPManualToSplit.csv"
 
 if len(sys.argv) < 5:
     print("streamsplitter_BNP: files not specified, using defaults")
@@ -45,8 +46,8 @@ else:
     outputPayPalTransferFileName = sys.argv[3]
     outputWithdrawalFileName = sys.argv[4]
     print("streamsplitter_BNP input file: {0}".format(inputFileName))
-    print("streamsplitter_BNP donation output file: {0}".format(outputDonationFileName))
-    print("streamsplitter_BNP transfer output file: {0}".format(outputPayPalTransferFileName))
+    print("streamsplitter_BNP non-paypal deposit output file: {0}".format(outputDonationFileName))
+    print("streamsplitter_BNP paypal transfer output file: {0}".format(outputPayPalTransferFileName))
     print("streamsplitter_BNP withdrawal output file: {0}".format(outputWithdrawalFileName))
 
 recordsIn = 0
@@ -60,6 +61,7 @@ csvOutWithdrawal = open(outputWithdrawalFileName, 'w', newline='')
 csvWriterDeposit = csv.writer(csvOutDeposit, delimiter=',')
 csvWriterTransfer = csv.writer(csvOutTransfer, delimiter=',')
 csvWriterWithdrawal = csv.writer(csvOutWithdrawal, delimiter=',')
+
 with open(inputFileName) as csvIn:
     csvReader = csv.reader(csvIn, delimiter=',')
     for line in csvReader:
@@ -72,7 +74,8 @@ with open(inputFileName) as csvIn:
         formattedDate = convertDate(line[iDate])
         txNumber = txCounterStart + recordsIn
         if amount >= 0.0 :
-            if paypalToken in line[iDesc]:
+            # PayPal transactions are sometimes "PayPal" and sometimes "PAYPAL"
+            if paypalTokenMixed in line[iDesc] or paypalTokenCaps in line[iDesc]:
                 row = [formattedDate] + [line[iDesc]] + [line[iValue]] + [line[iType]] + [txNumber]
                 csvWriterTransfer.writerow(row)
                 recordsOutTransfer += 1
