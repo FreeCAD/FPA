@@ -40,13 +40,11 @@ with open(inputFileName) as csvIn:
     for line in csvReader:
         #line 1 - basic transaction EUR in to BNP
         baseAmount = float(line[iValue])
-        print("base transaction amount: {0}".format(baseAmount))
         reversedAmount = baseAmount * reverseValue
         row = [line[iDate]] + [commodityString] + [line[iDesc]]+ [inAccount] + [baseAmount] + [line[iTxNumber]]
         csvWriter.writerow(row)
 
         #line 2 - net to offset account (PayPal balance) EUR
-        print("line 2 transfer: {0}".format(reversedAmount))
         row = [""] + [""] + [""] + [offsetAccount] + [reversedAmount] + [line[iTxNumber]]
         csvWriter.writerow(row)
         recordsIn += 1

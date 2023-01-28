@@ -47,13 +47,11 @@ with open(inputFileName) as csvIn:
 
         #line 1 - basic transaction EUR out
         baseValue = float(line[iValue])
-        print("base transaction amount: {0}".format(baseValue))
         reversedValue = baseValue * reverseValue
         row = [line[iDate]] + [commodityString] + [line[iType]]+ [outAccount] + [baseValue] + [line[iTxNumber]]
         csvWriter.writerow(row)
 
         #line 2 - net to offset account (BNP Fees) EUR
-        print("line 2 offset: {0}".format(reversedValue))
         row = [""] + [""] + [""] + [offsetAccount] + [reversedValue] + [line[iTxNumber]]
         csvWriter.writerow(row)
 

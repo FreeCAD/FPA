@@ -12,16 +12,32 @@
 * click "All Reports"
 * select the csv file from the list of available downloads
 
-## To build the double entry transactions for PayPal to be imported into gnuCash, use a splitmaker script:
-    python3 splitmaker_PP.py PayPal.csv PayPal_TXIMPORT.csv
+## To build the double entry transactions for PayPal to be imported into gnuCash
 
-### Sample Output
-    splitmaker_PP input file: PP_test_transactions.csv
-    splitmaker_PP output file: PayPal_TXIMPORT.csv
-    splitmaker_PP records in: 10
-    splitmaker_PP records out: 45
+### First, use the streamsplitter script:
+    python3 streamsplitter_PP.py PayPal.csv PayPal_Constributions.csv PayPal_Transfers.csv  PayPal_Manuals.csv
 
+This will produce three csv files from the input:
+* contribution (donation) transactions,
+* transfer transactions, and,
+* transactions requiring manual intervention, which may include: 
+    * disputed items
+    * reversals
+    * anything else that the streamsplitter can not categorize.
+
+### Second, use the splitmaker scripts:
+    python3 splitmaker_PPContrib.py PayPal_Constributions.csv PayPal_ContributionSplits.csv
+    python3 splitmaker_PPTransfer.py PayPal_Transfers.csv PayPal_TransferSplits.csv
 
 The splitmaker scripts produce multiple line items for each transaction input.  Each line represents a change to a
 single account (PayPal balance, fees expense, currency conversion, etc).  These lines are called "splits" by gnuCash.
+
+The output from the splitmakers can be imported into gnuCash.
+
+### Third, handle the exceptions:
+The streamsplitter will report on any transactions that can not be identified as a contribution or a transfer.  These 
+must be handled on a case by case basis.
+
+The splitmakers will report on any input that can not be handled.  These transactions must be 
+addressed on a case by case basis.
 

@@ -41,12 +41,10 @@ with open(inputFileName) as csvIn:
         #line 1 - basic transaction EUR in
         baseAmount = float(line[iValue])
         reversedValue = baseAmount * reverseValue
-        print("record {0} line 1 base transaction value: {1}".format(recordsIn, reversedValue))
         row = [line[iDate]] + [commodityString] + [line[iDesc]]+ [inAccount] + [reversedValue] + [line[iTxNumber]]
         csvWriter.writerow(row)
 
         #line 2 - net to offset account (BNP Balance) EUR
-        print("record {0} line 2 transfer: {1}".format(recordsIn, baseAmount))
         row = [""] + [""] + [""] + [offsetAccount] + [baseAmount] + [line[iTxNumber]]
         csvWriter.writerow(row)
         recordsIn += 1
