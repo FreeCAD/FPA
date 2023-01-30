@@ -14,8 +14,8 @@ Any contributor thinking his contribution might be specific enough or touching d
 
 ### Handing copyright over to the FPA
 
-Would a contributor decide to transfer their copyright to the FPA, the method to follow is simple, and no approval or requirement needs to be made against the FPA.
-One only needs to amend (in case the contributor's name and email is already mentioned) or add (in case it is not), the copyright line found in every file's copyright header. For example:
+Should a contributor decide to transfer their copyright to the FPA, the method to follow is simple, and no approval or requirement needs to be made against the FPA.
+They only need to amend (in case the contributor's name and email is already mentioned) or add (in case it is not), the copyright line found in every file's copyright header. For example:
 
 ```
 Copyright (c) 2004 John Doe <john@doe.com>
