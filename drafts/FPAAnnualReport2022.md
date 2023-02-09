@@ -87,18 +87,31 @@ In 2022, the FPA received donations in excess of **USD 50 000**, an amount that 
 
 In 2022, bookkeeping for the FPA was done in [simple table form](https://fpa.freecad.org/reports/2022). Starting in 2023, bookkeeping will be done in a more complete, double-entry system based on the open-source [GnuCash](https://gnucash.org/) application. Monthly reports will still be issued by the administration team.
 
-* graphic: month by month, by platform
-![month by month, by platform](./DonationsByPlatform.png)
+The FPA is funded by donations from individuals and corporations.  We use four main platforms to collect donations:
+* direct deposits to our bank account
+* transfers to our PayPal account
+* Github donations
+* donations via Open Collective.
 
-* graphic: individuals vs companies
+The FPA also maintains a BountySource account, but there is little activity on this account.
 
-* graphic: one-time versus recurring
+The following charts illustrate that the vast majority of FPA funding comes from small donations by individuals.  Less than 5% of our supporters made more than 1 donation in 2022.
 
-* graphic: donations by amount
+
+
+![Donations by Funding Platform](./DonationsByPlatform.png)
+
+![Corporate vs Individual Donations](./PrivateVsCorporate.png)
+
+![Donation Size](./DonationSizeDistribution.png)
+
+![Multiple Donation Distribution](./MultipleDonations.png)
+
 
 The FPA engaged in a few recurring engagements in 2022, namely subscriptions to services and platforms.
 
 * table: recurring payments
+* ??WF: the only recurring payment I know of is $10/month to codeberg.  Everything else is paid by the year, no?
 
 ### Debts
 
@@ -119,5 +132,15 @@ The FPA owns the [freecad.org](https://freecad.org) domain and and a [trademark]
 
 ### 2023 Budget Estimate
 
+A full description of the FPA's plan for 2023 is available here: << insert link >>.  Some highlights from that document are provided here:
+
 * Income
+    * We expect our 2023 income to be slightly higher than 2022, since we will be receiving donations for a full 12 months.  If corporate sponsorship increases, our income could go up significantly.
 * Expenses
+    * We expect to spend much more of our income in 2023 and to spend much of our existing funds:
+        * FPADF - EUR 50,000
+        * Event support - EUR 10,000
+        * Reserve fund - EUR 20,000
+        * Infrastructure - EUR 5,000
+    
+
