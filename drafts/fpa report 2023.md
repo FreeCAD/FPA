@@ -14,6 +14,7 @@ The administrators and members of the FPA would like to thank all of you who put
 
 ## 2022 Highlights
 
+
 ### Initial setup of the FPA
 
 The FPA was formally created in November 2021 as a Belgium-based [AISBL](https://justice.belgium.be/fr/themes_et_dossiers/societes_associations_et_fondations/associations/aisbl) (international non-profit association)  It began operation in February 2022. The initial setup involved writing the association [statutes](https://fpa.freecad.org/handbook/corporate/statutes.html) and obtaining a [royal decree](https://fpa.freecad.org/royal_decree.pdf) that gave official birth to the association. The association was then [registered](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807) and a bank account was opened. Accounts on different donation platforms where then also created, and the [FreeCAD website](https://freecad.org) was updated to inform users of the new donation possibilities.
@@ -28,7 +29,6 @@ The [FPA Development Fund](https://fpa.freecad.org/programs/fpadf-announcement) 
 
 ### The FreeCAD Blog
 
-A blog section   The FPA provides a grant of USD 100 for original blog articles. 
 An [official FreeCAD blog](https://blog.freecad.org) was added to the main FreeCAD website in 2022. The blog provides insight into FreeCAD development, information about how people use FreeCAD and reaches community members beyond the [FreeCAD forum](https://forum.freecad.org).  A [grant program](https://fpa.freecad.org/programs/blog-content) for blog content was established in late 2022.  Community members can receive a small grant for creating original blog content
 
 
@@ -58,6 +58,8 @@ The FPA administration team, expanded to 4 members in 2022, is now working at fu
 
 ## Plans for 2023
 
+We expect 2023 to be even busier than 2022.  Some of the things we hope to accomplish in 2023 are:
+
 * Enable the FPA to engage in commercial operations and deduct VAT
 
 * Hire an accountant to handle Belgian reporting requirements, such as tax returns
@@ -66,7 +68,7 @@ The FPA administration team, expanded to 4 members in 2022, is now working at fu
 
 * Expand the FPADF grant program (2000? 2500?)
 
-* Larger grants system where WE propose tasks (5000?) à la GSOC
+* An expanded grants system for tasks proposed by the community, along the lines of the Google Summer of Code (GSOC) program
 
 * Fund other specific projects (open contents, documentation...)
 
@@ -86,6 +88,7 @@ In 2022, the FPA received donations in excess of **USD 50 000**, an amount that 
 In 2022, bookkeeping for the FPA was done in [simple table form](https://fpa.freecad.org/reports/2022). Starting in 2023, bookkeeping will be done in a more complete, double-entry system based on the open-source [GnuCash](https://gnucash.org/) application. Monthly reports will still be issued by the administration team.
 
 * graphic: month by month, by platform
+![month by month, by platform](./DonationsByPlatform.png)
 
 * graphic: individuals vs companies
 
