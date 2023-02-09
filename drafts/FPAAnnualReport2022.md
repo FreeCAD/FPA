@@ -24,7 +24,7 @@ Everything we learned about setting up and running an AISBL has been [documented
 
 ### FPA Development Fund
 
-The [FPA Development Fund](https://fpa.freecad.org/programs/fpadf-announcement) was established and made its first grant in September 2022. The fund provides grants to developers for work on the FreeCAD code base. A total of USD 2385,78 was awarded in 2022.
+The [FPA Development Fund](https://fpa.freecad.org/programs/fpadf-announcement) was established and made its first grant in September 2022. The fund provides grants to developers for work on the FreeCAD code base. Almost €2,500 was awarded in 2022.
 
 
 ### The FreeCAD Blog
@@ -64,9 +64,9 @@ We expect 2023 to be even busier than 2022.  Some of the things we hope to accom
 
 * Hire an accountant to handle Belgian reporting requirements, such as tax returns
 
-* Based on 2022 donations, our expected income is USD 75000
+* Based on 2022 donations, our expected income is €75,000
 
-* Expand the FPADF grant program to a larger dollar amount (2000? 2500?)
+* Expand the FPADF grant program to a larger amount (€2,000 or €2,500)
 
 * An expanded grants system for tasks proposed by the community, modelled on the Google Summer of Code (GSOC) program
 
@@ -83,7 +83,7 @@ We expect 2023 to be even busier than 2022.  Some of the things we hope to accom
 
 ## Financial Report
 
-In 2022, the FPA received donations in excess of **USD 50 000**, an amount that far exceeds our [expectations](https://fpa.freecad.org/budgets/2022.html). The donations came almost entirely from individuals, but a few companies also contributed. Most of our donations are small (~USD 5) one-time contributions.  A number of supporters have arranged for recurring donations, amounting to about **USD 600** per month.
+In 2022, the FPA received donations in excess of **€50,000**, an amount that far exceeds our [expectations](https://fpa.freecad.org/budgets/2022.html). The donations came almost entirely from individuals, but a few companies also contributed. Most of our donations are small (~€5) one-time contributions.  A number of supporters have arranged for recurring donations, amounting to about **€500** per month.
 
 In 2022, bookkeeping for the FPA was done in [simple table form](https://fpa.freecad.org/reports/2022). Starting in 2023, bookkeeping will be done in a more complete, double-entry system using the open-source [GnuCash](https://gnucash.org/) application. Monthly reports will continue to be issued by the administration team.
 
@@ -111,7 +111,7 @@ The following charts illustrate that the vast majority of FPA funding comes from
 The FPA engaged in a few recurring engagements in 2022, namely subscriptions to services and platforms.
 
 * table: recurring payments
-* ??WF: the only recurring payment I know of is $10/month to codeberg.  Everything else is paid by the year, no?
+* ??WF: the only recurring payment I know of is USD10/month to codeberg.  Everything else is paid by the year, no?
 
 ### Debts
 
@@ -138,9 +138,9 @@ A full description of the FPA's plan for 2023 is available here: << insert link 
     * We expect our 2023 income to be slightly higher than 2022, since we will be receiving donations for a full 12 months.  If corporate sponsorship increases, our income could go up significantly.
 * Expenses
     * We expect to spend much more of our income in 2023 and to spend much of our existing funds:
-        * FPADF - EUR 50,000
-        * Event support - EUR 10,000
-        * Reserve fund - EUR 20,000
-        * Infrastructure - EUR 5,000
+        * FPADF - €50,000
+        * Event support - €10,000
+        * Reserve fund - €20,000
+        * Infrastructure - €5,000
     
 
