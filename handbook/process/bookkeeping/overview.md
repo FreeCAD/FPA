@@ -37,3 +37,5 @@ How to spend the FPA's money.
 - [PayPal Payouts](./PayPalPayouts.md)
 - [BNP Payouts](./BNPPayouts.md)
 
+## Miscellaneous
+- [Converting gnuCash Html to Github markdown](./gnuCashToGithubMarkdown.md)
