@@ -54,11 +54,11 @@ We expect 2023 to be even busier than 2022.  Some of the things we hope to accom
 
 * **Enable the FPA to engage in commercial operations** and deduct VAT. The FPA has up to now been exempt from VAT registration, because it operates only on donations. In 2023, we want to enable the FPA to sign contracts and sell services, so it can act as an intermediary and make it easier for companies to contract FreeCAD developers. The VAT registration will enable the FPA to do so, and provide it with a VAT number, which allows it to pay less taxes when buying services and products in the EU.
 
-* **Hire an accountant** to handle Belgian reporting requirements, such as tax returns and VAT handling. Up to now, the FPA members have done all the accounting tasks themselves. Hiring an external accountant, however, will guarantee that the FPA does no accounting or tax errors, and will allow the FPA to keep functioning even in case of large changes among FPA members.
+* **Hire an accountant** to handle Belgian reporting requirements, such as tax returns and VAT handling. Up to now, the FPA members have done all the accounting tasks themselves. Hiring an external accountant, however, will help to ensure that the FPA makes no accounting or tax errors, and will allow the FPA to keep functioning even in case of large changes among FPA members.
 
-* Based on 2022 donations and recent trends, **our expected income in 2023 is around €75,000**. A more detailed analysis is available below. A stable income will allow the FPA to launch more ambitious programs, and to engage into more recurring expenses and provide developers more stability.
+* Based on 2022 donations and recent trends, **our expected income in 2023 is around €75,000**. A more detailed analysis is available below. A stable income will allow the FPA to launch more ambitious programs, take on more recurring expenses and provide developers more stability.
 
-* **Expand the FPADF grant program** to a larger amount (€2,000 or €2,500). The [FPA's development fund program](https://fpa.freecad.org/programs/fpadf-announcement) has already distributed a few grants in 2022, but not as many as we would have liked. The good financial situation of the FPA will allow us to rise the stakes, and make it more worth for developers to dedicate their time to work on FreeCAD. 
+* **Expand the FPADF grant program** to a larger amount (€2,000 or €2,500). The [FPA's development fund program](https://fpa.freecad.org/programs/fpadf-announcement) has already distributed a few grants in 2022, but not as many as we would have liked. The good financial situation of the FPA will allow us to offer larger grants in order to attract more developers to the program.
 
 * An **expanded grants system** for tasks proposed by the community, modelled on the Google Summer of Code (GSOC) program. Side by side with the FPADF program, the FPA wishes to launch a different kind of funding program for tasks that the FPA or the FreeCAD community finds necessary, and that the FPA could help "make happen". This should work on a similar model as the GSOC program, where students and other developers from outside the FreeCAD community are invited to work on an issue, and are funded by the FPA and mentored by the FreeCAD community.
 
@@ -66,7 +66,7 @@ We expect 2023 to be even busier than 2022.  Some of the things we hope to accom
 
 * **Establish a reserve fund** to protect against unplanned expenses.
 
-* Expand FPA to **FreeCAD communities outside the forum**. The [FreeCAD forum](https://forum.freecad.org) has been since ever the main place where the FreeCAD community meets, discusses issues and builds FreeCAD. More and more, however, these activities happen outside the forum, for example directly on GitHub, or in Reddit or Facebook communities. In 2023, the FPA will try to reach better to these other communities, and make their contribution to the FreeCAD universe more visible and accessible.
+* Expand FPA to **FreeCAD communities outside the forum**. The [FreeCAD forum](https://forum.freecad.org) has been the place where the FreeCAD community meets, discusses issues and builds FreeCAD. More and more, however, these activities happen outside the forum, for example directly on GitHub, or in Reddit or Facebook communities. In 2023, the FPA will work to improve its outreach to these other communities, and make their contribution to the FreeCAD universe more visible and accessible.
 
 ## Financial Report
 
@@ -114,10 +114,9 @@ The FPA owns the [freecad.org](https://freecad.org) domain and and a [trademark]
 
 ### 2023 Budget Estimate
 
-A full description of the FPA's plan for 2023 is available here: << insert link >>.  Some highlights from that document are provided here:
-
 * Income
   * We expect our 2023 income to be slightly higher than 2022, since we will be receiving donations for a full 12 months.  If corporate sponsorship increases, our income could go up significantly.
+
 * Expenses
   * We expect to spend much more of our income in 2023 and to spend much of our existing funds:
     * FPADF - €50,000
