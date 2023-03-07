@@ -68,6 +68,9 @@ We expect 2023 to be even busier than 2022.  Some of the things we hope to accom
 
 * Expand FPA to **FreeCAD communities outside the forum**. The [FreeCAD forum](https://forum.freecad.org) has been the place where the FreeCAD community meets, discusses issues and builds FreeCAD. More and more, however, these activities happen outside the forum, for example directly on GitHub, or in Reddit or Facebook communities. In 2023, the FPA will work to improve its outreach to these other communities, and make their contribution to the FreeCAD universe more visible and accessible.
 
+* **Planned Development**  The FPA wants to encourage a planned approach to development.  We will be facilitating virtual and in-person meetups, such as quarterly developer meetups to review and coordinate development activity.  We will also be encouraging the creation of workbench and core roadmaps and a means of making those roadmaps widely visible.
+
+
 ## Financial Report
 
 In 2022, the FPA received donations in excess of **€50,000**, an amount that far exceeds our [expectations](https://fpa.freecad.org/budgets/2022.html). The donations came almost entirely from individuals, but a few companies also contributed. Most of our donations are small (~€5) one-time contributions.  A number of supporters have arranged for recurring donations, amounting to about **€500** per month.
@@ -93,10 +96,6 @@ The following charts illustrate that the vast majority of FPA funding comes from
 
 ![Multiple Donation Distribution](./MultipleDonations.png)
 
-The FPA engaged in a few recurring engagements in 2022, namely subscriptions to services and platforms.
-
-* table: recurring payments
-* ??WF: the only recurring payment I know of is USD10/month to codeberg.  Everything else is paid by the year, no?
 
 ### Debts
 
