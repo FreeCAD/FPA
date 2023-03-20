@@ -1,4 +1,15 @@
-# FreeCAD Project Association 2022 Annual Report
+---
+name:  2022 Annual report and 2023 plans
+date: 2023-03-20
+title: 2022 Annual report and 2023 plans
+description: Report of the 2022 activities of the FPA and plans for 2023
+layout: default
+---
+
+# {{page.title}}
+
+{{page.description}}
+
 
 ## Message from the chair
 
@@ -70,7 +81,6 @@ We expect 2023 to be even busier than 2022.  Some of the things we hope to accom
 
 * **Planned Development**  The FPA wants to encourage a planned approach to development.  We will be facilitating virtual and in-person meetups, such as quarterly developer meetups to review and coordinate development activity.  We will also be encouraging the creation of workbench and core roadmaps and a means of making those roadmaps widely visible.
 
-
 ## Financial Report
 
 In 2022, the FPA received donations in excess of **€50,000**, an amount that far exceeds our [expectations](https://fpa.freecad.org/budgets/2022.html). The donations came almost entirely from individuals, but a few companies also contributed. Most of our donations are small (~€5) one-time contributions.  A number of supporters have arranged for recurring donations, amounting to about **€500** per month.
@@ -96,7 +106,6 @@ The following charts illustrate that the vast majority of FPA funding comes from
 
 ![Multiple Donation Distribution](./MultipleDonations.png)
 
-
 ### Debts
 
 By the end of 2022, all debts related to the setup of the association were settled, and the FPA in now completely debt free.
@@ -114,9 +123,11 @@ The FPA owns the [freecad.org](https://freecad.org) domain and and a [trademark]
 ### 2023 Budget Estimate
 
 * Income
+  
   * We expect our 2023 income to be slightly higher than 2022, since we will be receiving donations for a full 12 months.  If corporate sponsorship increases, our income could go up significantly.
 
 * Expenses
+  
   * We expect to spend much more of our income in 2023 and to spend much of our existing funds:
     * FPADF - €50,000
     * Event support - €10,000

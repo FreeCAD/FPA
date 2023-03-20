@@ -15,11 +15,12 @@ The [FPA Handbook](./handbook/index.md) covers our procedures, rules, decisions,
 ### Budget
 
 * [2022](budgets/2022.md)
+* [2023](reports/2022-annual)
 
 ### Reports
 
 * [2021](reports/2021)
-* [2022](reports/2022)
+* [2022](reports/2022) and [annual report](reports/2022-annual)
 * [2023](reports/2023)
 
 ### Programs & Initiatives
