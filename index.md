@@ -20,7 +20,7 @@ The [FPA Handbook](./handbook/index.md) covers our procedures, rules, decisions,
 ### Reports
 
 * 2021: [accounting](reports/2021)
-* 2022: [accounting](reports/2022/accounting.md) and [yearly report](reports/2022/yearly)
+* 2022: [accounting](_reports/2022/accounting.md) and [yearly report](reports/2022/yearly)
 * 2023: [accounting](reports/2023)
 
 ### Programs & Initiatives
