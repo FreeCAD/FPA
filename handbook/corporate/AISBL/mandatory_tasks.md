@@ -67,7 +67,9 @@ The form this report must be made and filed depends on the size of the associati
 * micro and small associations must use **double-entry accounting** and submit their report to the **national bank of Belgium**.
 * large associations must also use double-entry accounting, use an extended report system and submit it to the national bank of Belgium.
 
-This must be done maximum **one month after the annual general assembly meeting**.
+The simplified report must contain [name of the association, juridic form, address, entreprise number and year](https://tcfb.be/associations-et-fondations-bilans-comptes-annuels/) and tables for income, spending, assets and debts. See [model here](https://www.associatiffinancier.be/COMPTA/La%20nouvelle%20compta%20des%20petites%20asbl.pdf) (last page). The report must be delivered physically in two signed copies at the [Greffe du Tribunal de l'entreprise](https://tcfb.be/greffe/)
+
+This must be done maximum **one month after the annual general assembly meeting**
 
 #### Budget
 
