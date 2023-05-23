@@ -5,13 +5,11 @@ description:
 layout: default
 ---
 
-# {{page.title}}
+# AISBL Guide - Mandatory Yearly Tasks
 
-{{page.description}}
-
+This document contains things to know to create and manage an AISBL (International non-profit association seated in Belgium). We fill information here as we learn it, so don't expect to find here complete, definitive information.
 
 ## Mandatory yearly tasks and reports
-
 
 #### General calendar
 
@@ -67,7 +65,19 @@ The form this report must be made and filed depends on the size of the associati
 * micro and small associations must use **double-entry accounting** and submit their report to the **national bank of Belgium**.
 * large associations must also use double-entry accounting, use an extended report system and submit it to the national bank of Belgium.
 
-The simplified report must contain [name of the association, juridic form, address, entreprise number and year](https://tcfb.be/associations-et-fondations-bilans-comptes-annuels/) and tables for income, spending, assets and debts. See [model here](https://www.associatiffinancier.be/COMPTA/La%20nouvelle%20compta%20des%20petites%20asbl.pdf) (last page). The report must be delivered physically in two signed copies at the [Greffe du Tribunal de l'entreprise](https://tcfb.be/greffe/)
+##### Simplified report
+
+The simplified report can be made on a single sheet, and must contain [name of the association, juridic form (AISBL), address, entreprise number and year](https://tcfb.be/associations-et-fondations-bilans-comptes-annuels/) and tables for income, spending, assets and debts. See [model here](https://www.associatiffinancier.be/COMPTA/La%20nouvelle%20compta%20des%20petites%20asbl.pdf) (last page). The report must be delivered physically at the [Greffe du Tribunal de l'entreprise](https://tcfb.be/greffe/) (section des personnes morales, Boulevard de la Deuxième Armée Britannique 148, in Forest) and must include:
+
+* Two signed copies of the report
+
+* One copy of the last general assembly minutes (procès-verbal) that approves the report, signed by the administrators
+
+* One signed copy of the [attestation d'identité](https://tcfb.be/wp-content/uploads/2017/08/ANNEXE-3-Attestation-didentit%C3%A9.pdf) form
+
+* One copy of the deponent's identity card
+
+More info on the [associations page](https://tcfb.be/greffe-des-asbl/) of the Greffe
 
 This must be done maximum **one month after the annual general assembly meeting**
 
@@ -141,7 +151,33 @@ The [UBO register](https://finances.belgium.be/fr/E-services/ubo-register) is an
 * The natural persons or, when these persons have not yet been designated, the category of natural persons in whose main interest the non-profit organization or the foundation was formed or operates. This is mainly when the association is specifically aimed at funding a certain person or designated group of people
 * Any other natural person exercising by other means the ultimate control over the non-profit organisation or foundation
 
-The UBO register must be **kept updated each year** with the **effective beneficiaries** of the association. It can be accessed with the Belgian ID card of one of the administrators registered as such at the CBE. There is no limit date specified, but any change of beneficiaries must be registered **within one month** to the UBO register.
+The UBO register must be **kept updated each year** with the **effective beneficiaries** of the association. It can be accessed with the Belgian ID card of one of the administrators registered as such at the crossroads bank. There is no limit date specified, but any change of beneficiaries must be registered **within one month** to the UBO register.
+
+Only administrators registered at the crossroads bank (see below) can be added as beneficiaries.
+
+#### Administrators register update
+
+Each time there is a change in the adminstrators roster, these changes must be communicated to the [Greffe du Tribunal de l'entreprise](https://tcfb.be/greffe/) (ssection des personnes morales). Doing this publishes the changes to the national gazette, and updates the crossroads bank register. Need to be filed:
+
+* Form 1 and 2 from [Formulaires pour publication au Moniteur belge](http://www.ejustice.just.fgov.be/info_tsv_pub/form_f.htm) with sections A and B (form 1) and section A and C (form 2) filled
+
+* Section B must be delivered in 3 signed copies
+
+* Proof of payment of the publishing tax
+
+* One signed copy of the [attestation d'identité](https://tcfb.be/wp-content/uploads/2017/08/ANNEXE-3-Attestation-didentit%C3%A9.pdf) form
+
+* One copy of the deponent's identity card
+
+* One copy of the general assembly minutes that enables the administrators
+
+* Copy of identity card and passports of all new administrators
+
+* Proof of residence (phone bill, etc) of all new administrators
+
+* RBIS number of all new administrators
+
+The publishing tax for ASBLs/AISBLs is of € 157,42 in 2023 (check every year) to be paid to IBAN BE48 6792 0055 0227 with the entreprise number as communication.
 
 #### Associations tax
 
