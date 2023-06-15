@@ -3,6 +3,7 @@ title: "AISBL Guide - Mandatory Yearly Tasks"
 description:
     "This document contains things to know to create and manage an AISBL (International non-profit association seated in Belgium). We fill information here as we learn it, so don't expect to find here complete, definitive information."
 layout: default
+
 ---
 
 # AISBL Guide - Mandatory Yearly Tasks
@@ -112,33 +113,17 @@ The declaration must be submitted **by October 28**.
 
 #### VAT
 
-An AISBL may be subject to VAT if it carries out a regular and independent economic activity (with or without profit) for which **goods are supplied** or **services are performed**. This activity can be main or secondary. When an AISBL does not deliver goods or services for consideration but only receives donations, it is not subject to VAT and does not need to have a VAT identification number.
+Registering to the VAT is mandatory for all associations or companies engaging in commercial activities (the selling of goods or services). See [registering instructions here](creation). Once an association is registered, it must:
 
-The association can still, however, perform occasional commercial activities and is not liable for VAT for such (ex. selling pancakes) provided that:     
-
-* the ASBL is exempt from VAT (above)
-
-* the activities are organized with the aim of providing financial support to the non-profit organization     
-
-* the activity is organized by the ASBL and that any contribution is for the benefit of the ASBL only 
-
-Warning: Activities of this kind **cannot occur frequently**, otherwise they will be considered a main activity.
-
-When starting commercial activities, essentially **the selling of goods or services**, the AISBL must register to the VAT. To complete the registration, the following information is needed:
-
-* The yearly income
-
-* The [NACE categorie(s)](https://statbel.fgov.be/sites/default/files/Over_Statbel_FR/Nomenclaturen/NACE-BEL%202008_FR.pdfhttps://statbel.fgov.be/sites/default/files/Over_Statbel_FR/Nomenclaturen/NACE-BEL%202008_FR.pdf) to which the AISBL belongs to
-
-* Which parts of the yearly income fall under [Article 44](https://questionfiscale.be/wp-content/uploads/2021/04/Article-44-CTVA.pdf)
-
-After registering to the VAT, the AISBL must:
-
-* File quarterly reports, stating the total amount of operations (in and out) subject to VAT
+* File monthly (default) or quarterly (if allowed at creation) reports, stating the total amount of operations (in and out) subject to VAT. Reports must follow a [specific calendar](https://finances.belgium.be/fr/entreprises/tva/declaration/declaration-periodique#q4)
 
 * File yearly list of VAT clients the AISBL has sold goods or services to
 
 * Retain a VAT of 21% over all sold goods or services, and pay that amount quarterly to the finance administration
+
+* Apply [reverse charging](https://vatdesk.eu/en/eu-vat-news/reverse-charge-in-belgium/) when buying or selling goods or services from / to a body subject to VAT in another EU country
+
+The finance ministry website provides [information in english](https://finance.belgium.be/en/enterprises/vat) or [in french (with more information)](https://finances.belgium.be/fr/entreprises/tva) over all the details of VAT declaration
 
 #### UBO register
 
