@@ -23,7 +23,7 @@ This document contains things to know to create and manage an AISBL (Internation
 | Filing of last year's report       |     |     |     |     | x   |     |     |     |     |     |     |     |
 | Approval of next year's budget     |     |     |     |     |     | x   |     |     |     |     |     |     |
 | Tax declaration                    |     |     |     |     |     |     |     |     | x   |     |     |     |
-| VAT declarations, if applicable    |     |     | x   |     |     | x   |     |     | x   |     |     | x   |
+| VAT declarations, if applicable    | x   |     |     | x   |     |     | x   |     |     | x   |     |     |
 | VAT list of clients, if applicable |     |     |     |     |     |     |     |     |     |     |     | x   |
 
 #### Determining the type of the AISBL
@@ -115,13 +115,19 @@ The declaration must be submitted **by October 28**.
 
 Registering to the VAT is mandatory for all associations or companies engaging in commercial activities (the selling of goods or services). See [registering instructions here](creation). Once an association is registered, it must:
 
-* File monthly (default) or quarterly (if allowed at creation) reports, stating the total amount of operations (in and out) subject to VAT. Reports must follow a [specific calendar](https://finances.belgium.be/fr/entreprises/tva/declaration/declaration-periodique#q4)
+* File monthly (default) or quarterly (if allowed at creation) reports, stating the total amount of operations (in and out) subject to VAT. Reports must follow a [specific calendar](https://finances.belgium.be/fr/entreprises/tva/declaration/declaration-periodique#q4). If no VAT operation has been done, a null report must be filed anyway
+
+* Reports are filed online (needs a belgian ID card and be a registered admin of the AISBL, or an accountant)
 
 * File yearly list of VAT clients the AISBL has sold goods or services to
 
-* Retain a VAT of 21% over all sold goods or services, and pay that amount quarterly to the finance administration
+* Retain a VAT of 21% over all sold goods or services in Belgium, and pay that amount quarterly to the finance administration
 
-* Apply [reverse charging](https://vatdesk.eu/en/eu-vat-news/reverse-charge-in-belgium/) when buying or selling goods or services from / to a body subject to VAT in another EU country
+* Inform of all the VAT paid in Belgium during the last quarter. Those will be reimbursed.
+
+* Apply [reverse charging](https://vatdesk.eu/en/eu-vat-news/reverse-charge-in-belgium/) when buying or selling goods or services from / to a body subject to VAT in another EU country. Warning, incorrect reverse charging will cause fines to be applied.
+
+* Inform of all reverse charges applied/received during the last quarter, together with the quarterly declaration (separate form)
 
 The finance ministry website provides [information in english](https://finance.belgium.be/en/enterprises/vat) or [in french (with more information)](https://finances.belgium.be/fr/entreprises/tva) over all the details of VAT declaration
 
