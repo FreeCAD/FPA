@@ -150,9 +150,11 @@ Only administrators registered at the crossroads bank (see below) can be added a
 
 Each time there is a change in the adminstrators roster, these changes must be communicated to the [Greffe du Tribunal de l'entreprise](https://tcfb.be/greffe/) (ssection des personnes morales). Doing this publishes the changes to the national gazette, and updates the crossroads bank register. Need to be filed:
 
-* Form 1 and 2 from [Formulaires pour publication au Moniteur belge](http://www.ejustice.just.fgov.be/info_tsv_pub/form_f.htm) with sections A and B (form 1) and section A and C (form 2) filled
-
-* Section B must be delivered in 3 signed copies
+* Form 2 from [Formulaires pour publication au Moniteur belge](http://www.ejustice.just.fgov.be/info_tsv_pub/form_f.htm) with the following fields filled:
+  
+  * Fields 1 and 2 (name and entreprise number) must always be filled
+  * In the rest of the form, only changed values must be filled
+  * When nominating or demoting new administrators, field 4 of volet C (page 2) must be filled with (1) N (nomination) or C (demotion) (2) RBIS number (3) Name (4) Date of start of mandate
 
 * Proof of payment of the publishing tax
 
@@ -166,9 +168,9 @@ Each time there is a change in the adminstrators roster, these changes must be c
 
 * Proof of residence (phone bill, etc) of all new administrators
 
-* RBIS number of all new administrators
+* RBIS number of all new administrators. RBIS numbers can only be obtained by notaries and take a few days. Notary will need copy of passports and proof of residence.
 
-The publishing tax for ASBLs/AISBLs is of € 157,42 in 2023 (check every year) to be paid to IBAN BE48 6792 0055 0227 with the entreprise number as communication.
+The publishing tax for ASBLs/AISBLs is of € 157,42 in 2023 ([changes yearly - check for the current year](https://www.ejustice.just.fgov.be/tsv_pub/tarif_f.htm)) to be paid to IBAN BE48 6792 0055 0227 with the entreprise number as communication.
 
 #### Associations tax
 
