@@ -17,7 +17,6 @@ Grants are capped at US$5000 and will be awarded only for work on the FreeCAD co
 
 The cap may be raised as the FPA gains experience in the awarding of grants and as available funds allow.
 
-
 Any contributor who wishes to be considered for a grant should submit a proposal in writing to the FPA. The proposal should state clearly how much money is requested and what the contributor intends to create/improve/fix. An estimated timeline with major milestones should be included along with clear completion criteria.
 
 Proposals will be considered by the FPA general body and approved by vote.
@@ -27,7 +26,6 @@ The FreeCAD Project Association would like to expand the number and type of gran
 Grant applications may be forwarded to any member of the FPA for consideration.
 
 **added on 2022.08.28**
-
 
 ## Funded Initiatives
 
@@ -44,3 +42,9 @@ In recognition of the efforts he has put into FreeCAD, especially the very large
 *Funding approved 26 September 2022.*
 
 Ajinkya proposed numerous improvements to the spline handling in the sketcher workbench. He raised funds from many members to do this work and has largely completed stage one. The FPA contributed to the second stage which focused on functionality to create more interesting curves not possible by knot position and slope alone. In recognition of his significant contribution to FreeCAD, Dahale is awarded a grant of 1000 USD.
+
+### Adrian Insauuralde (@adrianinsaval): Packaging
+
+*Funding approved 13 july 2023.*
+
+Adrian proposed to work on release packaging, by fixing the conda builds and the process to generate packages for the different platforms, and documenting the process in the developers handbook. Adrian is awarded a grant of 1200 USD.
