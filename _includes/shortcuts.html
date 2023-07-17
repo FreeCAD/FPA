@@ -1,0 +1,10 @@
+<h1>{{ page.eyeCatch }}</h1>
+
+<div class="gridContainer shortcuts">
+    {% for shortcut in page.shortcuts %}
+        <div>
+            {{ shortcut.text }}
+            <a href=" {{ shortcut.href }} ">{{ shortcut.button }}</a>
+        </div>
+    {% endfor%}
+</div>

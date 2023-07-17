@@ -1,6 +1,30 @@
-# <img src="images/freecad.svg" style="zoom:50%;" /> FreeCAD project association
+---
+eyeCatch: FPA is an non-profit association with goal of supporting the FreeCAD project
+shortcuts:
+    - text: "Do you have an idea that could benefit from funding?"
+      button: "Programs"
+      href: "./programs.html"
+    - text: "Want to check out the 2023 budget?"
+      button: "Finances"
+      href: "dr.dk"
+    - text: "Values, rules, decisions, history"
+      button: "About"
+      href: "dr.dk"
+    - text: "idk"
+      button: "Contact"
+      href: "dr.dk"
+---
 
-The **FreeCAD Project association** (FPA) is an international non-profit association created by FreeCAD administrators and core developers in November 2021 and seated in Belgium. Its goal is to support and protect the [FreeCAD project](https://freecad.org). 
+<!--  layout.shortcuts -->
+
+{% include shortcuts.html %}
+
+<!-- Only show if not jekyll engine -->
+{% if false %}  
+# <img src="images/freecad.svg" style="zoom:50%;" /> FreeCAD project association
+{% endif %}
+
+The **FreeCAD Project association** (FPA) is an international non-profit association created by FreeCAD administrators and core developers in November 2021 and seated in Belgium. Its goal is to support and protect the [FreeCAD project](https://freecad.org).
 
 
 * The [Royal decree](royal_decree.pdf) giving official existence to the association
@@ -12,7 +36,7 @@ The **FreeCAD Project association** (FPA) is an international non-profit associa
 The [FPA Handbook](./handbook/index.md) covers our procedures, rules, decisions, history, values and much more.
 
 
-### Budget
+### Budget a
 
 * [2022](budgets/2022.md)
 * [2023](budgets/2022.md)
