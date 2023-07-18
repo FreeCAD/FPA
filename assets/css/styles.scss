@@ -399,3 +399,24 @@ footer {
         }
     }
 }
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    border-bottom: 3px solid $daBlue;
+}
+
+th, td {
+    min-width: 20px;
+    padding: 0.3em 0.5em;
+}
+
+tr:not(:last-child) > td {
+    border-bottom: 2px solid $daMagentaWeak;
+}
+
+td:not(:last-child), th:not(:last-child) {
+    border-right: 2px solid $daMagentaWeak;
+}
