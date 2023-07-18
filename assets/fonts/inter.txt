@@ -1,0 +1,1 @@
+Source https://open-foundry.com/fonts/inter_black https://github.com/rsms/inter/
