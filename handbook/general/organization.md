@@ -9,20 +9,20 @@ layout: default
 
 {{page.description}}
 
-# Legal Structure
+## Legal Structure
 
 
-## 1. Form
+### 1. Form
 
 The FPA is an **international association with non-profit aim**  ([AISBL](../corporate/aisbl_guide.md)) named: “**The FreeCAD project association**”. This association is ruled by Part III, Book 10 of the Code of Societies and Associations under the Belgian law. It is created for an undefined duration.
 
-## 2. location
+### 2. location
 
 The FPA operates a virtual organization but the legal seat is located in the judiciary region of Brussels, Belgium.
 
-# Membership Bodies
+## Membership Bodies
 
-## General Assembly
+### General Assembly
 
 The **general assembly** collectively has the entirety of the powers to fullfill the purpose of the association. It is made of all members of this association.
 
@@ -35,7 +35,7 @@ It has competence for, but not limited to, the following points:
 
 Members of the GA will vote every time such vote is tendered. Societies will be represented by the persons who are authorised to do so.
 
-## Administrative Body
+### Administrative Body
 
 The **administrative body** is made of the chairperson, plus one or more other members designated by the chairperson and approved by vote of the general management body.
 
