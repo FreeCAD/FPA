@@ -240,6 +240,7 @@ $time: 0.8s;
 .menuList {
     // font-family: "Montserrat", sans-serif;
     gap: 1em;
+    transition: gap $time;
     display: flex;
     flex-wrap: wrap;
     padding: 0;
@@ -288,7 +289,7 @@ $time: 0.8s;
             display: inline-flex;
             flex-direction: column;
             padding: 1em;
-            width: 100%;
+            width: 95%;
             transition: height $time, width $time, padding $time, background-color 0.4s;
             // If li is hover, we want to create the inner button
             > a {
