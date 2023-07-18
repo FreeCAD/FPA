@@ -1,6 +1,4 @@
-<h1>{{ page.eyeCatch }}</h1>
-
-<div class="gridContainer shortcuts">
+<div class="gridContainer shortcuts {{ page.shortcutType }}">
     {% for shortcut in page.shortcuts %}
         <div>
             {{ shortcut.text }}

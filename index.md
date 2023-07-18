@@ -1,5 +1,5 @@
 ---
-eyeCatch: FPA is an non-profit association with goal of supporting the FreeCAD project
+shortcutType: random
 shortcuts:
     - text: "Do you have an idea that could benefit from funding?"
       button: "Programs"
@@ -16,6 +16,8 @@ shortcuts:
 ---
 
 <!--  layout.shortcuts -->
+
+# FPA is an non-profit association with goal of supporting the FreeCAD project
 
 {% include shortcuts.html %}
 
