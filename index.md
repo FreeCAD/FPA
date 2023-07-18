@@ -30,9 +30,9 @@ The **FreeCAD Project association** (FPA) is an international non-profit associa
 
 <!-- Only show if not jekyll engine -->
 {% if false %}
-Do you have an idea that could benefit from funding? See our [programs](programs.md)
+Do you have an idea that could benefit from funding? See our [programs](./programs.md)
 
-Want to check out the 2023 budget? All our [Finances](finances) are public
+Want to check out the 2023 budget? All our [Finances](./finances.md) are public
 
 Values, procedures, rules, decisions, history in our [Handbook](/handbook/index.md)
 
