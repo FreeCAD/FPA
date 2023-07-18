@@ -73,13 +73,16 @@
     </div>
 
     <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-      </footer>
-    </div>
+    <footer class="inner">
+        <div class="links">
+            <a href="https://github.com/FreeCAD/FreeCAD">
+                <img src="/github-mark-white.svg" />
+            </a>
+            <a href="https://freecad.org">
+                <img src="/FreeCADLogo2.svg" />
+            </a>
+        </div>
+    </footer>
   </body>
    {% if page.mermaid %}
    {% include markdown-enhancements/mermaid.html %}

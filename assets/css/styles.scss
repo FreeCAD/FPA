@@ -3,6 +3,7 @@
 
 $daBlue: rgb(11, 161, 255);
 $daMagenta: rgb(255, 0, 234);
+$daMagentaWeak: rgba(255, 0, 231, 0.57);
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800&display=swap');
 
@@ -83,7 +84,7 @@ nav > a:hover {
 }
 
 #top_header > a {
-    background-color: #3586b0;
+    background-color: $daMagentaWeak;
     color: white;
     padding: 0.9em 1.2em;
     border-radius: 0 0 0.8em 0.8em;
@@ -92,6 +93,9 @@ nav > a:hover {
     text-decoration: none;
     transition: padding-top 0.3s;
     position: absolute;
+    &:hover {
+        background-color: $daMagenta;
+    }
 }
 
 #top_header > a:hover {
@@ -353,6 +357,32 @@ ul.subMenuExpanded {
         transition: width $time, height $time, padding $time, border-color calc(#{$time} / 2), background-color 0.4s, color 0.4s;
         &:hover {
             background-color: rgba(0, 0, 0, 0);
+        }
+    }
+}
+
+footer {
+    margin-top: 150px;
+    padding-bottom: 2em;
+    padding-top: 2em;
+    border-top: 7px dashed $daMagenta;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    gap: 1.5em;
+    a {
+        display: flex;
+        justify-content: center;
+        padding: 0.8em 1em;
+        background-color: $daMagentaWeak;
+        width: 10em;
+        &:hover {
+            background-color: $daMagenta;
+        }
+        > img {
+            height: 2em;
         }
     }
 }
