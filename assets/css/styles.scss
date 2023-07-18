@@ -51,13 +51,25 @@ nav {
     @extend .transistion;
     height: 2em;
     border-radius: 1em;
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
     text-decoration: none;
     padding: 0 1em;
     &:hover {
         @extend .transistion;
+    }
+    font-size: 22px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.solobutton {
+    background-color: $daBlue;
+    border: 2px solid $daBlue;
+    color: white;
+    &:hover {
+        background-color: rgba(0, 0, 0, 0);
+        color: $daBlue;
     }
 }
 
@@ -223,7 +235,6 @@ body {
     bottom: 1em;
     right: 1em;
     background-color: white;
-    font-size: 22px;
     color: black;
     &:hover {
         background-color: rgba(0, 0, 0, 0);
