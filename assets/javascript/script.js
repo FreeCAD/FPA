@@ -13,3 +13,11 @@ function insertSpanInMenuItems() {
         menuItems[i].innerHTML = `<span>${menuItems[i].innerHTML}</span>`;
     }
 }
+
+function makeOpenInNewWindow() {
+    menuItems = document.querySelectorAll(".newWindow a")
+    // Wrap menu text in span
+    for(let i = 0; i < menuItems.length; i++) {
+        menuItems[i].target = "_blank";
+    }
+}
