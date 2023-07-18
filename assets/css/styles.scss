@@ -1,11 +1,29 @@
 ---
 ---
 
+$daBlue: rgb(11, 161, 255);
+$daMagenta: rgb(255, 0, 234);
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800&display=swap');
 
-$daBlue: rgb(11, 161, 255);
-$daMagenta: rgb(255, 0, 234);
+@font-face {
+    font-family: "Inter";
+    src: url("/assets/fonts/Inter.ttf");
+}
+
+body {
+    // font-family: 'Signika', sans-serif;
+    font-family: "Inter", sans-serif;
+    font-weight: 460;
+    font-size: 18px;
+    h2, h3, h4, h5, h6 {
+        font-weight: 600;
+    }
+}
+
+h2 {
+    font-size: 28px;
+}
 
 nav {
     font-size: 25px;
@@ -337,24 +355,4 @@ ul.subMenuExpanded {
             background-color: rgba(0, 0, 0, 0);
         }
     }
-}
-
-
-
-@font-face {
-    font-family: "Inter";
-    src: url("/assets/fonts/Inter.ttf");
-}
-
-body {
-    // font-family: 'Signika', sans-serif;
-    font-family: "Inter", sans-serif;
-    font-weight: 460;
-    h2, h3, h4, h5, h6 {
-        font-weight: 600;
-    }
-}
-
-p {
-    font-size: 18px;
 }
