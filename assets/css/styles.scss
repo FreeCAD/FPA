@@ -75,14 +75,12 @@ nav {
 
 nav > a {
     @extend .roundbutton;
-    color: rgb(66, 66, 66);
-    /* border: 2px solid rgb(113, 113, 113); */
+    color: black;
 }
 
 nav > a:hover {
     color: white;
-    background-color: rgb(66, 66, 66);
-    /* border-color: rgb(66, 66, 66); */
+    background-color: rgb(38, 38, 38);
 }
 
 
@@ -159,6 +157,7 @@ body {
     display: grid;
     gap: 1.2em;
     height: 600px;
+    margin-bottom: 70px;
 }
 
 .gridContainer > div {
