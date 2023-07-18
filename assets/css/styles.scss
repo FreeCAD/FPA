@@ -241,11 +241,17 @@ $time: 0.8s;
     // font-family: "Montserrat", sans-serif;
     gap: 1em;
     display: flex;
+    flex-wrap: wrap;
     padding: 0;
     font-size: 20px;
     li {
+        > span {
+            padding: 1em;
+            display: block;
+        }
         list-style-type: none;
         color: white;
+        font-family: "Montserrat", sans-serif;
         @extend .transistion;
         &:hover {
             background-color: rgba(0, 0, 0, 0);
@@ -257,7 +263,6 @@ $time: 0.8s;
             width: calc(180px - 2em);
             height: calc(180px - 2em);
             display: block;
-            font-family: "Montserrat", sans-serif;
             padding: 1em;
             text-decoration: none;
             overflow: hidden;
