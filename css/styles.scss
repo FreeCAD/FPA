@@ -169,3 +169,119 @@ body {
     }
     border: 2px solid white;
 }
+
+
+.menuList {
+    gap: 1em;
+    display: flex;
+    padding: 0;
+    font-size: 20px;
+    li {
+        list-style-type: none;
+        color: white;
+        @extend .transistion;
+        &:hover {
+            background-color: rgba(0, 0, 0, 0);
+            @extend .transistion;
+            color: $daBlue;
+        }
+        > a {
+            color: inherit;
+            // width: 180px;
+            // min-height: 180px;
+            // height: 100%;
+            // width: 100%;
+            width: calc(180px - 2em);
+            height: calc(180px - 2em);
+            // display: inline-block;
+            display: block;
+            font-family: "Montserrat", sans-serif;
+            padding: 1em;
+            text-decoration: none;
+            overflow: hidden;
+        }
+    }
+    > li {
+        border: 2px solid $daBlue;
+        background-color: $daBlue;
+        // Only expand if it has submenu
+        width: 180px;  // Might seem duplicate, but important for transistions to work
+        height: 180px;  // Might seem duplicate, but important for transistions to work
+        transition: height 0.8s, width 0.8s, border 0.4s, padding 0.8s, background-color 0.4s;
+        &:hover:has(ul) {
+            height: calc((120px + 2em + 4px) *  2 + 1em);
+            display: inline-flex;
+            flex-direction: column;
+            > ul {
+                transform: translate(0, 0);
+                gap: 1em;
+                transition: height;
+                // display: flex;
+                // position: relative;
+                > li > a {
+                    height: 120px;
+                    background-color: $daMagenta;
+                    width: 120px;
+                    // background-color: $daMagenta;
+                    // border: 2px solid $daMagenta;
+                    padding: 1em;
+                    transition: width 0.8s, height 0.8s, padding 0.8s, border-width 0.8s;
+                    // position: absolute;
+                }
+            }
+            padding: 1em;
+            width: 100%;
+            transition: height 0.8s, width 0.8s, padding 0.8s, background-color 0.4s;
+            // If li is hover, we want to create the inner button
+            > a {
+                background-color: $daBlue;
+                color: white;
+                width: calc(120px + 120px + 20px + 2em);
+                height: 120px;
+                border: 2px solid $daBlue;
+                margin-bottom: 1em;
+                &:hover {
+                    color: $daBlue;
+                    background-color: rgba(0, 0, 0, 0);
+                }
+            }
+        }
+    }
+
+
+    li > ul  {
+        // transform: translate(-100000px, -100000px);
+        transition: transform 0s linear 0.8s;
+        padding: 0;
+        display: flex;
+        > li > a {
+            // background-color: $daMagenta;
+            border: 0px solid $daMagenta;
+            // border-color: $daMagenta;
+            // border-style: solid;
+            height: 0;
+            width: 0;
+            padding: 0;
+            background-color: rgba(0, 0, 0, 0);
+            transition: width 0.8s, height 0.8s, padding 0.8s, border-width 0.8s, background-color 0.4s;
+            position: relative;
+            > span {
+                width: 120px;
+                position: absolute;
+            }
+        }
+    }
+
+    // If an ul has an li that is :hover and has a submenu, then hide all the other li that is not :hover
+    // for some reason :has(li:hover:has(ul)) is not allowed... pfff
+    &:has(li:hover > ul) {
+        gap: 0;
+        transition: gap 0.4;
+        // background-color: black;
+        > li:not(:hover) {
+            width: 0 !important;
+            border: 0;
+            transition: width 0.8s, border 0.4s;
+        }
+    }
+}
