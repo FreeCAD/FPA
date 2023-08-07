@@ -4,3 +4,9 @@ The **FreeCAD Project association** (FPA) is an international non-profit associa
 
 This is the repo for the [FPA site](https://fpa.freecad.org)
 
+How to run ([guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)):
+```
+bundle install
+bundle exec jekyll serve
+```
+

@@ -26,6 +26,7 @@ This handbook has several major sections:
 - [History](./general/history.md)
 - [Values](./general/values.md)
 - [Organization](./general/organization.md)
+{: .menuList}
 
 ## Corporate
 - [AISBL Guide](./corporate/aisbl_guide.md)
@@ -36,24 +37,29 @@ This handbook has several major sections:
 - [FPA Statutes](./corporate/statutes.md)
 - [Rules](./process/rules.md)
 - [Decisions](./process/decisions.md)
+{: .menuList}
 
 ## Process
 - [Conducting a vote](./process/voting.md)
 - [Issues](./process/issues.md)
 - [Handbook process](./process/handbook.md)
 - [Bookkeeping](./process/bookkeeping/overview.md)
+{: .menuList}
 
 ## Resource access and management
 - [Source code](./process/source_code_access.md)
 - [Social media](./process/socialmedia.md)
 - [Forum](./process/forum.md)
 - [Funds access](./process/fundsaccess.md)
+{: .menuList}
 
 ## Programs and Initiatives
 - [How the FPA uses its money](../programs.md)
+{: .menuList}
 
 ## People
 - [Current Members](./people/roster.md)
 - [What is Expected of Members](./people/expectations.md)
 - [Adding Members](./process/member.md)
 - [Periodic Reconfirmation](./process/reconfirmation.md)
+{: .menuList}

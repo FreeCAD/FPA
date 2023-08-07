@@ -1,9 +1,9 @@
 gist:
   noscript: false
-remote_theme: pages-themes/slate@v0.2.0
+# remote_theme: pages-themes/slate@v0.2.0
 
 # Where things are
-source              : [your repo's top level directory]
+source              : .
 destination         : ./_site
 collections_dir     : .
 plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
@@ -85,3 +85,7 @@ kramdown:
   show_warnings     : false
   math_engine: mathjax
   syntax_highlighter: rouge
+
+sass:
+  sass_dir: css
+  load_paths: ["css"]
