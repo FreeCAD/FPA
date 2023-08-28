@@ -19,7 +19,7 @@ To speed the process of making small transactions, FPA Board Members are authori
 
 ## Large Expenditures
 
-Funding for items over 100 USD must be put to a vote of the General Membership following the [standard FPA voting procedures](./process/voting.md). If the expenditure is approved, a Board Member (typically the Chair) will be assigned responsibility for disbursing the funds as directed by the vote, either as reimbursement for expenses incurred by an FPA member, or by directly paying the expense from an FPA account.
+Funding for items over 100 USD must be put to a vote of the General Membership following the [standard FPA voting procedures](../process/voting.md). If the expenditure is approved, a Board Member (typically the Chair) will be assigned responsibility for disbursing the funds as directed by the vote, either as reimbursement for expenses incurred by an FPA member, or by directly paying the expense from an FPA account.
 
 ## Important Financial Accounts
 
