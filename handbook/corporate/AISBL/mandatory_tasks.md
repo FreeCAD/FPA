@@ -22,7 +22,7 @@ This document contains things to know to create and manage an AISBL (Internation
 | Updating of UBO register           |     |     |     | x   |     |     |     |     |     |     |     |     |
 | Filing of last year's report       |     |     |     |     | x   |     |     |     |     |     |     |     |
 | Approval of next year's budget     |     |     |     |     |     | x   |     |     |     |     |     |     |
-| Tax declaration                    |     |     |     |     |     |     |     |     | x   |     |     |     |
+| Tax declaration                    |     |     |     |     |     |     | x   |     |     |     |     |     |
 | VAT declarations, if applicable    | x   |     |     | x   |     |     | x   |     |     | x   |     |     |
 | VAT list of clients, if applicable |     |     |     |     |     |     |     |     |     |     |     | x   |
 
@@ -90,11 +90,33 @@ The budget remains internal. Unlike annual accounts, it is not registered with a
 
 #### Tax declaration
 
-Associations must submit each year a [tax declaration](https://finances.belgium.be/fr/asbl/impots_et_tva/declaration-asbl-impot-des-personnes-morales).
+Associations must submit each year a [tax declaration](https://finances.belgium.be/fr/asbl/impots_et_tva/declaration-asbl-impot-des-personnes-morales). By default, associations are subject to a tax called **IPM** (Impôt des Personnes Morales / Tax on moral persons).
 
-The association can be subject to the **legal persons tax** regime, or **societies tax** regime. Basically, it is submitted to the legal persons tax if it does not perform any commercial operation, ans to the societies tax if it engages in commercial operations (ie, it sells goods).
+Associations can be subject to the **moral persons tax** regime, or **societies tax** regime. Basically, it is submitted by default to the legal persons tax if it does not perform any commercial operation. If it engages in commercial operations (ie, it sells goods), it *can* be subject to the societies tax instead. The key to decide is if the commercial operations are a main activity or an auxiliary activity. [This form](https://finances.belgium.be/fr/asbl/impots_et_tva/declaration-asbl-impot-des-personnes-morales#q1) may help to decide. 
 
-With the legal persons tax regime, an ASBL is in principle **not taxed on the profits made** (for example, the receipts from a spaghetti evening that you organize occasionally to finance the objectives of your ASBL). You therefore do not have to include these profits in the declaration. However, certain other income **must be declared**: 
+As a rule of thumb, to stay on the safe side and under the IPM regime (which is an advantage as basically all revenues are tax exempt), commercial activities undertaken by the AISBL should be non-permanent, and always to help fulfilling the main non-profit goal of the association.
+
+The latest date when the tax declaration must be submitted varies [varies each year](https://finances.belgium.be/fr/E-services/biztax/delais-de-rentree-des-declarations), and also depends on when the association closes its budget. Using normal closing dates (from January 1st to December 31st), to be on the safe side, the declaration should be done before July 31st (7 months after the end of the budget closing date).
+
+##### Moral persons tax
+
+The declaration is done online via the [BizTax](https://finances.belgium.be/fr/asbl/impots_et_tva/declaration-asbl-impot-des-personnes-morales) website. This can be done by any person with a Belgian ID card registered as an administrator of the AISBL, or by a bookkeeper or accountant registered in Belgium.
+
+The declaration is composed of 4 parts:
+
+* Identification of the AISBL and the person filling the form
+
+* Profits (only taxable profits, excluding the normal income, see below)
+
+* Annexes (the yearly income statement should be annexed)
+
+* Additional forms for movable capital, only to be filled if applicable
+
+In typical cases (no taxable commercial operations), only the first part must be completed, and the yearly income statement should be annexed. The profits part should be left entirely blank, resulting in 0 EUR of taxable profits. After the declaration is completed and submitted, a receipt is issued, and a tax simulation can be obtained, which should indicate 0 EUR of tax to pay.
+
+With the moral persons tax regime, an AISBL is in principle **not taxed on the profits it made** (donations received or, for example, the revenues from a spaghetti evening that you organize occasionally to finance the objectives of your AISBL).
+
+These profits are therefore **not included** in the declaration. However, certain other income **must be declared**: 
 
 * real estate income located in Belgium (except income from private rentals, market garden and agricultural rents, rentals to non-profit tenants) or located abroad (unless a double taxation agreement provides for taxation in the country in which the property is located)
 * income from movable and capital property (both received and allocated) (a non-profit organization must also pay withholding tax for certain income and therefore complete a declaration for withholding tax 273 or 273A)
@@ -109,7 +131,7 @@ With the legal persons tax regime, an ASBL is in principle **not taxed on the pr
 
 You must be able to justify all the income and expenditure of your non-profit organization with supporting documents. Unjustified expenses may possibly be penalized by a maximum tax at the rate of 102%.
 
-The declaration must be submitted **by October 28**.
+The declaration must be submitted no later than **October 28** in all cases, but there might be different rules depending on the year and the closing date.
 
 #### VAT
 
