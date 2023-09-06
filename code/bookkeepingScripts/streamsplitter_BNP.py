@@ -3,6 +3,9 @@
 # input csv of BNP primary transactions and output 
 #             1) csv of non-Paypal deposits tx to feed splitmaker_BNPDon.py
 #             2) csv of PayPal transfer tx to feed splitmaker_BNPPP.py
+#                (but note that the transfers are normally applied from the 
+#                 PayPal transaction stream and these records are only used as a
+#                 cross check)
 #             2) csv of withdrawal tx for manual handling
 # NOTE: BNP tx are completely in EUR
 # usage: python3 streamsplitter_BNP.py inputFile.csv deposits.csv pptransfers.csv withdrawals.csv
