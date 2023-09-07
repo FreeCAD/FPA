@@ -41,7 +41,7 @@ with open(inputFileName) as csvIn:
     for line in csvReader:
         if bankFeeString not in line[iType]:
             #not a fee transaction, needs manual handling
-            print("splitmaker_BNPFee - record: {0} needs manual handling - amount: {1}".format(recordsIn, line[iValue]))
+            print("splitmaker_BNPFee - record: {0} date: {1} needs manual handling - amount: {2}".format(recordsIn, line[iDate], line[iValue]))
             recordsIn += 1
             continue
 
