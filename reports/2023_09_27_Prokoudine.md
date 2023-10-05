@@ -417,7 +417,11 @@ The program page clearly explains what the program is, has a very good FAQ, and 
 
 #### How it’s organized
 
-There is no open application process in place. So far, the Open Toolchain Foundation issued only grants to FreeCAD developers, and their process appears to be contacting the FPA, then contacting developers, then agreeing on a project. The “applicant” would submit a one-pager describing the idea behind a project and listing deliverables.
+There is no open application process in place. So far, the Open Toolchain Foundation issued only grants to FreeCAD developers.
+
+According to Pieter Hijma, the process was this:
+
+> We essentially observed the community and interacted with the community to find/filter developers that would be helped by receiving the funding we had available. Instead of requesting proposals, check proposals, something that is quite time consuming for both the funding agency and potential candidates, we preferred this "low overhead" approach. [...]  Some developers we contacted felt that others would benefit more from this kind of funding and referred these other developers to us to contact next.
 
 #### Project ideas
 
@@ -433,7 +437,9 @@ Based on quick interviews with Pierre-Louis Boyer and Yorik van Havre, the Open 
 
 #### Project supervision
 
-There isn’t any. Developers are at liberty to notify the Open Toolchain Foundation about their progress. A mid-way report and a final report appear to be sufficient. The latter is a must.
+According to Pieter Hijma:
+
+> The progress of the projects was checked regularly by the Open Toolchain Foundation, but since all discussions were in the open, there was no need to interfere. This has also to do with the approach we took. Because we knew that we had strong community members, not much supervision was required. Some developers contacted us to ask whether the Open Toolchain Foundation preferred a particular approach they could take. In all cases, our answer was that we preferred the developer to make an informed decision with input from the community. We preferred to trust the developers than have a strong opinion of our own.
 
 #### Payouts
 
@@ -441,7 +447,7 @@ All work is post-paid.
 
 #### Annual budget
 
-No annual budget is ever mentioned. The cost of the FreeCAD round of grants was €30,000, €6,000 for each project.
+No annual budget is ever mentioned. The cost of the FreeCAD round of grants was €30,000, that is, €6,000 per each project.
 
 #### Public communication about the program
 
