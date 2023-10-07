@@ -419,9 +419,7 @@ The program page clearly explains what the program is, has a very good FAQ, and 
 
 There is no open application process in place. So far, the Open Toolchain Foundation issued only grants to FreeCAD developers.
 
-According to Pieter Hijma, the process was this:
-
-> We essentially observed the community and interacted with the community to find/filter developers that would be helped by receiving the funding we had available. Instead of requesting proposals, check proposals, something that is quite time consuming for both the funding agency and potential candidates, we preferred this "low overhead" approach. [...]  Some developers we contacted felt that others would benefit more from this kind of funding and referred these other developers to us to contact next.
+According to Pieter Hijma, the team worked with the community to identify developers who could be grant recipients. They chose this approach to cut the overhead that the usual grant application routine would otherwise impose on both themselves and developers. Some developers they contacted felt that others would benefit more from this kind of funding and referred those other developers to the Open Toolchain Foundation team.
 
 #### Project ideas
 
@@ -437,9 +435,7 @@ Based on quick interviews with Pierre-Louis Boyer and Yorik van Havre, the Open 
 
 #### Project supervision
 
-According to Pieter Hijma:
-
-> The progress of the projects was checked regularly by the Open Toolchain Foundation, but since all discussions were in the open, there was no need to interfere. This has also to do with the approach we took. Because we knew that we had strong community members, not much supervision was required. Some developers contacted us to ask whether the Open Toolchain Foundation preferred a particular approach they could take. In all cases, our answer was that we preferred the developer to make an informed decision with input from the community. We preferred to trust the developers than have a strong opinion of our own.
+According to Pieter Hijma, the Open Toolchain Foundation checked the progress by grant recipients regularly, mostly by just reading public reports. They expected that little supervision would be required, because they had chosen strong community members, and this is exactly how it played out in the end.
 
 #### Payouts
 
