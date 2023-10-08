@@ -417,7 +417,9 @@ The program page clearly explains what the program is, has a very good FAQ, and 
 
 #### How it’s organized
 
-There is no open application process in place. So far, the Open Toolchain Foundation issued only grants to FreeCAD developers, and their process appears to be contacting the FPA, then contacting developers, then agreeing on a project. The “applicant” would submit a one-pager describing the idea behind a project and listing deliverables.
+There is no open application process in place. So far, the Open Toolchain Foundation issued only grants to FreeCAD developers.
+
+According to Pieter Hijma, the team worked with the community to identify developers who could be grant recipients. They chose this approach to cut the overhead that the usual grant application routine would otherwise impose on both themselves and developers. Some developers they contacted felt that others would benefit more from this kind of funding and referred those other developers to the Open Toolchain Foundation team.
 
 #### Project ideas
 
@@ -433,7 +435,7 @@ Based on quick interviews with Pierre-Louis Boyer and Yorik van Havre, the Open 
 
 #### Project supervision
 
-There isn’t any. Developers are at liberty to notify the Open Toolchain Foundation about their progress. A mid-way report and a final report appear to be sufficient. The latter is a must.
+According to Pieter Hijma, the Open Toolchain Foundation checked the progress by grant recipients regularly, mostly by just reading public reports. They expected that little supervision would be required, because they had chosen strong community members, and this is exactly how it played out in the end.
 
 #### Payouts
 
@@ -441,7 +443,7 @@ All work is post-paid.
 
 #### Annual budget
 
-No annual budget is ever mentioned. The cost of the FreeCAD round of grants was €30,000, €6,000 for each project.
+No annual budget is ever mentioned. The cost of the FreeCAD round of grants was €30,000, that is, €6,000 per each project.
 
 #### Public communication about the program
 
