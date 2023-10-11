@@ -40,9 +40,9 @@ Values, procedures, rules, decisions, history in our [Handbook](/handbook/index.
 
 {% endif %}
 
-* The [Royal decree](royal_decree.pdf) giving official existence to the association
+* The [Royal decree](documents/Royal%20decree.pdf) giving official existence to the association
 
-* [FreeCAD trademark](trademark.pdf) owned by the FPA
+* [FreeCAD trademark](documents/Trademark.pdf) owned by the FPA
 
 {% comment %}Already in shortcuts{% endcomment %}
 {% if false %}
