@@ -23,6 +23,7 @@ layout: default
 | [Kunda](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=12229)                    |                 | Member       | 2022.08.30 |
 | [uwestoehr](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=23505)                | Uwe Stöhr       | Member       | 2022.09.01 |
 | [chennes](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=11959)                  | Chris Hennes    | Board member | 2022.09.26 |
+| [shaise](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=6188)                       | Shai Seger      | Member       | 2023.11.09 |
 | *For privacy concerns, some members opted for their full name to not be exposed on the internet* |                 |              |            |
 
 ### Administrative body
