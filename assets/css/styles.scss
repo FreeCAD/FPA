@@ -1,7 +1,7 @@
 ---
 ---
 
-$daSky: rgba(0, 112, 187, 0.9);
+$daAzul: rgba(0, 112, 187, 0.9);
 $daCerulean: rgba(0, 123, 167, 0.7);
 $daCeruleanWeak: rgba(0, 123, 167, 0.5);
 
@@ -80,12 +80,12 @@ nav {
 }
 
 .solobutton {
-    background-color: $daSky;
-    border: 2px solid $daSky;
+    background-color: $daAzul;
+    border: 2px solid $daAzul;
     color: white;
     &:hover {
         background-color: rgba(0, 0, 0, 0);
-        color: $daSky;
+        color: $daAzul;
     }
 }
 
@@ -160,7 +160,7 @@ nav > a:hover {
 
 .gridContainer > div {
     padding: 1em;
-    background-color: $daSky;
+    background-color: $daAzul;
     color: white;
     position: relative;
     font-family: "Inter", sans-serif;
@@ -237,7 +237,7 @@ $time: 0.8s;
         &:hover {
             background-color: rgba(0, 0, 0, 0);
             @extend .transistion;
-            color: $daSky;
+            color: $daAzul;
         }
         > a {
             color: inherit;
@@ -251,8 +251,8 @@ $time: 0.8s;
         }
     }
     > li {
-        border: 2px solid $daSky;
-        background-color: $daSky;
+        border: 2px solid $daAzul;
+        background-color: $daAzul;
         // Only expand if it has submenu
         width: 180px;  // Might seem duplicate, but important for transistions to work
         height: 180px;  // Might seem duplicate, but important for transistions to work
@@ -273,15 +273,15 @@ $time: 0.8s;
             transition: height $time, width $time, padding $time, background-color 0.4s;
             // If li is hover, we want to create the inner button
             > a {
-                background-color: $daSky;
+                background-color: $daAzul;
                 color: white;
                 width: calc(120px + 120px + 20px + 2em);
                 height: 120px;
-                border: 2px solid $daSky;
+                border: 2px solid $daAzul;
                 margin-bottom: 1em;
                 transition: width $time, background-color 0.4s, color 0.4s;
                 &:hover {
-                    color: $daSky;
+                    color: $daAzul;
                     background-color: rgba(0, 0, 0, 0);
                 }
             }
@@ -377,7 +377,7 @@ table {
 }
 
 th {
-    border-bottom: 3px solid $daSky;
+    border-bottom: 3px solid $daAzul;
 }
 
 th, td {
