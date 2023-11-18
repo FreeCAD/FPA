@@ -23,4 +23,4 @@ In a new initiative aimed at improving the quantity and quality of online writin
 - Published posts will have a byline identifying the author (may use forum handle or another alias)
 
 
-**added on 2022.12.07**
+*Added on 2022.12.07*

@@ -25,7 +25,9 @@ The FreeCAD Project Association would like to expand the number and type of gran
 
 Grant applications may be forwarded to any member of the FPA for consideration.
 
-**added on 2022.08.28**
+*Added on 2022.08.28*
+
+***
 
 ## Funded Initiatives
 

@@ -59,4 +59,4 @@ We look forward to meeting you in Brussels!
 
 [Add to calendar](../freecad_events.ics)
 
-**added on 2022.12.28**
+*Added on 2022.12.28*
