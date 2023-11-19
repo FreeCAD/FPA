@@ -3,7 +3,7 @@
 // See Wikipedia "Shades_of_blue" for color names and coordinates
 $daAzul: rgba(0, 112, 187, 0.9);
 $daCerulean: rgba(0, 123, 167, 0.7);
-$daCeruleanWeak: rgba(0, 123, 167, 0.5);
+$daCeruleanLight: rgba(0, 123, 167, 0.5);
 
 @font-face {
     font-family: "Inter";
@@ -125,7 +125,7 @@ nav > a:hover {
     transition: padding-top 0.3s;
     position: absolute;
     &:hover {
-        background-color: $daCeruleanWeak;
+        background-color: $daCeruleanLight;
     }
 }
 
@@ -373,7 +373,7 @@ footer {
         background-color: $daCerulean;
         width: 10em;
         &:hover {
-            background-color: $daCeruleanWeak;
+            background-color: $daCeruleanLight;
         }
         > img {
             height: 2em;
@@ -395,15 +395,15 @@ th, td {
 }
 
 hr {
-    border-color: $daCeruleanWeak;
+    border-color: $daCeruleanLight;
     margin-top: 2em;
     margin-bottom: 2em;
 }
 
 tr:not(:last-child) > td {
-    border-bottom: 2px solid $daCeruleanWeak;
+    border-bottom: 2px solid $daCeruleanLight;
 }
 
 td:not(:last-child), th:not(:last-child) {
-    border-right: 2px solid $daCeruleanWeak;
+    border-right: 2px solid $daCeruleanLight;
 }
