@@ -9,7 +9,7 @@ layout: default
 
 {{page.description}}
 
-**The Program**
+## The Program
 
 In a new initiative aimed at improving the quantity and quality of online writing about FreeCAD, the FreeCAD Project Association is happy to announce that honoraria are now available for article writers here on FreeCAD News.
 

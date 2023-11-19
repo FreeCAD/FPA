@@ -31,7 +31,7 @@ Grant applications may be forwarded to any member of the FPA for consideration.
 
 ## Funded Initiatives
 
-The following is a reverse-chronological-order list of projects funded by the FreeCAD Project Association under the FPADF.
+The following is a reverse-chronological-order list of projects funded by the FreeCAD Project Association under the FPADF:
 
 ### Lei Zheng (@realthunder): Topological Naming Problem Mitigation
 

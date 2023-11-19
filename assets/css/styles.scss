@@ -1,6 +1,6 @@
 ---
 ---
-
+// See Wikipedia "Shades_of_blue" for color names and coordinates
 $daAzul: rgba(0, 112, 187, 0.9);
 $daCerulean: rgba(0, 123, 167, 0.7);
 $daCeruleanWeak: rgba(0, 123, 167, 0.5);
@@ -20,8 +20,8 @@ body {
     font-size: 18px;
     text-align: justify;
     text-justify: inter-word;
-    h3, h4, h5, h6 {
-        font-weight: 500;
+    h4, h5, h6 {
+        font-weight: 450;
     }
 }
 
@@ -29,16 +29,24 @@ h1 {
     font-family: "Inter", sans-serif;
     font-weight: 500;
     font-size: 30px;
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
 }
 
 h2 {
     font-family: "Inter", sans-serif;
     font-weight: 500;
     font-size: 25px;
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+h3 {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 21px;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
 }
 
 nav {
@@ -155,6 +163,7 @@ nav > a:hover {
     display: grid;
     gap: 1em;
     height: 400px;
+    margin-top: 1.5em;
     margin-bottom: 2em;
 }
 
