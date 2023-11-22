@@ -69,7 +69,6 @@ The FPA is registered in Belgium as an AISBL with VAT number [BE0781867807](http
 * [PayPal](https://www.paypal.com/donate/?hosted_button_id=M3Z8BGW6DB69Q)
 * [OpenCollective](https://opencollective.com/freecad)
 * [LiberaPay team account (not managed by the FPA)](https://liberapay.com/FreeCAD/) 
-* [BountySource](https://salt.bountysource.com/teams/freecad)
 * [Stripe](https://donate.stripe.com/14k3ei9TYgwFclq145)
 * [GitHub](https://github.com/sponsors/FreeCAD)
 {: .menuList .newWindow}
