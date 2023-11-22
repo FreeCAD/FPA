@@ -9,7 +9,7 @@ layout: default
 
 {{page.description}}
 
-# Rationale
+## Rationale
 
 In order to pass an initiative two criteria must be met:
 1. At least half of the active FPA members must cast a vote;
@@ -21,7 +21,7 @@ To address this issue a rule was adopted that lets the Administrative team call 
 Any member who does not reconfirm is placed on the Inactive member list.
 Members may also directly ask to be placed on the Inactive member list, for example if they anticipate a prolonged absence that would prevent them from participating in the voting process.
 
-# Reconfirmation Process
+## Reconfirmation Process
 
 1. The Chairman or another member of the Administrative Team calls for a reconfirmation by posting to the FPA section of the forum.  The topic title must be "[RECONFIRMATION CALL] Action Required".
 2. The topic is marked "sticky" so it remains at the top of the page.
@@ -30,6 +30,6 @@ Members may also directly ask to be placed on the Inactive member list, for exam
 5. After a minimum of 14 days, the person calling for reconfirmation will change the topic title to "[RECONFIRMATION CALL] CLOSED".
 6. The person calling for reconfirmation will compare the respondents to the current roster. Any member who did not reply or who replied asking to be inactive will be moved to the Inactive section of the roster.
 
-# Reactivation
+## Reactivation
 
 If an Inactive member wishes to be reactivated, they should contact a member of the administrative team and notify them of their intent to participate. Reactivation is automatic, and no further vote is required.

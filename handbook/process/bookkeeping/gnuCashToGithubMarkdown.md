@@ -1,9 +1,9 @@
-#Notes on converting gnuCash Html to Github Markdown
+# Notes on converting gnuCash Html to Github Markdown
 
 gnuCash produces reports that look nice on paper or on the screen, but merging them into a Github markdown document is troublesome
 
 gnuCash will send reports to paper, Pdf or Html. When gnuCash produces reports as Html, it makes extensive use of nested tables.  Github
-markdown (as used in the FPA Handbook) has only rudimentary support for tables. 
+markdown (as used in the FPA Handbook) has only rudimentary support for tables.
 
 To make the conversion, 2-3 tools are required:
 - an Html editor such as SeaMonkey to remove table nesting

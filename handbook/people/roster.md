@@ -24,7 +24,6 @@ layout: default
 | [uwestoehr](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=23505)                | Uwe Stöhr       | Member       | 2022.09.01 |
 | [chennes](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=11959)                  | Chris Hennes    | Board member | 2022.09.26 |
 | [shaise](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=6188)                       | Shai Seger      | Member       | 2023.11.09 |
-| *For privacy concerns, some members opted for their full name to not be exposed on the internet* |                 |              |            |
 
 ### Administrative body
 
@@ -49,3 +48,5 @@ layout: default
 | [jmaustpc](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=611)    |                | Member       | founder    | 2022-08-15    |
 | [jriegel](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=67)      | Jürgen Riegel  | Member       | 2022.01.10 | 2022-08-15    |
 | [ickby](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=686)       | Stefan Tröger  | Member       | founder    | 2023-10-26    |
+
+*For privacy concerns, some members opted for their full name to not be exposed on the internet*

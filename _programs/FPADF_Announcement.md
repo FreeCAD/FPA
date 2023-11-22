@@ -25,11 +25,13 @@ The FreeCAD Project Association would like to expand the number and type of gran
 
 Grant applications may be forwarded to any member of the FPA for consideration.
 
-**added on 2022.08.28**
+*Added on 2022.08.28*
+
+***
 
 ## Funded Initiatives
 
-The following is a reverse-chronological-order list of projects funded by the FreeCAD Project Association under the FPADF.
+The following is a reverse-chronological-order list of projects funded by the FreeCAD Project Association under the FPADF:
 
 ### Lei Zheng (@realthunder): Topological Naming Problem Mitigation
 

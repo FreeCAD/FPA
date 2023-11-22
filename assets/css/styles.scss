@@ -1,11 +1,9 @@
 ---
 ---
-
-$daBlue: rgb(11, 161, 255);
-$daMagenta: rgb(255, 0, 234);
-$daMagentaWeak: rgba(255, 0, 231, 0.57);
-
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800&display=swap');
+// See Wikipedia "Shades_of_blue" for color names and coordinates
+$daAzul: rgba(0, 112, 187, 0.9);
+$daCerulean: rgba(0, 123, 167, 0.7);
+$daCeruleanLight: rgba(0, 123, 167, 0.5);
 
 @font-face {
     font-family: "Inter";
@@ -13,16 +11,43 @@ $daMagentaWeak: rgba(255, 0, 231, 0.57);
 }
 
 body {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 50px;
+    overflow-y: scroll;
     font-family: "Inter", sans-serif;
-    font-weight: 460;
+    font-weight: 350;
     font-size: 18px;
-    h2, h3, h4, h5, h6 {
-        font-weight: 600;
+    text-align: justify;
+    text-justify: inter-word;
+    h4, h5, h6 {
+        font-weight: 450;
+        font-size: 20px;
     }
 }
 
+h1 {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
 h2 {
-    font-size: 28px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+h3 {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 21px;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
 }
 
 nav {
@@ -40,10 +65,10 @@ nav {
     }
 }
 
-.magenta {
-    border: 2px solid $daMagenta;
+.cerulean {
+    border: 2px solid $daCerulean;
     &:hover {
-        color: $daMagenta;
+        color: $daCerulean;
     }
 }
 
@@ -59,17 +84,17 @@ nav {
     &:hover {
         @extend .transistion;
     }
-    font-size: 22px;
-    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
 }
 
 .solobutton {
-    background-color: $daBlue;
-    border: 2px solid $daBlue;
+    background-color: $daAzul;
+    border: 2px solid $daAzul;
     color: white;
     &:hover {
         background-color: rgba(0, 0, 0, 0);
-        color: $daBlue;
+        color: $daAzul;
     }
 }
 
@@ -83,17 +108,16 @@ nav > a:hover {
     background-color: rgb(38, 38, 38);
 }
 
-
 #top_header {
     font-size: 20px;
     display: flex;
     align-items: flex-end;
     flex-direction: column;
-    height: 2.8em;
+    height: 1.0em;
 }
 
 #top_header > a {
-    background-color: $daMagentaWeak;
+    background-color: $daCerulean;
     color: white;
     padding: 0.9em 1.2em;
     border-radius: 0 0 0.8em 0.8em;
@@ -102,7 +126,7 @@ nav > a:hover {
     transition: padding-top 0.3s;
     position: absolute;
     &:hover {
-        background-color: $daMagenta;
+        background-color: $daCeruleanLight;
     }
 }
 
@@ -120,28 +144,11 @@ nav > a:hover {
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
-    margin-bottom: 4em;
+    margin-bottom: 3em;
 }
 
 #menuContainer img {
     height: 7em;
-}
-
-h1 {
-    font-family: "Montserrat", sans-serif;
-    font-weight: 800;
-    font-size: 50px;
-    margin-top: 0.4em;
-    margin-bottom: 0.4em;
-}
-
-
-body {
-    margin: 0 10px;
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: 0 50px;
-    overflow-y: scroll;
 }
 
 // @media only screen and (min-width: 1200px) {
@@ -151,30 +158,30 @@ body {
 //     }
 // }
 
-
 .gridContainer {
     font-size: 20px;
+    text-align: left;
     display: grid;
-    gap: 1.2em;
-    height: 600px;
-    margin-bottom: 70px;
+    gap: 1em;
+    height: 400px;
+    margin-top: 1.5em;
+    margin-bottom: 2em;
 }
 
 .gridContainer > div {
     padding: 1em;
-    background-color: $daBlue;
+    background-color: $daAzul;
     color: white;
     position: relative;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 600;
-    font-size: 34px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
     padding-bottom: 2.8em;  // Guarentee space for button
 }
 
-
 .gridContainer {
     > div:is(:nth-child(1), :nth-child(4)) {
-        background-color: $daMagenta;
+        background-color: $daCerulean;
     }
 }
 
@@ -183,8 +190,8 @@ body {
     grid-template-rows: 1fr 1fr;
 
     > div:nth-child(1) {
-    grid-column: 1 / 2;
-    grid-row: 1 / 2;
+        grid-column: 1 / 2;
+        grid-row: 1 / 2;
     }
 
     > div:nth-child(2) {
@@ -200,31 +207,6 @@ body {
     > div:nth-child(4) {
         grid-column: 2 / 3;
         grid-row: 2 / 3;
-    }
-}
-
-.gridContainer.random {
-    grid-template-columns: auto auto auto;
-    grid-template-rows: auto auto auto;
-
-    > div:nth-child(1) {
-    grid-column: 1 / 3;
-    grid-row: 1 / 3;
-    }
-
-    > div:nth-child(2) {
-        grid-column: 3 / 4;
-        grid-row: 1 / 2;
-    }
-
-    > div:nth-child(3) {
-        grid-column: 1 / 3;
-        grid-row: 3 / 4;
-    }
-
-    > div:nth-child(4) {
-        grid-column: 3 / 4;
-        grid-row: 2 / 4;
     }
 }
 
@@ -245,13 +227,14 @@ body {
 $time: 0.8s;
 
 .menuList {
-    // font-family: "Montserrat", sans-serif;
+    // font-family: "Inter", sans-serif;
     gap: 1em;
     transition: gap $time;
     display: flex;
     flex-wrap: wrap;
     padding: 0;
     font-size: 20px;
+    text-align: left;
     li {
         > span {
             padding: 1em;
@@ -259,12 +242,12 @@ $time: 0.8s;
         }
         list-style-type: none;
         color: white;
-        font-family: "Montserrat", sans-serif;
+        font-family: "Inter", sans-serif;
         @extend .transistion;
         &:hover {
             background-color: rgba(0, 0, 0, 0);
             @extend .transistion;
-            color: $daBlue;
+            color: $daAzul;
         }
         > a {
             color: inherit;
@@ -278,8 +261,8 @@ $time: 0.8s;
         }
     }
     > li {
-        border: 2px solid $daBlue;
-        background-color: $daBlue;
+        border: 2px solid $daAzul;
+        background-color: $daAzul;
         // Only expand if it has submenu
         width: 180px;  // Might seem duplicate, but important for transistions to work
         height: 180px;  // Might seem duplicate, but important for transistions to work
@@ -300,15 +283,15 @@ $time: 0.8s;
             transition: height $time, width $time, padding $time, background-color 0.4s;
             // If li is hover, we want to create the inner button
             > a {
-                background-color: $daBlue;
+                background-color: $daAzul;
                 color: white;
                 width: calc(120px + 120px + 20px + 2em);
                 height: 120px;
-                border: 2px solid $daBlue;
+                border: 2px solid $daAzul;
                 margin-bottom: 1em;
                 transition: width $time, background-color 0.4s, color 0.4s;
                 &:hover {
-                    color: $daBlue;
+                    color: $daAzul;
                     background-color: rgba(0, 0, 0, 0);
                 }
             }
@@ -330,13 +313,12 @@ $time: 0.8s;
     }
 }
 
-
 ul.subMenu {
     padding: 0;
     display: flex;
     > li > a {
         @extend .transistion;
-        border: 0px solid $daMagenta;
+        border: 0px solid $daCerulean;
         position: relative;
         > span {
             width: 120px;
@@ -362,9 +344,9 @@ ul.subMenuExpanded {
     gap: 1em;
     transition: height;
     > li > a {
-        @extend .magenta;
+        @extend .cerulean;
         height: 120px;
-        background-color: $daMagenta;
+        background-color: $daCerulean;
         width: 120px;
         padding: 1em;
         transition: width $time, height $time, padding $time, border-color calc(#{$time} / 2), background-color 0.4s, color 0.4s;
@@ -375,10 +357,10 @@ ul.subMenuExpanded {
 }
 
 footer {
-    margin-top: 150px;
+    margin-top: 2em;
     padding-bottom: 2em;
     padding-top: 2em;
-    border-top: 7px dashed $daMagenta;
+    border-top: 2px solid $daCerulean;
 }
 
 .links {
@@ -388,11 +370,11 @@ footer {
     a {
         display: flex;
         justify-content: center;
-        padding: 0.8em 1em;
-        background-color: $daMagentaWeak;
+        padding: 0.6em 1em;
+        background-color: $daCerulean;
         width: 10em;
         &:hover {
-            background-color: $daMagenta;
+            background-color: $daCeruleanLight;
         }
         > img {
             height: 2em;
@@ -405,7 +387,7 @@ table {
 }
 
 th {
-    border-bottom: 3px solid $daBlue;
+    border-bottom: 3px solid $daAzul;
 }
 
 th, td {
@@ -413,10 +395,16 @@ th, td {
     padding: 0.3em 0.5em;
 }
 
+hr {
+    border-color: $daCeruleanLight;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
 tr:not(:last-child) > td {
-    border-bottom: 2px solid $daMagentaWeak;
+    border-bottom: 2px solid $daCeruleanLight;
 }
 
 td:not(:last-child), th:not(:last-child) {
-    border-right: 2px solid $daMagentaWeak;
+    border-right: 2px solid $daCeruleanLight;
 }

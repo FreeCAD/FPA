@@ -74,7 +74,7 @@ The FPA accumulates ca. $8K a month. The project also has infrastructure and tra
 
 The [Development Fund](https://fpa.freecad.org/programs/fpadf-announcement) page states:
 
-    Grants are capped at US$5000 and will be awarded only for work on the FreeCAD code base. The cap may be raised as the FPA gains experience in the awarding of grants and as available funds allow.
+> *Grants are capped at US$5000 and will be awarded only for work on the FreeCAD code base. The cap may be raised as the FPA gains experience in the awarding of grants and as available funds allow.*
 
 So far, there have been four grants issued to three people:
 
@@ -161,13 +161,13 @@ The QGIS team does not provide a list of ideas.
 
 #### Project paperwork
 
-The progress is documented in the QGIS PSC repo, e.g. [here](https://github.com/qgis/PSC/issues/58) is the entire progress in the 2023 program. 
+The progress is documented in the QGIS PSC repo, e.g. [here](https://github.com/qgis/PSC/issues/58) is the entire progress in the 2023 program.
 
 #### Project supervision
 
 No supervision is provided ([source](https://blog.qgis.org/2016/08/04/qgis-grants-call-for-applications/)):
 
-    We expect that you are already an established developer or contributor to the QGIS project and do not need any ‘hand holding’ other than via normal community consultation processes like QEP’s.
+> *We expect that you are already an established developer or contributor to the QGIS project and do not need any ‘hand holding’ other than via normal community consultation processes like QEP’s.*
 
 #### Scope and size of projects
 
@@ -290,7 +290,7 @@ GRASS GIS offers powerful raster, vector, and geospatial processing engines in a
 
 #### About the grants program
 
-Student Grants is a stipend program for students. Funded projects can include actual coding, bug fixing, or documentation and the creation of educational resources. The program [started in 2021](https://www.mail-archive.com/grass-psc@lists.osgeo.org/msg02070.html), both participants were their 2021 GSoC students effectively continuing the work they started. 
+Student Grants is a stipend program for students. Funded projects can include actual coding, bug fixing, or documentation and the creation of educational resources. The program [started in 2021](https://www.mail-archive.com/grass-psc@lists.osgeo.org/msg02070.html), both participants were their 2021 GSoC students effectively continuing the work they started.
 
 A total of three grants have been issued so far: two in 2021 and one in 2022..
 
@@ -537,7 +537,7 @@ The Godot Foundation recently publicly launched a [development fund](https://fun
 
 The Godot team admits that they rarely post information about job openings, because they don’t follow the usual hiring process ([source](https://godotengine.org/article/funding-breakdown-and-hiring-process/)):
 
-    We typically do not make public job postings, we identify individuals who are already knowledgeable about Godot, have experience in areas that need more contributions, and work well with other contributors.
+> *We typically do not make public job postings, we identify individuals who are already knowledgeable about Godot, have experience in areas that need more contributions, and work well with other contributors.*
 
 Much of the information about the hiring practice became known after a [blog post in July 2023](https://godotengine.org/article/funding-breakdown-and-hiring-process/).
 
@@ -559,9 +559,9 @@ This organization mostly provides grants for education projects and Python event
 
 [From the website](https://www.unrealengine.com/en-US/megagrants):
 
-    Epic Games has committed to providing financial grants to creative, noteworthy, and innovative projects built in and around Unreal Engine or projects that enhance the open source 3D graphics ecosystem.
+> *Epic Games has committed to providing financial grants to creative, noteworthy, and innovative projects built in and around Unreal Engine or projects that enhance the open source 3D graphics ecosystem.*
 
-    Our average grants range from $5,000 to $250,000, with some extraordinary projects receiving up to $500,000! Projects selected cover a variety of endeavors from game development, architecture projects, and film production, to educational uses and software tool development. No matter what size grant you receive, you will continue to own your IP and will be free to publish it however you wish.
+> *Our average grants range from $5,000 to $250,000, with some extraordinary projects receiving up to $500,000! Projects selected cover a variety of endeavors from game development, architecture projects, and film production, to educational uses and software tool development. No matter what size grant you receive, you will continue to own your IP and will be free to publish it however you wish.*
 
 Epic supported several important FOSS projects in the past: Blender, Dust3D, IfcOpenShell, ArmorPaint, Godot.
 
@@ -672,7 +672,7 @@ As a relatively new non-profit organization with relatively little spare resourc
 
 7. **Be flexible for project scope and size.** Allow both small, medium, and large projects. Someone with a successful small project can come back with a medium project next year, then with a large project the year after that.
 
-8. **Do a mix of pre-paid and post-paid model.** Small/medium projects: pay 50% on start, 50% after a final report and approval from the steering committee. Large projects: divide the payment into equal sums per milestone (e.g. 25/25/25/25%), consider upfront work a milestone and do a milestone-sized payment before the start of the coding phase. 
+8. **Do a mix of pre-paid and post-paid model.** Small/medium projects: pay 50% on start, 50% after a final report and approval from the steering committee. Large projects: divide the payment into equal sums per milestone (e.g. 25/25/25/25%), consider upfront work a milestone and do a milestone-sized payment before the start of the coding phase.
 
 9. **Adopt the Cesium/QGIS models for public communication** in the blog and on social media. Publicly announce the start of a wave, publicly announce winners, retweet interim progress reports, publish program recaps. Pay grant receivers a bonus for insightful blog posts at [blog.freecad.org](https://blog.freecad.org/) (the usual $100, unless you upgrade that to something more fitting for larger posts).
 

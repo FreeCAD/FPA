@@ -1,5 +1,5 @@
 ---
-shortcutType: random
+shortcutType: regular
 shortcuts:
     - text: "Do you have an idea that could benefit from funding?"
       button: "Programs"
@@ -12,7 +12,7 @@ shortcuts:
       href: "/handbook/"
     - text: "Get in touch"
       button: "Contact"
-      href: "dr.dk"
+      href: "mailto:fpa@freecad.org"
 ---
 
 <!--  layout.shortcuts -->
@@ -40,32 +40,32 @@ Values, procedures, rules, decisions, history in our [Handbook](/handbook/index.
 
 {% endif %}
 
-* The [Royal decree](documents/Royal%20decree.pdf) giving official existence to the association
+* [The Royal decree](documents/Royal%20decree.pdf) giving official existence to the association
 
 * [FreeCAD trademark](documents/Trademark.pdf) owned by the FPA
 
 {% comment %}Already in shortcuts{% endcomment %}
 {% if false %}
-### Programs & Initiatives
+## Programs & Initiatives
 
 [Current Programs](./programs.md)
 {% endif %}
 
-### Membership
+## Membership
 
 The FreeCAD Project Association is composed of ordinary members, who form the general assembly, and an administrative body,  formed by the chairperson plus any number of other members elected to it. Meetings and votes of the members happen on a dedicated section of the [FreeCAD forum](https://forum.freecad.org).
 
 [Association members](./handbook/people/roster.md){: .roundbutton .solobutton }
 
-### Contact
+## Contact
 
 All members can be contacted individually by sending them a private message on the [FreeCAD forum](https://forum.freecad.org). The contact link to each member can be found on the [association members](./handbook/people/roster.md) list. The administration board can also be contacted via the [fpa@freecad.org](mailto:fpa@freecad.org) email address.
 
-# Donations
+## Donations
 
 The FPA is registered in Belgium as an AISBL with VAT number [BE0781867807](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807) and is aimed at organizing donations for the FreeCAD project. We are currently setting up different donation options, check the [donations page](https://wiki.freecadweb.org/Donate) for options. FreeCAD currently offers the following donation channels:
 
-* Bank account: BE04 0019 2896 4531
+* [Bank account: BE04 0019 2896 4531](https://wiki.freecadweb.org/Donate)
 * [PayPal](https://www.paypal.com/donate/?hosted_button_id=M3Z8BGW6DB69Q)
 * [OpenCollective](https://opencollective.com/freecad)
 * [LiberaPay team account (not managed by the FPA)](https://liberapay.com/FreeCAD/) 
@@ -74,7 +74,7 @@ The FPA is registered in Belgium as an AISBL with VAT number [BE0781867807](http
 * [GitHub](https://github.com/sponsors/FreeCAD)
 {: .menuList .newWindow}
 
-### Tax deduction
+## Tax deduction
 
 The FPA, although it is a non-profit organization, is not a charity organization. People and companies donating to the FPA are therefore [not entitled to a tax deduction](https://finances.belgium.be/fr/particuliers/avantages_fiscaux/dons) by Belgian law. Each country, however, has its own rules and laws to decide upon what gives their citizen right to tax reduction or not. You are always advised to consult the laws of your own country.
 
@@ -82,7 +82,7 @@ The FPA can anyway always issue a donation receipt. [Mail us](mailto:fpa@freecad
 
 {% comment %}Already in shortcuts{% endcomment %}
 {% if false %}
-### Sponsoring suggestions
+## Sponsoring suggestions
 
 The FPA is designed to help FreeCAD and its developers. You can:
 

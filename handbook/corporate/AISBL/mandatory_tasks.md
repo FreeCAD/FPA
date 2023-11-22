@@ -12,7 +12,7 @@ This document contains things to know to create and manage an AISBL (Internation
 
 ## Mandatory yearly tasks and reports
 
-#### General calendar
+### General calendar
 
 |                                    | J   | F   | M   | A   | M   | J   | J   | A   | S   | O   | N   | D   |
 | ---------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -26,7 +26,7 @@ This document contains things to know to create and manage an AISBL (Internation
 | VAT declarations, if applicable    | x   |     |     | x   |     |     | x   |     |     | x   |     |     |
 | VAT list of clients, if applicable |     |     |     |     |     |     |     |     |     |     |     | x   |
 
-#### Determining the type of the AISBL
+### Determining the type of the AISBL
 
 The size of the AISBL determines its accounting obligations:
 
@@ -48,11 +48,11 @@ The size of the AISBL determines its accounting obligations:
   * € 9,000,000 in turnover excluding VAT (excluding exceptional receipts)
   * € 4,500,000 balance sheet total
 
-#### General assembly
+### General assembly
 
 The association must hold, at least once a year, a general assembly meeting, where, at minimum, the approval of last year's **financial report** and next year's **expenditure budget** must be voted. The way the meeting is organised is determined by the statutes or other internal ruling. There is no mandatory date to perform the meeting, but it must happen once a year and is usually done **before April**.
 
-#### Yearly financial report
+### Yearly financial report
 
 Each year, a financial report must be established, giving:
 
@@ -66,7 +66,7 @@ The form this report must be made and filed depends on the size of the associati
 * micro and small associations must use **double-entry accounting** and submit their report to the **national bank of Belgium**.
 * large associations must also use double-entry accounting, use an extended report system and submit it to the national bank of Belgium.
 
-##### Simplified report
+#### Simplified report
 
 The simplified report can be made on a single sheet, and must contain [name of the association, juridic form (AISBL), address, entreprise number and year](https://tcfb.be/associations-et-fondations-bilans-comptes-annuels/) and tables for income, spending, assets and debts. See [model here](https://www.associatiffinancier.be/COMPTA/La%20nouvelle%20compta%20des%20petites%20asbl.pdf) (last page). The report must be delivered physically at the [Greffe du Tribunal de l'entreprise](https://tcfb.be/greffe/) (section des personnes morales, Boulevard de la Deuxième Armée Britannique 148, in Forest) and must include:
 
@@ -82,13 +82,13 @@ More info on the [associations page](https://tcfb.be/greffe-des-asbl/) of the Gr
 
 This must be done maximum **one month after the annual general assembly meeting**
 
-#### Budget
+### Budget
 
 All non-profit organisations are required to draw up a budget each year for the following financial year and have it approved by the General Assembly, no later than **6 months after the end of the year**. The form of your budget can be chosen freely, as it is not determined by legal provisions. It is nevertheless advisable to draw up the budget on the basis of the same diagram as the annual accounts. 
 
 The budget remains internal. Unlike annual accounts, it is not registered with a third party.
 
-#### Tax declaration
+### Tax declaration
 
 Associations must submit each year a [tax declaration](https://finances.belgium.be/fr/asbl/impots_et_tva/declaration-asbl-impot-des-personnes-morales). By default, associations are subject to a tax called **IPM** (Impôt des Personnes Morales / Tax on moral persons).
 
@@ -98,7 +98,7 @@ As a rule of thumb, to stay on the safe side and under the IPM regime (which is 
 
 The latest date when the tax declaration must be submitted varies [varies each year](https://finances.belgium.be/fr/E-services/biztax/delais-de-rentree-des-declarations), and also depends on when the association closes its budget. Using normal closing dates (from January 1st to December 31st), to be on the safe side, the declaration should be done before July 31st (7 months after the end of the budget closing date).
 
-##### Moral persons tax
+#### Moral persons tax
 
 The declaration is done online via the [BizTax](https://finances.belgium.be/fr/asbl/impots_et_tva/declaration-asbl-impot-des-personnes-morales) website. This can be done by any person with a Belgian ID card registered as an administrator of the AISBL, or by a bookkeeper or accountant registered in Belgium.
 
@@ -133,7 +133,7 @@ You must be able to justify all the income and expenditure of your non-profit or
 
 The declaration must be submitted no later than **October 28** in all cases, but there might be different rules depending on the year and the closing date.
 
-#### VAT
+### VAT
 
 Registering to the VAT is mandatory for all associations or companies engaging in commercial activities (the selling of goods or services). See [registering instructions here](creation). Once an association is registered, it must:
 
@@ -153,7 +153,7 @@ Registering to the VAT is mandatory for all associations or companies engaging i
 
 The finance ministry website provides [information in english](https://finance.belgium.be/en/enterprises/vat) or [in french (with more information)](https://finances.belgium.be/fr/entreprises/tva) over all the details of VAT declaration
 
-#### UBO register
+### UBO register
 
 The [UBO register](https://finances.belgium.be/fr/E-services/ubo-register) is an anti-corruption and anti-money-laundry system in Belgium, that keeps track of possible beneficiaries of companies and associations. For non-profit organizations and foundations, the following are considered effective beneficiaries:
 
@@ -168,7 +168,7 @@ The UBO register must be **kept updated each year** with the **effective benefic
 
 Only administrators registered at the crossroads bank (see below) can be added as beneficiaries.
 
-#### Administrators register update
+### Administrators register update
 
 Each time there is a change in the adminstrators roster, these changes must be communicated to the [Greffe du Tribunal de l'entreprise](https://tcfb.be/greffe/) (ssection des personnes morales). Doing this publishes the changes to the national gazette, and updates the crossroads bank register. Need to be filed:
 
@@ -194,15 +194,17 @@ Each time there is a change in the adminstrators roster, these changes must be c
 
 The publishing tax for ASBLs/AISBLs is of € 157,42 in 2023 ([changes yearly - check for the current year](https://www.ejustice.just.fgov.be/tsv_pub/tarif_f.htm)) to be paid to IBAN BE48 6792 0055 0227 with the entreprise number as communication.
 
-#### Associations tax
+### Associations tax
 
 ASBLs/AISBLs with **more than € 25,000 in assets** are subject to an [annual tax](https://finances.belgium.be/fr/asbl/impots-tva/taxe-annuelle-asbl) of 0.17% of their declared assets value, not counting liquidities (*fonds de roulement*). If the ASBL's assets are less than or equal to € 25,000, it is not subject to the tax. It is, however, still required to fill a declaration and indicate that the assets do not exceed € 25,000.
 
 The declaration must be filed **no later than March 31**. Each ASBL receives, in principle, an invitation from the Legal Security office to submit a declaration during the month of February.
 
-#### Social report
+### Social report
 
 Non-profit organisations that employ an average of 20 or more staff per year, including small non-profit organisations, must draw up a social balance sheet.
+
+***
 
 ## Employment and contracting
 
@@ -210,10 +212,10 @@ AISBLs can contract workers, either as **independent workers** or **employee wor
 
 Warning, a member of the AISBL being contracted as a worker (independent or employee) can often be seen as a conflict of interests. Such situations need to be extremely well and clearly formulated and written.
 
-#### Employee workers
+### Employee workers
 
 Contracting **employees** requires a large amount of [administrative procedures](http://vieassociative.be/sites/default/files/20150819-formalites-administratives-engager-travailleur.pdf) (FR), mainly register to different social security levels and contract an insurance against work damages. An employee contract can be full or part time, and with no time limit or with a certain time frame, for a certian kind of tasks or not. Part of employment boost measures, Belgium offers several kinds of helps to employers.
 
-#### Independent workers
+### Independent workers
 
 An AISBL can contract an independent worker without any regulation or inscription. However, in this case, all the burden of taxes, social securities and everything else is the responsability of the worker. It is therefore important that the worker shows their compliance to this. It is usually done by issuing an **invoice** where details over the worker's social security or tax inscription are given, which could allow the AISBL to check that the worker is indeed in order with their tax administration.

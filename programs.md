@@ -5,16 +5,16 @@ description:
 layout: default
 shortcutType: regular
 shortcuts:
-    - text: Travel grants help FreeCAD community members attend FOSDEM 2023 in Brussels, Belgium.
+    - text: FOSDEM 2023 Travel grants for FreeCAD community members
       button: Travel grants
       href: /programs/fosdem-travel-grants
     - text: Grants help accelerate FreeCAD development
       button: Development fund
       # href: /_programs/FPADF-Announcements.html
       href: /programs/fpadf-announcement
-    - text: idk
-      button: idk
-      href: idk
+    - text: TBA
+      button: TBA
+      href: /programs/
     - text: The FPA will pay authors to write original content for the FreeCAD Blog
       button: Blog author
       href: /programs/blog-content
