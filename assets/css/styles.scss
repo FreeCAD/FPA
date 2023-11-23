@@ -251,10 +251,10 @@ $time: 0.8s;
         }
         > a {
             color: inherit;
-            width: calc(180px - 2em);
-            height: calc(180px - 2em);
+            width: calc(160px - 1em);
+            height: calc(160px - 1em);
             display: block;
-            padding: 1em;
+            padding: 0.5em;
             text-decoration: none;
             overflow: hidden;
             transition: background-color 0.4s;
@@ -264,8 +264,8 @@ $time: 0.8s;
         border: 2px solid $daAzul;
         background-color: $daAzul;
         // Only expand if it has submenu
-        width: 180px;  // Might seem duplicate, but important for transistions to work
-        height: 180px;  // Might seem duplicate, but important for transistions to work
+        width: 160px;  // Might seem duplicate, but important for transistions to work
+        height: 160px;  // Might seem duplicate, but important for transistions to work
         transition: height $time, width $time, border calc(#{$time} / 2) , padding $time, background-color 0.4s;
         > ul {
             @extend .subMenu;
