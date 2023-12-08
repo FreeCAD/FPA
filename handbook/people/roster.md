@@ -20,6 +20,8 @@ layout: default
 | [wandererfan](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=1375) |                 | Board member | 2022.01.10 |
 | [chennes](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=11959)    | Chris Hennes    | Board member | 2022.09.26 |
 | [shaise](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=6188)         | Shai Seger      | Member       | 2023.11.09 |
+|                                                                                    | Stephen Hawes   | Member       | 2023.12.08 |
+|                                                                                    | Paulo Kiefe     | Member       | 2023.12.08 |
 
 ### Administrative body
 
