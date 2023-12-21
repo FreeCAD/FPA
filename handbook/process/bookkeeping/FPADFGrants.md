@@ -4,7 +4,17 @@ The FPA administers a Development Fund which provides grants to contributors.  T
 fund was established by a vote 2022-11-15.  These grants are valued in USD.
 
 The FPA also provides grants to defray travel costs to events such as FOSDEM.  These grants are
-generally valued in USD.
+generally valued in USD. These Grants are not considered to be FPADF grants and are accounted
+for separately.
+
+The FPA may award grants for other purposes, such as education.  These grants are not part of the FPADF
+program
+
+## Who can receive a grant?
+Grant are only issued to individuals.  In the event multiple people are involved in an initiative, 
+one of them must act as the "prime contractor".  The prime contractor is responsible for dividing
+grant money among the participants.  The FPA will not involve itself in any disputes between the
+participants.
 
 ## Documenting a Grant award
 If there is to be a gap between awarding of the Grant and the actual payment, then generally accepted
