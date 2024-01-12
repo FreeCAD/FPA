@@ -11,7 +11,7 @@ layout: default
 
 ## The Program
 
-In a new initiative aimed at improving the quantity and quality of online writing about FreeCAD, the FreeCAD Project Association is happy to announce that honoraria are now available for article writers here on FreeCAD News.
+In a new initiative aimed at improving the quantity and quality of online writing about FreeCAD, the FreeCAD Project Association is happy to announce that honoraria are now available for article writers on the [FreeCAD blog](https://blog.freecad.org).
 
 - The FPA will allocate $5000/yr to pay for original blog content.
 - Content will be selected by the blog editor.
@@ -22,5 +22,6 @@ In a new initiative aimed at improving the quantity and quality of online writin
 - Submitted posts must be at least 2000 words in length.
 - Published posts will have a byline identifying the author (may use forum handle or another alias)
 
+If you are interested in writing blog contents for the FreeCAD blog, drop us a mail at fpa@freecad.org Please note that we will only accept original FreeCAD-related content, and will not participate in any link exchange scheme or any other kind of commercial or sponsored content.
 
 *Added on 2022.12.07*
