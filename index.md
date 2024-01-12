@@ -4,7 +4,7 @@ shortcuts:
     - text: "Do you have an idea that could benefit from funding?"
       button: "Programs"
       href: "./programs.html"
-    - text: "Want to check out the 2023 budget?"
+    - text: "Want to check out budgets and spendings?"
       button: "Finances"
       href: "finances"
     - text: "Values, procedures rules, decisions, history"
