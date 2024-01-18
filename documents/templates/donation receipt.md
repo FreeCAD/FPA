@@ -1,5 +1,5 @@
 <div align=right>
-<img src="../../images/freecad.svg" style="width:24px;" />  <b>The FreeCAD project association</b><br/>
+<img src="../../images/freecad.svg" style="width:24px;" />  <b>The FreeCAD project association</b> AISBL<br/>
 Rue Docteur Kuborn 31 / 46<br/>
 1070 Anderlecht<br/>
 Belgium<br/>
