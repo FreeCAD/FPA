@@ -13,6 +13,9 @@ layout: default
 
 The FPA functions best with an active and participating membership.  Thus it is in our interest to regularly add new members and move inactive members to that status.
 
+* The takes nominations from its existing members and from the larger FreeCAD community.  If you know someone that you think would represent the community well, you may submit a nomination by emailing fpa@freecad.org
+    - You may not nominate yourself     
+
 When proposing a vote to add members, the following criteria may be helpful:
 
 * Is this person recognized and respected in the FreeCAD community?
@@ -25,12 +28,12 @@ When proposing a vote to add members, the following criteria may be helpful:
 
 ## Adding General Assembly (GA) members
 
-The process for adding members is designed to be straightforward, and to encourage the participation of a variety of interested community members.
+The process for adding members is designed to be straightforward and to encourage the participation of a variety of interested community members.
 
 To add a member to the GA:
 * Contact them privately to see if they're interested
     * Point them to this handbook, particularly the page on expectations
-* Conduct vote in the FPA Forum
+* Conduct a vote in the FPA Forum
 * When approved:
     * Add them to forum permissions so they can see the group
     * Update the roster
@@ -39,14 +42,14 @@ To add a member to the GA:
 
 Administrative team members should:
 * Have a low threshold to action --
-    * They should be willing to take action, make changes, edit files, send pull requests etc. without asking permission
+    * They should be willing to take action, make changes, edit files, send pull requests, etc. without asking for permission
     * They must be willing to take action on votes as approved by the GA
 * Have a good understanding of how the FPA operates
 * Have a good history of availability and response
 
 To add a GA member to the AT:
 * Contact them privately to see if they're interested
-* Conduct vote in the FPA Forum
+* Conduct a vote in the FPA Forum
 * When approved
     * Add to FPA public and private repos
     * Update the roster
