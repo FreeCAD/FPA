@@ -1,7 +1,7 @@
 ---
 title: "FPA Travel Grants"
 description:
-   "Travel grants to help FreeCAD developers and community members attend different gatherings and meetings"
+   "Travel grants to help FreeCAD developers and community members attend real-world events and meetings"
 layout: default
 ---
 
@@ -10,7 +10,7 @@ layout: default
 {{page.description}}
 
 
-The FreeCAD project association (FPA) is offering travel grants to help FreeCAD developers and community members attend different events organized by the FPA or not, where they can meet other (FreeCAD or not) developers. Grants are intended to help cover travel and hotel expenses and will be awarded based on the following criteria:
+The FreeCAD project association (FPA) is offering travel grants to help developers and community members attend different events where they can meet other developers and users. Grants are intended to help cover travel and hotel expenses and will be awarded based on the following criteria:
 
 ## The Program
 
@@ -24,6 +24,27 @@ The FreeCAD project association (FPA) is offering travel grants to help FreeCAD 
 * Open: [FOSDEM and FreeCAD day 2024](https://blog.freecad.org/2023/10/31/fosdem-freecad-day-and-hackathon-2024/) - 30 jan to 05 feb 2024 - USD 600 grants, up to max USD 6000
 * Closed: [Vancouver hackathon 2023](https://blog.freecad.org/2023/05/24/freecad-hackathon-11-13-august-2023/) - 11 to 15 aug 2023 - USD 500 grants, up to max USD 5000
 * Closed: [FOSDEM and FreeCAD day 2023](https://github.com/FreeCAD/FPA/issues/22) - 02 to 04 feb 2023. USD 500 grants, up to max USD 5000
+
+### Potential Events
+
+The FPA will continue to expand this program.  The FPA will authorize travel grant money on a event-by-event basis by a regular vote of the general assembly.  The criteria considered generally include:
+
+* Is the event generally recognized as a legitimate gathering of FOSS
+  developers and  users
+* Will there be a significant representation of FreeCAD or CAD/Design users
+* Will representation by FreeCAD developers and users generally benefit the
+  FreeCAD community by, for example clarifying requirements, increasing contributions, increasing donations, or building collaboration
+* Will a lack of representation by FreeCAD developers or community members be
+  detrimental to
+  FreeCAD in any way.
+* Is someone within the FreeCAD community willing to lead and organize FreeCAD
+  participation
+
+We welcome suggestions for events that we can consider.  Some suggestions that have already been received but not yet autorized include:
+* [OSHWA summit](https://www.oshwa.org/2023/08/21/open-hardware-summit-2024/)
+* [IndiaFOSS](https://indiafoss.net/)
+* [PyCon India](https://in.pycon.org/2024/)
+* [FOSS Hacks](https://fossunited.org/fosshack/2023)
 
 ## Who is Eligible
 
