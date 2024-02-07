@@ -92,3 +92,15 @@ Kurt will transition all existing services to a declarative format using Ansible
 *Funding approved 26 November 2023.*
 
 Ajinkya will implement general tangency with B-splines and make it possible to preview B-splines when drawing them. He will also implement Bezier curves, add a curvature constraint, and improve support for joining curves. Ajinkya was awarded a grant of 5000 USD.
+
+### Bradley Mclean (@bgbsww): Toponaming issue mitigation
+
+*Funding approved 22 January 2024.*
+
+Bradley will be working for two months on integrating fixes for the toponaming issue from RealThunder's branch to upstream FreeCAD. He was awarded a grant of 4800 USD.
+
+### Vincenzo Calligaro (@CalligaroV): Toponaming issue mitigation
+
+*Funding approved 22 January 2024.*
+
+Vincenzo will be working for two months on integrating fixes for the toponaming issue from RealThunder's branch to upstream FreeCAD. He was awarded a grant of 3400 EUR.
