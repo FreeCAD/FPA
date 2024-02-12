@@ -30,3 +30,7 @@ Create a transaction charging the grant amount to the appropriate account, offse
 account providing the funds.  Any fees involved should also be added to the transaction.
 
 Normally a Github issue is created for each payment.
+
+### Taxes
+In some jurisdictions, grants are considered taxable income.  The grantee is responsible for any
+taxes due on grant income.  The FPA does not withhold taxes on grants. 
