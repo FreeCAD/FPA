@@ -4,8 +4,8 @@ We make our mission possible through donations. All finances of the FPA are publ
 
 ### Budgets and yearly reports
 
-* [2022 report and 2023 budget](budgets/2023.md)
-* [2022 budget](budgets/2022.md)
+* [2023 annual report](annualreports/2023.md)
+* [2022 annual report](annualreports/2022.md)
 {: .menuList .newWindow}
 
 ### Detailed income and expenditures reports

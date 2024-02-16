@@ -40,3 +40,4 @@ How to spend the FPA's money.
 ## Miscellaneous
 - [Converting gnuCash Html to Github markdown](./gnuCashToGithubMarkdown.md)
 - [Issuing Receipts for Donations](./IssuingReceipts.md)
+- [Refunding Donations](./DonationRefunds.md)
