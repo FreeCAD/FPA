@@ -5,18 +5,18 @@ description:
 layout: default
 shortcutType: regular
 shortcuts:
-    - text: FOSDEM 2023 Travel grants for FreeCAD community members
+    - text: Travel grants for FreeCAD community members
       button: Travel grants
       href: /programs/fosdem-travel-grants
     - text: Grants help accelerate FreeCAD development
       button: Development fund
       # href: /_programs/FPADF-Announcements.html
       href: /programs/fpadf-announcement
-    - text: TBA
-      button: TBA
-      href: /programs/
-    - text: The FPA will pay authors to write original content for the FreeCAD Blog
-      button: Blog author
+    - text: A program for people willing to learn and teach FreeCAD
+      button: Learning initiative
+      href: /programs/learning_initiative
+    - text: The FPA seeks authors to write original content for the FreeCAD Blog
+      button: Blog content
       href: /programs/blog-content
 ---
 
