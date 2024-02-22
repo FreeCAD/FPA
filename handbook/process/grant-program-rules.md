@@ -1,5 +1,5 @@
 ---
-title: "Grant Program Rulebook"
+title: "Grant Program Rules"
 description:
     "How the grant program works"
 layout: default
