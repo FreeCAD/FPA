@@ -14,7 +14,7 @@ shortcuts:
       href: /programs/fpadf-announcement
     - text: A program for people willing to learn and teach FreeCAD
       button: Learning initiative
-      href: /programs/learning_initiative
+      href: /programs/learning-initiative
     - text: The FPA seeks authors to write original content for the FreeCAD Blog
       button: Blog content
       href: /programs/blog-content
