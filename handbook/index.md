@@ -55,6 +55,7 @@ This handbook has several major sections:
 
 ## Programs and Initiatives
 - [How the FPA uses its money](../programs.md)
+- [Grant Program Rules](process/grant-program-rules.md)
 {: .menuList}
 
 ## People
