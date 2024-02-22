@@ -85,17 +85,17 @@ Alternatively, you can request a partial compensation and a pause to handle your
 
 The following is a reverse-chronological-order list of ongoing projects funded by the FreeCAD Project Association:
 
-### Max Wilfinger (@maxwxyz): Bugs triaging
-
-*Funding approved XX February xxxx.*
-
-Max will triage bug reports. The contract is for 1 year, with monthly payouts of $500.
-
 ### Mario Passaglia (@marioalexis84): Bugfixing and electromagnetic system simulations using CalculiX
 
-*Funding approved XX February xxxx.*
+*Funding approved 11 February 2024.*
 
 Mario will be working for 7 months to provide solutions for electromagnetic problems leveraging the CalculiX solver. He will also fix bugs in the FEM workbench. Mario was awarded a grant of 4000 USD.
+
+### Max Wilfinger (@maxwxyz): Bugs triaging
+
+*Funding approved 10 February 2024.*
+
+Max will triage bug reports. The contract is for 1 year, with monthly payouts of $500.
 
 ### Bradley Mclean (@bgbsww): Toponaming issue mitigation
 
