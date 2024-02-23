@@ -67,7 +67,7 @@ As neither the grant committee nor FPA members have control over ecosystem proje
 
 ## How to submit a grant application
 
-Grant applications are managed in a [public GitHub repository](FIXME) in the FreeCAD project.
+Grant applications are managed in a [public GitHub repository](https://github.com/FreeCAD/FPA-grant-proposals) in the FreeCAD project.
 
 To submit a grant application, the applicant creates an issue and chooses the application template in the form, then fills all the fields.
 
