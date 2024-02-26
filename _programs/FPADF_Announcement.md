@@ -142,4 +142,4 @@ Chris will implement autoconnection of homebrew-freecad to self-hosted runners, 
 
 ## Past Issued Grants
 
-You can find the list of past issued grants in the [Grant Archive](/_programs/grant-program-archive.md).
+You can find the list of past issued grants in the [Grant Archive](../programs/grant-program-archive).
