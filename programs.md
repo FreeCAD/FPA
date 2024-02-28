@@ -18,6 +18,9 @@ shortcuts:
     - text: The FPA seeks authors to write original content for the FreeCAD Blog
       button: Blog content
       href: /programs/blog-content
+    - text: The FPA seeks people interested in obtaining a granto to perform a specific task
+      button: Job offers
+      href: /programs/job-offers
 ---
 
 # {{page.title}}
