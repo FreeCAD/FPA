@@ -10,16 +10,16 @@ mermaid: true
 
 The FreeCAD Grant Program aims to foster rapid development of FreeCAD and its ecosystem by hiring developers and non-programming contributors to work on specific projects. Their work is funded by the community, grants are issued by the FreeCAD Project Association that collects donations.
 
-For details on program rules, please refer to the [complete rulebook](/handbook/process/grant-program-rules.md).
+For details on program rules, please refer to the [complete rulebook](/handbook/process/grant-program-rules).
 
 The program was introduced in 2024 as a successor to the FPA Development Fund launched in August 2022.
 
 ## 2024 Program Timeline
 
-1 Mar 2024 — start collecting applications
-29 Mar 2024 — stop accepting applications 
-12 Apr 2024 — announce accepted applications, work begins
-20 Dec 2024 — program recap
+* 1 Mar 2024 — start collecting applications
+* 29 Mar 2024 — stop accepting applications 
+* 12 Apr 2024 — announce accepted applications, work begins
+* 20 Dec 2024 — program recap
 
 Out-of-program grant applications can be submitted at any time.
 
