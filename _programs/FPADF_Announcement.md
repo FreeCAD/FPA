@@ -114,7 +114,7 @@ Vincenzo will be working for two months on integrating fixes for the toponaming 
 
 *Funding approved 26 November 2023.*
 
-Ajinkya will implement general tangency with B-splines and make it possible to preview B-splines when drawing them. He will also implement Bezier curves, add a curvature constraint, and improve support for joining curves. Ajinkya was awarded a grant of 5000 USD.
+Ajinkya will implement general tangency with B-splines and make it possible to preview B-splines when drawing them. He will also investigate the implementation of Bezier curves and improve support for joining curves. Ajinkya was awarded a grant of 5000 USD.
 
 ### Adrian Insauuralde (@adrianinsaval): Packaging
 
