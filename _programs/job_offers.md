@@ -63,6 +63,12 @@ The tasks to be carried are:
 
 * Both the FPA and the candidate can unilaterally terminate this job at any time, for any reason, by simple notification to the other party. The FPA will pay a last instalment of the payment schedule if work has been done by the candidate after the last payment.
 
+* The source code and technical designs of this job (as well as any documentation and supporting materials officially produced within this job) are to be made openly available to the general public under the LGPL 2.1+ for the code, or CreativeCommons Attributio 3.0 for documentation material, as stated on the [FreeCAD licenses](https://wiki.freecad.org/Licence) page.
+
+* The candidate commits to keep the FreeCAD community up to date with progress made within the project at least every month and will maintain a public log.
+
 ## Payment
 
 * Upon approving a candidate, the FPA and the candidate will agrre on a payment schedule. Payments will be done by the FPA according to that schedule, by IBAN bank transfer or PayPal.
+
+* As the result of the work done in the job is not received by the FPA but by the FreeCAD project, all the payments issued by the FPA are donations without counterpart. Candidates are responsible for figuring out and handling these payments and possible incumbent taxes according to the laws of their country.
