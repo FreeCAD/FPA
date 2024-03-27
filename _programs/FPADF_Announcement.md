@@ -71,7 +71,7 @@ You can apply for an individual grant. The same rules apply: make a great case f
 
 ### Who reviews applications?
 
-The grant review committee looks at technical aspects of each grant application. Current members: Yorik van Havre (Arch and Draft maintainer), Chris Hennes (overall maintainer), and Pierre-Louis Boyer (Sketcher contributor).
+The grant review committee looks at technical aspects of each grant application. Current members: Chris Hennes (@chennes, overall maintainer, committee chair), Yorik van Havre (@yorik, Arch and Draft maintainer), Pierre-Louis Boyer (@PaddleStroke, Sketcher contributor), @user1234, @FreeCutter, @chrisb, @shaise, and @drmacro. Anyone who is interested in joining the grant review committee should reach out to Chris Hennes (chennes@freecad.org, @chennes on Discord, @chris_hennes on Telegram, and @chennes on the FreeCAD Forums).
 
 The FPA general assembly then takes the technical review into consideration and looks at non-technical aspects of the proposal. The general assembly is more diverse, its members are both FreeCAD contributors, educators, and representatives of nonprofits and businesses. The full list of members is here.
 
