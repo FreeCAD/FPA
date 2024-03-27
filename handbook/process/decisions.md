@@ -76,3 +76,4 @@ A list of decisions taken by vote of the association members and passed by conse
 | Grant to maxwxyz of 500 EUR/month for Bug Triage | 2024.02.10 | [link](https://forum.freecad.org/viewtopic.php?t=84542) |
 | 4000 USD grant to marioalexis84 for FEM | 2024.02.11 | [link](https://forum.freecad.org/viewtopic.php?t=84893) |
 | Travel Funding of USD 2050 for FOSSASIA | 2024.03.07 | [link](https://forum.freecad.org/viewtopic.php?t=85741) |
+| Travel funding of $600, up to $1000 to Kurt Kremitzki for 2024 Open Hardware Summit | 2024.03.27 | [link](https://forum.freecad.org/viewtopic.php?t=85616) |
