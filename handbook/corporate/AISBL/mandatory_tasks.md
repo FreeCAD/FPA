@@ -137,7 +137,7 @@ The declaration must be submitted no later than **October 28** in all cases, but
 
 Registering to the VAT is mandatory for all associations or companies engaging in commercial activities (the selling of goods or services). See [registering instructions here](creation). Once an association is registered, it must:
 
-* File monthly (default) or quarterly (if allowed at creation) reports, stating the total amount of operations (in and out) subject to VAT. Reports must follow a [specific calendar](https://finances.belgium.be/fr/entreprises/tva/declaration/declaration-periodique#q4). If no VAT operation has been done, a null report must be filed anyway
+* File monthly (default) or quarterly (if allowed, must be asked for when registering the AISBL at VAT) reports, stating the total amount of operations (in and out) subject to VAT. Reports must follow a [specific calendar](https://finances.belgium.be/fr/entreprises/tva/declaration/declaration-periodique#q4). If no VAT operation has been done, a null report must be filed anyway
 
 * Reports are filed online (needs a belgian ID card and be a registered admin of the AISBL, or an accountant)
 
@@ -147,11 +147,25 @@ Registering to the VAT is mandatory for all associations or companies engaging i
 
 * Inform of all the VAT paid in Belgium during the last quarter. Those will be reimbursed.
 
-* Apply [reverse charging](https://vatdesk.eu/en/eu-vat-news/reverse-charge-in-belgium/) when buying or selling goods or services from / to a body subject to VAT in another EU country. Warning, incorrect reverse charging will cause fines to be applied.
+* Apply [reverse charging](https://vatdesk.eu/en/eu-vat-news/reverse-charge-in-belgium/) when buying or selling goods or services from / to a body subject to VAT in another EU country. Warning, incorrect reverse charging will cause fines to be applied. When receiving invoices from anybody (person or comapny) **outside Belgium**, the invoice must carry 1) the FPA's VAT number (BE0781867807), and the mention "**Reverse charged VAT according to Art 21 § 2 of the Belgian VAT Code**". It is the responsability of the AISBL to make sure these mentions are corectly indicated on the invoices it receives.
+
+* The same mentions must be indicated when the AISBL is invoicing a VAT-enabled person or company within the EU. In that case, VAT is not applied on the invoice and is paid by rhe client.
 
 * Inform of all reverse charges applied/received during the last quarter, together with the quarterly declaration (separate form)
 
 The finance ministry website provides [information in english](https://finance.belgium.be/en/enterprises/vat) or [in french (with more information)](https://finances.belgium.be/fr/entreprises/tva) over all the details of VAT declaration
+
+#### quarterly VAT declaration
+
+The following operations must be registered on the quarterly declaration:
+
+* Invoices received from Belgian companies: The total amount without VAT (box 82), the VAT paid (box 59), the total to be reimburded by the VAT administration (box 72). The invoice must carry our VAT number.
+
+* Invoices issued to Belgian companies and all individuals anywhere: The total amount without VAT (box 03), the VAT received (box 54), the total to be paid to the VAT administration (box 71). The invoice must carry the client's VAT number, if existing.
+
+* Invoices issued to EU/non-EU companies: The total amount without VAT (box 46) only. No VAT must be charged. The invoice must carry the client's VAT number and the reverse-charging legal mention. A *relevé intracommunautaire* must also be registered together with the quarterly declaration, mentioning the total amount without VAT with an L code.
+
+* Invoices received from EU/non-EU companies: The total amount without VAT (box 82), the VAT of 21% to be paid on it (box 59) and also the same amount to be deduced (box 54). There is therefore no amount to report on boxes 71 or 72. The invoice must carry our VAT number and the reverse-charging legal mention.
 
 ### UBO register
 
