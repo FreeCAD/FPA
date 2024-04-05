@@ -3,12 +3,27 @@
 In general, the FPA issues "grants" to support the work of individuals on FreeCAD.  The FPA may
 also contract with individuals or other bodies for the delivery of specific services.
 
-If there is a contract, then VAT is likely involved.
+If there is an actual contract, then VAT applies and must be accounted for.
 
+Normally, payments to grantees are made on receipt of a progress report and no invoice is required.
+
+If a grantee submits an invoice, then the invoice must show our VAT number (BE 0781 867 807).  If the grantee
+does not have a VAT number or is not resident in Belgium, the invoice must also include the following:
+"Reverse charged VAT according to Art 21 § 2 of the Belgian VAT Code". This means that the FPA is responsible 
+for handling the VAT associated with the payment.
+
+
+## What is a grant?
 A grant ["refers to funds that are awarded to the recipient to enable the performance of self-directed research, where there is no contractual obligation for performance."](https://www.sfu.ca/research/researcher-resources/proposal-development/grants-vs-contracts)
 
 
-Grants & VAT
+## What is a Contract?
+For our purposes, a contract is a legal agreement between the FPA and a supplier that commits the supplier to
+provide specific deliverables.  Contracts may involve penalties for non-performance. Contracts may also include
+a "time is of the essence" that requires the parties to fulfill their obligations on time.
+
+
+## Grants & VAT
 
 ["Grants are outside the scope of VAT as long as the funding is not conditional a service being provided in return for the funding."](https://www.sussex.ac.uk/finance/how/taxation/vat/vatincome/vatgrants)
 
