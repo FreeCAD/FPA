@@ -1,0 +1,23 @@
+# Notes on Grants, Contracts and VAT
+
+In general, the FPA issues "grants" to support the work of individuals on FreeCAD.  The FPA may
+also contract with individuals or other bodies for the delivery of specific services.
+
+If there is a contract, then VAT is likely involved.
+
+A grant ["refers to funds that are awarded to the recipient to enable the performance of self-directed research, where there is no contractual obligation for performance."](https://www.sfu.ca/research/researcher-resources/proposal-development/grants-vs-contracts)
+
+
+Grants & VAT
+
+["Grants are outside the scope of VAT as long as the funding is not conditional a service being provided in return for the funding."](https://www.sussex.ac.uk/finance/how/taxation/vat/vatincome/vatgrants)
+
+
+[A discussion about grants vs contracts and their VAT implications](https://www.gov.uk/hmrc-internal-manuals/vat-supply-and-consideration/vatsc06311)
+"When an organisation identifies a need it wishes to fulfil, and decides not to do so itself, it may either:
+
+    enter into an agreement with another body to undertake the task, and fund that body’s costs through a grant or subsidy; or
+    enter into a contract for the procurement of services (and possibly goods) to enable the task to be completed
+
+The former is not a supply for VAT and will commonly be described as a grant. The latter is a supply for VAT but you may see instances where such arrangements are never the less described as a grant."
+
