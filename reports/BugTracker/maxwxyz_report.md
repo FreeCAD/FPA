@@ -97,7 +97,7 @@ Depending of the amount of issues I have to see if I can list them all like the 
 Additionally, we will manage a project board for the [**FreeCAD Day 2024 Complaint Session**](https://github.com/orgs/FreeCAD/projects/20), search for and add already existing issues which were mentioned (remarks from the discussion will be commented), create new issues for actionable mentions and keep track of the implementation status. The plan is to add all issues or create new one if not existing yet until next months report.
 
 
-## 2024-03-15
+## 2024-04-15
 The work on the bugtracker system continued, all new issues were triaged and labels were tagged accordingly. Relevant people (authors, developers) were pinged to follow up or ask for more information. There are no duplicates for new issues this month, if duplicates were created, they were closed and aditional feedback was added as comment to the original issue. 
 All manually closed issues won't be mentioned as list including reason to close.
 
