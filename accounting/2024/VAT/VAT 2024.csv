@@ -1,6 +1,4 @@
-VAT 2024,,,,,,,,,
-,,,,,,,,,
-,Date,In/Out,Invoice,FPA issue,VAT number,Total without VAT,VAT 12%,VAT 21%,Total VAT included
+VAT 2024,Date,In/Out,Invoice,FPA issue,VAT number,Total without VAT,VAT 12%,VAT 21%,Total VAT included
 ,,,,,,,,,
 January,,,,,,,,,
 ,2024.01.05,In,Rooms for the FreeCAD day 2024 Part 1 ,124,BE 0882 590 528,937.50 €,,196.88 €,"1,134.38 €"
@@ -14,4 +12,4 @@ March,,,,,,,,,
 ,2024.03.07,In,Monthly Stipend for FPA Chair,116,BE 0655 581 725,382.30 €,,80.28 €,462.58 €
 ,,,,,,,,,
 Total 1st trimester,,,,,,"4,759.60 €",119.81 €,789.86 €,"5,669.27 €"
-,,,,,,,909.67 €,,
+Total VAT,,,,,,,909.67 €,,
