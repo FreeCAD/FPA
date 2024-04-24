@@ -65,3 +65,6 @@ This handbook has several major sections:
 - [Adding Members](./process/member.md)
 - [Periodic Reconfirmation](./process/reconfirmation.md)
 {: .menuList}
+
+## Policy
+- [Privacy Policy](./general/privacypolicy.md)
