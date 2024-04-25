@@ -85,6 +85,12 @@ Alternatively, you can request a partial compensation and a pause to handle your
 
 The following is a reverse-chronological-order list of ongoing projects funded by the FreeCAD Project Association:
 
+### Adrianos Karampilis (@adrianos): Update of the FreeCAD manual
+
+*Funding approval 22 February 2024.*
+
+Adrianos will update all the pages of the [FreeCAD manual](https://wiki.freecad.org/Manual) to match the current development branch and the forthcoming 1.0 release. Adrianos was awarded a grant of 2500 USD.
+
 ### Mario Passaglia (@marioalexis84): Bugfixing and electromagnetic system simulations using CalculiX
 
 *Funding approved 11 February 2024.*
