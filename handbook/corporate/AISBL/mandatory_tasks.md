@@ -25,6 +25,7 @@ This document contains things to know to create and manage an AISBL (Internation
 | Tax declaration                    |     |     |     |     |     |     | x   |     |     |     |     |     |
 | VAT declarations, if applicable    | x   |     |     | x   |     |     | x   |     |     | x   |     |     |
 | VAT list of clients, if applicable |     |     |     |     |     |     |     |     |     |     |     | x   |
+| Request insurance for next year    |     |     |     |     |     |     |     |     | x   |     |     |     |
 
 ### Determining the type of the AISBL
 
@@ -217,6 +218,12 @@ The declaration must be filed **no later than March 31**. Each ASBL receives, in
 ### Social report
 
 Non-profit organisations that employ an average of 20 or more staff per year, including small non-profit organisations, must draw up a social balance sheet.
+
+### Insurance
+
+All assocations in Belgium are [required by law](https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=05-08-29&numac=2005022674) to insure their **volunteers**. There is a clear distinction between volunteers and participants. Volunteers are people doing voluntary work for the association, while participants are those who benefit from the activities of the association. Only volunteers need to be insured.
+
+To boost voluntary activity, the Brussels region offers a [free volunteers insurance](https://ccf.brussels/assurance-volontariat-gratuite/) to all associations seated on its territory. A request form must be filled and sent before the year begins, with the planned activities of that year and the requested number of volunteering days/person. This insurance covers any event in Belgium or abroad, except the USA and Canada.
 
 ***
 
