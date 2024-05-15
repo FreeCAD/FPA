@@ -268,3 +268,29 @@ Currently, there are 359 open issues on GitHub which were imported from the old 
 Please also watch out for the old issues tagged for feedback if they are still relevant:  [`is:open is:issue sort:created-asc label:"Missing: feedback"`](https://github.com/FreeCAD/FreeCAD/issues?q=is%3Aopen+is%3Aissue+sort%3Acreated-asc+label%3A%22Missing%3A+feedback%22)** as otherwise they will be closed after one month.
 If there is no more feedback for newly created issues, they will be closed after 1-2 weeks.
 
+
+## 2024-05-15
+This month, the bug tracking efforts continued with a focus on maintaining the repository's state. All new issues underwent a review to ensure reproducibility, relevance, and to check for any existing duplicates. Prompt tagging and follow-up actions were taken for each issue, including tagging related issues and/or developers in the comments for collaboration. 
+
+This month, a notable increase in issues related to Qt6 compatibility and building from source could be observed. Additionally, some pull requests were merged which closed multiple issues at once. Notably, many pull requests addressed UI and icon-related issues, reflecting a concerted effort to enhance the user experience.
+
+The amount of new and closed issues are at a consistent level with the last two periods, but the time taken to tag and respond to new issues was slightly reduced, indicating improved efficiency in the bug tracking process.
+
+
+### Current statistics this month:
+|Metric|Count|
+|:---|---:|
+|**New** issues this month: | 208 |
+|**Closed** issues this month: | 166 |
+|Currently open issues in **total**: | 1,600 |
+
+Monthly issue metrics for the last period: https://github.com/FreeCAD/FreeCAD/issues/14030
+
+
+### Outlook
+DWG Label and Project: a new label tag, `DWG` (Design Working Group), has been introduced to tag issues requiring input or a discussion from the Design Working Group, particularly those related to UI/UX. Old issues will also be retroactively tagged for relevance on this topic. A new project board was introduced to this topic and will be populated with relevant tasks. The board can be found here: https://github.com/orgs/FreeCAD/projects/24
+
+A new project board for ISO GPS / GD&T topics has been established, although new issues for this topic are yet to be created, they will be added here: https://github.com/orgs/FreeCAD/projects/23
+
+Issue Refinement: Issues that lack a clear problem description or present multiple solutions will be converted into discussions for further refinement, ensuring clarity and actionable solutions.
+
