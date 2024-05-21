@@ -91,7 +91,7 @@ We treat the planning of a project as a project stage of its own, so contributor
 
 We divide payouts between stages. Example: a project has 3 development stages. The contributor gets 4 payouts: 1 for planning, 1 for the first complete stage, 1 for the second stage, and 1 for the last stage. It's possible to divide payouts not evenly between stages, if some of the stages assume either more or less work than the other ones. The applicant should provide reasoning for that.
 
-We use wire transfers and Wise.com for paying contributors. It is up to the contributor to provide correct bank account details and intermediary bank details (where applicable).
+We use bank transfers, PayPal or OpenCollective to deliver grant payments. It is up to the contributor to provide correct bank account details and intermediary bank details (where applicable).
 
 ## Progress reports
 
