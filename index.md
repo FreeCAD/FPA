@@ -23,7 +23,7 @@ shortcuts:
 
 <!-- Only show if not jekyll engine -->
 {% if false %}
-# <img src="images/freecad.svg" style="zoom:50%;" /> FreeCAD project association
+# <img src="images/logos/logo.svg" style="zoom:50%;" /> FreeCAD project association
 {% endif %}
 
 The **FreeCAD Project association** (FPA) is an international non-profit association created by FreeCAD administrators and core developers in November 2021 and seated in Belgium. Its goal is to support and protect the [FreeCAD project](https://freecad.org).
@@ -68,7 +68,7 @@ The FPA is registered in Belgium as an AISBL with VAT number [BE0781867807](http
 * [Bank account: BE04 0019 2896 4531](https://wiki.freecadweb.org/Donate)
 * [PayPal](https://www.paypal.com/donate/?hosted_button_id=M3Z8BGW6DB69Q)
 * [OpenCollective](https://opencollective.com/freecad)
-* [LiberaPay team account (not managed by the FPA)](https://liberapay.com/FreeCAD/) 
+* [LiberaPay team account (not managed by the FPA)](https://liberapay.com/FreeCAD/)
 * [Stripe](https://donate.stripe.com/14k3ei9TYgwFclq145)
 * [GitHub](https://github.com/sponsors/FreeCAD)
 {: .menuList .newWindow}
