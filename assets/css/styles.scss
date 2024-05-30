@@ -4,6 +4,10 @@
 $daAzul: rgba(0, 112, 187, 0.9);
 $daCerulean: rgba(0, 123, 167, 0.7);
 $daCeruleanLight: rgba(0, 123, 167, 0.5);
+$TuftsBlue: rgba(65, 143, 222, 1);
+$LightRed: rgba(65, 143, 222, 1);
+$DarkRed: rgba(65, 143, 222, 1);
+$OffBlack: rgba(65, 143, 222, 1);
 
 @font-face {
     font-family: "Inter";
@@ -89,12 +93,12 @@ nav {
 }
 
 .solobutton {
-    background-color: $daAzul;
-    border: 2px solid $daAzul;
+    background-color: $TuftsBlue;
+        border: 2px solid $TuftsBlue;
     color: white;
     &:hover {
         background-color: rgba(0, 0, 0, 0);
-        color: $daAzul;
+        color: $TuftsBlue;
     }
 }
 
@@ -170,7 +174,7 @@ nav > a:hover {
 
 .gridContainer > div {
     padding: 1em;
-    background-color: $daAzul;
+    background-color: $TuftsBlue;
     color: white;
     position: relative;
     font-family: "Inter", sans-serif;
@@ -247,7 +251,7 @@ $time: 0.8s;
         &:hover {
             background-color: rgba(0, 0, 0, 0);
             @extend .transistion;
-            color: $daAzul;
+            color: $TuftsBlue;
         }
         > a {
             color: inherit;
@@ -407,4 +411,47 @@ tr:not(:last-child) > td {
 
 td:not(:last-child), th:not(:last-child) {
     border-right: 2px solid $daCeruleanLight;
+}
+.tuftsbluebutton {
+    background-color: $TuftsBlue;
+    border: 2px solid $TuftsBlue;
+    color: black;
+
+    &:hover {
+        background-color: rgba(0, 0, 0, 0);
+        color: $TuftsBlue;
+    }
+}
+
+.lightredbutton {
+    background-color: $LightRed;
+    border: 2px solid $LightRed;
+    color: black;
+
+    &:hover {
+        background-color: rgba(0, 0, 0, 0);
+        color: $LightRed;
+    }
+}
+
+.darkredbutton {
+    background-color: $DarkRed;
+    border: 2px solid $DarkRed;
+    color: black;
+
+    &:hover {
+        background-color: rgba(0, 0, 0, 0);
+        color: $DarkRed;
+    }
+}
+
+offblackbutton {
+    background-color: $OffBlack;
+    border: 2px solid $OffBlack;
+    color: white;
+
+    &:hover {
+        background-color: rgba(0, 0, 0, 0);
+        color: $OffBlack;
+    }
 }
