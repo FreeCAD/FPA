@@ -43,6 +43,7 @@ Values, procedures, rules, decisions, history in our [Handbook](/handbook/index.
 * [The Royal decree](documents/Royal%20decree.pdf) giving official existence to the FPA
 * [The FPA statutes](documents/Statutes.pdf) stating the goals and specificities of the FPA
 * [The FreeCAD trademark](documents/Trademark.pdf) owned by the FPA
+* [The FreeCAD brand guidelines](handbook/process/logo.md) owned by the FPA
 
 {% comment %}Already in shortcuts{% endcomment %}
 {% if false %}

@@ -47,6 +47,7 @@ This handbook has several major sections:
 {: .menuList}
 
 ## Resource access and management
+- [Brand guidelines](./process/logo.md)
 - [Source code](./process/source_code_access.md)
 - [Social media](./process/socialmedia.md)
 - [Forum](./process/forum.md)
