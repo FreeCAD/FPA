@@ -5,9 +5,9 @@ $daAzul: rgba(0, 112, 187, 0.9);
 $daCerulean: rgba(0, 123, 167, 0.7);
 $daCeruleanLight: rgba(0, 123, 167, 0.5);
 $TuftsBlue: rgba(65, 143, 222, 1);
-$LightRed: rgba(65, 143, 222, 1);
-$DarkRed: rgba(65, 143, 222, 1);
-$OffBlack: rgba(65, 143, 222, 1);
+$LightRed: rgba(255, 88, 93, 1);
+$DarkRed: rgba(203, 51, 59, 1);
+$OffBlack: rgba(33, 37, 41, 1);
 
 @font-face {
     font-family: "Inter";
@@ -121,7 +121,7 @@ nav > a:hover {
 }
 
 #top_header > a {
-    background-color: $daCerulean;
+    background-color: $TuftsBlue;
     color: white;
     padding: 0.9em 1.2em;
     border-radius: 0 0 0.8em 0.8em;
@@ -375,7 +375,7 @@ footer {
         display: flex;
         justify-content: center;
         padding: 0.6em 1em;
-        background-color: $daCerulean;
+        background-color: $TuftsBlue;
         width: 10em;
         &:hover {
             background-color: $daCeruleanLight;
@@ -445,7 +445,7 @@ td:not(:last-child), th:not(:last-child) {
     }
 }
 
-offblackbutton {
+.offblackbutton {
     background-color: $OffBlack;
     border: 2px solid $OffBlack;
     color: white;
