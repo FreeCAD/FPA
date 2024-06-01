@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <path
+     d="m 416,128 -64,64 H 224 v 48 h 64 v 64 h -64 v 80 l -64,64 h 64.80608 c 4.85216,0 9.15024,-3.12432 10.64944,-7.73904 l 11.58384,-35.65248 c 1.1072,-3.40944 3.78384,-6.07728 7.19328,-7.18512 l 8.90496,-2.89376 c 3.4096,-1.1088 7.14512,-0.52 10.04576,1.5872 l 30.31952,22.03472 c 3.92528,2.85168 9.24592,2.85168 13.1712,0 l 27.1776,-19.7528 c 3.92576,-2.85184 5.56736,-7.90304 4.068,-12.51792 l -11.58384,-35.65264 c -1.1088,-3.4096 -0.512,-7.14512 1.5952,-10.04576 l 5.50672,-7.57376 c 2.10704,-2.90032 5.46864,-4.6216 9.0536,-4.62192 l 37.488,0.008 c 4.85248,1.6e-4 9.15024,-3.13232 10.64944,-7.7472 l 10.38496,-31.94832 c 1.4992,-4.61472 -0.144,-9.6744 -4.068,-12.5264 l -30.32784,-22.0344 c -2.90048,-2.10736 -4.6136,-5.46848 -4.6136,-9.05376 v -9.36784 c 3.2e-4,-3.58512 1.71296,-6.95488 4.6136,-9.06192 l 34.76784,-25.25936 C 414.28672,198.88848 416,195.51904 416,191.93392 Z"
+     style="fill:#418fde;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+     id="path8-4-4" />
+  <path
+     id="path7-7-2"
+     style="display:inline;fill:#ff585d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+     d="m 352,64 -64,64 h 64 v 64 l 64,-64 V 64 Z M 160,320 96,384 v 64 h 64 l 64,-64 h -64 z" />
+  <path
+     d="m 160,64 -64,64 v 256 l 64,-64 V 128 h 128 l 64,-64 z"
+     style="fill:#cb333b;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+     id="path3-1-7" />
+  <path
+     d="m 160,384 h 64 v -80 h 64 V 240 H 224 V 192 H 352 V 128 H 160 Z"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+     id="path9-4-0" />
+  <defs
+     id="defs4" />
+</svg>
