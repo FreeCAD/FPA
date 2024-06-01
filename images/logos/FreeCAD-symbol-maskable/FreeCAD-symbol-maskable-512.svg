@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <path
+     d="m 396,144 -56,56 H 228 v 42 h 56 v 56 h -56 v 70 l -56,56 h 56.70532 c 4.24564,0 8.00646,-2.73378 9.31826,-6.77166 l 10.13586,-31.19592 c 0.9688,-2.98326 3.31086,-5.31762 6.29412,-6.28698 l 7.79184,-2.53204 c 2.9834,-0.9702 6.25198,-0.455 8.79004,1.3888 l 26.52958,19.28038 c 3.43462,2.49522 8.09018,2.49522 11.5248,0 l 23.7804,-17.2837 c 3.43504,-2.49536 4.87144,-6.91516 3.5595,-10.95318 l -10.13586,-31.19606 c -0.9702,-2.9834 -0.448,-6.25198 1.3958,-8.79004 l 4.81838,-6.62704 c 1.84366,-2.53778 4.78506,-4.0439 7.9219,-4.04418 l 32.802,0.007 c 4.24592,1.4e-4 8.00646,-2.74078 9.31826,-6.7788 l 9.08684,-27.95478 c 1.3118,-4.03788 -0.126,-8.4651 -3.5595,-10.9606 l -26.53686,-19.2801 c -2.53792,-1.84394 -4.0369,-4.78492 -4.0369,-7.92204 v -8.19686 c 2.8e-4,-3.13698 1.49884,-6.08552 4.0369,-7.92918 l 30.42186,-22.10194 C 394.50088,206.02742 396,203.07916 396,199.94218 Z"
+     style="fill:#418fde;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+     id="path8-4-4" />
+  <path
+     id="path7-7-2"
+     style="display:inline;fill:#ff585d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+     d="m 340,88 -56,56 h 56 v 56 l 56,-56 V 88 Z m -168,224 -56,56 v 56 h 56 l 56,-56 h -56 z" />
+  <path
+     d="m 172,88 -56,56 v 224 l 56,-56 V 144 h 112 l 56,-56 z"
+     style="fill:#cb333b;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+     id="path3-1-7" />
+  <path
+     d="m 172,368 h 56 v -70 h 56 V 242 H 228 V 200 H 340 V 144 H 172 Z"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+     id="path9-4-0" />
+</svg>

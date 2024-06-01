@@ -23,7 +23,7 @@ shortcuts:
 
 <!-- Only show if not jekyll engine -->
 {% if false %}
-# <img src="images/logos/logo.svg" style="zoom:50%;" /> FreeCAD project association
+# <img src="images/logos/FreeCAD-symbol.svg" style="width:10%;" /> FreeCAD project association
 {% endif %}
 
 The **FreeCAD Project association** (FPA) is an international non-profit association created by FreeCAD administrators and core developers in November 2021 and seated in Belgium. Its goal is to support and protect the [FreeCAD project](https://freecad.org).
