@@ -1,13 +1,13 @@
 ---
 shortcutType: regular
 shortcuts:
-    - text: "Do you have an idea that could benefit from funding?"
+    - text: "Apply for a grant from the FPA to improve FreeCAD and its ecosystem"
       button: "Programs"
       href: "./programs.html"
-    - text: "Want to check out budgets and spendings?"
+    - text: "Check out budgets and spendings at the Association"
       button: "Finances"
       href: "finances"
-    - text: "Values, procedures rules, decisions, history"
+    - text: "Learn about our values, procedures, rules, decisions, history"
       button: "Handbook"
       href: "/handbook/"
     - text: "Get in touch"
@@ -30,11 +30,11 @@ The **FreeCAD Project association** (FPA) is an international non-profit associa
 
 <!-- Only show if not jekyll engine -->
 {% if false %}
-Do you have an idea that could benefit from funding? See our [programs](./programs.md)
+Apply for a grant from the FPA to improve FreeCAD and its ecosystem. See our [programs](./programs.md)
 
 Want to check out budgets and spendings? All our [Finances](./finances.md) are public
 
-Values, procedures, rules, decisions, history in our [Handbook](/handbook/index.md)
+Learn about our values, procedures, rules, decisions, history in the [Handbook](/handbook/index.md)
 
 (Get in touch)[about]
 
