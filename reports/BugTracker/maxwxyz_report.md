@@ -294,3 +294,29 @@ A new project board for ISO GPS / GD&T topics has been established, although new
 
 Issue Refinement: Issues that lack a clear problem description or present multiple solutions will be converted into discussions for further refinement, ensuring clarity and actionable solutions.
 
+## 2024-06-15
+This month, we observed an increased number of issue reports concerning the FreeCAD topological naming problem (TNP). This surge is likely due to more users testing and reporting back following the recent TNP fixes that were merged. Additionally, we encountered a significant number of poorly crafted issues, either duplicates of existing ones or help requests with specific problems that required sorting out and follow-up. Moreover, many old issues were closed due to a lack of further feedback from authors or developers, or because the issues could not be replicated, causing progress to stall. The oldest issue closed without any comment was from 2017, imported from the old bug tracker system.
+
+- Tagging and Follow-Up: All new issues were promptly reviewed, tagged, and assigned to relevant developers or team members. Follow-up comments were added to gather more information or to suggest possible solutions.
+- Topological Naming Problem (TNP) Reports: With the recent TNP fixes being merged, we saw an increase in related issue reports. Each report was tagged appropriately, and follow-up actions were taken to gather further information or confirm the issues.
+- Poorly Crafted Issues: A significant portion of the new issues were duplicates or requests for help. These were managed by consolidating duplicates, providing assistance where necessary, and ensuring that each issue was properly categorized.
+
+### Current statistics this month:
+|Metric|Count|
+|:---|---:|
+|**New** issues this month: | 238 |
+|**Closed** issues this month: | 207 |
+|Currently open issues in **total**: | 1,713 |
+
+Monthly issue metrics for the last period are currently not possible due to the failing GitHub action.
+
+
+### Outlook
+Continued Focus on Old Issues: The focus will remain on going through the old issues, starting with the oldest ones. These issues will be checked for relevance, reproducibility in the current weekly builds, and further information if needed.
+
+Refinement of Poorly Crafted Issues: Efforts will continue to improve the quality of new issues by providing guidance on proper issue reporting and actively managing duplicates and help requests, converting issues which are not ready to discussion.
+
+With the sheer amount of new issues beeing created, it could be discussed to implement a priority system for problems incl. tagging them by how difficult it is to solve them.
+
+Everyone can help with triaging by looking for old issues tagged with "Missing: feedback" to determine their relevance. These will be closed after one month if no further feedback is provided.
+
