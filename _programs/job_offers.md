@@ -18,24 +18,7 @@ Alongside the [Grants program](FPADF-Announcement), the FPA also builds specific
 
 ## Current job offers
 
-### Manual update proposal
-
-The FreeCAD project association (FPA) is seeking interested parties to apply for a contractor position to update the FreeCAD manual. The manual consists of 23 chapters that tour the user through basic concepts and different functionalities of FreeCAD. It is hosted on the FreeCAD wiki at [https://wiki.freecad.org/Manual](https://wiki.freecad.org/Manual).
-
-The current manual is obsolete: It contains many parts that reflect an earlier version of the software, and several newer and better workflows are not included. We need to provide a state-of-the-art manual that reflects the bleeding edge version of FreeCAD, so it can become tied with the next stable version.
-
-The work is expected initially to be carried out in a period of two or three months, but something else can be proposed by the candidate. A payment of **2500 USD** will be done in several instalments, to be determined by a payment schedule later on.
-
-The tasks to be carried are:
-
-* Check the entire manual for errors, inaccuracies and formatting mistakes
-* Replicate all the exercises and step-by-step instructions and adapt workflows and rolls that have changed
-* Identify and rewrite all parts that are obsolete or depend on an obsolete module or functionality
-* Redo all the screenshots when needed by the changes above, using always a theme compatible and similar to the current screenshots.
-* Verify the navigation system and redo or fix what does not work well
-* Create the necessary scripts to produce a pdf and an epub version of the manual
-* Verify and fix formatting problems in the pdf and epub versions
-* Explore and document possibilities to produce a printed version of the manual
+There is currently no job offer. Check back later!
 
 ## Eligibility
 
