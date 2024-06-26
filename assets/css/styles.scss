@@ -167,7 +167,7 @@ nav > a:hover {
     text-align: left;
     display: grid;
     gap: 1em;
-    height: 400px;
+    min-height: 400px;
     margin-top: 1.5em;
     margin-bottom: 2em;
 }
