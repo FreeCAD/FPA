@@ -6,7 +6,7 @@ FPA Grant to Francisco Rosa
 
 This first report on the development of parametric components in FreeCAD addresses three subjects: procedures acquired, problems not yet resolved and next steps.
 
-## 1. Purchased procedures
+## 1. Procedures acquired
 
 For the development of the first components, doors and windows, it was decided to create a single file that covered most types, instead of several individual ones. This made it a little difficult to start the work due to the need for greater planning to foresee all the necessary elements and how they would be articulated and parameterized together. However, the effort and work required produced positive results, as knowledge was acquired and some procedures were developed that will help and facilitate the development of other intended future components. These gains were then recorded and transformed into guides, forming part of the final file created.
 
@@ -20,9 +20,9 @@ Another point to highlight was the use of hierarchical visualization through the
 
 ## 2. Problems not yet resolved
 
-It was not possible to automate the 2D projections (sections, plans and views) according to the set of elements chosen (or viewed). It would be necessary to achieve a link between the visualization options and the generation of projections, so that when configuring the elements visualized in 3D, only their corresponding 2D projections were also produced.
+It was not possible to automate the 2D projections (sections, plans, and views) according to the set of elements chosen (or viewed). It would be necessary to achieve a link between the visualization options and the generation of projections, so that when configuring the elements visualized in 3D, only their corresponding 2D projections were also produced.
 
-Concerning the memorial with quantitaties and other information, it would be interesting for the text to update the materials and dimensions of the parts automatically and parametrically, as their data changes, as occurs when using isolated cells in the spreadsheet. I leave this question: would it be possible to combine formulas and strings in the same cell?
+Concerning the memorial with quantities and other information, it would be interesting for the text (with the general description of the component)to update the materials and dimensions of the parts automatically and parametrically, as their data changes, as occurs when using isolated cells in the spreadsheet. I leave this question: would it be possible to combine formulas and strings in the same cell?
 
 For improving the properties' elaboration, and thinking about translations and constant modifications of object characteristics, it would be good to expand its capabilities with the inclusion of independent strings to include other languages, as well as creating the possibility of editing them at any time.
 
