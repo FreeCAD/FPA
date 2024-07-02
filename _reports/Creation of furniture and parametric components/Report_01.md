@@ -6,7 +6,7 @@ FPA Grant to Francisco Rosa
 
 We can divide the content of this first report into three aspects: procedures acquired, problems not yet resolved and next steps.
 
-# 1. Purchased procedures
+## 1. Purchased procedures
 
 Instead of creating a file for each type of door, it was decided to create a single file that covered most types of doors. This made it a little difficult to start the work due to the need to foresee all the necessary elements and how they would be articulated and parameterized together. However, I believe that the effort and great work required were worth it, as learning was acquired and some procedures were developed that should help and facilitate the elaboration of the other intended components. These procedures were recorded in texts as guides and are part of the final file created.
 
@@ -18,7 +18,7 @@ It will be necessary to carry out even more usage tests, but apparently the para
 
 Another point to highlight was the use of hierarchical visualization through the application of combined formulas of these same selections, using multiplications of the visualization options in the content of the adopted expressions.
 
-# 2. Problems not yet resolved
+## 2. Problems not yet resolved
 
 It was not possible to use an automation mechanism for 2D projections (sections, plans and elevations), it would be necessary to achieve a connection between the visualization options with the generation of projections, as well as configuring the elements visualized in 3D, their corresponding 2D projections would also be produced. Thus, for now we left the application phase of the selected set of elements to generate the corresponding necessary 2D projections.
 
@@ -26,6 +26,6 @@ If possible, it would be interesting for the memorial text to also update the ma
 
 For translations and modifications of object properties, it would be interesting to expand their capabilities with the inclusion of independent strings to include other languages ​​(such as lines of code) as well as creating the possibility of editing them at any time.
 
-# 3. Next steps
+## 3. Next steps
 
 With the learning acquired and once the procedures for creating files for parametric components for FreeCAD have been established, greater ease and speed in creating the other intended elements is expected. For example, to create the next component, “Windows”, many parts of the “Doors” file created will certainly be reused. I would like to take this opportunity to note that the spreadsheet with the quantities and memorial of the file delivered is partially prepared and must be completed in the final phase scheduled for a general review of the work prepared.
