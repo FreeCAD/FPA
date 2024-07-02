@@ -4,27 +4,27 @@ FPA Grant to Francisco Rosa
 
 ## Report 1, 2024/07/02
 
-We can divide the content of this first report into three aspects: procedures acquired, problems not yet resolved and next steps.
+This first report covers three subjects: procedures acquired, problems not yet resolved and next steps.
 
 ## 1. Purchased procedures
 
-Instead of creating a file for each type of door, it was decided to create a single file that covered most types of doors. This made it a little difficult to start the work due to the need to foresee all the necessary elements and how they would be articulated and parameterized together. However, I believe that the effort and great work required were worth it, as learning was acquired and some procedures were developed that should help and facilitate the elaboration of the other intended components. These procedures were recorded in texts as guides and are part of the final file created.
+For the development of the first components, doors and windows, it was decided to create a single file that covered most types, instead of several individual ones. This made it a little difficult to start the work due to the need for greater planning to foresee all the necessary elements and how they would be articulated and parameterized together. However, the effort and work required produced positive results, as knowledge was acquired and some procedures were developed that will help and facilitate the development of other intended future components. These gains were then recorded and transformed into scripts, forming part of the final file created.
 
-To obtain a faster and more efficient parameterization, we sought to use formulas based on the relationships between the dimensions of the parts. Displacements of the profiles, sketches or bases of the objects were avoided, always keeping them at the origin of the coordinate system, only adjusting the resulting objects as necessary. The use of sketches based on or projected onto others was also avoided, meaning any necessary changes to one of them would not result in chain changes and edits to others in the worked file.
+To obtain faster and more efficient parameterization, we tried to use formulas based on the relationships between the dimensions of the parts. Displacements of the profiles, sketches or bases of the objects were avoided, always keeping them at the origin of the coordinate system, only adjusting the resulting objects as necessary. The use of sketches based on or designed from others was also avoided, that is, any necessary changes to one of them will not result in chain changes and edits to others in the worked file..
 
-Finally, possible changes in dimensions during parameterization were avoided as much as possible from compromising the geometric stability of the sketches, for this reason we chose to use pre-established profiles when possible or applicable. This strategy also expands the possibilities of including new external frame profiles when necessary.
+Finally, we avoided as much as possible that possible changes in dimensions during parameterization would compromise the geometric stability of the sketches, for this reason we chose to use pre-established profiles whenever possible or applicable. This strategy also expanded the possibilities for including new external profiles whenever necessary.
 
 It will be necessary to carry out even more usage tests, but apparently the parameterizations are proceeding smoothly without major problems or destruction of the bases (sketches) of the constructive elements of the desired final set.
 
-Another point to highlight was the use of hierarchical visualization through the application of combined formulas of these same selections, using multiplications of the visualization options in the content of the adopted expressions.
+Another point to highlight was the use of hierarchical visualization through the application of combined formulas of boolean properties, using multiplications of the visualization options in the content of the object expressions.
 
 ## 2. Problems not yet resolved
 
-It was not possible to use an automation mechanism for 2D projections (sections, plans and elevations), it would be necessary to achieve a connection between the visualization options with the generation of projections, as well as configuring the elements visualized in 3D, their corresponding 2D projections would also be produced. Thus, for now we left the application phase of the selected set of elements to generate the corresponding necessary 2D projections.
+It was not possible to use an automation mechanism for 2D projections (sections, plans, and views). It would be necessary to achieve a link between the visualization options and the generation of projections, so when configuring the elements visualized in 3D, their corresponding 2D projections also would be produced.
 
-If possible, it would be interesting for the memorial text to also update the materials and dimensions of the pieces automatically and parametrically, as their data changes, as is achieved with the spreadsheet cells. I leave this question: would it be possible to combine formulas and strings in the same cell?
+Concerning the quantitative memorial and other information, it would be interesting for the text to update the materials and dimensions of the parts automatically and parametrically, as their data changes, as occurs when using isolated cells in the spreadsheet. I leave this question: would it be possible to combine formulas and strings in the same cell?
 
-For translations and modifications of object properties, it would be interesting to expand their capabilities with the inclusion of independent strings to include other languages ​​(such as lines of code) as well as creating the possibility of editing them at any time.
+For improving the properties' elaboration, and thinking about translations and constant modifications of object characteristics, it would be good to expand its capabilities with the inclusion of independent strings to include other languages, as well as creating the possibility of editing them at any time.
 
 ## 3. Next steps
 
