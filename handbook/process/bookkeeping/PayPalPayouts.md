@@ -5,8 +5,11 @@ to keep in mind.
 
 
 ## Currency
-The FPA PayPal account is denominated in US dollars (USD).  Transfers may be made to
-accounts in other currencies, but exchange fees may be levied.
+The FPA PayPal account has balances in two currencies: US dollars (USD) and EUROS (EUR).
+PayPal freely moves money between the USD and EUR balances to cover pay out amounts.
+
+Transfers may be made to accounts in other currencies, but exchange fees may be 
+levied.
 
 
 ## Transfer Fees
