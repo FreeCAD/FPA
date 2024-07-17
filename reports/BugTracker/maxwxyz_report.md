@@ -320,3 +320,33 @@ With the sheer amount of new issues beeing created, it could be discussed to imp
 
 Everyone can help with triaging by looking for old issues tagged with "Missing: feedback" to determine their relevance. These will be closed after one month if no further feedback is provided.
 
+## 2024-07-15
+This month, we continued to see a high volume of issue reports related to the FreeCAD topological naming problem (TNP) fixes. Additionally, there was an uptick in issues concerning color and material implementations. 
+All issues were diligently followed up and tagged accordingly. 
+There was a rise in issues missing critical information, such as missing about info, steps to reproduce, or example files, which required additional effort to manage. These were managed by requesting additional details from the authors to ensure the issues were actionable. Also, an increase in issues related to color and material implementations was noted this period. There was also a notable rise in duplicate issues, especially regarding this issue: https://github.com/FreeCAD/FreeCAD/issues/15102
+
+### Changes relating to the upcoming 1.0 release
+- Blocker Tag and Milestones: Issues deemed critical for the 1.0 release are tagged with a `blocker` tag and assigned the milestone `1.0`. All blocker issues are currently assigned to contributors. Issues with the milestone 1.0 but without the blocker tag are considered nice-to-have for the 1.0 release.
+- Pull Requests: All PRs are now either tagged with the `1.0` or `Post 1.0` milestone. Only PRs with the 1.0 milestone will be merged before the release. This ensures a focus on critical fixes and necessary improvements for the upcoming release.
+
+There are currently 32 unresolved issues with the `blocker` tag and the `1.0` milestone which need to be fixed with priority [`is:issue is:open label:Blocker milestone:1.0`](https://github.com/FreeCAD/FreeCAD/issues?q=is%3Aissue+is%3Aopen+label%3ABlocker+milestone%3A1.0). Overall, there are 111 issues set for a 1.0 milestone but not considered a blocker for a release.
+3 of the blocker issues already have a submitted PR which are not merged yet, overall there are currently 27 open PRs which are set for the 1.0 milestone.
+
+
+### Current statistics this month:
+|Metric|Count|
+|:---|---:|
+|**New** issues this month: | 218 |
+|**Closed** issues this month: | 319 |
+|Currently open issues in **total**: | 1,802 |
+
+Monthly issue metrics for the last period: https://github.com/FreeCAD/FreeCAD/issues/15426
+
+### Outlook
+Apart from triaging the bug tracker system, effort will be on the issues and PRs concerning the upcoming 1.0 release.
+- Labeling and Prioritization: Continue labeling PRs with the 1.0 or Post 1.0 milestone. Ensure that relevant new issues are tagged appropriately for the 1.0 release and marked as blockers where necessary. Each blocker issue should have an assignee.
+- Stricter PR Evaluation: Implement a stricter procedure for evaluating PRs. Only bug fixes for critical issues, 1.0 blockers, and regressions will be accepted for merging before the 1.0 release. We are already in a feature and UI freeze, and all future PRs will be given the post 1.0 milestone.
+
+Everyone can help by checking new issues if they can be reproduced or if they are related to similar issues. If you can build FreeCAD yourself, you can test the open PRs and comment on them, or you could tackle the 1.0 tagged issues, especially the ones labeled as blocker for the next release.
+
+
