@@ -10,7 +10,33 @@ mermaid: true
 
 The following is a reverse-chronological-order list of past projects funded by the FreeCAD Project Association:
 
+## 2024
+
+### Bradley Mclean (@bgbsww): Toponaming issue mitigation
+
+*Funding approved 7 April 2024.*
+
+Bradley will complete the toponaming project code transfer. He was awarded a grant of USD $5,000 for the work.
+
+### Bradley Mclean (@bgbsww): Toponaming issue mitigation
+
+*Funding approved 22 January 2024.*
+
+Bradley will be working for two months on integrating fixes for the toponaming issue from RealThunder's branch to upstream FreeCAD. He was awarded a grant of 4800 USD.
+
+### Vincenzo Calligaro (@CalligaroV): Toponaming issue mitigation
+
+*Funding approved 22 January 2024.*
+
+Vincenzo will be working for two months on integrating fixes for the toponaming issue from RealThunder's branch to upstream FreeCAD. He was awarded a grant of 3400 EUR.
+
 ## 2023
+
+### Ajinkya Dahale (@jnxd): Curve Geometry Improvements
+
+*Funding approved 26 November 2023.*
+
+Ajinkya will implement general tangency with B-splines and make it possible to preview B-splines when drawing them. He will also investigate the implementation of Bezier curves and improve support for joining curves. Ajinkya was awarded a grant of 5000 USD.
 
 ### Benjamin Bræstrup Sayoc (@bensay): Fix Issue #5903
 
