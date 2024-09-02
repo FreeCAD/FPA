@@ -347,6 +347,42 @@ Apart from triaging the bug tracker system, effort will be on the issues and PRs
 - Labeling and Prioritization: Continue labeling PRs with the 1.0 or Post 1.0 milestone. Ensure that relevant new issues are tagged appropriately for the 1.0 release and marked as blockers where necessary. Each blocker issue should have an assignee.
 - Stricter PR Evaluation: Implement a stricter procedure for evaluating PRs. Only bug fixes for critical issues, 1.0 blockers, and regressions will be accepted for merging before the 1.0 release. We are already in a feature and UI freeze, and all future PRs will be given the post 1.0 milestone.
 
+
+## 2024-08-15
+This month, we continued to see a high volume of issue reports related to the FreeCAD topological naming problem (TNP) fixes. Additionally, there was an increase in stylesheet related issues but also PRs to fix already a lot of them. 
+All issues were followed up and tagged accordingly. 
+
+### Label changes
+The GitHub labels were updated and also automatic label actions were adjusted to use the new labels. Labels now describe the property, followed by a colon and then the value, e.g. `Type: Bug`.
+This was done to all existing issues except some meta labels like GSoC, FOSSHack, etc.
+So we end up with labels for:
+- Type: Describing the type of the issue, e.g. Feature, Bug, Regression, Crash, ...
+- Status: If the issue is confirmed or something is missing
+- Mod: These are the previous WB (workbench) labels
+- Topic: grouping all related issues, e.g. Toponaming, User Interface, ...
+- 3rd party: related to 3rd party components
+- File format: issues concerning specific file types
+- OS: only applicable for certain OS, like macOS, Windows or Linux
+- Hardware: for hardware related issues (mouse, display, ...)
+- Packaging: issues with specific versions or the build process
+- Priority: this was a new introduction, where after 1.0 it would be beneficial to classify how critical an issue is. The values currently are: low, normal, high and critical.
+
+### Current statistics this month:
+|Metric|Count|
+|:---|---:|
+|**New** issues this month: | 155 |
+|**Closed** issues this month: | 208 |
+|Currently open issues in **total**: | 1,856 |
+
+Monthly issue metrics for the last period: [https://github.com/FreeCAD/FreeCAD/issues/15426
+](https://github.com/FreeCAD/FreeCAD/issues/15903)
+
+### Outlook
+There are currently 27 unresolved issues with the `blocker` tag and the `1.0` milestone which need to be fixed with priority [`is:issue is:open label:Blocker milestone:1.0`](https://github.com/FreeCAD/FreeCAD/issues?q=is%3Aissue+is%3Aopen+label%3ABlocker+milestone%3A1.0).
+Last month there were 32 of these, but also new ones were added during this period.
+Overall, there are 95 issues set for a 1.0 milestone but not considered a blocker for a release (down from 111 last month)
+3 of the blocker issues already have a submitted PR which are not merged yet, overall there are currently 27 open PRs which are set for the 1.0 milestone.
+
 Everyone can help by checking new issues if they can be reproduced or if they are related to similar issues. If you can build FreeCAD yourself, you can test the open PRs and comment on them, or you could tackle the 1.0 tagged issues, especially the ones labeled as blocker for the next release.
 
 
