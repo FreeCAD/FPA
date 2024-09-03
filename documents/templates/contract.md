@@ -1,5 +1,5 @@
 <div align=right>
-<img src="../../images/logos/FreeCAD-symbol.svg" style="width:24px;" />  <b>The FreeCAD project association</b> AISBL<br/>
+<img src="../../images/logos/FreeCAD-symbol-square/FreeCAD-symbol-square-24.png" style="width:24px;" />  <b>The FreeCAD project association</b> AISBL<br/>
 Rue Docteur Kuborn 31 / 46<br/>
 1070 Anderlecht<br/>
 Belgium<br/>
@@ -15,7 +15,7 @@ VAT BE0781867807
 
 **Change this** This agreement is made between the FreeCAD project association (the FPA), a non-profit body registered as an AISBL in Belgium under enterprise number [781867807](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807) and FreeCAD contributor XXXXXXXX (the CONTRIBUTOR), identified by YYYYYYY (insert here ID number or any other way of official identification).
 
-This document constitutes a non-employment service agreement between these two parties, who agree to the following terms and conditions:
+This document constitutes a **non-employment service agreement** between these two parties, who agree to the following terms and conditions:
 
 ## Purpose and objectives
 
@@ -66,7 +66,7 @@ The CONTRIBUTOR will not hold the FPA responsible for any injury or material los
 
 ## Termination and renewal
 
-**Change this** This agreement will last for XXXX years, starting from the date this agreement is signed by both parties. and terminates after a year has passed.
+**Change this** This agreement will last for XXXX years, starting from the date this agreement is signed by both parties, and terminates after a year has passed.
 
 Both the FPA and the CONTRIBUTOR can unilaterally terminate this agreement at any time, for any reason, by simple notification to the other party. If work has been done by the CONTRIBUTOR after the last payment, the FPA will pay a last installment to be proportionally determined by the quantity of work done within the corresponding stage of the payment schedule.
 
