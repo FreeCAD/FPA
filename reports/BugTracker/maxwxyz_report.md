@@ -385,4 +385,31 @@ Overall, there are 95 issues set for a 1.0 milestone but not considered a blocke
 
 Everyone can help by checking new issues if they can be reproduced or if they are related to similar issues. If you can build FreeCAD yourself, you can test the open PRs and comment on them, or you could tackle the 1.0 tagged issues, especially the ones labeled as blocker for the next release.
 
+## 2024-09-15
+This month, we've passed the 2,000 issues mark on the repository. With the FreeCAD 1.0 release candidate out, there has been an increase in new issues per day and as expected the quality of new issues decreased, ending up in multiple duplicate issues or the lack of standard information which led to an increased effort for triaging. The sheer amount of issues leads to more issues than usual which need to be confirmed by other testers.
+
+### CAD advisory group
+In analogy to the Design Working Group (DWG) there is now also a CAD advisory group / mechanical advisory group. It has members which use CAD professionally and are industry experts, allowing feedback from experienced CAD users on existing issues, new features and overall concepts and standards.
+A new project board was created, prioritizing issues into three groups which are essential for professional design work: https://github.com/orgs/FreeCAD/projects/28
+The issues in the P1 group were also labelled `Priority: High` and are welcomed to be solved by delevopers. 
+The group itself can also be pinged on issues and in comments on PRs by using the handle `@FreeCAD/cad-advisory-group ` and there is also a dedicated channel on the Discord server. Feel free to participate!
+
+### Current statistics this month:
+|Metric|Count|
+|:---|---:|
+|**New** issues this month: | 263 |
+|**Closed** issues this month: | 234 |
+|Currently open issues in **total**: | 2,016 |
+
+Monthly issue metrics for the last period: [https://github.com/FreeCAD/FreeCAD/issues/16542](https://github.com/FreeCAD/FreeCAD/issues/16542)
+
+### Outlook
+There are currently 9 unresolved issues with the `blocker` tag and the `1.0` milestone which need to be fixed with priority [`is:issue is:open label:Blocker milestone:1.0`](https://github.com/FreeCAD/FreeCAD/issues?q=is%3Aissue+is%3Aopen+label%3ABlocker+milestone%3A1.0).
+Last month there were 27 of these, but also new ones were added during this period.
+Overall, there are 108 issues set for a 1.0 milestone but not considered a blocker for a release (up from 95 last month).
+Three of the blocker issues already have a submitted PR which are not merged yet, overall there are currently 33 open PRs which are set for the 1.0 milestone.
+
+Everyone can help by checking new issues if they can be reproduced or if they are related to similar issues. If you can build FreeCAD yourself, you can test the open PRs and comment on them, or you could tackle the 1.0 tagged issues, especially the ones labeled as blocker for the next release.
+
+
 
