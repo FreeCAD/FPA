@@ -20,7 +20,13 @@ As previously mentioned, each file contains: a set of its main configurable prop
 
 For more complex components, where there are many properties that allow the generation of several models from a single file, we began testing the possibility of creating macros that automate the generation of the different options, but this alternative is still under development.
 
-In the same way as previously adopted, the files created were posted in a branch of the main FreeCAD library awaiting possible necessary revisions, after which they can be merged into the main library of said library.
+In the same way as previously adopted, the files created were posted in a branch of the main FreeCAD library awaiting possible necessary revisions, after which they can be merged into the main library of said library:
+
+https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Industrial%20Design/Appliances/Parametric
+
+https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Kitchen
+
+https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Living%20room
 
 ## 2. Procedures adopted
 
