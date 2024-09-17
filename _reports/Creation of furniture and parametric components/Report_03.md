@@ -8,7 +8,7 @@ In this third report on the development of parametric components, we once again 
 
 ## 1. Work carried out
 
-We continued the development of individualized files for kitchen and bathroom cabinets, and their equipment such as refrigerators, stoves and washing machines, including the possibility of moving and rotating the original components through their basic Sketches.
+We continue to develop individual files for kitchen, bathroom and living room, as well as their equipment such as refrigerators, stoves and washing machines, including the possibility of moving and rotating the original components through their basic Sketches.
 
 The structuring of the components through *Attachments*, as already explained in the previous report, prevented them from falling apart, as usually happens.
 
@@ -18,13 +18,15 @@ Some rendered images have been posted demonstrating the results of the configura
 
 As previously mentioned, each file contains: a set of its main configurable properties; a base for moving and rotating the component; previously established sections that allow the generation of the main projections; the elements that compose them; a spreadsheet (with a brief report and main data about the component); two scripts on how to create a new component and how to configure the existing one; and some materials previously configured for application.
 
-For more complex components, where there are many properties that allow the generation of several models from a single file, we began testing the possibility of creating macros that automate the generation of the different options, but this alternative is still under development (see file Sideboard_R01.FCStd).
+For more complex components, where there are many properties that allow the generation of several models from a single file, we began testing the possibility of creating macros that automate the generation of the different options, but this alternative is still under development (see file *Sideboard_R01.FCStd*).
 
 In the same way as previously adopted, the files created were posted in a branch of the main FreeCAD library awaiting possible necessary revisions, after which they can be merged into the main library of said library:
 
 https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Kitchen
 
 https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Industrial%20Design/Appliances/Parametric
+
+https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Bathroom
 
 https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Living%20room
 
