@@ -52,4 +52,4 @@ It also became clear that there is a range of more complex components, such as d
 
 As the next step, we plan to develop components for the living room, dining room and bedrooms, initially using the strategy of single parametric files.
 
-We will leave the necessary general review of the components for the fifth and final step, mainly to doors and windows, in which we plan to derive the single file into individual files, according to each type created.
+We will leave the necessary general review of the components for the fifth and final step, mainly doors and windows, in which we plan to derive the single file into individual files, according to each type created.
