@@ -14,6 +14,12 @@ The following is a reverse-chronological-order list of past projects funded by t
 
 ### Bradley Mclean (@bgbsww): Toponaming issue mitigation
 
+*Funding approved 2 July 2024.*
+
+Bradley will continue to address bugs and missing code as discovered in TNP migration. He will also develop new code as required to address portions of subshapebinder and Sketcher that vary from both the code base at the time of the original TNP branch and from the current Linkstage3 branch. When no bugs are present, he will refactor code in Part and PartDesign based on discoveries during the toponaming project. Bradley was awarded a grant of USD 5,000.
+
+### Bradley Mclean (@bgbsww): Toponaming issue mitigation
+
 *Funding approved 7 April 2024.*
 
 Bradley will complete the toponaming project code transfer. He was awarded a grant of USD $5,000 for the work.

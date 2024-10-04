@@ -81,11 +81,25 @@ That depends on how much work you have managed to do. If you are in the middle o
 
 Alternatively, you can request a partial compensation and a pause to handle your situation. We do not request you to share your life details with us, but we expect you to warn us in a timely manner.
 
-### Bradley Mclean (@bgbsww): Toponaming issue mitigation
+## Ongoing projects funded by the FPA
 
-*Funding approved 2 July 2024.*
+### Pieter Hijma (@pieterhijma): Research Variant Parts
 
-Bradley will continue to address bugs and missing code as discovered in TNP migration. He will also develop new code as required to address portions of subshapebinder and Sketcher that vary from both the code base at the time of the original TNP branch and from the current Linkstage3 branch. When no bugs are present, he will refactor code in Part and PartDesign based on discoveries during the toponaming project. Bradley was awarded a grant of USD 5,000.
+*Funding approved 9 September 2024.*
+
+Pieter Hijma will be working on research for variant parts. A number of FreeCAD features require inserting copy-on-change links, such as referencing external geometry in a body for which SubShapeBinders are used in Part Design. The architecture behind the current implementation involves hidden parts and temporary files and is fragile. Pieter will begin the project by elaborating on the current state of affairs in the forum for developers, then propose patches targeting several aspects of the current implementation. He was awarded a grant of EUR 8,000 for the entire project.
+
+### Bradley Mclean (@bgbsww): Documented procedures and code for supporting debugging FreeCAD C++ and Python from CLion and VSCode
+
+*Funding approved 18 September 2024.*
+
+Brad will write documented procedures and/or code for supporting debugging FreeCAD C++ and Python from CLion and VSCode. The project is expected to take approximately 2 weeks. Brad was awarded a grant of USD $1,500 for the project.
+
+### Chris Jones (@ipatch): Update homebrew-freecad tap with a freecad formula that uses Python v3.12 and Qt v6
+
+*Funding approved 27 August 2024.*
+
+Chris will continue his work on homebrew builds of FreeCAD. This time, he will update the homebrew-freecad tap to link against Python v3.12 and Qt v6 when creating the build. The project is expected to take a few weeks to complete. Chris was awarded a grant of USD $2,000 for the project.
 
 ### Aleksandr Prokudin (@prokoudine): Blog maintenance
 
