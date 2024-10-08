@@ -458,6 +458,9 @@ td:not(:last-child), th:not(:last-child) {
 }
 
 @media (max-width: 768px) {
+  .menuList {
+    justify-content: center;
+  }
   #menuContainer {
     flex-direction: column;
     align-items: center;
