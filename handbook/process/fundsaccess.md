@@ -25,7 +25,7 @@ Funding for items over 100 USD must be put to a vote of the General Membership f
 
 The FPA is distributing money to FreeCAD developers through its [grant program](../../_programs/FPADF_Announcement.md). FreeCAD contributors wishing to obtain money from the FPA to help them to contribute must do so through the grant program.
 
-Working on FreeCAD is always, primarily and fundamentally, a voluntary act. One should never expect to receive any kind of monetary compensation for the work they have already done on FreeCAD. In other words, one cannot ask money for pull requests they have already done. To obtain an FPA grant, a contributor must comply with the FPA grant program rules, which require to submit a proposal that describes the work to be done.
+Working on FreeCAD is always, primarily and fundamentally, a voluntary act. One should never expect to receive any kind of monetary compensation for the work they have already done on FreeCAD. In other words, one cannot ask money for pull requests they have already done. To obtain an FPA grant, a contributor must comply with the FPA grant program rules, which require them to submit a proposal that describes the work to be done.
 
 In specific cases, the FPA might decide to bypass this rule, for example by giving honorary grants to reward a developer who has made exceptional contributions, or to retroactively attribute bounties to issues that have already been solved. This is the sole decision of the FPA, and cannot be actioned or required by contributors.
 
