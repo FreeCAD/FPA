@@ -13,19 +13,16 @@ For our purposes, a contract is a legal agreement between the FPA and a supplier
 provide specific deliverables.  Contracts may involve penalties for non-performance. Contracts may also include
 a "time is of the essence" that requires the parties to fulfill their obligations on time.
 
-Normally, payments to grantees are made on receipt of a progress report and no invoice is required.  In this case, you should use
-the [Memorandum of Understanding (MOU)](https://github.com/FreeCAD/FPA/blob/main/documents/templates/contract.md) template to document the award and agreement with the grantee.
 
-Some suppliers will want to submit invoices for their own business reasons.  If there is an contract, then VAT applies and must be accounted for. 
-Use the [Contract template](https://github.com/FreeCAD/FPA/blob/main/documents/templates/mou.md) for contracts where the supplier (a business or independent contractor) will be submitting invoices.  If a grantee submits an invoice, then the invoice must show our VAT number (BE 0781 867 807).  If the grantee
-does not have a VAT number or is not resident in Belgium, the invoice must also include the following:
-"Reverse charged VAT according to Art 21 § 2 of the Belgian VAT Code". This means that the FPA is responsible for handling the VAT associated with the payment.
+## What is VAT?
+VAT (Value Added Tax), or TVA (Taxe sur la valeur ajoutée) is charged on most purchases of goods or services in the EU.  Other jurisdictions may have different names for this tax. The current rate in Belgium is 21%.
 
 
 ## Grants & VAT
+Normally, payments to grantees are made on receipt of a progress report and no invoice is required.  In this case, you should use
+the [Memorandum of Understanding (MOU)](https://github.com/FreeCAD/FPA/blob/main/documents/templates/contract.md) template to document the award and agreement with the grantee.
 
 ["Grants are outside the scope of VAT as long as the funding is not conditional a service being provided in return for the funding."](https://www.sussex.ac.uk/finance/how/taxation/vat/vatincome/vatgrants)
-
 
 [A discussion about grants vs contracts and their VAT implications](https://www.gov.uk/hmrc-internal-manuals/vat-supply-and-consideration/vatsc06311)
 "When an organisation identifies a need it wishes to fulfil, and decides not to do so itself, it may either:
@@ -34,4 +31,15 @@ does not have a VAT number or is not resident in Belgium, the invoice must also 
     enter into a contract for the procurement of services (and possibly goods) to enable the task to be completed
 
 The former is not a supply for VAT and will commonly be described as a grant. The latter is a supply for VAT but you may see instances where such arrangements are never the less described as a grant."
+
+
+## Contracts & VAT
+Some suppliers will want to submit invoices for their own business reasons.  If there is an contract, then VAT applies and must be accounted for. 
+Use the [Contract template](https://github.com/FreeCAD/FPA/blob/main/documents/templates/mou.md) for contracts where the supplier (a business or independent contractor) will be submitting invoices.  If a grantee submits an invoice, then the invoice must show our VAT number (BE 0781 867 807).  If the grantee
+does not have a VAT number or is not resident in Belgium, the invoice must also include the following:
+"Reverse charged VAT according to Art 21 § 2 of the Belgian VAT Code". This means that the FPA is responsible for handling the VAT associated with the payment.
+
+
+## Banking Fees & VAT
+In general, [bank transfer fees are not subject to VAT] (https://blog.shorts.uk.com/vat-and-bank-charges)
 
