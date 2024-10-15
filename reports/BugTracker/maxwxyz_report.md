@@ -411,5 +411,42 @@ Three of the blocker issues already have a submitted PR which are not merged yet
 
 Everyone can help by checking new issues if they can be reproduced or if they are related to similar issues. If you can build FreeCAD yourself, you can test the open PRs and comment on them, or you could tackle the 1.0 tagged issues, especially the ones labeled as blocker for the next release.
 
+## 2024-10-15
+The amount of new issues due to 1.0 RC2 out has increased significantly. Especially from new reporters which unfortunately lack basic info and need more follow up efforts. The sheer amount of issues also lead to more issues than usual which need to be confirmed by other testers as I am not able to test all incoming issues. Nevertheless, all new issues were tagged accordingly, also with great help by the community (huge thanks to luzpaz and Roy-043)! New regressions and crashes were reported which lead to an increased amount of new issues labelled as blocker for a 1.0 release.
+
+### Blocker characteristics
+During the last developer meeting it was decided, that new issues should be considered as `blocker` if they fullfill these criteria:
+
+1. Crashes, and occurs even on Windows where stuff rarely crashes.
+2. Can be easily reproduced (in a few steps).
+3. Is likely to happen in practice (e.g. doesn't require activating very uncommon feature like the one about the DAG view).
+4. Didn't happen in 0.21.2 (regression).
+5. Looks fixable in a reasonable time for 1.0.
+
+All other bugs won't be considered as blocker for a 1.0 release.
+We triaged all issues which are confirmed crashes in a meeting and I triaged every reported crash and assigned a `non-blocker` tag to those issues where these criteria do not apply, so we don't start from scratch next time.
+
+
+### Current statistics this month:
+|Metric|Count|
+|:---|---:|
+|**New** issues this month: | 251 |
+|**Closed** issues this month: | 299 |
+|Currently open issues in **total**: | 2,172 |
+
+Monthly issue metrics for the last period: [https://github.com/FreeCAD/FreeCAD/issues/16542](https://github.com/FreeCAD/FreeCAD/issues/17256)
+
+### Outlook
+There are currently 17 unresolved issues with the `blocker` tag and the `1.0` milestone which need to be fixed with priority [`is:issue is:open label:Blocker milestone:1.0`](https://github.com/FreeCAD/FreeCAD/issues?q=is%3Aissue+is%3Aopen+label%3ABlocker+milestone%3A1.0).
+Last month there were 9 of these, an increase although some blocker issues were fixed during this period.
+
+Overall, there are 107 issues set for a 1.0 milestone but not considered a blocker for a release (down by 1 from last month).
+There are currently 11 open PRs which are set for the 1.0 milestone and need to be backported to the 1.0 branch.
+The `Post 1.0` milestone PRs are increasing, currently 181 PRs are waiting in the queue to be merged after the release of version 1.0 and also need to be rebased.
+
+Merging PRs needs to be done stricter prior to a 1.0 release, only labelling PRs which fix regressions, crashes and blocker issues for thew 1.0 milestone.
+
+Everyone can help by checking new issues if they can be reproduced or if they are related to similar issues. If you can build FreeCAD yourself, you can test the open PRs and comment on them, or you could try to fix the issues which are labeled as blocker for the next release.
+
 
 
