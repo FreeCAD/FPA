@@ -22,7 +22,86 @@ At this stage, it was possible to extend the possibility of creating macros that
 
 As previously done, each file contains: a set of its main configurable properties; a base for moving and rotating the component; previously established sections that allow the generation of the main projections; the elements that compose them; a spreadsheet (with a brief report and main data of the component); scripts on how to create a new component and how to configure the existing one; and some materials previously configured for application.
 
-The files created were posted in a branch of the main FreeCAD library, which can be merged into the main library of said library.
+The files created were posted in a branch of the main FreeCAD library, which can be merged into the main library of said library:
+https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Bedroom :
+
+. Bedroom_closet.FCStd
+
+. Beds.FCStd
+
+https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Bedroom/Images :
+
+. Bed_single_image_01.jpg
+
+. Bedroom_closet_model_01_image_01.jpg
+
+. Bedroom_closet_model_02_image_01.jpg
+
+. Bedroom_closet_model_03_image_01.jpg
+
+. Bedroom_closet_model_03_image_02.jpg
+
+https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Kitchen :
+
+. Kitchen_cabinet_vertical.FCStd
+
+https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Kitchen/Images :
+
+. Kitchen_cabinet_vertical_model_02_image_01.jpg
+
+https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Living%20room :
+
+. Chair.FCStd
+
+. Living_room_cabinet.FCStd
+
+. Rectangular_tables.FCStd
+
+. Sofa_Armchair.FCStd
+
+https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Living%20room/Images ;
+
+. Armchair_model_03_image_01.jpg
+
+. Bedside_table_image_01.jpg
+
+. Chair_image_01.jpg
+
+. Living_room_cabinet_model_01_image_01.jpg
+
+. Living_room_cabinet_model_01_image_02.jpg
+
+. Living_room_cabinet_model_02_image_01.jpg
+
+. Living_room_cabinet_model_04_image_01.jpg
+
+. Sofa_armchair_imag_01.jpg
+
+. Sofa_armchair_imag_02.jpg
+
+. Sofa_model_01_image_01.jpg
+
+. Sofa_model_02_image_01.jpg
+
+. Table_image_01.jpg
+
+. Table_image_02.jpg
+
+https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Windows/Casement ;
+
+. Window_casement_parametric.FCStd
+
+https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Windows/Casement/Images ;
+
+. Window_casement_model_01_image_01.jpg
+
+. Window_casement_model_01_image_02.jpg
+
+. Window_casement_model_02_image_01.jpg
+
+. Window_casement_model_03_image_01.jpg
+
+. Window_casement_model_04_image_01.jpg
 
 ## 2. Procedures adopted
 
