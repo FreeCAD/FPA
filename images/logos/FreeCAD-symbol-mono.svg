@@ -39,6 +39,11 @@
             <dc:title>The FreeCAD project association AISBL (FPA)</dc:title>
           </cc:Agent>
         </dc:publisher>
+        <dc:rights>
+	  <cc:Agent>
+	    <dc:title>Copyright (c) 2024 The FreeCAD Project Association AISBL. All rights reserved. For usage information please see https://freecad.org/about/logo.</dc:title>
+          </cc:Agent>
+        </dc:rights>
       </cc:Work>
     </rdf:RDF>
   </metadata>
