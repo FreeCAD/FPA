@@ -20,7 +20,7 @@ We extended the possibility of creating macros that automate the generation of t
 
 As previously phases, each file contains: a set of its main configurable properties; a base for moving and rotating the component; previously established sections that allow the generation of the main projections; the elements that compose them; a spreadsheet (with a brief report and main data of the component); guidelines on how to create a new component and how to configure the existing one; and some materials previously configured for application.
 
-Once again, some rendered images were posted demonstrating the results of the configurations created.
+Once again, some rendered images were posted demonstrating the results of the configurations created, as well as two videos relating to the insertion of windows and components in general.
 
 The files created were posted in a branch of the main FreeCAD library, which can be merged into the main one. Their locations are:
 
