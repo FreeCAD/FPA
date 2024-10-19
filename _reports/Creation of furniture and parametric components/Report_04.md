@@ -123,11 +123,11 @@ However, for windows and doors, the basic sketches will be changed to a vertical
 
 As planned, the fifth and final stage will involve the necessary general review of the components, mainly regarding doors and windows, as already developed with the casement window.
 
-We will also prepare macros so that the "Doors_windows.FCStd" file can generate static models as suggested. We will try to review its general structure, but due to its enormous complexity, we do not know if it will be fully possible in this period.
+We will also prepare macros so that the "Doors_windows.FCStd" file can generate static models as suggested. We will try to review its general structure, but due to its enormous complexity, we do not know if it will be fully feasible.
 
 For this general review, it is important to take the opportunity to list some points that we plan to resolve in this final stage, for which we are not yet sure how to obtain a complete solution. Therefore, we need external help. They are:
 
-• *ShapeColor*: it is necessary to include control over the adjustment of the colors of the component elements, acting together with the configuration of materials;
+• *ShapeColor*: it is necessary to include control over the adjustment of the colors of the component parts, acting together with the configuration of materials;
 
 • Translations: it would be good to create the possibility to translate the parts and properties of the components. If there is no ready-made solution for this, we are considering creating a spreadsheet of strings within each file, which can serve as a database for use in future translations. Using a macro, the translated strings would be collected, creating a new set of properties for the selected language, which in turn would control the original one of the file;
 
