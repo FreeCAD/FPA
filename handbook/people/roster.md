@@ -29,8 +29,8 @@ layout: default
 | ----------- | ------------ | ---------- | ---------- |
 | yorik       | Chairperson  | 2023.11.30 | 2025.11.30 |
 | sliptonic   | Board member | 2024.04.01 | 2026.04.01 |
-| chennes     | Board member | 2022.11.15 | 2026.10-31 |
-| wandererfan | Board member | 2022.11.15 | 2026.10-31 |
+| chennes     | Board member | 2024.10.31 | 2026.10.31 |
+| wandererfan | Board member | 2024.10.31 | 2026.10.31 |
 
 ### Chairperson
 
