@@ -52,6 +52,7 @@ This handbook has several major sections:
 - [Social media](./process/socialmedia.md)
 - [Forum](./process/forum.md)
 - [Funds access](./process/fundsaccess.md)
+- [Accepting donations](./process/accepting-donations.md)
 {: .menuList}
 
 ## Programs and Initiatives
