@@ -1,10 +1,5 @@
-<style>
-.align-right {
-    text-align: right;
-}
-</style>
 <div class="align-right">
-<img src="FreeCAD-symbol.svg" style="width:24px;" />  <b>The FreeCAD project association</b> AISBL<br/>
+<img src="../../../images/logos/FreeCAD-symbol-square/FreeCAD-symbol-square-16.png" style="width:24px;" />  <b>The FreeCAD project association</b> AISBL<br/>
 Rue Docteur Kuborn 31 / 46<br/>
 1070 Anderlecht<br/>
 Belgium<br/>
@@ -16,9 +11,7 @@ VAT BE0781867807
 
 <h2 align=center>Agreement for the execution of project improving C++ API Documentation</h2>
 
-**Warning: This model is to be used only when the contractor is either a company or a registered professional (ie, they will emit invoices). For other persons who will not emit bill, use the [memorandum of understanding](mou.md) instead**
-
-**Change this** This agreement is made between the FreeCAD project association (the FPA), a non-profit body registered as an AISBL in Belgium under enterprise number [781867807](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807) and FreeCAD contributor Pieter Hijma (the CONTRIBUTOR), identified by Chamber of Commerce number 91815053 (search at [kvk.nl](https://www.kvk.nl/zoeken)).
+This agreement is made between the FreeCAD project association (the FPA), a non-profit body registered as an AISBL in Belgium under enterprise number [781867807](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807) and FreeCAD contributor Pieter Hijma (the CONTRIBUTOR), identified in the Netherlands by Chamber of Commerce number [91815053](https://www.kvk.nl/zoeken).
 
 This document constitutes a **non-employment service agreement** between these two parties, who agree to the following terms and conditions:
 
@@ -77,7 +70,7 @@ Both the FPA and the CONTRIBUTOR can unilaterally terminate this agreement at an
 
 This agreement is ruled by Belgian law, and the competent court is the Brussels court. However, both parties agree to always seek friendly resolution in case of conflicts, and to always consider the best interest of the FreeCAD project.
 
-**Change this** Done in Brussels on October 23rd, 2023
+Done in Brussels on November 4th, 2024
 
 <div>
 <br/><br/>
@@ -97,7 +90,7 @@ chairman of the FPA<br/>
 <img src="/home/yorik/Documents/Admin/Docs/signature.png" title="" alt="signature" width="200">
 </td>
 <td>
-<b>Pieter Hijma</b><br/>
+<b>Pieter Hijma</b><br/><br/><br/><br/>
 </td>
 </tr>
 </table>
