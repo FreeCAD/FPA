@@ -19,6 +19,6 @@ The FreeCAD Project Association supports travel of developers and community memb
 6. Travel support is provided as reimbursement based on receipts for actual expenses. If an advance is required it should be arranged by reaching out to the FPA at [fpa@freecad.org](mailto:fpa@freecad.org). The FPA does not pay a per diem rate.
 7. To request travel support, please fill out the form at [https://docs.google.com/forms/d/e/1FAIpQLSfTV6so0nFJyxnxH6-HCv0q1_393UrK2Cxjdnzl8a-a5k7d9g/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSfTV6so0nFJyxnxH6-HCv0q1_393UrK2Cxjdnzl8a-a5k7d9g/viewform?usp=sf_link) at least thirty days in advance of the event.
 8. Travel via train, bus, or other public transit is preferred over air travel when feasible.
-9. All travel grants are subject to a vote of the FPA members, and no support is guaranteed until that vote is completed.](https://blog.freecad.org)
+9. All travel grants are subject to a vote of the FPA members, and no support is guaranteed until that vote is completed.
 
 
