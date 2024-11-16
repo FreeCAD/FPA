@@ -448,5 +448,31 @@ Merging PRs needs to be done stricter prior to a 1.0 release, only labelling PRs
 
 Everyone can help by checking new issues if they can be reproduced or if they are related to similar issues. If you can build FreeCAD yourself, you can test the open PRs and comment on them, or you could try to fix the issues which are labeled as blocker for the next release.
 
+## 2024-11-15
+Since releasing the first 1.0 release candidate, 470 new issues are createad **each month** on average. They still lack basic info and need more follow up efforts as they are reported by new reporters. All new issues were tagged and duplicates or already resolved issues since RC2 were closed quickly. 
+The amount of new issues still needs more time to go through each one and try to reproduce, given the reporter adds example files and steps how to reproduce.
 
+### 1.0 / 1.1 Milestones
+Currently, there is no open issue with a `Blocker` label, all 140 of them were closed. All pull requests which were set as 1.0 milestone were merged and backported to 1.0. All issues which were no blocker but labelled as nice-to-have for the 1.0 milestone have been moved to the 1.1 milestone, leaving nothing open for the 1.0 milestone.
 
+If there is no critical new blocker issue to be reported based on the RC4, the 1.0 version will be released soon.
+In preparation for `Post 1.0` I've looked at each of the remaining 250 PRs to check if they have conflicts and pinged the autor to remove them for further testing and merging.
+
+We have also experimentally allowed posting issues on the forum in a dedicated section, only for people who refuse to use GitHub. The issues will be transferred to new GitHub issues and cross-linked, but further investigation and development will only take place on GitHub. Nevertheless, the guides of how to report issues remain the same: https://github.com/FreeCAD/FreeCAD?tab=readme-ov-file#reporting-issues
+
+### Current statistics this month:
+|Metric|Count|
+|:---|---:|
+|**New** issues this month: | 213 |
+|**Closed** issues this month: | 313 |
+|Currently open issues in **total**: | 2,254 |
+
+Monthly issue metrics for the last period: [https://github.com/FreeCAD/FreeCAD/issues/17874](https://github.com/FreeCAD/FreeCAD/issues/17874)
+
+### Outlook
+Starting this week, we have scheduled two merge meetings (Monday + Friday) to go through all the piled up PRs since we have gone into feature freeze in **July**. In fairness, the order of merging will be the same: https://github.com/FreeCAD/FreeCAD/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-asc+draft%3Ano
+
+You can help by reviewing and testing PRs in that order and comment on them.
+
+I will keep an eye out for new high priority PRs which might need to be backported to a 1.0.x (if such version will be created) and label them as `Needs backport` for discussion at the beginning on the merge meetings.
+There will be an increased focus on code quality following the 1.0 release, so PRs might not be merges as fast as currently, but expect at least feedback once a week from developers on the PRs.
