@@ -20,7 +20,7 @@ layout: default
 | [chennes](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=11959)    | Chris Hennes    | Board member | 2022.09.26 |
 | [shaise](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=6188)         | Shai Seger      | Member       | 2023.11.09 |
 | [Stemfie3D](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=36960)     | Paulo Kiefe     | Member       | 2023.12.08 |
-| (obelisk79](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=36480)     | Joe Sardos      | Member       | 2024.11.20 |
+| [obelisk79](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=36480)     | Joe Sardos      | Member       | 2024.11.20 |
 
 ### Administrative body
 
