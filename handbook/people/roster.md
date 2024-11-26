@@ -21,6 +21,7 @@ layout: default
 | [shaise](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=6188)         | Shai Seger      | Member       | 2023.11.09 |
 | [Stemfie3D](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=36960)     | Paulo Kiefe     | Member       | 2023.12.08 |
 | [obelisk79](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=36480)     | Joe Sardos      | Member       | 2024.11.20 |
+| [oursland](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=57910)      | Jackson Oursland | Member      | 2024.11.26 |
 
 ### Administrative body
 
