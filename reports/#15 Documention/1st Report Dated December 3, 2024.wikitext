@@ -1,0 +1,31 @@
+== Report on the Development Progress for the MediaWiki System ==
+
+This report has been prepared based on Grant Proposal No. 15 and was drafted without the necessary wiki authorizations. Due to the non-standard nature of the task, direct tracking through PRs, as with other grants, is not applicable. Therefore, it is deemed most appropriate to provide information about the current progress.
+
+=== MediaWiki Development Status ===
+
+Due to the lack of necessary access, the task of developing the existing MediaWiki system could not be carried out. However, significant progress has been made in hosting this wiki as a Git repository. As previously mentioned, a system has been designed and implemented that works in synchronization with the current documentation system and operates on files. Only minor bug fixes and refinements remain, none of which affect functionality. To accomplish this task, two repositories have been created:
+
+==== Repository 1: [[https://github.com/Reqrefusion/FreeCAD-Documentation-Project|Wikitext Repository]] ====
+
+This repository was established to work in synchronization with the current wiki. This ensures that changes can be made seamlessly both on the wiki and in the related repository without any issues. Notably, uploading files to the repository is straightforward. While GitHub provides built-in support for wikitext, it does not fully replicate the operational logic of MediaWiki. Thus, the texts within the repository offer limited readability but editing capabilities equivalent to a wiki user.
+
+*'''Data Flow''': The repository sends data to the wiki in real-time, while data from the wiki is sent to GitHub every 15 minutes. 
+
+*'''Technical Approach''': This process is handled via webhook on GitHub due to full access, while a cron job running every 15 minutes handles synchronization from the wiki, given the lack of complete access. Considering the typical frequency of wiki edits, a 15-minute interval is sufficiently short.
+
+==== Repository 2: [[https://github.com/Reqrefusion/FreeCAD-Documentation-html|HTML Repository]] ====
+
+This repository stores all wiki files in HTML format. Having previously utilized the ZIM format used within Wikipedia and finding it unsatisfactory, a decision was made to simplify the approach and adopt the most basic format.
+
+*'''Synchronization''': This repository is synchronized only from the wiki to GitHub, with no two-way synchronization.
+
+*'''Content and Functionality''': The repository contains all images and languages and can be read via file access. It is always up-to-date and could potentially replace the offline documentation created by Yorik, linking easily to the help module. 
+
+*'''Limitations''': File-based access restricts many JavaScript functionalities. The repository has a size of approximately 800 MB. Future plans include incorporating it as a workbench, segmenting it into languages, and separating images and files.
+
+*'''Current Challenges''': This part of the project is newer and less mature compared to the first repository, particularly concerning link management, which currently contains errors.
+
+=== Outcomes ===
+
+Through this project, FreeCAD has acquired a Git-hosted documentation system that works simultaneously with its wiki. Users can make desired changes via Git or the wiki. Additionally, the system provides offline documentation accessible via the help module. Importantly, these developments have been implemented without disrupting the existing system, allowing users to choose between Git and the wiki for their documentation needs.
