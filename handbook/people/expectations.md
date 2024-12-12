@@ -50,6 +50,14 @@ Whatever we want to see in the general community we should be doing ourselves as
 - Attend conferences and Zoom calls
 
 
+### Conflicts of Interest
+
+There may be situations where an FPA member could benefit from an FPA decision. In the interest of avoiding actual or perceived conflicts of interest, the member MUST recuse themselves from voting in these cases.
+
+The member is free to participate in discussions prior to the vote.
+
+Should a member submit a vote on a proposal where an actual/perceived conflict may exist, that vote will not be counted and will be treated as an abstention. In this event, the FPA Administration group will decide whether or not a vote should be counted.
+
 ### Exit Gracefully
 
 Hopefully, the FreeCAD project and the FPA will outlive us all.  That means each of us will, at some point, end our time as a member.
