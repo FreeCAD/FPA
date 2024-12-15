@@ -476,3 +476,46 @@ You can help by reviewing and testing PRs in that order and comment on them.
 
 I will keep an eye out for new high priority PRs which might need to be backported to a 1.0.x (if such version will be created) and label them as `Needs backport` for discussion at the beginning on the merge meetings.
 There will be an increased focus on code quality following the 1.0 release, so PRs might not be merges as fast as currently, but expect at least feedback once a week from developers on the PRs.
+
+## 2024-12-15
+The amount of new issues this period is still high and above average with 400 new issues. A lot of them already have been closed as duplicates or quick bugfixes, leaving it at around 260 new issues this month which are still open. Especially new reporters forget basic info and need more follow up efforts. All new issues were tagged and duplicates or already resolved issues were closed.
+After the release of version 1.0 we have started merging `Post 1.0` milestone PRs, sorting by last recently updated. There are a lot of PRs which are outdated or stale, with the authors hopefully coming back to addressing the issues after the six month long feature freeze for the 1.0 version.
+
+### Actions/Stale
+We have added the GitHub [actions/stale](https://github.com/actions/stale) workflow to the FreeCAD repository. It automatically checks issues or PRs without activity, leaves a comment, tags it with https://github.com/FreeCAD/FreeCAD/labels/Status%3A%20Stale and if there is no follow-up, closes them after a defined period.
+Currently we have implemented 4 workflows, which run each day:
+1. **🧹 Tag & close stale unconfirmed bugs**  
+Checks for all bug reports which are not marked as confirmed yet. If there is no activity on such an issue after 90 days, the action labels the issue with `Status: Stale` and leaves a comment, asking the reporter to reproduce the issue with the latest weekly and if this issue is still relevant. If there is no comment after another 20 days, the issue will be closed automatically. 
+This action ignores all issues with the tags `Status: Confirmed`, `Priority: High`, `Priority: Critical`, `Blocker`, or `Type: Feature`.
+
+3. **🧹 Close stale requested feedback issues**  
+Checks for all issues which have requested feedback from the author but he did not respond. It only checks issues with the labels `Status: Needs feedback`, `Status: Needs test on dev version`, or `Status: Needs steps to reproduce`. It marks them stale and reminds the author after 20 days and closes the issue if there is no feedback after another 20 days.
+
+5. **🧹 Tag & close inactive issues**  
+  This actions checks every older and inactive bug reports (no feature requests), starting to go through the issues by ascending date created. After 190 days without actifity on an issue, the action kindly asks if this issue is still relevant, as it could already be solved by either a random PR, a dedicated PR which forgot to link the issue to the PR or by updating 3rd party components. If there is no feedback after another 60 days the issue will be closed. It ignores issues with the label `Priority: High`, `Priority: Critical`, `Blocker`, or `Type: Feature`.
+
+7. **🧹 Tag & close inactive PRs**
+This one checks inactive pull requests only, no issues. It checks PRs which are in draft or ready for review and marks them stale when there has been no activity for 150 days. If there is no activity after another 90 days, the PR will be closed. It ignores PRs with the label `Needs backport`, `Priority: High`, `Priority: Critical`.
+
+Any activity, like a comment on issue or a push on PRs will make the action to remove the stale label when it revisits this issue or PR automatically.   
+Maintiners can assign `Status: Stale` label manually, to mark issues or PRs stale, but also are able to remove the label again.  
+All issues and PRs with the label `no-auto-close` will be ignored by the action.   
+Closed issues and PRs will have the label `Status: Auto-closing` and can always be reopened once closed.  
+
+
+### Current statistics this month:
+|Metric|Count|
+|:---|---:|
+|**New** issues this month: | 260 |
+|**Closed** issues this month: | 263 |
+|Currently open issues in **total**: | 2,393 |
+
+Monthly issue metrics for the last period: [https://github.com/FreeCAD/FreeCAD/issues/18522](https://github.com/FreeCAD/FreeCAD/issues/18522)
+
+### Outlook
+Starting this week, we have updated the filter or PRs to the biweekly merge meeting: [https://github.com/FreeCAD/FreeCAD/pulls?q=is:pr+is:open+draft:false+-label:%22Status:+Stale%22+sort:updated-asc](https://github.com/FreeCAD/FreeCAD/pulls?q=is:pr+is:open+draft:false+-label:%22Status:+Stale%22+sort:updated-asc)  
+We filter out all PRs which have been manually tagged `Status: Stale` where there were either merge conflicts which needs to be resolved or other changes were requested but the author has been unresponsive so far. Instead of pinging the author each week to push the PR to the end of the merge queue I will now ask every few weeks to keep the issues alive.
+
+There are already a few PRs tagged with the `Needs backport` label which are already merged and need to be backported for a 1.0.1 bugfix release soon. All new PRs will be checked for potential backport candidates.
+
+The stale action will start tagging a lot of the very old issues as stale, including all the imported issues from the old mantis bugtracker system. They will need extra efforts to check manually if they are still relevant or not, especially if they do not have any subscribed users which would get a notification of the bot asking for relevance. Some of them, especially OCC related once, will need to be marked with `no-auto-close` to prevent the action from closing them manually.
