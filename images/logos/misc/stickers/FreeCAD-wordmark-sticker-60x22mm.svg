@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="6cm"
+   height="2.2cm"
+   viewBox="0 0 226.77165 83.149608"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="FreeCAD-wordmark-sticker-60x18mm.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="3.0066667"
+     inkscape:cx="120.898"
+     inkscape:cy="45.898004"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:document-units="cm">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3315"
+       units="mm"
+       spacingx="3.7795275"
+       spacingy="3.7795275"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <title
+     id="title1">FreeCAD-wordmark</title>
+  <defs
+     id="defs5" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>FreeCAD-wordmark</dc:title>
+        <dc:date>2024-06-01</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sebastian Tabares Amaya (sytabaresa), Max Wilfinger (maxwxyz)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>The FreeCAD project association AISBL (FPA)</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyright (c) 2024 The FreeCAD Project Association AISBL.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g1"
+     style="stroke:none" />
+  <path
+     id="path5-5"
+     style="fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+     d="m 25.142578,3.7792969 c -3.006396,3.632e-4 -5.889585,1.1946664 -8.015625,3.3203125 L 8.2929688,15.931641 C 6.166128,18.05784 4.9710664,20.941866 4.9707031,23.949219 v 35.330078 8.833984 c 4.986e-4,6.261538 5.0763529,11.337392 11.3378909,11.337891 h 8.833984 8.94336 c 3.631632,0 6.930297,-1.664531 9.324218,-4.22461 7.934969,0.928105 14.068231,-3.853398 18.042369,-10.482514 l 91.279985,0.46289 c 0.056,4.92e-4 0.11198,4.92e-4 0.16797,0 l 39.15625,-0.46289 h 5.75391 c 4.36056,0 8.4717,-0.589344 12.02343,-2.300782 0.03,-0.01417 0.06,-0.02849 0.0899,-0.04297 7.63165,-3.77685 11.64062,-12.094939 11.64062,-20.308594 0,-7.296631 -3.03677,-14.749144 -9.35547,-19.037109 -4.46688,-3.047572 -9.36763,-3.722657 -14.5,-3.722657 H 71.810547 V 15.117188 C 71.810048,8.8556502 66.734194,3.7797955 60.472656,3.7792969 h -8.832031 z"
+     sodipodi:nodetypes="ccccccccscccccsccsccccccc" />
+  <path
+     d="M 71.87265,54.09185 V 29.125027 h 12.669224 v 2.263568 H 74.372709 v 9.020489 h 9.797535 v 2.26357 H 74.372709 V 54.09185 Z m 15.595237,0 V 35.611672 h 2.500059 v 2.6352 c 0.979753,-2.027076 2.567631,-2.939263 5.236613,-3.074398 v 2.466275 c -3.479814,0.337847 -5.236613,2.229783 -5.236613,5.675811 V 54.09185 Z M 115.18694,45.679483 H 98.463559 c 0.202707,3.648735 3.378461,6.554212 7.196121,6.554212 2.80413,0 5.40554,-1.689229 6.45287,-4.223075 h 2.60141 c -1.35138,3.885229 -4.96634,6.520428 -8.98671,6.520428 -5.47311,0 -9.763751,-4.290644 -9.763751,-9.763751 0,-5.371752 4.223071,-9.594825 9.561041,-9.594825 3.64874,0 6.92585,1.925722 8.54751,5.033906 0.81083,1.554091 1.11489,3.006828 1.11489,5.473105 z M 98.531128,43.415915 h 14.155752 c -0.84462,-3.682523 -3.58117,-5.946091 -7.16234,-5.946091 -3.5136,0 -6.31772,2.398708 -6.993412,5.946091 z m 38.629062,2.263568 H 120.4367 c 0.2027,3.648735 3.37845,6.554212 7.19645,6.554212 2.80434,0 5.40553,-1.689229 6.45219,-4.223075 h 2.6023 c -1.35138,3.885229 -4.96722,6.520428 -8.98715,6.520428 -5.47321,0 -9.76386,-4.290644 -9.76386,-9.763751 0,-5.371752 4.22308,-9.594825 9.56071,-9.594825 3.64896,0 6.92585,1.925722 8.54773,5.033906 0.81149,1.554091 1.11512,3.006828 1.11512,5.473105 z m -16.65593,-2.263568 h 14.1563 c -0.84462,-3.682523 -3.58161,-5.946091 -7.16322,-5.946091 -3.51326,0 -6.31738,2.398708 -6.99308,5.946091 z m 38.42602,3.716304 h 5.43975 c -1.95972,4.560923 -6.38593,7.398829 -11.52098,7.398829 -7.29681,0 -13.14177,-5.777167 -13.14177,-13.007071 0,-7.060981 5.7765,-12.838148 12.83813,-12.838148 3.1422,0 6.14859,1.081107 8.4793,3.040613 1.58876,1.351384 2.39914,2.466277 3.34532,4.560923 h -5.16925 c -1.68923,-2.196 -3.64897,-3.14197 -6.55379,-3.14197 -2.56806,0 -4.69672,0.94597 -6.21702,2.736553 -1.28403,1.486523 -2.06019,3.648737 -2.06019,5.675813 0,4.662275 3.74942,8.51372 8.37769,8.51372 2.39914,0 4.12262,-0.810832 6.18281,-2.939262 z m 5.96088,6.959631 10.40478,-24.966821 h 3.64896 l 10.47322,24.966821 h -5.1008 l -2.66965,-6.452861 h -8.88558 l -2.77012,6.452861 z m 9.56016,-10.878644 h 5.33819 l -2.66854,-7.567749 z M 192.06127,54.09185 V 29.125027 h 5.71026 c 4.08726,0 7.09476,0.641909 9.12184,1.959507 3.31,2.128432 5.16816,5.946091 5.16816,10.574581 0,5.169044 -2.36493,9.290765 -6.31751,11.148917 -1.99285,0.912185 -4.18884,1.283816 -7.87202,1.283816 z m 4.62827,-4.425782 h 1.01353 c 2.77122,0 4.69673,-0.371633 6.08123,-1.114893 2.23023,-1.216247 3.61584,-3.885228 3.61584,-6.892059 0,-3.277106 -1.52031,-5.979874 -3.98681,-7.19612 -1.41873,-0.675691 -2.93904,-0.912185 -5.81074,-0.912185 h -0.91305 z"
+     fill="#212529"
+     id="path5"
+     style="stroke:none;stroke-width:0.110407" />
+  <g
+     id="g1-3"
+     style="stroke:none"
+     transform="matrix(0.11040718,0,0,0.11040718,16.309568,15.11811)">
+    <path
+       d="m 400,80 -80,80 H 160 v 60 h 80 v 80 h -80 v 100 l -80,80 h 81.0076 c 6.0652,0 11.4378,-3.9054 13.3118,-9.6738 l 14.4798,-44.5656 c 1.384,-4.2618 4.7298,-7.5966 8.9916,-8.9814 l 11.1312,-3.6172 c 4.262,-1.386 8.9314,-0.65 12.5572,1.984 l 37.8994,27.5434 c 4.9066,3.5646 11.5574,3.5646 16.464,0 l 33.972,-24.691 c 4.9072,-3.5648 6.9592,-9.8788 5.085,-15.6474 l -14.4798,-44.5658 c -1.386,-4.262 -0.64,-8.9314 1.994,-12.5572 l 6.8834,-9.4672 c 2.6338,-3.6254 6.8358,-5.777 11.317,-5.7774 l 46.86,0.0102 c 6.0656,2e-4 11.4378,-3.9154 13.3118,-9.684 l 12.9812,-39.9354 c 1.874,-5.7684 -0.18,-12.093 -5.085,-15.658 L 350.7724,237.173 c -3.6256,-2.6342 -5.767,-6.8356 -5.767,-11.3172 V 214.146 c 4e-4,-4.4814 2.1412,-8.6936 5.767,-11.3274 l 43.4598,-31.5742 C 397.8584,168.6106 400,164.3988 400,159.9174 Z"
+       style="fill:#418fde;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.64566;stroke-linecap:square"
+       id="path8-4-4" />
+    <path
+       id="path7-7-2"
+       style="display:inline;fill:#ff585d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.64566;stroke-linecap:square"
+       d="m 320,0 -80,80 h 80 v 80 L 400,80 V 0 Z M 80,320 0,400 v 80 h 80 l 80,-80 H 80 Z" />
+    <path
+       d="M 80,0 0,80 V 400 L 80,320 V 80 H 240 L 320,0 Z"
+       style="fill:#cb333b;fill-rule:evenodd;stroke:none;stroke-width:2.64566;stroke-linecap:square"
+       id="path3-1-7" />
+    <path
+       d="m 80,400 h 80 V 300 h 80 V 220 H 160 V 160 H 320 V 80 H 80 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.64566;stroke-linecap:square"
+       id="path9-4-0" />
+  </g>
+</svg>
