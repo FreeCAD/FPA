@@ -95,13 +95,13 @@ Kacper will work on a new feature preview system that can be used in Part and Pa
 
 Joe will write new FreeCAD Art Guidelines along with providing replacement icons to follow the new guidelines. The current art guidelines are well thought-out and provide for reproducible style, however fall short of following current design trends for visual communication and rely heavily on bold and brash color combinations. The idea behind this prohect is to replace the guidelines, document them, work with the FreeCAD community across several platforms to find both style and form that have a general widespread acceptance, and replace them in their entirety. Total expected duration of the project is 3 months (or until complete). Joe was awarded USD 1,750 for the work.
 
-### Dr. Rajeevlochana G. Chittawadigi, Dr. Ravi Kumar V., and Dr. Mohan Kumar S.: 
+### Dr. Rajeevlochana G. Chittawadigi, Dr. Ravi Kumar V., and Dr. Mohan Kumar S.: Content and Pedagogy Development for Teaching and Learning of Sketcher Workbench in FreeCAD Software
 
 *Funding approved 9 November 2024.*
 
 The team will develop a Sketcher addon for teaching how to use the workbench. Users will follow step-by-step instructions, and the wizard will highlight mistakes (if any) after each step. The project deliverables are spread across 9 months. The team was awarded a grant of USD 6,000 (to be paid to one representative in three steps).
 
-### Pieter Hijma (@pieterhijma): Improve User Experience of VarSets #17
+### Pieter Hijma (@pieterhijma): Improve User Experience of VarSets
  
 *Funding approved 9 November 2024.*
 
