@@ -14,6 +14,8 @@ Anyone who thinks that they can solve the relevant issue applies for a grant by 
 
 The offer can be made for a work that has not been started or in progress, but cannot be made for a work that has been completed.
 
+The relevant application may contain more than one "prioritized for grant" issue, in which case the offer is considered a Pre-approved Grant, but if extra things are promised other than solving the relevant issue, this status is lost. If these extras are defined as side effects and are considered advantages of the method to be applied, the Pre-approved Grant status of the proposal is preserved.
+
 #### Exceptions
 This type of grant has exceptional features. However, this exception can be lost in various ways.
 
