@@ -3,7 +3,7 @@ This document has been created to explain the operation of a program that is bet
 
 #### Determining the prioritized issue in granting
 
-Any FPA member who believes that there is significant community demand for an issue included in FreeCAD's bug tracker will vote at the FPA General Assembly to prioritize this issue for the grant. Voting is done in the same way as grant voting. However, the member who opened the vote cannot vote for the vote, and even if he does, his vote will be counted as undecided. Members vote by taking into account the demands of the community.
+Any FPA member who believes that there is significant community demand for an issue included in FreeCAD's bug tracker will vote at the FPA General Assembly to prioritize this issue for the grant. Voting is done in the same way as grant voting. However, the member who opened the vote cannot vote for the vote, and even if he does, his vote will be counted as undecided. Members vote taking into account the demands of the community and the priorities of the FPA.
 
 If the vote is positive, a text is written where the relevant issue is located, stating that this issue has been approved by the FPA and that grant offers to be made to close this issue will be accepted directly without a second vote, unless there is an exceptional situation. And the "prioritized for grant" tag is added to the relevant issue.
 
