@@ -81,40 +81,79 @@ That depends on how much work you have managed to do. If you are in the middle o
 
 Alternatively, you can request a partial compensation and a pause to handle your situation. We do not request you to share your life details with us, but we expect you to warn us in a timely manner.
 
-## Ongoing Grant Projects
+## Ongoing projects funded by the FPA
 
-The following is a reverse-chronological-order list of ongoing projects funded by the FreeCAD Project Association:
+### Pieter Hijma (@pieterhijma): Research Variant Parts
+
+*Funding approved 9 September 2024.*
+
+Pieter Hijma will be working on research for variant parts. A number of FreeCAD features require inserting copy-on-change links, such as referencing external geometry in a body for which SubShapeBinders are used in Part Design. The architecture behind the current implementation involves hidden parts and temporary files and is fragile. Pieter will begin the project by elaborating on the current state of affairs in the forum for developers, then propose patches targeting several aspects of the current implementation. He was awarded a grant of EUR 8,000 for the entire project.
+
+### Bradley Mclean (@bgbsww): Documented procedures and code for supporting debugging FreeCAD C++ and Python from CLion and VSCode
+
+*Funding approved 18 September 2024.*
+
+Brad will write documented procedures and/or code for supporting debugging FreeCAD C++ and Python from CLion and VSCode. The project is expected to take approximately 2 weeks. Brad was awarded a grant of USD $1,500 for the project.
+
+### Chris Jones (@ipatch): Update homebrew-freecad tap with a freecad formula that uses Python v3.12 and Qt v6
+
+*Funding approved 27 August 2024.*
+
+Chris will continue his work on homebrew builds of FreeCAD. This time, he will update the homebrew-freecad tap to link against Python v3.12 and Qt v6 when creating the build. The project is expected to take a few weeks to complete. Chris was awarded a grant of USD $2,000 for the project.
+
+### Aleksandr Prokudin (@prokoudine): Blog maintenance
+
+*Funding approved 2 July 2024.*
+
+Aleksandr will post weekly recaps of FreeCAD development and write 2 to 4 additional news posts a month. The contract is for 1 year, with monthly payouts of EUR 500.
+
+### Pieter Hijma (@pieterhijma): Improve C++ API Documentation
+
+*Funding approved 2 July 2024.*
+
+Pieter will refine a documentation standard in collaboration with the community and Anurag Singh (the other API documentation grantee) and apply the standard to files in the App namespace. The project is expected to last 6 months. Pieter was awarded EUR 8,000 for the entire project.
+
+### Anurag Singh (@drLite35): Improve the FreeCAD API documentation
+
+*Funding approved 24 June 2024.*
+
+Anurag will reorganize the existing documentation, enhance docstrings to ensure uniformity and thoroughness, enhance the documentation's visual appeal and usability, automate documentation's generation, and write a contributor guide with instructions for effective documentation. The project is expected to last approx. 5 months. Anurag was awarded USD 4,000 for the entire project.
+
+### Andrianos Karampilis: User manual update
+
+*Funding approved 9 June 2024.*
+
+Andrianos is updating the user manual in the wiki. The goal is to update all 23 chapters of the manual to bring it up to speed with the current state of FreeCAD and explore the possibility of releasing EPUB and PDF versions of the manual. The compensation for this project is USD 2,500.
+
+### Ajinkya Dahale (@jnxd): Refactoring Sketcher
+
+*Funding approved 3 June 2024.*
+
+Ajinkya Dahale will be making Sketcher more manageable to maintain and extend. His project has three deliverables:
+
+- Simplifying methods: rewriting gigantic methods in Sketcher so that geometry special cases would be ideally moved to helper methods for reuse or at least divided into pieces for each case, making an easier reading.
+- Tests: this will be done before major refactoring Sketcher to avoid regressions.
+- Documentation: complete documentation of methods and a document listing best practices to follow when performing such refactoring elsewhere.
+
+He was awarded a grant of USD $5,000.
+
+### Francisco de Assis Rosa (@Francisco-Rosa): Design new components for the FreeCAD library
+
+*Funding approved 12 May 2024.*
+
+Francisco will be designing furniture and parametric components for the FreeCAD library. Deliverables are “a few dozen pieces of furniture and parametric components (for architectural and engineering projects) for immediate use in FreeCAD”. He was awarded a grant of USD $5,000.
 
 ### Mario Passaglia (@marioalexis84): Bugfixing and electromagnetic system simulations using CalculiX
 
 *Funding approved 11 February 2024.*
 
-Mario will be working for 7 months to provide solutions for electromagnetic problems leveraging the CalculiX solver. He will also fix bugs in the FEM workbench. Mario was awarded a grant of 4000 USD.
+Mario will be working for 7 months to provide solutions for electromagnetic problems leveraging the CalculiX solver. He will also fix bugs in the FEM workbench. Mario was awarded a grant of USD 4,000.
 
 ### Max Wilfinger (@maxwxyz): Bugs triaging
 
 *Funding approved 10 February 2024.*
 
-Max will triage bug reports. The contract is for 1 year, with monthly payouts of $500.
-
-### Bradley Mclean (@bgbsww): Toponaming issue mitigation
-
-*Funding approved 22 January 2024.*
-
-Bradley will be working for two months on integrating fixes for the toponaming issue from RealThunder's branch to upstream FreeCAD. He was awarded a grant of 4800 USD.
-
-### Vincenzo Calligaro (@CalligaroV): Toponaming issue mitigation
-
-*Funding approved 22 January 2024.*
-
-Vincenzo will be working for two months on integrating fixes for the toponaming issue from RealThunder's branch to upstream FreeCAD. He was awarded a grant of 3400 EUR.
-
-
-### Ajinkya Dahale (@jnxd): Curve Geometry Improvements
-
-*Funding approved 26 November 2023.*
-
-Ajinkya will implement general tangency with B-splines and make it possible to preview B-splines when drawing them. He will also investigate the implementation of Bezier curves and improve support for joining curves. Ajinkya was awarded a grant of 5000 USD.
+Max will triage bug reports. The contract is for 1 year, with monthly payouts of USD 500.
 
 ### Adrian Insauuralde (@adrianinsaval): Packaging
 

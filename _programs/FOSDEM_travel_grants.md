@@ -9,8 +9,9 @@ layout: default
 
 {{page.description}}
 
+**Note**: The FPA has voted a new [travel policy](/handbook/process/travel-policy), which term also apply here.
 
-The FreeCAD project association (FPA) is offering travel grants to help developers and community members attend different events where they can meet other developers and users. Grants are intended to help cover travel and hotel expenses and will be awarded based on the following criteria:
+The FreeCAD project association (FPA) is offering travel grants to help developers and community members attend different events where they can meet other developers and users. Grants are intended to help cover travel and hotel expenses and will be awarded based on the following criteria.
 
 ## The Program
 
@@ -21,7 +22,8 @@ The FreeCAD project association (FPA) is offering travel grants to help develope
 
 ## Events covered by this program
 
-* Open: [FOSDEM and FreeCAD day 2024](https://blog.freecad.org/2023/10/31/fosdem-freecad-day-and-hackathon-2024/) - 30 jan to 05 feb 2024 - USD 600 grants, up to max USD 6000
+* Open: FOSDEM and FreeCAD day 2025 - 28 jan to 02 feb 2025 - USD 600 grants, up to max USD 6000
+* Closed: [FOSDEM and FreeCAD day 2024](https://blog.freecad.org/2023/10/31/fosdem-freecad-day-and-hackathon-2024/) - 30 jan to 05 feb 2024 - USD 600 grants, up to max USD 6000
 * Closed: [Vancouver hackathon 2023](https://blog.freecad.org/2023/05/24/freecad-hackathon-11-13-august-2023/) - 11 to 15 aug 2023 - USD 500 grants, up to max USD 5000
 * Closed: [FOSDEM and FreeCAD day 2023](https://github.com/FreeCAD/FPA/issues/22) - 02 to 04 feb 2023. USD 500 grants, up to max USD 5000
 
@@ -41,6 +43,7 @@ The FPA will continue to expand this program.  The FPA will authorize travel gra
   participation
 
 We welcome suggestions for events that we can consider.  Some suggestions that have already been received but not yet autorized include:
+
 * [OSHWA summit](https://www.oshwa.org/2023/08/21/open-hardware-summit-2024/)
 * [IndiaFOSS](https://indiafoss.net/)
 * [PyCon India](https://in.pycon.org/2024/)
@@ -55,6 +58,8 @@ We welcome suggestions for events that we can consider.  Some suggestions that h
 - Any person interested must request a grant: no grant will be awarded automatically. All requests will be considered and must be approved by the FPA.
 - Requests must be submitted by sending an email to the FPA at [fpa@freecad.org](mailto:fpa@freecad.org) no later than December 31st, 2022.
 
+Be sure to read the [FPA travel policy](/handbook/process/travel-policy) as its terms apply here as well.
+
 ## How can the money be used?
 
 - The grant must be solely used for travel to the designated event, and for stay (hotel, etc) expenditures related to the event.
@@ -64,6 +69,12 @@ We welcome suggestions for events that we can consider.  Some suggestions that h
 ## When do I get the money?
 
 It might take some time to process payments. We will do our best to process payments as quickly as possible but grant recipients will pay for their ticket upfront and receive reimbursement.  
+
+### How to apply?
+
+* Read the [FPA travel policy](/handbook/process/travel-policy)
+
+* Fill the [request form](https://docs.google.com/forms/d/e/1FAIpQLSfTV6so0nFJyxnxH6-HCv0q1_393UrK2Cxjdnzl8a-a5k7d9g/viewform?usp=sf_link) at least 30 days before the start of the event
 
 ## How to help
 

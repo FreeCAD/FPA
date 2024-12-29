@@ -19,6 +19,7 @@ body {
     margin: 0 auto;
     padding: 0 50px;
     overflow-y: scroll;
+    overflow-wrap: break-word;
     font-family: "Inter", sans-serif;
     font-weight: 350;
     font-size: 18px;
@@ -167,7 +168,7 @@ nav > a:hover {
     text-align: left;
     display: grid;
     gap: 1em;
-    height: 400px;
+    min-height: 400px;
     margin-top: 1.5em;
     margin-bottom: 2em;
 }
@@ -455,7 +456,11 @@ td:not(:last-child), th:not(:last-child) {
         color: $OffBlack;
     }
 }
+
 @media (max-width: 768px) {
+  .menuList {
+    justify-content: center;
+  }
   #menuContainer {
     flex-direction: column;
     align-items: center;
@@ -463,3 +468,4 @@ td:not(:last-child), th:not(:last-child) {
     margin-bottom:1em;
   }
 }
+

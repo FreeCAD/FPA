@@ -320,3 +320,202 @@ With the sheer amount of new issues beeing created, it could be discussed to imp
 
 Everyone can help with triaging by looking for old issues tagged with "Missing: feedback" to determine their relevance. These will be closed after one month if no further feedback is provided.
 
+## 2024-07-15
+This month, we continued to see a high volume of issue reports related to the FreeCAD topological naming problem (TNP) fixes. Additionally, there was an uptick in issues concerning color and material implementations. 
+All issues were diligently followed up and tagged accordingly. 
+There was a rise in issues missing critical information, such as missing about info, steps to reproduce, or example files, which required additional effort to manage. These were managed by requesting additional details from the authors to ensure the issues were actionable. Also, an increase in issues related to color and material implementations was noted this period. There was also a notable rise in duplicate issues, especially regarding this issue: https://github.com/FreeCAD/FreeCAD/issues/15102
+
+### Changes relating to the upcoming 1.0 release
+- Blocker Tag and Milestones: Issues deemed critical for the 1.0 release are tagged with a `blocker` tag and assigned the milestone `1.0`. All blocker issues are currently assigned to contributors. Issues with the milestone 1.0 but without the blocker tag are considered nice-to-have for the 1.0 release.
+- Pull Requests: All PRs are now either tagged with the `1.0` or `Post 1.0` milestone. Only PRs with the 1.0 milestone will be merged before the release. This ensures a focus on critical fixes and necessary improvements for the upcoming release.
+
+There are currently 32 unresolved issues with the `blocker` tag and the `1.0` milestone which need to be fixed with priority [`is:issue is:open label:Blocker milestone:1.0`](https://github.com/FreeCAD/FreeCAD/issues?q=is%3Aissue+is%3Aopen+label%3ABlocker+milestone%3A1.0). Overall, there are 111 issues set for a 1.0 milestone but not considered a blocker for a release.
+3 of the blocker issues already have a submitted PR which are not merged yet, overall there are currently 27 open PRs which are set for the 1.0 milestone.
+
+
+### Current statistics this month:
+|Metric|Count|
+|:---|---:|
+|**New** issues this month: | 218 |
+|**Closed** issues this month: | 319 |
+|Currently open issues in **total**: | 1,802 |
+
+Monthly issue metrics for the last period: https://github.com/FreeCAD/FreeCAD/issues/15426
+
+### Outlook
+Apart from triaging the bug tracker system, effort will be on the issues and PRs concerning the upcoming 1.0 release.
+- Labeling and Prioritization: Continue labeling PRs with the 1.0 or Post 1.0 milestone. Ensure that relevant new issues are tagged appropriately for the 1.0 release and marked as blockers where necessary. Each blocker issue should have an assignee.
+- Stricter PR Evaluation: Implement a stricter procedure for evaluating PRs. Only bug fixes for critical issues, 1.0 blockers, and regressions will be accepted for merging before the 1.0 release. We are already in a feature and UI freeze, and all future PRs will be given the post 1.0 milestone.
+
+
+## 2024-08-15
+This month, we continued to see a high volume of issue reports related to the FreeCAD topological naming problem (TNP) fixes. Additionally, there was an increase in stylesheet related issues but also PRs to fix already a lot of them. 
+All issues were followed up and tagged accordingly. 
+
+### Label changes
+The GitHub labels were updated and also automatic label actions were adjusted to use the new labels. Labels now describe the property, followed by a colon and then the value, e.g. `Type: Bug`.
+This was done to all existing issues except some meta labels like GSoC, FOSSHack, etc.
+So we end up with labels for:
+- Type: Describing the type of the issue, e.g. Feature, Bug, Regression, Crash, ...
+- Status: If the issue is confirmed or something is missing
+- Mod: These are the previous WB (workbench) labels
+- Topic: grouping all related issues, e.g. Toponaming, User Interface, ...
+- 3rd party: related to 3rd party components
+- File format: issues concerning specific file types
+- OS: only applicable for certain OS, like macOS, Windows or Linux
+- Hardware: for hardware related issues (mouse, display, ...)
+- Packaging: issues with specific versions or the build process
+- Priority: this was a new introduction, where after 1.0 it would be beneficial to classify how critical an issue is. The values currently are: low, normal, high and critical.
+
+### Current statistics this month:
+|Metric|Count|
+|:---|---:|
+|**New** issues this month: | 155 |
+|**Closed** issues this month: | 208 |
+|Currently open issues in **total**: | 1,856 |
+
+Monthly issue metrics for the last period: [https://github.com/FreeCAD/FreeCAD/issues/15426
+](https://github.com/FreeCAD/FreeCAD/issues/15903)
+
+### Outlook
+There are currently 27 unresolved issues with the `blocker` tag and the `1.0` milestone which need to be fixed with priority [`is:issue is:open label:Blocker milestone:1.0`](https://github.com/FreeCAD/FreeCAD/issues?q=is%3Aissue+is%3Aopen+label%3ABlocker+milestone%3A1.0).
+Last month there were 32 of these, but also new ones were added during this period.
+Overall, there are 95 issues set for a 1.0 milestone but not considered a blocker for a release (down from 111 last month)
+3 of the blocker issues already have a submitted PR which are not merged yet, overall there are currently 27 open PRs which are set for the 1.0 milestone.
+
+Everyone can help by checking new issues if they can be reproduced or if they are related to similar issues. If you can build FreeCAD yourself, you can test the open PRs and comment on them, or you could tackle the 1.0 tagged issues, especially the ones labeled as blocker for the next release.
+
+## 2024-09-15
+This month, we've passed the 2,000 issues mark on the repository. With the FreeCAD 1.0 release candidate out, there has been an increase in new issues per day and as expected the quality of new issues decreased, ending up in multiple duplicate issues or the lack of standard information which led to an increased effort for triaging. The sheer amount of issues leads to more issues than usual which need to be confirmed by other testers.
+
+### CAD advisory group
+In analogy to the Design Working Group (DWG) there is now also a CAD advisory group / mechanical advisory group. It has members which use CAD professionally and are industry experts, allowing feedback from experienced CAD users on existing issues, new features and overall concepts and standards.
+A new project board was created, prioritizing issues into three groups which are essential for professional design work: https://github.com/orgs/FreeCAD/projects/28
+The issues in the P1 group were also labelled `Priority: High` and are welcomed to be solved by delevopers. 
+The group itself can also be pinged on issues and in comments on PRs by using the handle `@FreeCAD/cad-advisory-group ` and there is also a dedicated channel on the Discord server. Feel free to participate!
+
+### Current statistics this month:
+|Metric|Count|
+|:---|---:|
+|**New** issues this month: | 263 |
+|**Closed** issues this month: | 234 |
+|Currently open issues in **total**: | 2,016 |
+
+Monthly issue metrics for the last period: [https://github.com/FreeCAD/FreeCAD/issues/16542](https://github.com/FreeCAD/FreeCAD/issues/16542)
+
+### Outlook
+There are currently 9 unresolved issues with the `blocker` tag and the `1.0` milestone which need to be fixed with priority [`is:issue is:open label:Blocker milestone:1.0`](https://github.com/FreeCAD/FreeCAD/issues?q=is%3Aissue+is%3Aopen+label%3ABlocker+milestone%3A1.0).
+Last month there were 27 of these, but also new ones were added during this period.
+Overall, there are 108 issues set for a 1.0 milestone but not considered a blocker for a release (up from 95 last month).
+Three of the blocker issues already have a submitted PR which are not merged yet, overall there are currently 33 open PRs which are set for the 1.0 milestone.
+
+Everyone can help by checking new issues if they can be reproduced or if they are related to similar issues. If you can build FreeCAD yourself, you can test the open PRs and comment on them, or you could tackle the 1.0 tagged issues, especially the ones labeled as blocker for the next release.
+
+## 2024-10-15
+The amount of new issues due to 1.0 RC2 out has increased significantly. Especially from new reporters which unfortunately lack basic info and need more follow up efforts. The sheer amount of issues also lead to more issues than usual which need to be confirmed by other testers as I am not able to test all incoming issues. Nevertheless, all new issues were tagged accordingly, also with great help by the community (huge thanks to luzpaz and Roy-043)! New regressions and crashes were reported which lead to an increased amount of new issues labelled as blocker for a 1.0 release.
+
+### Blocker characteristics
+During the last developer meeting it was decided, that new issues should be considered as `blocker` if they fullfill these criteria:
+
+1. Crashes, and occurs even on Windows where stuff rarely crashes.
+2. Can be easily reproduced (in a few steps).
+3. Is likely to happen in practice (e.g. doesn't require activating very uncommon feature like the one about the DAG view).
+4. Didn't happen in 0.21.2 (regression).
+5. Looks fixable in a reasonable time for 1.0.
+
+All other bugs won't be considered as blocker for a 1.0 release.
+We triaged all issues which are confirmed crashes in a meeting and I triaged every reported crash and assigned a `non-blocker` tag to those issues where these criteria do not apply, so we don't start from scratch next time.
+
+
+### Current statistics this month:
+|Metric|Count|
+|:---|---:|
+|**New** issues this month: | 251 |
+|**Closed** issues this month: | 299 |
+|Currently open issues in **total**: | 2,172 |
+
+Monthly issue metrics for the last period: [https://github.com/FreeCAD/FreeCAD/issues/16542](https://github.com/FreeCAD/FreeCAD/issues/17256)
+
+### Outlook
+There are currently 17 unresolved issues with the `blocker` tag and the `1.0` milestone which need to be fixed with priority [`is:issue is:open label:Blocker milestone:1.0`](https://github.com/FreeCAD/FreeCAD/issues?q=is%3Aissue+is%3Aopen+label%3ABlocker+milestone%3A1.0).
+Last month there were 9 of these, an increase although some blocker issues were fixed during this period.
+
+Overall, there are 107 issues set for a 1.0 milestone but not considered a blocker for a release (down by 1 from last month).
+There are currently 11 open PRs which are set for the 1.0 milestone and need to be backported to the 1.0 branch.
+The `Post 1.0` milestone PRs are increasing, currently 181 PRs are waiting in the queue to be merged after the release of version 1.0 and also need to be rebased.
+
+Merging PRs needs to be done stricter prior to a 1.0 release, only labelling PRs which fix regressions, crashes and blocker issues for thew 1.0 milestone.
+
+Everyone can help by checking new issues if they can be reproduced or if they are related to similar issues. If you can build FreeCAD yourself, you can test the open PRs and comment on them, or you could try to fix the issues which are labeled as blocker for the next release.
+
+## 2024-11-15
+Since releasing the first 1.0 release candidate, 470 new issues are createad **each month** on average. They still lack basic info and need more follow up efforts as they are reported by new reporters. All new issues were tagged and duplicates or already resolved issues since RC2 were closed quickly. 
+The amount of new issues still needs more time to go through each one and try to reproduce, given the reporter adds example files and steps how to reproduce.
+
+### 1.0 / 1.1 Milestones
+Currently, there is no open issue with a `Blocker` label, all 140 of them were closed. All pull requests which were set as 1.0 milestone were merged and backported to 1.0. All issues which were no blocker but labelled as nice-to-have for the 1.0 milestone have been moved to the 1.1 milestone, leaving nothing open for the 1.0 milestone.
+
+If there is no critical new blocker issue to be reported based on the RC4, the 1.0 version will be released soon.
+In preparation for `Post 1.0` I've looked at each of the remaining 250 PRs to check if they have conflicts and pinged the autor to remove them for further testing and merging.
+
+We have also experimentally allowed posting issues on the forum in a dedicated section, only for people who refuse to use GitHub. The issues will be transferred to new GitHub issues and cross-linked, but further investigation and development will only take place on GitHub. Nevertheless, the guides of how to report issues remain the same: https://github.com/FreeCAD/FreeCAD?tab=readme-ov-file#reporting-issues
+
+### Current statistics this month:
+|Metric|Count|
+|:---|---:|
+|**New** issues this month: | 213 |
+|**Closed** issues this month: | 313 |
+|Currently open issues in **total**: | 2,254 |
+
+Monthly issue metrics for the last period: [https://github.com/FreeCAD/FreeCAD/issues/17874](https://github.com/FreeCAD/FreeCAD/issues/17874)
+
+### Outlook
+Starting this week, we have scheduled two merge meetings (Monday + Friday) to go through all the piled up PRs since we have gone into feature freeze in **July**. In fairness, the order of merging will be the same: https://github.com/FreeCAD/FreeCAD/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-asc+draft%3Ano
+
+You can help by reviewing and testing PRs in that order and comment on them.
+
+I will keep an eye out for new high priority PRs which might need to be backported to a 1.0.x (if such version will be created) and label them as `Needs backport` for discussion at the beginning on the merge meetings.
+There will be an increased focus on code quality following the 1.0 release, so PRs might not be merges as fast as currently, but expect at least feedback once a week from developers on the PRs.
+
+## 2024-12-15
+The amount of new issues this period is still high and above average with 400 new issues. A lot of them already have been closed as duplicates or quick bugfixes, leaving it at around 260 new issues this month which are still open. Especially new reporters forget basic info and need more follow up efforts. All new issues were tagged and duplicates or already resolved issues were closed.
+After the release of version 1.0 we have started merging `Post 1.0` milestone PRs, sorting by last recently updated. There are a lot of PRs which are outdated or stale, with the authors hopefully coming back to addressing the issues after the six month long feature freeze for the 1.0 version.
+
+### Actions/Stale
+We have added the GitHub [actions/stale](https://github.com/actions/stale) workflow to the FreeCAD repository. It automatically checks issues or PRs without activity, leaves a comment, tags it with https://github.com/FreeCAD/FreeCAD/labels/Status%3A%20Stale and if there is no follow-up, closes them after a defined period.
+Currently we have implemented 4 workflows, which run each day:
+1. **🧹 Tag & close stale unconfirmed bugs**  
+Checks for all bug reports which are not marked as confirmed yet. If there is no activity on such an issue after 90 days, the action labels the issue with `Status: Stale` and leaves a comment, asking the reporter to reproduce the issue with the latest weekly and if this issue is still relevant. If there is no comment after another 20 days, the issue will be closed automatically. 
+This action ignores all issues with the tags `Status: Confirmed`, `Priority: High`, `Priority: Critical`, `Blocker`, or `Type: Feature`.
+
+3. **🧹 Close stale requested feedback issues**  
+Checks for all issues which have requested feedback from the author but he did not respond. It only checks issues with the labels `Status: Needs feedback`, `Status: Needs test on dev version`, or `Status: Needs steps to reproduce`. It marks them stale and reminds the author after 20 days and closes the issue if there is no feedback after another 20 days.
+
+5. **🧹 Tag & close inactive issues**  
+  This actions checks every older and inactive bug reports (no feature requests), starting to go through the issues by ascending date created. After 190 days without actifity on an issue, the action kindly asks if this issue is still relevant, as it could already be solved by either a random PR, a dedicated PR which forgot to link the issue to the PR or by updating 3rd party components. If there is no feedback after another 60 days the issue will be closed. It ignores issues with the label `Priority: High`, `Priority: Critical`, `Blocker`, or `Type: Feature`.
+
+7. **🧹 Tag & close inactive PRs**
+This one checks inactive pull requests only, no issues. It checks PRs which are in draft or ready for review and marks them stale when there has been no activity for 150 days. If there is no activity after another 90 days, the PR will be closed. It ignores PRs with the label `Needs backport`, `Priority: High`, `Priority: Critical`.
+
+Any activity, like a comment on issue or a push on PRs will make the action to remove the stale label when it revisits this issue or PR automatically.   
+Maintiners can assign `Status: Stale` label manually, to mark issues or PRs stale, but also are able to remove the label again.  
+All issues and PRs with the label `no-auto-close` will be ignored by the action.   
+Closed issues and PRs will have the label `Status: Auto-closing` and can always be reopened once closed.  
+
+
+### Current statistics this month:
+|Metric|Count|
+|:---|---:|
+|**New** issues this month: | 260 |
+|**Closed** issues this month: | 263 |
+|Currently open issues in **total**: | 2,393 |
+
+Monthly issue metrics for the last period: [https://github.com/FreeCAD/FreeCAD/issues/18522](https://github.com/FreeCAD/FreeCAD/issues/18522)
+
+### Outlook
+Starting this week, we have updated the filter or PRs to the biweekly merge meeting: [https://github.com/FreeCAD/FreeCAD/pulls?q=is:pr+is:open+draft:false+-label:%22Status:+Stale%22+sort:updated-asc](https://github.com/FreeCAD/FreeCAD/pulls?q=is:pr+is:open+draft:false+-label:%22Status:+Stale%22+sort:updated-asc)  
+We filter out all PRs which have been manually tagged `Status: Stale` where there were either merge conflicts which needs to be resolved or other changes were requested but the author has been unresponsive so far. Instead of pinging the author each week to push the PR to the end of the merge queue I will now ask every few weeks to keep the issues alive.
+
+There are already a few PRs tagged with the `Needs backport` label which are already merged and need to be backported for a 1.0.1 bugfix release soon. All new PRs will be checked for potential backport candidates.
+
+The stale action will start tagging a lot of the very old issues as stale, including all the imported issues from the old mantis bugtracker system. They will need extra efforts to check manually if they are still relevant or not, especially if they do not have any subscribed users which would get a notification of the bot asking for relevance. Some of them, especially OCC related once, will need to be marked with `no-auto-close` to prevent the action from closing them manually.

@@ -55,6 +55,16 @@ The program is geared towards individual contributors. However, the FPA grant co
 
 _Example:_ three former GSoC students can form a group and submit a grant application with a scope of work for three developers, however only one will be the official representative of the group. This person is expected to submit the application and then progress reports, as well as receive and distribute payouts between group members.
 
+## Conflicts of interest
+
+Members of the Grant Review Committee are eligible to apply for grants, but that member must be excluded from private committee deliberations. If that member is the chair of the committee, an alternate chair must be chosen to run the deliberations.
+
+In the case of a grant application from an FPA member, if the Grant Review Committee recommends that the FPA decline funding for the effort, the application must be withdrawn.
+
+The internal mechanics of the grant review committee are the purview of the committee itself, which will decide how to implement these rules.
+
+For FPA general assembly members, the FPA conflict of interest policy applies.
+
 ## Grant topics
 
 The grant committee accepts applications to improve both FreeCAD and its ecosystem.
