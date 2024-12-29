@@ -28,6 +28,56 @@ As described in previous reports, each file contains: sets of its configurable p
 
 The revised files have been updated in a branch of the main FreeCAD library, which can be merged into the main one. Their locations are:
 
+* Bathroom_cabinet_sink.FCStd
+* * https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Bathroom
+
+* Bedroom_closet.FCStd
+* Beds.FCStd
+* * https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Bedroom
+
+* Doors_windows_module_01.FCStd
+* * https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Doors_Windows
+
+* Kitchen_cabinet_base.FCStd
+* Kitchen_cabinet_sink.FCStd
+* Kitchen_cabinet_superior.FCStd
+* Kitchen_cabinet_vertical.FCStd
+* * https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Kitchen
+
+* Chair.FCStd	
+* Living_room_cabinet.FCStd
+* Rectangular_center_table.FCStd
+* Rectangular_tables.FCStd	
+* Sideboard.FCStd
+* Sofa_Armchair.FCStd
+* * https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Living%20room
+
+* Duct_curved_circular_complete.FCStd
+* Duct_linear_circular_complete.FCStd
+* * https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/HVAC/Ducts/Circular
+
+* Duct_curved_circular_oval_complete.FCStd
+* Duct_linear_circular_oval_complete.FCStd	
+* * https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/HVAC/Ducts/Circular_oval	
+
+* Duct_flex_complete.FCStd
+* * https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/HVAC/Ducts/Flex
+
+* Duct_curved_oval_complete.FCStd
+* Duct_linear_oval_complete.FCStd
+* * https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/HVAC/Ducts/Oval
+
+* Duct_curved_rectangular_complete.FCStd
+* Duct_linear_rectangular_complete.FCStd
+* * https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/HVAC/Ducts/Rectangular
+
+* Duct_curved_rectangular_circular_complete.FCStd
+* Duct_linear_rectangular_circular_complete.FCStd
+* * https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/HVAC/Ducts/Rectangular_circular
+
+* Duct_curved_rectangular_oval_complete.FCStd
+* Duct_linear_rectangular_oval_complete.FCStd
+* * https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/HVAC/Ducts/Rectangular_oval
 
 
 ## 2. Results obtained
