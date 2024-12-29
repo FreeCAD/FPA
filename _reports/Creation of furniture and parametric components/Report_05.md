@@ -36,6 +36,8 @@ The revised files have been updated in a branch of the main FreeCAD library, whi
 * * https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Bedroom
 
 * Doors_windows_module_01.FCStd
+* Get_parametric_model.FCMacro
+* Save_parametric_models.FCMacro
 * * https://github.com/Francisco-Rosa/FreeCAD-library/tree/master/Architectural%20Parts/Doors_Windows
 
 * Kitchen_cabinet_base.FCStd
