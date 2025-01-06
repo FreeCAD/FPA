@@ -83,17 +83,53 @@ Alternatively, you can request a partial compensation and a pause to handle your
 
 ## Ongoing projects funded by the FPA
 
+### Kacper Donat (@kadet1090): Unified Transparent Previews
+
+*Funding approved 28 November 2024.*
+
+Kacper will work on a new feature preview system that can be used in Part and Part Design. Whenever you need to apply Pad or Loft or any other command, you will get a transparent preview of what you are getting right in the viewport. This is the first part of a larger project intended to unify Part and Part Design. He was awarded a grant of EUR 1,500 for the project.
+
+### Joe Sardos (@Obelisk): Modernize, revise FreeCAD Art Guidelines and Icons
+
+*Funding approved 11 November 2024.*
+
+Joe will write new FreeCAD Art Guidelines along with providing replacement icons to follow the new guidelines. The current art guidelines are well thought-out and provide for reproducible style, however fall short of following current design trends for visual communication and rely heavily on bold and brash color combinations. The idea behind this prohect is to replace the guidelines, document them, work with the FreeCAD community across several platforms to find both style and form that have a general widespread acceptance, and replace them in their entirety. Total expected duration of the project is 3 months (or until complete). Joe was awarded USD 1,750 for the work.
+
+### Dr. Rajeevlochana G. Chittawadigi, Dr. Ravi Kumar V., and Dr. Mohan Kumar S.: Content and Pedagogy Development for Teaching and Learning of Sketcher Workbench in FreeCAD Software
+
+*Funding approved 9 November 2024.*
+
+The team will develop a Sketcher addon for teaching how to use the workbench. Users will follow step-by-step instructions, and the wizard will highlight mistakes (if any) after each step. The project deliverables are spread across 9 months. The team was awarded a grant of USD 6,000 (to be paid to one representative in three steps).
+
+### Pieter Hijma (@pieterhijma): Improve User Experience of VarSets
+ 
+*Funding approved 9 November 2024.*
+
+Peter will work on improving the user experience of VarSets. The work will include guiding the discussion on the more complicated topics, adding new features that are requested from users, and improving on various small issues. The work is scheduled to be done between January and April 2025. Pieter was awarded EUR 8,000 for the work.
+
+### Turan Furkan Topak (@Reqrefusion): Recommendations and proposal for the improvement of documentation
+
+*Funding approved 9 November 2024.*
+
+Turan will improve the documentation wiki. He will apply fixes for some of the existing issues, improve the search feature, implement responsive design, opening direct user registration after making our Mediwiki instance vandal-safe, improve the editor, set up the ebooks generations for offline use, and improve various other things. Reqrefusion was awarded USD 3,000 for the work.
+
+### FlachyJoe: bugfixes
+
+*Funding approved 11 October 2024.*
+
+FlachyJoe received an honorary grant of $1000 for working on bug fixes in this development cycle. Most recently he fixed a ton of bugs in Part Design, specifically in the Helix code.
+
+### Jackson Oursland (@oursland): CI Hosting Research Proposal 
+
+*Funding approved 4 October 2024.*
+
+Jackson will research various options for FreeCAD to get fast CI runners. Currently, we have free runners from GitHub, but they are relatively slow and concurrency-limited. So Jackson will look into three general options: paid runners on GitHub, self-hosted runners in the cloud (AWS, Azure, GCS, maybe others), and self-hosted runners on premise. Jackson was awarded $500 for the research.
+
 ### Pieter Hijma (@pieterhijma): Research Variant Parts
 
 *Funding approved 9 September 2024.*
 
 Pieter Hijma will be working on research for variant parts. A number of FreeCAD features require inserting copy-on-change links, such as referencing external geometry in a body for which SubShapeBinders are used in Part Design. The architecture behind the current implementation involves hidden parts and temporary files and is fragile. Pieter will begin the project by elaborating on the current state of affairs in the forum for developers, then propose patches targeting several aspects of the current implementation. He was awarded a grant of EUR 8,000 for the entire project.
-
-### Bradley Mclean (@bgbsww): Documented procedures and code for supporting debugging FreeCAD C++ and Python from CLion and VSCode
-
-*Funding approved 18 September 2024.*
-
-Brad will write documented procedures and/or code for supporting debugging FreeCAD C++ and Python from CLion and VSCode. The project is expected to take approximately 2 weeks. Brad was awarded a grant of USD $1,500 for the project.
 
 ### Chris Jones (@ipatch): Update homebrew-freecad tap with a freecad formula that uses Python v3.12 and Qt v6
 
@@ -101,7 +137,7 @@ Brad will write documented procedures and/or code for supporting debugging FreeC
 
 Chris will continue his work on homebrew builds of FreeCAD. This time, he will update the homebrew-freecad tap to link against Python v3.12 and Qt v6 when creating the build. The project is expected to take a few weeks to complete. Chris was awarded a grant of USD $2,000 for the project.
 
-### Aleksandr Prokudin (@prokoudine): Blog maintenance
+### Aleksandr Prokudin (@prokoudine): Blog Maintenance
 
 *Funding approved 2 July 2024.*
 
@@ -125,18 +161,6 @@ Anurag will reorganize the existing documentation, enhance docstrings to ensure 
 
 Andrianos is updating the user manual in the wiki. The goal is to update all 23 chapters of the manual to bring it up to speed with the current state of FreeCAD and explore the possibility of releasing EPUB and PDF versions of the manual. The compensation for this project is USD 2,500.
 
-### Ajinkya Dahale (@jnxd): Refactoring Sketcher
-
-*Funding approved 3 June 2024.*
-
-Ajinkya Dahale will be making Sketcher more manageable to maintain and extend. His project has three deliverables:
-
-- Simplifying methods: rewriting gigantic methods in Sketcher so that geometry special cases would be ideally moved to helper methods for reuse or at least divided into pieces for each case, making an easier reading.
-- Tests: this will be done before major refactoring Sketcher to avoid regressions.
-- Documentation: complete documentation of methods and a document listing best practices to follow when performing such refactoring elsewhere.
-
-He was awarded a grant of USD $5,000.
-
 ### Francisco de Assis Rosa (@Francisco-Rosa): Design new components for the FreeCAD library
 
 *Funding approved 12 May 2024.*
@@ -159,7 +183,9 @@ Max will triage bug reports. The contract is for 1 year, with monthly payouts of
 
 *Funding approved 13 July 2023.*
 
-Adrian proposed to work on release packaging, by fixing the conda builds and the process to generate packages for the different platforms, and documenting the process in the developers handbook. Adrian is awarded a grant of 1200 USD.
+Adrian proposed to work on release packaging, by fixing the conda builds and the process to generate packages for the different platforms, and documenting the process in the developers handbook. Adrian was awarded a grant of 1200 USD.
+
+2024: The contract has been renewed for another year.
 
 ### Amulya Paritosh and Harshita Saraswat: Extension to The Component Library 
 
@@ -172,12 +198,6 @@ This project aims to complete the work started by Amulya Paritosh during the Goo
 *Funding approved 17 November 2023.*
 
 Kurt will transition all existing services to a declarative format using Ansible, then translate that configuration into a set of Dockerfiles and Docker Compose configuration. He will also create a GitHub repository to centralize the management and automation of the infrastructure. Kurt was awarded a grant of 8000 USD.
-
-### Chris Jones (@ipatch): Improvements to Homebrew FreeCAD Setup
-
-*Funding approved 12 September 2023.*
-
-Chris will implement autoconnection of homebrew-freecad to self-hosted runners, create GitHub actions to perform autochecks for changed dependencies and then rebuild them, and add regular bundle builds. He will also look into making homebrew-freedesk compatible with linuxbrew. Chris was awarded a grant of 1000 USD.
 
 ## Past Issued Grants
 
