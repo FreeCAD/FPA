@@ -11,17 +11,16 @@ layout: default
 
 ### Active members
 
-| Nick                                                                               | Full Name       | Role         | Join Date  |
-| ---------------------------------------------------------------------------------- | --------------- | ------------ | ---------- |
-| [sliptonic](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=708)    | Brad Collette   | Board member | founder    |
-| [kkremitzki](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=7997)  | Kurt Kremitzki  | Member       | founder    |
-| [yorik](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=68)         | Yorik van Havre | Chairperson  | founder    |
-| [wandererfan](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=1375) |                 | Board member | 2022.01.10 |
-| [chennes](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=11959)    | Chris Hennes    | Board member | 2022.09.26 |
-| [shaise](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=6188)         | Shai Seger      | Member       | 2023.11.09 |
-| [Stemfie3D](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=36960)     | Paulo Kiefe     | Member       | 2023.12.08 |
-| [obelisk79](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=36480)     | Joe Sardos      | Member       | 2024.11.20 |
-| [oursland](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=57910)      | Jackson Oursland | Member      | 2024.11.26 |
+| Nick                                                                               | Full Name        | Role         | Join Date  |
+| ---------------------------------------------------------------------------------- | ---------------- | ------------ | ---------- |
+| [sliptonic](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=708)    | Brad Collette    | Board member | founder    |
+| [kkremitzki](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=7997)  | Kurt Kremitzki   | Member       | founder    |
+| [yorik](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=68)         | Yorik van Havre  | Chairperson  | founder    |
+| [wandererfan](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=1375) |                  | Board member | 2022.01.10 |
+| [chennes](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=11959)    | Chris Hennes     | Board member | 2022.09.26 |
+| [shaise](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=6188)         | Shai Seger       | Member       | 2023.11.09 |
+| [obelisk79](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=36480)     | Joe Sardos       | Member       | 2024.11.20 |
+| [oursland](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=57910)      | Jackson Oursland | Member       | 2024.11.26 |
 
 ### Administrative body
 
@@ -49,15 +48,15 @@ layout: default
 | [bernd](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=2069)      | Bernd Hahnebach | Member       | founder    | 2023.11.17    |
 | [Kunda](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=12229)     |                 | Member       | 2022.08.30 | 2023.11.17    |
 | [uwestoehr](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=23505) | Uwe Stöhr       | Member       | 2022.09.01 | 2023.11.17    |
-| [sphawes](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=62141)       | Stephen Hawes   | Member       | 2023.12.08 | 2024.11.20  |
-| [chrisb](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=5646)      | Christoph Blaue | Member       | founder    | 2024.11.20  |
-
+| [sphawes](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=62141)      | Stephen Hawes   | Member       | 2023.12.08 | 2024.11.20    |
+| [chrisb](https://forum.freecadweb.org/memberlist.php?mode=viewprofile&u=5646)     | Christoph Blaue | Member       | founder    | 2024.11.20    |
+| [Stemfie3D](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=36960)    | Paulo Kiefe     | Member       | 2023.12.08 | 2025.01.10    |
 
 ### Past mandates
 
-| Nick  | Mandate     | Start Date | End date   |
-| ----- | ----------- | ---------- | ---------- |
-| yorik | Chairperson | 2021.11.30 | 2023.11.30 |
+| Nick        | Mandate      | Start Date | End date   |
+| ----------- | ------------ | ---------- | ---------- |
+| yorik       | Chairperson  | 2021.11.30 | 2023.11.30 |
 | sliptonic   | Board member | 2022.04.01 | 2024.04.01 |
 | chennes     | Board member | 2022.10.31 | 2024.10.31 |
 | wandererfan | Board member | 2022.10.31 | 2024.10.31 |
