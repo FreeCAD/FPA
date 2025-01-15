@@ -12,6 +12,8 @@ If the vote is negative, this will not be announced in any way. The relevant iss
 #### Grant making process
 Anyone who thinks that they can solve the relevant issue applies for a grant by proving that they have this competence. The application process is the same as for the "Fixed-Goal Grant". Likewise, it goes through the review of the Technical committee. Proposal, It is deemed to be accepted 1 week after the technical committee submits the relevant report to the FPA.
 
+For offers worth 500 (five hundred) euros and below, a PR review, that is, a review by the maintainer of the relevant section, is sufficient. Once the relevant PR is merged, the grant offer is deemed accepted and payment is made. If the Technical Committee Chair deems it necessary, he may request an investigation from the Technical Committee for these situations.
+
 The offer can be made for a work that has not been started or in progress, but cannot be made for a work that has been completed.
 
 The relevant application may contain more than one "prioritized for grant" issue, in which case the offer is considered a Pre-approved Grant, but if extra things are promised other than solving the relevant issue, this status is lost. If these extras are defined as side effects and are considered advantages of the method to be applied, the Pre-approved Grant status of the proposal is preserved.
