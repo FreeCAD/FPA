@@ -8,20 +8,22 @@ mermaid: true
 
 # {{page.title}}
 
-The FreeCAD Grant Program aims to foster rapid development of FreeCAD and its ecosystem by hiring developers and non-programming contributors to work on specific projects. Their work is funded by the community, grants are issued by the FreeCAD Project Association that collects donations. The FPA has reserved 50,000 EUR for the program in 2024.
+The FreeCAD Grant Program aims to foster rapid development of FreeCAD and its ecosystem by giving grants to developers and non-programming contributors to work on specific projects. Their work is funded by the community, grants are issued by the FreeCAD Project Association that collects donations. The FPA reserved 50,000 EUR for the program in 2024, and plans to increase that funding in 2025.
 
 For details on program rules, please refer to the [complete rulebook](/handbook/process/grant-program-rules).
 
 The program was introduced in 2024 as a successor to the FPA Development Fund launched in August 2022.
 
-## 2024 Program Timeline
+## 2025 Program Timeline
 
-* 1 Mar 2024 — start collecting applications
-* 29 Mar 2024 — stop accepting applications 
-* 12 Apr 2024 — announce accepted applications, work begins
-* 20 Dec 2024 — program recap
+Grants are evaulated and issued quarterly, with one fourth of the total budgeted funding available during each grant period, on the following schedule:
 
-Out-of-program grant applications can be submitted at any time.
+* Q1: March 1 submission deadline, March 15 committee meeting, voting complete by March 31
+* Q2: June 1 submission deadline, June 21 committee meeting, voting complete by June 30
+* Q3: Sept 1 submission deadline, Sept 20 committee meeting, voting complete by Sept 30
+* Q4: Nov 15 submission deadline, Dec 7 committee meeting, voting complete by Dec 19  
+
+Grants received after the Nov. 15 deadline will not be considered for the 2025 grant year, but will be held until the 2026 program is announced.
 
 ## Potential Projects
 
@@ -71,7 +73,7 @@ You can apply for an individual grant. The same rules apply: make a great case f
 
 ### Who reviews applications?
 
-The grant review committee looks at technical aspects of each grant application. Current members: Chris Hennes (@chennes, overall maintainer, committee chair), Yorik van Havre (@yorik, Arch and Draft maintainer), Pierre-Louis Boyer (@PaddleStroke, Sketcher contributor), @user1234, @FreeCutter, @chrisb, @shaise, and @drmacro. Anyone who is interested in joining the grant review committee should reach out to Chris Hennes (chennes@freecad.org, @chennes on Discord, @chris_hennes on Telegram, and @chennes on the FreeCAD Forums).
+The grant review committee looks at technical aspects of each grant application. Current members: Chris Hennes (@chennes, overall maintainer, committee chair), Yorik van Havre (@yorik, Arch and Draft maintainer), @FreeCutter, @shaise, and @drmacro. Anyone who is interested in joining the grant review committee should reach out to Chris Hennes (chennes@freecad.org, @chennes on Discord, @chris_hennes on Telegram, and @chennes on the FreeCAD Forums).
 
 The FPA general assembly then takes the technical review into consideration and looks at non-technical aspects of the proposal. The general assembly is more diverse, its members are both FreeCAD contributors, educators, and representatives of nonprofits and businesses. The full list of members is here.
 
