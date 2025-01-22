@@ -29,6 +29,18 @@ Working on FreeCAD is always, primarily and fundamentally, a voluntary act. One 
 
 In specific cases, the FPA might decide to bypass this rule, for example by giving honorary grants to reward a developer who has made exceptional contributions, or to retroactively attribute bounties to issues that have already been solved. This is the sole decision of the FPA, and cannot be actioned or required by contributors.
 
+## "Non-grant" contractors
+
+Contractors receive larger amounts of money (typically 5000 EUR or more) spread out over longer periods of time, usually a year.  Contract work is less project-oriented than development fund grants, representing a more ongoing task.  For example, infrastructure maintenance, tracker curation, blog maintenance and content, etc. The FPA expectations of contractors is different that for grantees.
+
+* Work must be completed as described
+* Documentation of processes and tools is required so that new contractors can take over
+* Contractors must register as independent workers in their local tax jurisdiction
+* Contractors must issue invoices for work done, and no payment is issued without an individual invoice for the time period being billed for
+* Contracts require renewal on some basis, typically annual, and may be terminated by either party at the time of renewal
+
+Contractor positions are typically created by the FPA itself and advertised via a "job posting" on the blog, forum, etc. Individuals with new ideas for contractor positions should contact the FPA to discuss their idea.
+
 ## Important Financial Accounts
 
 The [FreeCAD Wiki Donations page](https://wiki.freecadweb.org/Donate) has an up-to-date list of accounts at which we accept donations.
