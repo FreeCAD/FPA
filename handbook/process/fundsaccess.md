@@ -31,7 +31,7 @@ In specific cases, the FPA might decide to bypass this rule, for example by givi
 
 ## "Non-grant" contractors
 
-Contractors receive larger amounts of money (typically 5000 EUR or more) spread out over longer periods of time, usually a year.  Contract work is less project-oriented than development fund grants, representing a more ongoing task.  For example, infrastructure maintenance, tracker curation, blog maintenance and content, etc. The FPA expectations of contractors is different that for grantees.
+Contractors receive larger amounts of money (typically 5000 EUR or more) spread out over longer periods of time, usually a year.  Contract work is less project-oriented than development fund grants, representing a more ongoing task.  For example, infrastructure maintenance, tracker curation, blog maintenance and content, etc. The FPA expectations for contractors are different than for grantees.
 
 * Work must be completed as described
 * Documentation of processes and tools is required so that new contractors can take over
