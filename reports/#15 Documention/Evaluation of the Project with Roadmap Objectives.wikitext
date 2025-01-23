@@ -8,7 +8,7 @@ Wiki is one of the software that does this best, but direct membership and visua
 
 === Git-trackable=== 
 
-That's what Gordion Knot is all about. It creates a real-time git clone of the wiki and it's working perfectly so far. For more information, see [[https://github.com/Reqrefusion/FPA/blob/main/reports/%2315%20Documention/1st%20Report%20Dated%20December%203%2C%202024.wikitext|report #]]1.
+That's what Gordion Knot is all about. It creates a real-time git clone of the wiki and it's working perfectly so far. For more information, see [[https://github.com/FreeCAD/FPA/blob/main/reports/%2315%20Documention/1st%20Report%20Dated%20December%203%2C%202024.wikitext|report #]]1.
 
 === Versions of the documentation that match software versions=== 
 
