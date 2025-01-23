@@ -24,13 +24,17 @@ There is currently no job offer. Check back later!
 
 * Any contributor, FreeCAD community member or just anybody else who wishes to be considered for one of the programs above should submit a proposal in writing to the FPA. The proposal should minimally contain:
 
-  1. Your understanding and acceptance of all the conditions stated on this page
+  1. Your understanding and acceptance of all the conditions stated on this page, including the "General conditions" below
   2. Desmonstration that you have the required skills, motivation, or any other reason why you are the right person to do the job
   3. A plan of what you intent to do (it might differ from our proposal above)
 
 * All candidates will be considered by the FPA general body and approved by vote.
 
+* Candidates need to be registered as independent workers in their country, and be able to submit invoices.
+
 ## General conditions
+
+The conditions below apply to all job offers:
 
 * The tasks described in the job description above and the conditions below will be be gathered into a contract, to be signed by the candidate.
 
@@ -50,8 +54,14 @@ There is currently no job offer. Check back later!
 
 * The candidate commits to keep the FreeCAD community up to date with progress made within the project at least every month and will maintain a public log.
 
+* All contracts made with the FPA have a termination date, and will need to be renewed if both the candidate and the FPA agree to pursude it for a longer period.
+
+* All taks preformed will always include the documentation of processes and tools used, so that new contractors can take over. The FPA might block the last payment if the work has been unsufficiently documented, until the problem is resolved.
+
 ## Payment
 
 * Upon approving a candidate, the FPA and the candidate will agrre on a payment schedule. Payments will be done by the FPA according to that schedule, by IBAN bank transfer or PayPal.
 
-* As the result of the work done in the job is not received by the FPA but by the FreeCAD project, all the payments issued by the FPA are donations without counterpart. Candidates are responsible for figuring out and handling these payments and possible incumbent taxes according to the laws of their country.
+* Contractors must issue invoices for work done, and no payment is issued without an individual invoice for the time period being billed for
+
+
