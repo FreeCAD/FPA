@@ -1,7 +1,7 @@
 ---
 title: "Job offers"
 description:
-   "The FPA seeks people interested in obtaining a granto to perform a specific task"
+   "The FPA seeks people interested in obtaining a grant to perform a specific task"
 layout: default
 
 ---
