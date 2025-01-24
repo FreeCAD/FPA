@@ -64,7 +64,7 @@ The FPA is therefore seeking grant applicants to monitor, coordinate, normalize,
 
 Key responsibilities:
 
-  *  Establish guidelines to orient developers when writing different kinds of texts: What form to use on buttons, what form to use in dialogs, etc
+  *  Establish guidelines to orient developers when writing different kinds of texts: What form to use on buttons, what form to use in dialogs, etc.
   *  Verify and fix grammatical errors in all of the FreeCAD texts. Reach to the developers when needed to make sure of the correct meaning
   *  Monitor and reply questions of translators on CrowdIn and on GitHub
   *  Follow-up when translators find problems in the source strings. Make pull requests when needed
@@ -74,17 +74,20 @@ The applicant should be a fluent (native level) English speaker, have excellent 
 The FPA is offering a yearly grant of USD 5000, to be divided and scheduled according to a plan to be proposed by the applicant. It is expected that the applicant proposes a scheme that covers monitoring more or less during the whole year, but the work can also be done in more condensed work periods.
 
 Position open until filled. Send resume and cover letter to fpa@freecad.org to apply.
+
 ## Eligibility
 
-* Any contributor, FreeCAD community member or just anybody else who wishes to be considered for one of the programs above should submit a proposal in writing to the FPA. The proposal should minimally contain:
+* Any contributor, FreeCAD community member, or anyone else who wishes to be considered for one of the programs above should submit a proposal in writing to the FPA. The proposal should minimally contain:
 
   1. Your understanding and acceptance of all the conditions stated on this page, including the "General conditions" below
-  2. Desmonstration that you have the required skills, motivation, or any other reason why you are the right person to do the job
-  3. A plan of what you intent to do (it might differ from our proposal above)
+  2. Demonstration that you have the required skills, motivation, or any other reason why you are the right person to do the job
+  3. A plan of what you intend to do (it might differ from our proposal above)
 
-* All candidates will be considered by the FPA general body and approved by vote.
+* All candidates will be considered by the FPA general body and approved by vote
 
-* Candidates need to be registered as independent workers in their country, and be able to submit invoices.
+* Candidates need to be registered as independent workers in their country, and be able to submit invoices
+
+* Priority will be given to people who already active members of the FreeCAD community (on any platform)
 
 ## General conditions
 
@@ -116,6 +119,6 @@ The conditions below apply to all job offers:
 
 * Upon approving a candidate, the FPA and the candidate will agrre on a payment schedule. Payments will be done by the FPA according to that schedule, by IBAN bank transfer or PayPal.
 
-* Contractors must issue invoices for work done, and no payment is issued without an individual invoice for the time period being billed for
+* Contractors must issue invoices for work done, and no payment is issued without an individual invoice for the time period being billed for.
 
 
