@@ -97,21 +97,21 @@ The conditions below apply to all job offers:
 
 * The tasks needed to perform the given job are meant to be organised and performed by the candidate in the manner, schedule and time frame that the candidate sees appropriate, from their own location, using their own equipment, and establishing their own schedule and timetable. The FPA will help, but the responsability is of the candidate.
 
-* The candidate is the sole responsible for the quality of their work. There is no subordination relationship between the FPA and the candidate.
+* The candidate is solely responsible for the quality of their work. There is no subordination relationship between the FPA and the candidate.
 
-* This agreement is a strict non-employment agreement. The candidate agrees to the conditions of this agreement as an independent worker. There is no employment relationship between the FPA and the candidate The candidate is solely responsible for paying all taxes such as revenue taxes incurring from the revenues obtained from this agreement, and for paying all social security contributions needed in the candidate's country, and any other expense needed to perform their work as an independent worker.
+* This agreement is a strict non-employment agreement. The candidate agrees to the conditions of this agreement as an independent worker. There is no employment relationship between the FPA and the candidate. The candidate is solely responsible for paying all taxes such as revenue taxes incurring from the revenues obtained from this agreement, and for paying all social security contributions needed in the candidate's country, and any other expense needed to perform their work as an independent worker.
 
 * The candidate will be ready at all times to prove their independent worker status by showing documents like proof of payment of revenue taxes or conformity of their situation against social security, if requested by the FPA.
 
 * The candidate will not hold the FPA responsible for any injury or material loss occurring during the execution of the tasks described in this agreement.
 
-* Both the FPA and the candidate can unilaterally terminate this job at any time, for any reason, by simple notification to the other party. The FPA will pay a last instalment of the payment schedule if work has been done by the candidate after the last payment.
+* Both the FPA and the candidate can unilaterally terminate this job at any time, for any reason, by simple notification to the other party. The FPA will pay a pro-rated final installment of the payment schedule if work has been done by the candidate after the last payment.
 
-* The source code and technical designs of this job (as well as any documentation and supporting materials officially produced within this job) are to be made openly available to the general public under the LGPL 2.1+ for the code, or CreativeCommons Attributio 3.0 for documentation material, as stated on the [FreeCAD licenses](https://wiki.freecad.org/Licence) page.
+* The source code and technical designs of this job (as well as any documentation and supporting materials officially produced within this job) are to be made openly available to the general public under the [LGPL 2.1+](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html) for the code, or [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) for documentation material, as stated on the [FreeCAD licenses](https://wiki.freecad.org/Licence) page.
 
-* The candidate commits to keep the FreeCAD community up to date with progress made within the project at least every month and will maintain a public log.
+* The candidate commits to keep the FreeCAD community up-to-date with progress made within the project at least every month and will maintain a public log.
 
-* All contracts made with the FPA have a termination date, and will need to be renewed if both the candidate and the FPA agree to pursude it for a longer period.
+* All contracts made with the FPA have a termination date, and will need to be renewed if both the candidate and the FPA agree to pursue it for a longer period.
 
 * All taks preformed will always include the documentation of processes and tools used, so that new contractors can take over. The FPA might block the last payment if the work has been unsufficiently documented, until the problem is resolved.
 
