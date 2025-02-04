@@ -1,0 +1,27 @@
+== Documentation objectives in Roadmap and related declarations of the relevant project== 
+
+This report was written to create the project's answers to the "[[https://freecad.github.io/DevelopersHandbook/roadmap/#objective--have-the-best-documentation-possible|Objective: Have the best documentation possible]]" section in the roadmap.
+
+=== Low-friction to revision through the browser === 
+
+Wiki is one of the software that does this best, but direct membership and visual editor are not currently included. In my opinion, direct membership doesn't make much of a difference because the main difference is the repeat contributors. But the visual editor makes making changes very easy and saves many people from dealing with the markup language. Of course, it is possible to make changes to Gordion Knot from the browser. PR can be created by making changes from the browser via Github. The entire project aims to provide the most frictionless experience through the browser.
+
+=== Git-trackable=== 
+
+That's what Gordion Knot is all about. It creates a real-time git clone of the wiki and it's working perfectly so far. For more information, see [[https://github.com/FreeCAD/FPA/blob/main/reports/%2315%20Documention/1st%20Report%20Dated%20December%203%2C%202024.wikitext|report #]]1.
+
+=== Versions of the documentation that match software versions=== 
+
+This article must be the reason why this report was written. Because I haven't fully presented the solution I thought of for this place before. My suggestion here is to create the HTML repository, which is part of Gordion Knot, at the same time as the FreeCAD version. Or it could be a branch. In this way, the documentation written about the relevant version is crystallized at that moment. Of course, this cannot be done for older versions, but this is a good way for future versions.
+
+=== Good translation support=== 
+
+The translation plugin used in the current wiki is actually a pretty good plugin. Everything related to Mediawiki is still translated with this plugin. Alternatively, crowdin is a non-open source service. However, I still foresee developments here, such as the development of translation memory and the integration of some open source machine translation systems. 
+
+=== Support for off-line readers=== 
+
+Mediawiki has produced many solutions for offline readers, one of them is Kiwix, but I was not very satisfied with it and created an html repository around Gordion Knot. This html repository can be easily downloaded and works entirely over the file protocol. In fact, many features will not be added due to file protocol restrictions.
+
+=== Natural integration of Developer / API documentation=== 
+
+This topic is probably not related to the relevant work, but I worked on it and came up with the idea of ​​​​creating a shadow of the Handbook on the wiki. I opened topics for this in the relevant repository and [[https://forum.freecad.org/viewtopic.php?t=93825|forum]]. The discussion in the forum canceled this project. But I keep thinking about it.
