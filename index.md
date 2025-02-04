@@ -22,13 +22,17 @@ shortcuts:
 {% include shortcuts.html %}
 
 <!-- Only show if not jekyll engine -->
+
 {% if false %}
+
 # <img src="images/logos/FreeCAD-symbol.svg" style="width:10%;" /> FreeCAD project association
+
 {% endif %}
 
 The **FreeCAD Project association** (FPA) is an international non-profit association created by FreeCAD administrators and core developers in November 2021 and seated in Belgium. Its goal is to support and protect the [FreeCAD project](https://freecad.org).
 
 <!-- Only show if not jekyll engine -->
+
 {% if false %}
 Apply for a grant from the FPA to improve FreeCAD and its ecosystem. See our [programs](./programs.md)
 
@@ -42,11 +46,12 @@ Learn about our values, procedures, rules, decisions, history in the [Handbook](
 
 * [The Royal decree](documents/Royal%20decree.pdf) giving official existence to the FPA
 * [The FPA statutes](documents/Statutes.pdf) stating the goals and specificities of the FPA
-* [The FreeCAD trademark](documents/Trademark.pdf) owned by the FPA
+* [The FreeCAD trademark](documents/Trademark%20-%20new%20logo.pdf) owned by the FPA
 * [The FreeCAD brand guidelines](handbook/process/logo.md) owned by the FPA
 
 {% comment %}Already in shortcuts{% endcomment %}
 {% if false %}
+
 ## Programs & Initiatives
 
 [Current Programs](./programs.md)
@@ -72,7 +77,7 @@ The FPA is registered in Belgium as an AISBL with VAT number [BE0781867807](http
 * [LiberaPay team account (not managed by the FPA)](https://liberapay.com/FreeCAD/)
 * [Stripe](https://donate.stripe.com/14k3ei9TYgwFclq145)
 * [GitHub](https://github.com/sponsors/FreeCAD)
-{: .menuList .newWindow}
+  {: .menuList .newWindow}
 
 ## Tax deduction
 
@@ -82,6 +87,7 @@ The FPA can anyway always issue a donation receipt. [Mail us](mailto:fpa@freecad
 
 {% comment %}Already in shortcuts{% endcomment %}
 {% if false %}
+
 ## Sponsoring suggestions
 
 The FPA is designed to help FreeCAD and its developers. You can:
@@ -89,4 +95,4 @@ The FPA is designed to help FreeCAD and its developers. You can:
 * Check what has already been spent and how much we have in our wallet by browsing the reports above
 * Consult the [current funding ideas](https://github.com/FreeCAD/FPA/issues)
 * If you have an idea that could benefit from funding, [open an issue](https://github.com/FreeCAD/FPA/issues) here.
-{% endif %}
+  {% endif %}
