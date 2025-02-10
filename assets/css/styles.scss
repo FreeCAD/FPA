@@ -62,6 +62,10 @@ nav {
     gap: 0.4em;
 }
 
+img {
+    max-width: 100%;
+}
+
 .transistion {
     color: white;
     transition: background-color 0.4s, color 0.4s;
