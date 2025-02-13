@@ -21,6 +21,8 @@ layout: default
 | [shaise](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=6188)         | Shai Seger       | Member       | 2023.11.09 |
 | [obelisk79](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=36480)     | Joe Sardos       | Member       | 2024.11.20 |
 | [oursland](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=57910)      | Jackson Oursland | Member       | 2024.11.26 |
+| [Reqrefusion](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=67789)   | Turan Furkan Topak | Member     | 2025.02.13 |
+| [prokoudine](https://forum.freecad.org/memberlist.php?mode=viewprofile&u=5491)     | Alexandre Prokoudine | Member   | 2025.02.13 |
 
 ### Administrative body
 
