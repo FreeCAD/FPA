@@ -85,6 +85,16 @@ Alternatively, you can request a partial compensation and a pause to handle your
 
 ## Ongoing projects funded by the FPA
 
+### Ajinkya Dahale (@jnxd): Refactoring Sketcher, Part 2
+
+*Funding approved 30 January 2025.*
+
+Ajinkya Dahale will continue refactoring Sketcher. The main deliverables are the same as the first time: more methods simplification, testing, and documentation. This will not direct affect features or usability, but it will help other developers contribute to the program.
+
+On top of that, Ajinkya plans to spend more time merging his previous changes into the main development branch (he was holding those off due to v1.0 feature freeze), splitting 10K LOC long classes into smaller, more manageable ones, and helping others review pull requests.
+
+He was awarded a grant of EUR 4000 for the entire project.
+
 ### Kacper Donat (@kadet1090): Unified Transparent Previews
 
 *Funding approved 28 November 2024.*
@@ -121,7 +131,7 @@ Turan will improve the documentation wiki. He will apply fixes for some of the e
 
 FlachyJoe received an honorary grant of $1000 for working on bug fixes in this development cycle. Most recently he fixed a ton of bugs in Part Design, specifically in the Helix code.
 
-### Jackson Oursland (@oursland): CI Hosting Research Proposal 
+### Jackson Oursland (@oursland): CI Hosting Research Proposal
 
 *Funding approved 4 October 2024.*
 
@@ -163,12 +173,6 @@ Anurag will reorganize the existing documentation, enhance docstrings to ensure 
 
 Andrianos is updating the user manual in the wiki. The goal is to update all 23 chapters of the manual to bring it up to speed with the current state of FreeCAD and explore the possibility of releasing EPUB and PDF versions of the manual. The compensation for this project is USD 2,500.
 
-### Francisco de Assis Rosa (@Francisco-Rosa): Design new components for the FreeCAD library
-
-*Funding approved 12 May 2024.*
-
-Francisco will be designing furniture and parametric components for the FreeCAD library. Deliverables are “a few dozen pieces of furniture and parametric components (for architectural and engineering projects) for immediate use in FreeCAD”. He was awarded a grant of USD $5,000.
-
 ### Mario Passaglia (@marioalexis84): Bugfixing and electromagnetic system simulations using CalculiX
 
 *Funding approved 11 February 2024.*
@@ -189,7 +193,7 @@ Adrian proposed to work on release packaging, by fixing the conda builds and the
 
 2024: The contract has been renewed for another year.
 
-### Amulya Paritosh and Harshita Saraswat: Extension to The Component Library 
+### Amulya Paritosh and Harshita Saraswat: Extension to The Component Library
 
 *Funding approved 31 October 2023.*
 
