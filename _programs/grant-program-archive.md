@@ -12,6 +12,12 @@ The following is a reverse-chronological-order list of past projects funded by t
 
 ## 2024
 
+### Francisco de Assis Rosa (@Francisco-Rosa): Design new components for the FreeCAD library
+
+*Funding approved 12 May 2024.*
+
+Francisco will be designing furniture and parametric components for the FreeCAD library. Deliverables are “a few dozen pieces of furniture and parametric components (for architectural and engineering projects) for immediate use in FreeCAD”. He was awarded a grant of USD $5,000.
+
 ### Oficine Robotica: teaser video for v1.0
 
 *Funding approved 12 October 2024.*
