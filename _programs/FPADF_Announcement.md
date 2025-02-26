@@ -8,7 +8,7 @@ mermaid: true
 
 # {{page.title}}
 
-The FreeCAD Grant Program aims to foster rapid development of FreeCAD and its ecosystem by giving grants to developers and non-programming contributors to work on specific projects. Their work is funded by the community, grants are issued by the FreeCAD Project Association that collects donations. The FPA reserved 50,000 EUR for the program in 2024, and plans to increase that funding in 2025.
+The FreeCAD Grant Program aims to foster rapid development of FreeCAD and its ecosystem by giving small grants to developers and non-programming contributors to work on specific individual projects. Their work is funded by the community: grants are issued by the FreeCAD Project Association, which collects donations. The FPA has reserved 80,000 EUR for the program in 2025.
 
 For details on program rules, please refer to the [complete rulebook](/handbook/process/grant-program-rules).
 
