@@ -52,7 +52,7 @@ During the time covered by this agreement, the FPA agrees to:
 
 * **Change this** USD 0000 when all the task defined in this agreement are completed
 
-Payments will be made after receiving an invoice from the CONTRIBUTOR, by bank transfer. All Bank transfer and other transfer fees will be paid by the FPA.
+Payments will be made after receiving an invoice from the CONTRIBUTOR, by bank transfer. VAT, bank transfer fees and other transfer fees will be paid by the FPA. All other fees and taxes to which the CONTRIBUTOR is subject to, such as revenue taxes or social security taxes, must be included in the invoice, and part of the total amount stated in this agreement.
 
 All invoices sent to the FPA must imperatively show the VAT number of the FPA (BE 0781 867 807) and, unless emitted from a Belgian VAT holder, the mention "Reverse charged VAT according to Art 21 § 2 of the Belgian VAT Code".
 
