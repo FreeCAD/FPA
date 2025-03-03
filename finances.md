@@ -19,3 +19,7 @@ We make our mission possible through donations. All finances of the FPA are publ
 * [2022](reports/2022)
 * [2021](reports/2021)
 {: .menuList}
+
+### Contracts and grants
+
+See the list of people currently or in the past [under contract with the FPA](https://github.com/FreeCAD/FPA/issues?q=label%3A%22Contract%22) and the list of people who already received or are approved for receiving [development grants](https://github.com/FreeCAD/FPA/issues?q=label%3AGrant%20)
