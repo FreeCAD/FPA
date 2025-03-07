@@ -38,7 +38,7 @@ During the time covered by this agreement, the CONTRIBUTOR agrees to:
 
 During the time covered by this agreement, the FPA agrees to:
 
-- Pay the CONTRIBUTOR the amount described below in this document when billed by the CONTRIBUTOR
+- Pay the CONTRIBUTOR the amount described below in this document when invoiced by the CONTRIBUTOR
 
 - Help the CONTRIBUTOR to perform their part of this agreement whenever needed
 
@@ -54,7 +54,7 @@ During the time covered by this agreement, the FPA agrees to:
 
 Payments will be made after receiving an invoice from the CONTRIBUTOR, by bank transfer. VAT, bank transfer fees and other transfer fees will be paid by the FPA. All other fees and taxes to which the CONTRIBUTOR is subject to, such as revenue taxes or social security taxes, must be included in the invoice, and part of the total amount stated in this agreement.
 
-All invoices sent to the FPA must imperatively show the VAT number of the FPA (BE 0781 867 807) and, unless emitted from a Belgian VAT holder, the mention "Reverse charged VAT according to Art 21 § 2 of the Belgian VAT Code".
+All invoices sent to the FPA must imperatively show the VAT number of the FPA (BE 0781 867 807) and, unless emitted from a Belgian VAT holder or subject to any other VAT handling system in the CONTRIBUTOR’s country, the mention "Reverse charged VAT according to Art 21 § 2 of the Belgian VAT Code".
 
 The tasks described in this agreement will be organised and performed by the CONTRIBUTOR in the manner, schedule and time frame that the CONTRIBUTOR sees appropriate, from their own location, using their own equipment, and establishing their own schedule and timetable. The CONTRIBUTOR is the sole responsible for the quality of their work. There is no subordination relationship between the FPA and the CONTRIBUTOR.
 
