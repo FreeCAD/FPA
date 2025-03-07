@@ -74,7 +74,7 @@ It might take some time to process payments. We will do our best to process paym
 
 * Read the [FPA travel policy](/handbook/process/travel-policy)
 
-* Fill the [request form](https://docs.google.com/forms/d/e/1FAIpQLSfTV6so0nFJyxnxH6-HCv0q1_393UrK2Cxjdnzl8a-a5k7d9g/viewform?usp=sf_link) at least 30 days before the start of the event
+* Fill the [request form](https://docs.google.com/forms/d/e/1FAIpQLScUlGXvtF0t7eVdrTU70L_t8T3EPnGHuHXl8WoBu4MfCF8m6g/viewform?usp=header) at least 30 days before the start of the event
 
 ## How to help
 
