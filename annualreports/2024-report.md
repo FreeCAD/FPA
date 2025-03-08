@@ -6,7 +6,7 @@ description: Report of the 2024 activities of the FPA and plans for 2025
 layout: default
 ---
 
-![](../images/FPAReport2025.svg)
+![](../images/FPAReport2024.svg)
 
 # 2024 Annual report and 2025 plans
 
@@ -107,23 +107,23 @@ We continue to rely on PayPal, GitHub, and OpenCollective to collect and forward
 
 We also receive direct deposits to our account at BNP Paribas 
 
-![2024 Donations by Platform](../images/2025Report/2024RevenueByPlatform.png)
+![2024 Donations by Platform](../images/2024Report/2024RevenueByPlatform.png)
 
 There was a noticeable upturn in donations at the end of 2024. Hopefully, this will continue in 2025.
 
-![2023 vs 2024 Donations](../images/2025Report/Donations2023vs2024.png)
+![2023 vs 2024 Donations](../images/2024Report/Donations2023vs2024.png)
 
 As usual, our spending concentrated on grants, events, and maintaining our online presence.
 
-![2024 Spending by Category](../images/2025Report/2024ExpendituresByCategory_bar.png)
+![2024 Spending by Category](../images/2024Report/2024ExpendituresByCategory_bar.png)
 
 #### Regulatory Reports
 
 As a micro-AISBL, under Belgian regulations, the FPA is require to produce two financial reports each year.  These reports are described here: ["Annexe 8 : Schéma des comptes annuels des associations et fondations qui tiennent une comptabilité simplifiée."](https://www.cnc-cbn.be/fr/node/2247).
 
-[L'Etat Du Patrimoine](../images/2025Report/etatdupat_editted.html)
+[L'Etat Du Patrimoine](../images/2024Report/etatdupat_editted.html)
 
-[L'Etat des recettes et dépenses](/images/2025Report/etatdesrecetdep_editted.html)
+[L'Etat des recettes et dépenses](/images/2024Report/etatdesrecetdep_editted.html)
 
 
 #### Financial goals for 2025:
