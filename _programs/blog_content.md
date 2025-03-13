@@ -19,7 +19,6 @@ In a new initiative aimed at improving the quantity and quality of online writin
 - Author of selected content will be paid $100 per post.
 - The FPA gets a non-exclusive right to publish the content in perpetuity.
 - Content author retains copyright and may re-use the article on a personal blog, magazine, etc.
-- Blog posts that discuss topics that are visual in nature are generally expected to come with illustrations.
 - Published posts will have a byline identifying the author (may use forum handle or another alias)
 
 ## Editorial policy
