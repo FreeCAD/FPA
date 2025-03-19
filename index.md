@@ -96,3 +96,7 @@ The FPA is designed to help FreeCAD and its developers. You can:
 * Consult the [current funding ideas](https://github.com/FreeCAD/FPA/issues)
 * If you have an idea that could benefit from funding, [open an issue](https://github.com/FreeCAD/FPA/issues) here.
   {% endif %}
+
+### Data protection
+
+See the [FPA data protection policy](./PRIVACY-POLICY.md)
