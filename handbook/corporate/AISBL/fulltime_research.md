@@ -1,5 +1,7 @@
 # Full-time employee research
 
+This is a research we did within the FPA to evaluate the feasability of hiring a full-time employee. It does not mean the FPA is ready or willing to hire a full-time employee. In fact, the conclusion we came to after making this document is that it's not feasible for the FPA in its current state, and the FPA money is better spent on grants and specific tasks/jobs.
+
 #### Basic rules for a Belgian resident employee
 
 * Company rules apply to AISBLs too
