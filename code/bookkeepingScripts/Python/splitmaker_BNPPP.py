@@ -47,6 +47,7 @@ with open(inputFileName) as csvIn:
         #line 2 - net to offset account (PayPal balance) EUR
         row = [""] + [""] + [""] + [offsetAccount] + [reversedAmount] + [line[iTxNumber]]
         csvWriter.writerow(row)
+        print("date: {0} to: {1} amt: {2} from: {3} amt: {4}".format(line[iDate], inAccount, baseAmount, offsetAccount, reversedAmount))
         recordsIn += 1
         recordsOut += splitsPerTx
 

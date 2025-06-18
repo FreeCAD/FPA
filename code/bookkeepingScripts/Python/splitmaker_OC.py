@@ -8,11 +8,20 @@ import csv
 import sys
 import random
 
+#iDate = 0
+#iDesc = 3
+#iType = 4   # CREDIT/DEBIT
+#iKind = 5   # CONTRIBUTION/HOST_FEE/EXPENSE
+#iValue = 10
+#iFee1 = 11
+
+# a different OC format as of 2025?
+# 1 line for donation, separate lines for fees
 iDate = 0
-iDesc = 3
-iType = 4   # CREDIT/DEBIT
-iKind = 5   # CONTRIBUTION/HOST_FEE/EXPENSE
-iValue = 10
+iDesc = 2
+iType = 3   # CREDIT/DEBIT
+iKind = 4   # CONTRIBUTION/HOST_FEE/EXPENSE
+iValue = 6
 iFee1 = 11
 
 inputFileName = "inTXOC.csv"
@@ -39,8 +48,9 @@ commodityString = "CURRENCY::USD"
 contributionToken = "CONTRIBUTION"
 hostfeeToken = "HOST_FEE"
 expenseToken = "EXPENSE"
-conversionRate = 0.921    # this has to match the USD price in gnuCash Price db
-serviceRate = 0.248        # this is an approximation for when the input doesn't include fees
+processorToken = "PAYMENT_PROCESSOR_FEE"
+
+serviceRate = 0.06        # this is an approximation host fee for when the input doesn't include fees
 reverseValue = -1.0
 txCounterStart = random.randint(7000, 8000)
 
@@ -63,13 +73,16 @@ with open(inputFileName) as csvIn:
             row = [dateString] + [commodityString] + [line[iDesc]]+ [inAccount] + [reversedValue] + [transactionId]
             csvWriter.writerow(row)
 
-            #line 2 - fee deduction USD
-            feeAmount = baseValue * serviceRate   #USD
-            if len(line) > iFee1:
-                feeAmount = abs(float(line[iFee1]))
-            netValue = baseValue - feeAmount      #USD
-            row = [""] + [""] + [""] + [feeAccount] + [feeAmount] + [transactionId] #USD
-            csvWriter.writerow(row)
+# line 2 only applies to the original data format.
+#            #line 2 - fee deduction USD
+#            feeAmount = baseValue * serviceRate   #USD
+#            if len(line) > iFee1:
+#                feeAmount = abs(float(line[iFee1]))
+#            netValue = baseValue - feeAmount      #USD
+#            row = [""] + [""] + [""] + [feeAccount] + [feeAmount] + [transactionId] #USD
+#            csvWriter.writerow(row)
+            feeAmount = 0
+            netValue = baseValue
             
             #line 3 - net to offset account (OpenCollective Balance) USD
             offsetValue = netValue
@@ -87,6 +100,17 @@ with open(inputFileName) as csvIn:
             csvWriter.writerow(row)
             recordsOut += 2
             continue
+            
+        if processorToken in line[iKind]:
+            #line 1 - charge to OC Fees
+            row = [dateString] + [commodityString] + [line[iDesc]]+ [feeAccount] + [reversedValue] + [transactionId]
+            csvWriter.writerow(row)
+            #line 2 - reduce balance
+            row = [""] + [""] + [""] + [offsetAccount] + [baseValue] + [transactionId]
+            csvWriter.writerow(row)
+            recordsOut += 2
+            continue
+        
         if expenseToken in line[iKind]:
             print("splitmaker_OC - record: {0} date: {1} amount: {2} fee: {3} desc: {4} - expense record".format(recordsIn, dateString, line[iValue], line[iFee1], line[iDesc]))
 
