@@ -66,13 +66,29 @@ csvWriterTransfer = csv.writer(csvOutTransfer, delimiter=',')
 csvWriterWithdrawal = csv.writer(csvOutWithdrawal, delimiter=',')
 
 with open(inputFileName) as csvIn:
-    csvReader = csv.reader(csvIn, delimiter=',')
+# Note: November 2023 file from bnp uses ';' as separator instead of ','
+#    csvReader = csv.reader(csvIn, delimiter=';')
+# Note: January 2024 file from bnp is back to ',' as separator
+# Note: May 2024 file from bnp is back to ';' as separator
+# Note: June 2024 file from bnp is back to ',' as separator
+# Note: July 2024 file is using ";"
+# Note: August 2024 file is using ","
+# Note: December 2024 is back to ";"
+# Note: February is back to ","
+# Note: March is back to ";"
+# Note: April is ","
+# Note: May is ";"   # does this flip on even/odd month number?!
+
+#    csvReader = csv.reader(csvIn, delimiter=',')
+    csvReader = csv.reader(csvIn, delimiter=';')
     for line in csvReader:
         if recordsIn == 0:
-            #header line
+            # skip header line
             recordsIn += 1
             continue
 
+#        print("streamsplitter_BNP at record {0} - {1} fields".format(recordsIn, len(line)))
+#       print("streamsplitter_BNP - line: {0}".format(line))
         amount = float(line[iValue])
         formattedDate = convertDate(line[iDate])
         txNumber = txCounterStart + recordsIn
