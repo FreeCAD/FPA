@@ -29,6 +29,7 @@ recordsOut = 0
 splitsPerTx = 2
 
 bankFeeString = "Coûts opérations diverses"
+creditCardFeeString = "Coûts sur opérations par carte"
 outAccount = "Avoirs:Valeurs disponibles:BNP"
 offsetAccount = "Depenses:Fees and Commissions:BNP Fees"
 commodityString = "CURRENCY::EUR"
@@ -39,15 +40,16 @@ csvWriter = csv.writer(csvOut, delimiter=',')
 with open(inputFileName) as csvIn:
     csvReader = csv.reader(csvIn, delimiter=',')
     for line in csvReader:
-        if bankFeeString not in line[iType]:
+        if not (bankFeeString in line[iType] or creditCardFeeString in line[iType]):
             #not a fee transaction, needs manual handling
             print("splitmaker_BNPFee - record: {0} date: {1} needs manual handling - amount: {2}".format(recordsIn, line[iDate], line[iValue]))
+            print("     desc: {0} type: {1}".format(line[iDesc], line[iType]))
             recordsIn += 1
             continue
 
         #line 1 - basic transaction EUR out
-        baseValue = float(line[iValue])
-        reversedValue = baseValue * reverseValue
+        baseValue = -float(line[iValue])   # withdrawal
+        reversedValue = baseValue * reverseValue   # deposit-ish
         row = [line[iDate]] + [commodityString] + [line[iType]]+ [outAccount] + [baseValue] + [line[iTxNumber]]
         csvWriter.writerow(row)
 

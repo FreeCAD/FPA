@@ -1,6 +1,6 @@
 # Process for posting transactions on BountySource to the FPA accounts.
 
-<work in progress>
+**Please note: BountySource has ceased operation and we no longer use them as a payment processor.**
 
 Unfortunately, BountySource does not provide a facility for downloading transactions and all transactions must be handled manually.
 

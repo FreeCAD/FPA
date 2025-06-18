@@ -53,7 +53,7 @@ splitsPerDeposit = 3
 
 # donations to PayPal are reported in USD (but with ',' decimal point!)
 inAccount = "Recettes:Dons et legs:Donations In USD"
-offsetAccount = "Avoirs:Valeurs disponibles:PayPal"
+offsetAccount = "Avoirs:Valeurs disponibles:PayPal USD"
 bankAccount = "Avoirs:Valeurs disponibles:BNP"
 tradingInAccount = "Trading:CURRENCY:USD"
 tradingOutAccount = "Trading:CURRENCY:EUR"
