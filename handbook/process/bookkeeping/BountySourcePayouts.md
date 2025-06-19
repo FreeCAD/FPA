@@ -1,5 +1,7 @@
 # BountySource Payouts
 
+**Note: BountySource ceased operations in 2023.**
+
 The standard way of using BountySource funds to meet expenses involves posting and
 claiming a "bounty".
 
