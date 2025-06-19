@@ -2,6 +2,8 @@
 
 We do our "cash basis" accounting at the end of each month.
 
+![Month End OverView](./MonthEndProcessingOverView.svg)
+
 First, we need to get transaction files for the month from each of PayPal, OpenCollective and BNP Paribas.
 
 Next, we need to turn the transaction files into double entry "split" files which will be imported into
