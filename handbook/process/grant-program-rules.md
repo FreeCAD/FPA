@@ -135,7 +135,7 @@ For ecosystem projects, we expect you to align with maintainers of those project
 The FPA reserves the right to terminate a grant in the following cases:
 
 * The grant acceptee failed to complete the next stage of work entirely.
-* The grant acceptee abruptly stopped the work without warning.
+* The grant acceptee abruptly stopped the work without warning, **or failed to undertake any activity or to contact FPA for 90 (ninety) consecutive days from the date of their last activity or communication (in which case the budget allocated for the proposal will be automatically cancelled).**
 * The quality of code is inconsistent with credentials provided in the grant application.
 
 The FPA can still issue a partial payment for an incomplete stage. The prerequisites for that are:
