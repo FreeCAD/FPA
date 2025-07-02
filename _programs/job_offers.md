@@ -23,7 +23,7 @@ Alongside the [Grants program](FPADF-Announcement.md), the FPA also builds speci
 
 ### FreeCAD Professional Network Lead (Posted 2 July 2025)
 
-The FPA is seeking applicants to create and maintain the FreeCAD Professional Network.
+The FPA is seeking applicants to create the FreeCAD Professional Network.
 
 * The funds will be awarded to a single grantee responsible for launching the project.
 * This grantee will report directly to the FPA board.
