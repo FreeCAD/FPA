@@ -1,12 +1,12 @@
-# Month End Accounting Tasks
+# Month End Scripts
 
-We do our "cash basis" accounting at the end of each month.
+We do our "cash basis" accounting at the end of each month using a number of python scripts.
 
 ![Month End OverView](./MonthEndProcessingOverView.svg)
 
 First, we need to get transaction files for the month from each of PayPal, OpenCollective and BNP Paribas.
 
-Next, we need to turn the transaction files into double entry "split" files which will be imported into
+Next, we need to use python scripts to turn the data files into double entry "split" files which will be imported into
 GnuCash.
 
 [OpenCollective tx file](./OpenCollectiveTransactionProcessing.md)
@@ -29,10 +29,6 @@ python3 splitmaker_MonthlyDepenses.py monthlyWorksheet.csv monthlyDepensesImport
 
 Next, we import the xxxxxImport.csv files into [gnuCash](https://gnucash.org/docs/v5/C/gnucash-manual/trans-import.html).
 
-Once the month end processing is complete, we make a zip archive containing the FPA2025.gnucash file and the ~/.local/share/gnucash directory (gnuCash stores a number of important items, such as report definitions in .local/share).  This archive is then sent to the encrypted directory in the FPA GitHub repository.
-
-From here, we move on to the [month end deliverables](./MonthEndDeliverables.md)
-
-
+The scripts are available in the [FPA Github repo](https://github.com/FreeCAD/FPA/tree/main/code/bookkeepingScripts)
 
 
