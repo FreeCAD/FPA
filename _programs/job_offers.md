@@ -91,6 +91,7 @@ The following estimation is based on our own experience, It might not correspond
 * The software we currently use is [gnuCash](https://gnucash.org/). The use of open-source software is important for the FPA as a policy as well as for keeping control over the data
 * The FPA keeps monthly backups of everything, that should always be openable by FPA administrators
 * Everything must always be documented so other people can carry on the tasks if needed
+* Current bookkeeping process involves a certain amount of scripting to unify the different input sources. It is documented at https://fpa.freecad.org/handbook/process/bookkeeping/overview.html
 
 #### Main tasks
 
