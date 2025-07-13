@@ -174,7 +174,7 @@ The conditions below apply to all job offers:
 
 ## Payment
 
-* Upon approving a candidate, the FPA and the candidate will agrre on a payment schedule. Payments will be done by the FPA according to that schedule, by IBAN bank transfer or PayPal.
+* Upon approving a candidate, the FPA and the candidate will agree on a payment schedule. Payments will be done by the FPA according to that schedule, by IBAN bank transfer or PayPal.
 
 * Contractors must issue invoices for work done, and no payment is issued without an individual invoice for the time period being billed for.
 
