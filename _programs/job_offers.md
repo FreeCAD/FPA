@@ -10,11 +10,11 @@ layout: default
 
 ## Foreword
 
-The mission of the [FreeCAD project association](https://fpa.freecad.org) (FPA) is to gather donations and spend that money on behalf of the FreeCAD project and the community. The FPA is not directly responsible for developing FreeCAD. That is the job of the community of developers who are working on FreeCAD. At the FPA, we feel our job is to help developers develop. Therefore, it is important to understand the primary goal of the money gathered by the FPA is to **help FreeCAD developers**. The priority will always be given to existing and active FreeCAD developers.
+The mission of the [FreeCAD project association](https://fpa.freecad.org) (FPA) is to gather donations and spend that money on behalf of the FreeCAD project and the community. The FPA is not directly responsible for developing FreeCAD. That is the job of the community of developers who are working on FreeCAD. At the FPA, our responsibility is to help developers develop. Therefore, it is important to understand the primary goal of the money gathered by the FPA is to **help FreeCAD developers**. Funding priority will always be given to existing and active FreeCAD community members.
 
-Therefore, the main funding program developed by the FPA is the [Grants program](FPADF-Announcement.md). The grants program allows any FreeCAD developer who feels money could help them to do a better job with FreeCAD to request an amount of money to perform a certain task.
+One of the funding programs developed by the FPA is the [Grants program](FPADF-Announcement.md). The grants program allows any FreeCAD developer who feels money could help them to do a better job with FreeCAD to request an amount of money to perform a certain task.
 
-Alongside the [Grants program](FPADF-Announcement.md), the FPA also builds specific programs it wants to pursue, and seeks people interested in obtaining a granto to perform it. Below are the current programs we're seeking interested people for. If you are interested in one of these program, send us an email at fpa@freecad.org . Make sure you read all the requirements below!
+Alongside the [Grants program](FPADF-Announcement.md), the FPA also sponsors specific positions and tasks designed to help the overall FreeCAD development process. Below are the current open positions. If you are interested in one of these programs, send us an email at fpa@freecad.org. Make sure you read all the requirements below!
 
 ## Current open positions
 
