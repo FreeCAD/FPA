@@ -14,8 +14,8 @@ At the end of each month, the following tasks need to be performed:
     - BNP provides an actual statement as of the last of the month well as the data file
 
 * retrieve svg data files from collection platforms
-    - OpenCollective 
-    - PayPal
+    - [OpenCollective](./DataFileCreation.md#OpenCollective)
+    - [PayPal](./DataFileCreation.md#PayPal)
     - BNP
 
 * massage data files into common gnuCash import format
