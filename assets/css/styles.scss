@@ -44,7 +44,7 @@ h1 {
     margin-bottom: 0.5em;
 
     margin-inline : auto ;
-    
+
     text-align : center ;
     max-width : 40ch ;
 }
@@ -63,6 +63,10 @@ h3 {
     font-size: 21px;
     margin-top: 1.5em;
     margin-bottom: 0.5em;
+}
+
+p {
+    text-wrap : pretty ;
 }
 
 nav {
