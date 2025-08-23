@@ -150,6 +150,7 @@ img {
 nav > a {
     @extend .roundbutton;
     color: black;
+    flex : 1 1 ;
 }
 
 nav > a:hover {
@@ -194,6 +195,7 @@ nav > a:hover {
     align-items: flex-end;
     justify-content: space-between;
     margin-bottom: 3em;
+    gap : 1rem ;
 }
 
 #menuContainer img {
