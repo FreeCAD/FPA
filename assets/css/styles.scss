@@ -539,3 +539,8 @@ td:not(:last-child), th:not(:last-child) {
         color : white ;
     }
 }
+
+
+#initiatives + p {
+    text-align : center ;
+}
