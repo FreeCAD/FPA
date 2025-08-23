@@ -198,8 +198,11 @@ nav > a:hover {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
 
-    > div:is(:nth-child(1), :nth-child(4)) {
-        background-color: $daCerulean;
+    > :is( 
+        :nth-child( 4n + 0 ) ,
+        :nth-child( 4n + 1 )
+    ){
+        background : $daCerulean ;
     }
 
     > div:nth-child(1) {
