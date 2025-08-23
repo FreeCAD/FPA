@@ -3,7 +3,6 @@ title: "Initiatives"
 description:
    "Active FPA Programs and Initiatives"
 layout: default
-shortcutType: regular
 shortcuts:
     - text: Travel grants for FreeCAD community members
       button: Travel grants
