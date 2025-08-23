@@ -172,56 +172,6 @@ nav > a:hover {
 //     }
 // }
 
-.gridContainer {
-
-    grid-template-columns : repeat( 2 , 1fr ) ;
-    grid-template-rows : repeat( 2 , 1fr ) ;
-    display : grid ;
-    gap : 1em ;
-
-    margin-block : 1.5em 2em ;
-    min-height : 400px ;
-
-    text-align : left ;
-    font-size : 20px ;
-}
-
-.gridContainer > * {
-
-    position : relative ;
-
-    background : $TuftsBlue ;
-    
-    padding : 1em ;
-    padding-bottom : 2.8em ; // Guarantee space for button
-    
-    font-family : 'Inter' , sans-serif ;
-    font-weight : 500 ;
-    font-size : 20px ;
-    color : white ;
-}
-
-.gridContainer > :is( 
-    :nth-child( 4n + 0 ) ,
-    :nth-child( 4n + 1 )
-){
-    background : $daCerulean ;
-}
-
-
-.shortcuts a {
-    @extend .roundbutton;
-    position: absolute;
-    bottom: 1em;
-    right: 1em;
-    background-color: white;
-    color: black;
-    &:hover {
-        background-color: rgba(0, 0, 0, 0);
-        color: white;
-    }
-    border: 2px solid white;
-}
 
 $time: 0.8s;
 
@@ -465,3 +415,90 @@ td:not(:last-child), th:not(:last-child) {
   }
 }
 
+
+/**
+ *  Shortcuts
+ */
+
+.Shortcuts {
+
+    grid-template-columns : 1fr ;
+    display : grid ;
+    gap : 1rem ;
+    
+    width : fit-content ;
+    
+    margin-inline : auto ;
+    margin-block : 1.5em 2em ;
+    min-height : 400px ;
+
+    text-align : left ;
+    font-size : 20px ;
+}
+
+@media ( width >= 600px ){
+
+    .Shortcuts {
+        grid-template-columns : repeat( 2 , 1fr ) ;
+        grid-template-rows : repeat( 2 , 1fr ) ;
+        gap : 2rem ;
+    }
+}
+
+.Shortcut {
+
+    position : relative ;
+
+    grid-template-rows : 1fr auto ;
+    display : grid ;
+    gap : 1rem ;
+
+    max-width : 20rem ;
+
+    background : $TuftsBlue ;
+    
+    padding : 1em ;
+    
+    font-family : 'Inter' , sans-serif ;
+    font-weight : 500 ;
+    text-wrap : balance ;
+    font-size : 20px ;
+    color : white ;
+}
+
+.Shortcut:is( 
+    :nth-child( 4n + 0 ) ,
+    :nth-child( 4n + 1 )
+){
+    background : $daCerulean ;
+}
+
+@media ( width >= 600px ){
+
+    .Shortcut {
+        gap : 1.5rem ;
+    }
+}
+
+
+
+.Shortcut p {
+    margin-block : 0 ;
+}
+
+.Shortcut a {
+
+    @extend .roundbutton ;
+
+    justify-self : end ;
+
+    border : 2px solid white ;
+
+    background : white ;
+    color : black ;
+
+    &:hover {
+        background : transparent ;
+        color : white ;
+    }
+}
