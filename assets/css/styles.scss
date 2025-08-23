@@ -173,38 +173,41 @@ nav > a:hover {
 // }
 
 .gridContainer {
-    font-size: 20px;
-    text-align: left;
-    display: grid;
-    gap: 1em;
-    min-height: 400px;
-    margin-top: 1.5em;
-    margin-bottom: 2em;
-}
-
-.gridContainer > div {
-    padding: 1em;
-    background-color: $TuftsBlue;
-    color: white;
-    position: relative;
-    font-family: "Inter", sans-serif;
-    font-weight: 500;
-    font-size: 20px;
-    padding-bottom: 2.8em;  // Guarentee space for button
-}
-
-.gridContainer {
 
     grid-template-columns : repeat( 2 , 1fr ) ;
     grid-template-rows : repeat( 2 , 1fr ) ;
+    display : grid ;
+    gap : 1em ;
 
-    > :is( 
-        :nth-child( 4n + 0 ) ,
-        :nth-child( 4n + 1 )
-    ){
-        background : $daCerulean ;
-    }
+    margin-block : 1.5em 2em ;
+    min-height : 400px ;
+
+    text-align : left ;
+    font-size : 20px ;
 }
+
+.gridContainer > * {
+
+    position : relative ;
+
+    background : $TuftsBlue ;
+    
+    padding : 1em ;
+    padding-bottom : 2.8em ; // Guarantee space for button
+    
+    font-family : 'Inter' , sans-serif ;
+    font-weight : 500 ;
+    font-size : 20px ;
+    color : white ;
+}
+
+.gridContainer > :is( 
+    :nth-child( 4n + 0 ) ,
+    :nth-child( 4n + 1 )
+){
+    background : $daCerulean ;
+}
+
 
 .shortcuts a {
     @extend .roundbutton;
