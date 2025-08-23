@@ -1,8 +1,19 @@
-<div class="gridContainer shortcuts">
-    {% for shortcut in page.shortcuts %}
-        <div>
-            {{ shortcut.text }}
-            <a href=" {{ shortcut.href }} ">{{ shortcut.button }}</a>
+
+
+<div class = 'Shortcuts' >
+
+    {%- for shortcut in page.shortcuts -%}
+
+        <div class = 'Shortcut' >
+            
+            <p> {{- shortcut.text -}} </p>
+            
+            <a href = '{{- shortcut.href -}}' >
+                {{- shortcut.button -}}
+            </a>
+
         </div>
-    {% endfor%}
+
+    {%- endfor-%}
+
 </div>
