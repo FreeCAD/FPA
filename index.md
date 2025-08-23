@@ -1,5 +1,4 @@
 ---
-shortcutType: regular
 shortcuts:
     - text: "Apply for a grant from the FPA to improve FreeCAD and its ecosystem"
       button: "Programs"
