@@ -21,47 +21,7 @@ Alongside the [Grants program](FPADF-Announcement.md), the FPA also sponsors spe
 <!-- There are no current open positions. Please consider [applying for a Grant](FPADF-Announcement.md)! -->
 
 
-### Job offer: FreeCAD Professional Network Lead (Posted 2 July 2025)
 
-The FPA is seeking applicants to create the FreeCAD Professional Network.
-
-* The funds will be awarded to a single grantee responsible for launching the project.
-* This grantee will report directly to the FPA board.
-* The grant period will cover a 3–6 month window to produce defined deliverables
-
-#### Identify & Organize ####
-
-* Create a registry of professionals, companies, creators,  and educators who use FreeCAD. 
-* Identify manufacturers and service providers in adjacent sectors
-* Identify educators and researchers
-* Maintain a list of endorsed trainers, integrators, and consultants, support professionals
-
-#### Communicate ####
-
-* Publish a quarterly newsletter with project updates, case studies, and roadmap highlights
-* Develop blog content that highlights corporate engagement
-* Serve as a go-between.  Let individuals and orgs preserve privacy and still make legitimate contacts
-
-#### Learn From ####
-
-* Run an annual or semiannual summit for professionals  (online or real world)
-* Solicit participation in working groups with professional perspectives
-* Contribute to a multi-year roadmap of priorities.
-
-
-Deliverables:
-
-1. Professional registry / CRM system (preferably open source)
-2. Mailing list/newsletter platform (1-2 newsletters)
-3. Updated donor program targeting professionals
-4. Draft policies for boundaries and expectations (e.g., input vs. influence)
-5. Initial outreach effort to recruit professionals
-6. Public report summarizing membership, goals, infrastructure, and next steps
-
-This is a one-time grant of $10,000 USD. The anticipated ongoing maintenance of the FPN will be the subject of a future posting
-and is independent of this one, which covers the startup of the network and development of the required infrastructure.
-
-Position open until filled. Send resume and cover letter to fpa@freecad.org to apply.
 
 ### Job offer: FPA accountant (Posted 10 July 2025)
 
@@ -132,36 +92,6 @@ The following estimation is based on our own experience, It might not correspond
 
 Position open until filled. Send resume and cover letter to fpa@freecad.org to apply.
 
-### Addon Ecosystem Coordinator (Posted 17 July 2025)
-
-The FPA is seeking grant applicants to coordinate the FreeCAD Addon ecosystem.
-
-Key responsibilities:
-
-  *  Test each addon in the official FreeCAD-Addons repository for compatibility with the current release version of FreeCAD
-  *  Score each addon against a rubric for functionality, documentation, integration into FreeCAD, and developer engagement
-  *  Work with Addon developers to bring their addons into compatibility, or to transfer the work to another developer
-  *  Onboard new Addon developers to the process of getting their addons included in the official repository (e.g. creation of package.xml metadata file, icon, etc.)
-  *  Develop better documentation for the entire process of creating a FreeCAD Addon
-  *  Work with FreeCAD developers to improve the Addon Manager user experience
-  *  Help develop the Addon Manager
-
-This is an ongoing grant of 500 USD per month, renewable yearly. It is expected that over the course of the first six months all existing Addons will receive a score according to a rubric developed as part of this grant. Once all Addons have received their initial evaluation, the grantee will work with developers by submitting issue reports on their project issue trackers, as well as developing documentation about the Addon development and distribution process. It is not required that the recipient be a developer themselves, nor that they become experts in any of the fields the Addons represent. All evaluations will be basic in nature (“Does the Addon launch?”, “Does the Addon crash FreeCAD?”, etc.).
-
-Position open until filled. Send resume and cover letter to fpa@freecad.org to apply.
-
-### Infrastructure Maintenance Leader (Posted 18 July 2025)
-
-The FPA is seeking grant applicants to coordinate the maintenance of the FreeCAD project infrastructure.
-FreeCAD's infrastructure is currently a set of individual "droplets" at DigitalOcean. Those droplets host services such as the website, forums, wiki, and addon cache. In addition, as the project continues to grow, additional infrastructure will become necessary: single-sign-on systems via LDAP, load balancing, additional forums servers, etc. The development, documentation, and ongoing maintenance of this continues to increase over time and coordination of the work and the volunteer team is necessary.
-
-The Infrastructure Maintenance Leader (IML), compensated at 1000 EUR/month, will oversee the operation, documentation, and upgrades to this infrastructure. The IML will coordinate with the rest of the project to maximize service availability, to improve services as the project grows and its needs change, and to ensure that all services and service tasks are documented so that the work can be distributed throughout the team and handed off as needed. Finally, the IML will help FreeCAD to transition to more independent and/or self-hosted solutions when appropriate. Quarterly reports will be delivered describing the work completed over the preceding quarter and the plans for the next quarter.
-
-The FPA estimates that this role will require approximately 5-10 hours per week of continuous maintenance and personnel coordination. The position will also entail occasional emergency response to handle outages that will require rapid resolution and high availability on the part of the IML.
-
-This is a 1-year contract position with an option for renewal upon agreement between the contractor and the FPA at the end of that time.
-
-Position open until filled. Send resume and cover letter to fpa@freecad.org to apply.
 
 ## Eligibility
 
