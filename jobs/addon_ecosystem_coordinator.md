@@ -1,5 +1,7 @@
 # Addon Ecosystem Coordinator
 
+Currently held by: @PhoneDroid
+
 ## Original job posting
 
 ### Addon Ecosystem Coordinator (Posted 17 July 2025)
