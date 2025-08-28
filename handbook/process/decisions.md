@@ -119,5 +119,29 @@ A list of decisions taken by vote of the association members and passed by conse
 | 1300 EUR/Month to maxwxyz for Bug Triage | 10 Jan 2025 | [link](https://forum.freecad.org/viewtopic.php?t=92898) |
 | 6000 USD Travel budget for FOSDEM/FreeCAD day 2025 | 10 Jan 2025 | [link](https://forum.freecad.org/viewtopic.php?t=91625) |
 | FOSDEM/FreeCAD day 2025 | 21 Jan 2025 | [link](https://forum.freecad.org/viewtopic.php?t=91453) |
-
+| Pay $100 to put FreeCAD on Steam |  13 Feb 2025 | [link](https://forum.freecad.org/viewtopic.php?t=93653) |
+| Add Alex Prokoudine (prokoudine) as an FPA general assembly member |  13 Feb 2025 | [link](https://forum.freecad.org/viewtopic.php?t=94121) |
+| Add Turan Furkan Topak (Reqrefusion) as an FPA general assembly member |  13 Feb 2025 | [link](https://forum.freecad.org/viewtopic.php?t=94146) |
+| 4000 EUR Grant for Refactoring Sketcher 2 |  20 Feb 2025 | [link](https://forum.freecad.org/viewtopic.php?t=93874) |
+| Grants budget for 2025 | 24 Feb 2025 | [link](https://forum.freecad.org/viewtopic.php?t=94551) |
+| Approve the 2024 annual report |  05 Mar 2025 | [link](https://forum.freecad.org/viewtopic.php?t=94963) |
+| USD 6500 for Make Lens Platform Self-Deloyable and Platform Agnostic |  23 Mar 2025 | [link](https://forum.freecad.org/viewtopic.php?t=95615) |
+| Q1 2025 Grant Funding Round 1 |  31 Mar 2025 | [link](https://forum.freecad.org/viewtopic.php?t=95614) |
+| 100 EUR for Sticker printing |  12 Apr 2025 | [link](https://forum.freecad.org/viewtopic.php?t=96127) |
+| Travel grant of 600 EUR for Ajinkya to go to Libre Graphics Meeting |  12 Apr 2025 | [link](https://forum.freecad.org/viewtopic.php?t=95402) |
+| 5000 EUR for CWG bounty program |  28 Apr 2025 | [link](https://forum.freecad.org/viewtopic.php?t=96271) |
+| 10000 USD for Implementation of a professional Network |  15 Jun 2025 | [link](https://forum.freecad.org/viewtopic.php?t=96731) |
+| 500 USD donation to ANUBIS developer |  18 Jun 2025 | [link](https://forum.freecad.org/viewtopic.php?t=97801) |
+| 12000 EUR/yr for Infrastructure Maintenance Leader role |  02 Jul 2025 | [link](https://forum.freecad.org/viewtopic.php?t=97808) |
+| Q2 Grant Approvals |  07 Jul 2025 | [link](https://forum.freecad.org/viewtopic.php?t=98102) |
+| Sponsor a FreeCAD banner at FrOSCon (125 EUR) |  14 Jul 2025 | [link](https://forum.freecad.org/viewtopic.php?t=98366) |
+| Sponsor VectorSpace's Robot competition entry for USD 500 |  14 Jul 2025 | [link](https://forum.freecad.org/viewtopic.php?t=98101) |
+| 230 EUR to buy ISO norm 14649-10:2004 Industrial automation systems and integration |  01 Aug 2025 | [link](https://forum.freecad.org/viewtopic.php?t=98365) |
+| 5000 EUR for Bug Fix Rewards Pilot Proposal |  04 Aug 2025 | [link](https://forum.freecad.org/viewtopic.php?t=98135) |
+| Add obelisk79 to the Admin Board |  27 Aug 2025 | [link](https://forum.freecad.org/viewtopic.php?t=99132) |
+| 6000 EUR to fund the creation of bisector pilot program |  27 Aug 2025 | [link](https://forum.freecad.org/viewtopic.php?t=99222) |
+| 2500 EUR to fund a FreeCAD Modeling Competition Program |  27 Aug 2025 | [link](https://forum.freecad.org/viewtopic.php?t=99289) |
+| Approve up to 7000 EUR Non-budgeted Expenses For 2025 NA Meet Up |  27 Aug 2025 | [link](https://forum.freecad.org/viewtopic.php?t=99244) |
+| 6000 EUR to create Addon Ecosystem Technical Lead position |  27 Aug 2025 | [link](https://forum.freecad.org/viewtopic.php?t=99284) |
+| Allocate 5000 EUR funding for a Maintainer grant pool |  27 Aug 2025 | [link](https://forum.freecad.org/viewtopic.php?t=99293) |
 
