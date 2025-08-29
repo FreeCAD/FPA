@@ -9,25 +9,36 @@ VAT BE0781867807
 <br/><br/>
 </div>
 
-<h2 align=center>Agreement for the execution of such and such tasks</h2>
+<h2 align=center>Agreement for the execution of the Infrastructure Maintenance Leader role</h2>
 
-**Warning: This model is to be used only when the contractor is either a company or a registered professional (ie, they will emit invoices). For other persons who will not emit bill, use the [memorandum of understanding](mou.md) instead**
-
-**Change this** This agreement is made between the FreeCAD project association (the FPA), a non-profit body registered as an AISBL in Belgium under enterprise number [781867807](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807) and FreeCAD contributor XXXXXXXX (the CONTRIBUTOR), identified by YYYYYYY (insert here ID number or any other way of official identification).
+This agreement is made between the FreeCAD project association (the FPA), a non-profit body registered as an AISBL in Belgium under enterprise number [781867807](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807) and FreeCAD contributor Kurt Kremitzki (the CONTRIBUTOR), identified as a sole proprietor doing business at 15 South Old State Capitol Plaza
+Springfield, Illinois 62701, United States of America.
 
 This document constitutes a **non-employment service agreement** between these two parties, who agree to the following terms and conditions:
 
 ## Purpose and objectives
 
-**Change this** One or two paragraphs describing why the object of this contract is important to the FPA and to FreeCAD. This aims at explaining both to the CONTRIBUTOR and to third parties like the FreeCAD community or even to a judge, why we are doing this contract.
+The FPA has established the role of the Infrastructure Maintenance Leader (the IML) to coordinate the maintenance of the FreeCAD project infrastructure.
+
+FreeCAD's infrastructure is currently a set of individual "droplets" at the cloud provider DigitalOcean. Those droplets host services such as the website, forums, wiki, and addon cache. In addition, as the project continues to grow, additional infrastructure will become necessary: single-sign-on systems via LDAP, load balancing, additional forums servers, etc. The development, documentation, and ongoing maintenance of this continues to increase over time and coordination of the work and the volunteer team is necessary.
+
+The FPA estimates that this role will require approximately 5-10 hours per week of continuous maintenance and personnel coordination. The position will also entail occasional emergency response to handle outages that will require rapid resolution and high availability on the part of the IML.
 
 ## Duties
 
 During the time covered by this agreement, the CONTRIBUTOR agrees to:
 
-- **Change this** Do this
+- Coordinate with the rest of the project to maximize service availability
 
-- **Change this** Do that
+- Improve services as the project grows and its needs change
+
+- Ensure that all services and service tasks are documented so that the work can be distributed throughout the team and handed off as needed
+
+- Oversee the operation, documentation, and upgrades to the infrastructure
+
+- Help FreeCAD to transition to more independent and/or self-hosted solutions when appropriate.
+
+- Publish quarterly reports describing the work completed over the preceding quarter and the plans for the next quarter
 
 - Publish monthly a short summary of the activities performed by the CONTRIBUTOR
 
@@ -44,13 +55,7 @@ During the time covered by this agreement, the FPA agrees to:
 
 ## Conditions and compensation
 
-**Change this** A compensation of USD 00000 will be paid by the FPA to the CONTRIBUTOR, according to the following schedule:
-
-* **Change this** USD 0000 when task XXXX is completed
-
-* **Change this** USD 0000 when task YYYY is completed
-
-* **Change this** USD 0000 when all the task defined in this agreement are completed
+A compensation of EUR 1000 will be paid by the FPA to the CONTRIBUTOR on a monthly schedule.
 
 Payments will be made after receiving an invoice from the CONTRIBUTOR, by bank transfer. VAT, bank transfer fees and other transfer fees will be paid by the FPA. All other fees and taxes to which the CONTRIBUTOR is subject to, such as revenue taxes or social security taxes, must be included in the invoice, and part of the total amount stated in this agreement.
 
@@ -66,13 +71,13 @@ The CONTRIBUTOR will not hold the FPA responsible for any injury or material los
 
 ## Termination and renewal
 
-**Change this** This agreement will last for XXXX years, starting from the date this agreement is signed by both parties, and terminates after a year has passed.
+This agreement will last for 1 year, starting from the date this agreement is signed by both parties, and terminates after a year has passed.
 
 Both the FPA and the CONTRIBUTOR can unilaterally terminate this agreement at any time, for any reason, by simple notification to the other party. If work has been done by the CONTRIBUTOR after the last payment, the FPA will pay a last installment to be proportionally determined by the quantity of work done within the corresponding stage of the payment schedule.
 
 This agreement is ruled by Belgian law, and the competent court is the Brussels court. However, both parties agree to always seek friendly resolution in case of conflicts, and to always consider the best interest of the FreeCAD project.
 
-**Change this** Done in Brussels on October 23rd, 2023
+Done in Brussels and Springfield on August 29th, 2025
 
 <div>
 <br/><br/>
@@ -92,7 +97,7 @@ chairman of the FPA<br/>
 <img src="/home/yorik/Documents/Admin/Docs/signature.png" title="" alt="signature" width="200">
 </td>
 <td>
-<b>XXXX YYYYY</b><br/>
+<b>Kurt Kremitzki</b><br/>
 </td>
 </tr>
 </table>
