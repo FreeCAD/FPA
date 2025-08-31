@@ -15,6 +15,13 @@ import sys
 import random
 from datetime import date
 
+#convert values from ',' decimal separator to '.'.
+def commaToPoint(inValue):
+    outValue = inValue
+    outValue = outValue.replace(",", ".")          # replace all ',' by ','
+    outValue = outValue.replace(".", "", outValue.count(".") -1)  # remove all but last '.'
+    return outValue
+
 #convert dates from BNP format of dd/mm/yyyy to standard yyyy-mm-dd
 def convertDate(inDate):
     if len(inDate) < 10:
@@ -78,6 +85,12 @@ with open(inputFileName) as csvIn:
 # Note: March is back to ";"
 # Note: April is ","
 # Note: May is ";"   # does this flip on even/odd month number?!
+# Note: June is ","
+# Note: July is ";" and decimal separator is now ","??
+
+# a theory
+# if you click on the csv in telegram so it will open in Calc.  If you then save as CSV, it will get saved with
+# "," delimiter (at least on my laptop).  If you instead use the file as supplied by BNP, it will have a ";"??
 
 #    csvReader = csv.reader(csvIn, delimiter=',')
     csvReader = csv.reader(csvIn, delimiter=';')
@@ -89,7 +102,7 @@ with open(inputFileName) as csvIn:
 
 #        print("streamsplitter_BNP at record {0} - {1} fields".format(recordsIn, len(line)))
 #       print("streamsplitter_BNP - line: {0}".format(line))
-        amount = float(line[iValue])
+        amount = float(commaToPoint(line[iValue]))
         formattedDate = convertDate(line[iDate])
         txNumber = txCounterStart + recordsIn
         if amount >= 0.0 :
