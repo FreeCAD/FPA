@@ -7,6 +7,12 @@
 import csv
 import sys
 
+def commaToPoint(inValue):
+    outValue = inValue
+    outValue = outValue.replace(",", ".")          # replace all ',' by '.'
+    outValue = outValue.replace(".", "", outValue.count(".") -1)  # remove all but last '.'
+    return outValue
+
 iDate = 0
 iDesc = 1
 iValue = 2
@@ -48,7 +54,8 @@ with open(inputFileName) as csvIn:
             continue
 
         #line 1 - basic transaction EUR out
-        baseValue = -float(line[iValue])   # withdrawal
+        # not sure the '-' should be here??
+        baseValue = -float(commaToPoint(line[iValue]))   # withdrawal
         reversedValue = baseValue * reverseValue   # deposit-ish
         row = [line[iDate]] + [commodityString] + [line[iType]]+ [outAccount] + [baseValue] + [line[iTxNumber]]
         csvWriter.writerow(row)

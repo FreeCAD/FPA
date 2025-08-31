@@ -57,6 +57,7 @@ transferToken = "General Withdrawal"
 conversionToken = "Currency Conversion"
 donationToken = "Payment"
 refundToken = "Refund"
+AcceptedCurrencies = ["EUR", "USD"]
 
 donationOut = open(donationFileName, 'w', newline='')
 donationWriter = csv.writer(donationOut, delimiter=',')
@@ -72,6 +73,14 @@ with open(inputFileName) as csvIn:
 
         recordsIn += 1
         grossValue = float(commaToPoint(line[iGross]))
+
+        # oddball currencies
+        if not line[iCurrency] in AcceptedCurrencies:
+            print("Non-standard currency near input record: {0} date: {1} amount: {2}".format(recordsIn, line[iDate], grossValue))
+            manualWriter.writerow(line)
+            manualsOut += 1
+            continue
+            
         # donations
         if donationToken in line[iType] and refundToken not in line[iType]:
             if grossValue < 0:

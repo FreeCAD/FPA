@@ -7,6 +7,13 @@
 import csv
 import sys
 
+def commaToPoint(inValue):
+    outValue = inValue
+    outValue = outValue.replace(",", ".")          # replace all ',' by '.'
+    outValue = outValue.replace(".", "", outValue.count(".") -1)  # remove all but last '.'
+    return outValue
+
+
 iDate = 0
 iDesc = 1
 iValue = 2
@@ -39,7 +46,7 @@ with open(inputFileName) as csvIn:
     csvReader = csv.reader(csvIn, delimiter=',')
     for line in csvReader:
         #line 1 - basic transaction EUR in
-        baseAmount = float(line[iValue])
+        baseAmount = float(commaToPoint(line[iValue]))
         reversedValue = baseAmount * reverseValue
         row = [line[iDate]] + [commodityString] + [line[iDesc]]+ [inAccount] + [reversedValue] + [line[iTxNumber]]
         csvWriter.writerow(row)
