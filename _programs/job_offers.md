@@ -86,4 +86,7 @@ The conditions below apply to all job offers:
 
 * Contractors must issue invoices for work done, and no payment is issued without an individual invoice for the time period being billed for.
 
+## Current contracts
+
+The list of people currently under contract with the FPA is publicly available [on the FPA GitHub account](https://github.com/FreeCAD/FPA/issues?q=is%3Aissue%20state%3Aopen%20label%3AContract)
 
