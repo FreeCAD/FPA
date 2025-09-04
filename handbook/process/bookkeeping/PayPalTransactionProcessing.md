@@ -27,7 +27,7 @@ This will produce two csv files from the input:
     * anything else that the streamsplitter can not categorize.
 
 ### Second, use the splitmaker script:
-    python3 splitmaker_PPContrib.py PayPal_Donations.csv PayPal_ContributionSplits.csv
+    python3 splitmaker_PPDonation.py PayPal_Donations.csv PayPal_ContributionSplits.csv
 
 The splitmaker scripts produce multiple line items for each transaction input.  Each line represents a change to a
 single account (PayPal balance, fees expense, currency conversion, etc).  These lines are called "splits" by gnuCash.
