@@ -16,12 +16,12 @@ The program was introduced in 2024 as a successor to the FPA Development Fund la
 
 ## 2025 Program Timeline
 
-Grants are evaulated and issued quarterly, with one fourth of the total budgeted funding available during each grant period, on the following schedule:
+Grants are evaluated and issued quarterly, with one fourth of the total budgeted funding available during each grant period, on the following schedule:
 
 * Q1: March 1 submission deadline, March 15 committee meeting, voting complete by March 31
 * Q2: June 1 submission deadline, June 21 committee meeting, voting complete by June 30
 * Q3: Sept 1 submission deadline, Sept 20 committee meeting, voting complete by Sept 30
-* Q4: Nov 15 submission deadline, Dec 7 committee meeting, voting complete by Dec 19  
+* Q4: Nov 15 submission deadline, Dec 7 committee meeting, voting complete by Dec 19
 
 Grants received after the Nov. 15 deadline will not be considered for the 2025 grant year, but will be held until the 2026 program is announced.
 
@@ -148,12 +148,6 @@ Pieter Hijma will be working on research for variant parts. A number of FreeCAD 
 *Funding approved 27 August 2024.*
 
 Chris will continue his work on homebrew builds of FreeCAD. This time, he will update the homebrew-freecad tap to link against Python v3.12 and Qt v6 when creating the build. The project is expected to take a few weeks to complete. Chris was awarded a grant of USD $2,000 for the project.
-
-### Aleksandr Prokudin (@prokoudine): Blog Maintenance
-
-*Funding approved 2 July 2024.*
-
-Aleksandr will post weekly recaps of FreeCAD development and write 2 to 4 additional news posts a month. The contract is for 1 year, with monthly payouts of EUR 500.
 
 ### Pieter Hijma (@pieterhijma): Improve C++ API Documentation
 
