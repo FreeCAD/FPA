@@ -6,7 +6,7 @@ Core Maintainers may apply for the Fixed Monthly Honorarium on any day of the ye
 
 Ecosystem Maintainers may apply, once per calendar year, to be covered by the Fixed Monthly Honorarium; each such application is voted by the FPA on a per-person basis. If accepted, the person benefits until 31 December of that year; acceptance does not carry over and requires a fresh application and vote each year. In addition, all Additional Honorarium Requests by Ecosystem Maintainers—regardless of amount—are subject to FPA voting.
 
-The Fixed Monthly Honorarium is €200 (two hundred) per month. To be payable for a given month, the participant must have had at least one interaction with any FreeCAD repository in that month; purely automated/bot actions do not count. If there is no activity in a month, no fixed payment is made for that month, though the participant’s program status continues through year-end.
+The Fixed Monthly Honorarium is €200 (two hundred) per month. To be payable for a given month, the participant must have had at least one interaction with any FreeCAD repository in that month. If there is no activity in a month, no fixed payment is made for that month, though the participant’s program status continues through year-end.
 
 A participant may also submit an Additional Honorarium Request. No timesheet is required; the participant states only the total additional amount requested. A €40/hour rate is a reference for internal consistency and scaling. Additional requests are independent of the fixed payment and may be submitted even if no fixed payment is taken. An Additional Honorarium Request may be made only for the current month and the immediately preceding month, and no more than one additional request may be made for any calendar month.
 
