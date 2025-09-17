@@ -8,9 +8,7 @@ Ecosystem Maintainers may apply, once per calendar year, to be covered by the Fi
 
 The Fixed Monthly Honorarium is €200 (two hundred) per month. To be payable for a given month, the participant must have had at least one interaction with any FreeCAD repository in that month. If there is no activity in a month, no fixed payment is made for that month, though the participant’s program status continues through year-end.
 
-A participant may also submit an Additional Honorarium Request. No timesheet is required; the participant states only the total additional amount requested. A €40/hour rate is a reference for internal consistency and scaling. Additional requests are independent of the fixed payment and may be submitted even if no fixed payment is taken. An Additional Honorarium Request may be made only for the current month and the immediately preceding month, and no more than one additional request may be made for any calendar month.
-
-For Core Maintainers, if the total monthly amount requested (fixed plus any additional) is €1,000 or less, it is paid without a vote; if it exceeds €1,000, the payment is voted by the FPA. For Ecosystem Maintainers, coverage under the fixed honorarium always requires an FPA vote, and thereafter every additional request is voted by the FPA irrespective of amount.
+In exceptional cases where a participant believes their workload in a given month substantially exceeded typical expectations, they may consult with the FPA to request a discretionary extra top-up beyond the fixed honorarium.
 
 Monthly requests may be submitted during the month or in the following month. The fixed monthly honorarium may be claimed in arrears, in aggregate for months after acceptance in which the participant was active. Payments are made by the FPA via a payment method determined with due regard to the participant’s stated preferences. Explanatory notes or links are not required; however, in the interests of transparency they are encouraged.
 
