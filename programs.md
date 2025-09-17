@@ -20,6 +20,9 @@ shortcuts:
     - text: The FPA seeks people interested in obtaining a grant to perform a specific task
       button: Job offers
       href: /programs/job-offers
+    - text: The FPA offers a reward to people fixing known bugs in FreeCAD (experimental program)
+      button: Bugfix rewards
+      href: /programs/bugfix-rewards-program
 ---
 
 # {{page.title}}
