@@ -10,7 +10,7 @@ The Fixed Monthly Honorarium is €200 (two hundred) per month. To be payable fo
 
 In exceptional cases where a participant believes their workload in a given month substantially exceeded typical expectations, they may consult with the FPA to request a discretionary extra top-up beyond the fixed honorarium.
 
-Monthly requests may be submitted during the month or in the following month. The fixed monthly honorarium may be claimed in arrears, in aggregate for months after acceptance in which the participant was active. Payments are made by the FPA via a payment method determined with due regard to the participant’s stated preferences. Explanatory notes or links are not required; however, in the interests of transparency they are encouraged.
+The fixed monthly honorarium may be claimed in arrears, in aggregate for months after acceptance in which the participant was active. Payments are made by the FPA via a payment method determined with due regard to the participant’s stated preferences. Explanatory notes or links are not required; however, in the interests of transparency they are encouraged.
 
 The program rests on unconditional trust in the Core Maintainers Group and in each participant; statements are presumed accurate unless and until proven otherwise. An allegation of abuse does not prevent payment, and the FPA does not entertain such allegations; if raised, they must be referred to the Core Maintainers Group for assessment.
 
