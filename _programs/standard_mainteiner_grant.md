@@ -1,0 +1,7 @@
+## Standard Maintainer Grant
+
+This document sets forth the terms under which current FreeCAD maintainers and developers with sustained and meaningful contributions may request a grant from the FPA for a three-month term. Eligible applicants are current maintainers and ongoing contributors who commit to a minimum of ten hours of work per week during the grant term. The grant amount is fixed at a total of 3,000 USD or EUR, at the applicant’s election, for the three-month period. The scope of work may include improvements, bug fixes, and the development of new features within the project’s maintenance activities.
+
+The primary criterion for evaluation is the applicant’s track record of past contributions. Accordingly, proposals may be brief; however, FPA members may take the level of detail into account when assessing an application. Proposals may be evaluated during the grant period or independently of it. As a rule, proposals are reviewed by the Technical Committee; nevertheless, in view of the determinative weight of the applicant’s prior contributions, a proposal may be accepted without Technical Committee review.
+
+The FPA reserves discretion in evaluating and finalizing applications under this program. Unless expressly stated otherwise, operational aspects of application and implementation are set by the FPA and communicated as needed. For all other matters, the provisions of the FPA’s “Time Commitment Grant” program shall apply mutatis mutandis.
