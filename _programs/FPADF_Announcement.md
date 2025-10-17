@@ -85,6 +85,120 @@ Alternatively, you can request a partial compensation and a pause to handle your
 
 ## Ongoing projects funded by the FPA
 
+### Jo Hinchliffe (concretedog): Promoting Academic and Educational use of FreeCAD via targeted written tutorials
+
+*Funding approved 2 October 2025.*
+
+Jo will write FreeCAD tutorials developing resources that target the promotion of FreeCAD in educational environments. Jo is a regular contributor to the FreeCAD blog and author of two books featuring FreeCAD and KiCad, both published by Raspberry Pi Press. He will be awarded a grant of £2,000 for the project.
+
+### Pierre-Louis Boyer (paddlestroke): Maintenance, improvement and development of new features on the Sketcher and Assembly workbenches
+
+*Funding approved 2 October 2025.*
+
+Pierre-Louis will continue the ongoing work on improving the Assembly and Sketcher workbenches, with a focus on bugfixing. He will receive €3,000 for each project.
+
+### Pierre-Louis Boyer (paddlestroke): TechDraw: Rework annotation tools
+
+*Funding approved 2 October 2025.*
+
+Pierre-Louis will also create a new annotation tool for TechDraw to replace the existing ones. He will receive EUR€2,000 for this project. A prototype is already available:
+
+### Kacper Donat (kadet1090): Design System and Style Guidelines
+
+*Funding approved 2 October 2025.*
+
+Kacper will develop a design system and style guidelines to help the team improve the consistency of the user interface. He will receive a grant of €5,000 for the project.
+
+### David Kaufman (davidgilkaufman): CAM improvements for the Adaptive operation
+
+*Funding approved 2 October 2025.*
+
+David will improve the Adaptive clearing operation in CAM: enable successful generation at small stepovers, improve automatic diameter selection for entry helix, and add “rest machining” support for adaptive toolpaths. He will receive a grant of $4,250 for the project.
+
+### Francisco Rosa (Francisco-Rosa): Sky domes, sun radiations analysis module
+
+*Funding approved 2 October 2025.*
+
+Francisco will work on his Solar workbench. Expected new features are: creating sun radiation analysis in FreeCAD, and new functions to modify geometry (radius, position, north, etc.) and values (radiation, irradiation, analysis period, and location). He will receive a grant of $2,000.
+
+### Amritpal Singkh (@amrit3701): Enhanced Authentication, Branding Customization, and TrueNAS Integration for Lens Platform
+
+*Funding approved 2 October 2025.*
+
+Amritpal Singkh will resume his work on Ondsel Lens and implement the following features: authentication with Google and OAuth, branding and customization options, FC-Worker update to FreeCAD 1.0.2, and TrueNAS SCALE integration. Amritpal will be awarded a grant of $12,250 from the separate “Ondsel Onwards” fund.
+
+### Pierre-Louis Boyer (paddlestroke): Pattern tools refactor, unification and additional functionality
+
+*Funding approved 8 July 2025.*
+
+Pierre intends to refactor, unify, and enhance existing linear/polar pattern tools in multiple workbenches. He has been awarded a grant of €2,000. The first pull request has already been submitted.
+
+### Brad Eric Hollister: Configuration Space Visualization for Computer-Aided Geometric Design
+
+*Funding approved 8 July 2025.*
+
+This method allows for the visualization of contact curves between pairs of parts. Brad’s job is to implement an exporter in Python that will translate parts and assemblies designed in FreeCAD into the HIPAIR input language. The visualization will be done outside FreeCAD, at least as part of this grant work. Brad has been awarded $500 USD (€430) for the project.
+
+### Marcus Pollio (marcuspollio): Websites improvements initiative — Step 1
+
+*Funding approved 8 July 2025.*
+
+Marcus has been actively working on the redesign and unification of the website for almost a year now. This particular project’s deliverables are features parity between the old and the new website and unification of the Homepage, the News blog, and the Developers Handbook. Marcus has been awarded a grant of €4,000 for this project. 
+
+### Abhiram Masda: CAM/BIM: 2D Nesting Tool for FreeCAD
+
+*Funding approved 8 July 2025.*
+
+Abhiram will either improve the existing nesting algorithm or integrate a more efficient open-source library to reduce material waste and improve layout quality. Abhiram was awarded a grant of ₹150,000 INR (€1,650).
+
+### Max Wilfinger (maxwxyz): Research ISO GPS / GD&T for an overall concept as implementation in FreeCAD
+
+*Funding approved 8 July 2025.*
+
+Max reworked and narrowed down his original proposal from Q1 2025 to researching standards and industry workflows, developing an overall workflow for FreeCAD, and structuring the project for future implementation. No coding is expected to be done as part of this grant work. Max was awarded a grant of €3,000 for the project.
+
+### Jackson Oursland: Assembly Solver Interface Abstraction and Alternative Solver Implementation
+
+*Funding approved 8 July 2025.*
+
+Jackson intends to abstract the use of solvers in the Assembly workbench aiming to add support for the MuJoCo solver (work in progress). Other possibilities include support for the Project Chrono solver. Jackson was awarded a grant of USD $2,000.
+
+### Pieter Hijma: Update OSH Automated Documentation for FreeCAD 1.0
+
+*Funding approved 8 July 2025.*
+
+Pieter will update his OSH Automated Documentation (osh-autodoc) workbench to support FreeCAD 1.0+ (this assumes fixing several issues), the custom PDF compiler, and the documentation. He was awarded a grant of €2,000 for the project.
+
+### Ajinkya Dahale (AjinkyaDahale): New curves for Sketcher
+
+*Funding approved 31 March 2025.*
+
+Ajinkya will develop two new types of curves in Sketcher: restricted and offset curves. Restricted curves are useful when we only need a portion of an external curve that can change. Offset curves are dependent on a parent curve to allow offset for a larger set of curves (independent offset curves already exist in FreeCAD, this is different). Ajinkya was awarded a grant of EUR 2000 for the project.
+
+### Mario Passaglia (@marioalexis84): Maintenance, improvement and development of new features on the FEM workbench
+
+*Funding approved 31 March 2025.*
+
+Mario will continue his work on the FEM workbench. He will fix bugs, maintain and reorganize the code, and take care of various shortcomings in the mesh object, such as the impossibility of handling multiple meshes, time-consuming algorithms to search mesh elements, and the lack of mesh quality checking. Mario was awarded a grant of USD 3000 for the project.
+
+### João Matos (@tritao) and Benjamin Nauck (@hyarion):
+
+*Funding approved 31 March 2025.*
+
+João and Benjamin will modernize FreeCAD’s rendering and selection systems to fix various performance issues on large projects. They will decouple the selection picking and selection rendering system, abstract the raw legacy OpenGL calls into a rendering abstraction layer, and add a modern renderer to Coin. João and Benjamin were awarded a grant of EUR 4000.
+
+### João Matos (@tritao) and Benjamin Nauck (@hyarion): Multithreading architecture improvements in FreeCAD
+
+*Funding approved 31 March 2025.*
+
+They will focus on enhancing the base infrastructure to enable asynchronous operations and deliver asynchronous recomputation of the document and its objects, a multi-threaded signal system, Python async support, and UI enhancements to manage modal or background tasks. They were awarded a grant of EUR 2000 for this project.
+
+### Chris Jones (@ipatch):
+
+*Funding approved 31 March 2025.*
+
+Chris will fix building FreeCAD on macOS with Homebrew. Chris was awarded a grant of USD 1000 for the project.
+
 ### Ajinkya Dahale (@jnxd): Refactoring Sketcher, Part 2
 
 *Funding approved 30 January 2025.*
@@ -107,79 +221,13 @@ Kacper will work on a new feature preview system that can be used in Part and Pa
 
 Joe will write new FreeCAD Art Guidelines along with providing replacement icons to follow the new guidelines. The current art guidelines are well thought-out and provide for reproducible style, however fall short of following current design trends for visual communication and rely heavily on bold and brash color combinations. The idea behind this prohect is to replace the guidelines, document them, work with the FreeCAD community across several platforms to find both style and form that have a general widespread acceptance, and replace them in their entirety. Total expected duration of the project is 3 months (or until complete). Joe was awarded USD 1,750 for the work.
 
-### Dr. Rajeevlochana G. Chittawadigi, Dr. Ravi Kumar V., and Dr. Mohan Kumar S.: Content and Pedagogy Development for Teaching and Learning of Sketcher Workbench in FreeCAD Software
-
-*Funding approved 9 November 2024.*
-
-The team will develop a Sketcher addon for teaching how to use the workbench. Users will follow step-by-step instructions, and the wizard will highlight mistakes (if any) after each step. The project deliverables are spread across 9 months. The team was awarded a grant of USD 6,000 (to be paid to one representative in three steps).
-
-### Pieter Hijma (@pieterhijma): Improve User Experience of VarSets
- 
-*Funding approved 9 November 2024.*
-
-Peter will work on improving the user experience of VarSets. The work will include guiding the discussion on the more complicated topics, adding new features that are requested from users, and improving on various small issues. The work is scheduled to be done between January and April 2025. Pieter was awarded EUR 8,000 for the work.
-
-### Turan Furkan Topak (@Reqrefusion): Recommendations and proposal for the improvement of documentation
-
-*Funding approved 9 November 2024.*
-
-Turan will improve the documentation wiki. He will apply fixes for some of the existing issues, improve the search feature, implement responsive design, opening direct user registration after making our Mediwiki instance vandal-safe, improve the editor, set up the ebooks generations for offline use, and improve various other things. Reqrefusion was awarded USD 3,000 for the work.
-
-### FlachyJoe: bugfixes
-
-*Funding approved 11 October 2024.*
-
-FlachyJoe received an honorary grant of $1000 for working on bug fixes in this development cycle. Most recently he fixed a ton of bugs in Part Design, specifically in the Helix code.
-
 ### Jackson Oursland (@oursland): CI Hosting Research Proposal
 
 *Funding approved 4 October 2024.*
 
 Jackson will research various options for FreeCAD to get fast CI runners. Currently, we have free runners from GitHub, but they are relatively slow and concurrency-limited. So Jackson will look into three general options: paid runners on GitHub, self-hosted runners in the cloud (AWS, Azure, GCS, maybe others), and self-hosted runners on premise. Jackson was awarded $500 for the research.
 
-### Pieter Hijma (@pieterhijma): Research Variant Parts
-
-*Funding approved 9 September 2024.*
-
-Pieter Hijma will be working on research for variant parts. A number of FreeCAD features require inserting copy-on-change links, such as referencing external geometry in a body for which SubShapeBinders are used in Part Design. The architecture behind the current implementation involves hidden parts and temporary files and is fragile. Pieter will begin the project by elaborating on the current state of affairs in the forum for developers, then propose patches targeting several aspects of the current implementation. He was awarded a grant of EUR 8,000 for the entire project.
-
-### Chris Jones (@ipatch): Update homebrew-freecad tap with a freecad formula that uses Python v3.12 and Qt v6
-
-*Funding approved 27 August 2024.*
-
-Chris will continue his work on homebrew builds of FreeCAD. This time, he will update the homebrew-freecad tap to link against Python v3.12 and Qt v6 when creating the build. The project is expected to take a few weeks to complete. Chris was awarded a grant of USD $2,000 for the project.
-
-### Pieter Hijma (@pieterhijma): Improve C++ API Documentation
-
-*Funding approved 2 July 2024.*
-
-Pieter will refine a documentation standard in collaboration with the community and Anurag Singh (the other API documentation grantee) and apply the standard to files in the App namespace. The project is expected to last 6 months. Pieter was awarded EUR 8,000 for the entire project.
-
-### Anurag Singh (@drLite35): Improve the FreeCAD API documentation
-
-*Funding approved 24 June 2024.*
-
-Anurag will reorganize the existing documentation, enhance docstrings to ensure uniformity and thoroughness, enhance the documentation's visual appeal and usability, automate documentation's generation, and write a contributor guide with instructions for effective documentation. The project is expected to last approx. 5 months. Anurag was awarded USD 4,000 for the entire project.
-
-### Andrianos Karampilis: User manual update
-
-*Funding approved 9 June 2024.*
-
-Andrianos is updating the user manual in the wiki. The goal is to update all 23 chapters of the manual to bring it up to speed with the current state of FreeCAD and explore the possibility of releasing EPUB and PDF versions of the manual. The compensation for this project is USD 2,500.
-
-### Mario Passaglia (@marioalexis84): Bugfixing and electromagnetic system simulations using CalculiX
-
-*Funding approved 11 February 2024.*
-
-Mario will be working for 7 months to provide solutions for electromagnetic problems leveraging the CalculiX solver. He will also fix bugs in the FEM workbench. Mario was awarded a grant of USD 4,000.
-
-### Max Wilfinger (@maxwxyz): Bugs triaging
-
-*Funding approved 10 February 2024.*
-
-Max will triage bug reports. The contract is for 1 year, with monthly payouts of USD 500.
-
-### Adrian Insauuralde (@adrianinsaval): Packaging
+### Adrian Insaurralde (@adrianinsaval): Packaging
 
 *Funding approved 13 July 2023.*
 
