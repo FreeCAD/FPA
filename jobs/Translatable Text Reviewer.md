@@ -1,5 +1,7 @@
 ### Translatable Text Reviewer (Posted 23 Jan 2025)
 
+Currently held by: Position unfilled and closed
+
 The texts shown to the user in FreeCAD through the UI are generally suffering of many grammatical problems: Different tenses/forms used in different contexts, or texts that are poorly written or sometimes difficult to understand. 
 
 This is normal given that many programmers are not native English speakers, but since the English form is the base that fuels all other translations, most problems end up propagating into the translations as well. So we need to fix the English texts at the source.
