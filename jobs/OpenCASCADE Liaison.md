@@ -1,5 +1,7 @@
 ### OpenCASCADE Liaison (Posted 23 Jan 2025)
 
+Currently held by: Pieter Hijma (@pieterhijma)
+
 The FPA is seeking grant applicants to coordinate bug reports and patches with the OpenCASCADE development team.
 
 Key responsibilities:
