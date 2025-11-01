@@ -24,7 +24,7 @@ The second module will work in conjunction with the .ui file of the sky domes co
 
 First, we experimented with using an expanded version of SunSetup.ui to control the celestial domes, but we noticed that there were more differences than similarities in their properties, so this hypothesis was abandoned.
 
-We also evaluated the option of constructing the domes using meshes, as the ladybug library suggests. However, its handling and final results in FreeCAD proved to be more limited and complicated than using solid objects, which can be freely modified, saved, and exported.
+We also evaluated the option of constructing the domes using meshes, as the ladybug library suggests. However, its handling and final results in FreeCAD proved to be more limited and complicated than using lines, circles and surfaces objects, which can be freely modified, saved, and exported.
 
 ## 2. Results
 
