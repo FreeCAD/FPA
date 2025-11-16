@@ -8,17 +8,22 @@
 import csv
 import sys
 import random
+import datetime
 
 #convert dates from PP format of dd/mm/yyyy to standard yyyy-mm-dd
 def convertDate(inDate):
-    if len(inDate) < 10:
-        today = date.today()
+    inDate = inDate.strip()
+
+    if not inDate:
+        today = datetime.date.today()
         return today.strftime("%Y-%m-%d")
-    year = inDate[6 : 10]
-    month = inDate[3 : 5]
-    day = inDate[0 : 2]
-    newDate = year + '-' + month + '-' + day
-    return newDate
+
+    try:
+        dt = datetime.datetime.strptime(inDate, "%d/%m/%Y")
+        return dt.strftime("%Y-%m-%d")
+    except ValueError:
+        today = datetime.date.today()
+        return today.strftime("%Y-%m-%d")
 
 #convert values from ',' decimal separator to '.'.
 def commaToPoint(inValue):
@@ -67,20 +72,21 @@ serviceRate = 0.10        # this is an approximation for when the input doesn't 
 reverseValue = -1.0
 txCounterStart = random.randint(15000, 16000)
 
-donatOut = open(donatFileName, 'w', newline='')
-donatWriter = csv.writer(donatOut, delimiter=',')
-with open(inputFileName) as csvIn:
+donatOut = open(donatFileName, 'w', newline='', encoding='utf-8-sig')
+donatWriter = csv.writer(donatOut, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+
+with open(inputFileName, encoding='utf-8-sig', newline='') as csvIn:
     csvReader = csv.reader(csvIn, delimiter=',')
     for line in csvReader:
         recordsIn += 1
-        date = convertDate(line[iDate])
+        tx_date = convertDate(line[iDate])
         baseAmount = float(commaToPoint(line[iGross]))
 
         if paymentToken in line[iType] and refundToken not in line[iType]:
             # this is (probably) a normal donat transaction
             #line 1 - basic donation transaction
             reversedValue = baseAmount * reverseValue
-            row = [date] + [commodityStringUSD] + [line[iDesc]]+ [inAccount] + [reversedValue] + [txCounterStart + recordsIn]
+            row = [tx_date] + [commodityStringUSD] + [line[iDesc]] + [inAccount] + [reversedValue] + [txCounterStart + recordsIn]
             donatWriter.writerow(row)
 
             #line 2 - fee deduction USD
