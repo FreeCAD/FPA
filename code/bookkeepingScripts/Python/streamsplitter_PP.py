@@ -59,11 +59,11 @@ donationToken = "Payment"
 refundToken = "Refund"
 AcceptedCurrencies = ["EUR", "USD"]
 
-donationOut = open(donationFileName, 'w', newline='')
+donationOut = open(donationFileName, 'w', encoding='utf-8-sig', newline='')
 donationWriter = csv.writer(donationOut, delimiter=',')
-manualOut = open(manualFileName, 'w', newline='')
+manualOut   = open(manualFileName,   'w', encoding='utf-8-sig', newline='')
 manualWriter = csv.writer(manualOut, delimiter=',')
-with open(inputFileName) as csvIn:
+with open(inputFileName, encoding='utf-8-sig', newline='') as csvIn:
     csvReader = csv.reader(csvIn, delimiter=',')
     for line in csvReader:
         if recordsIn == 0:
