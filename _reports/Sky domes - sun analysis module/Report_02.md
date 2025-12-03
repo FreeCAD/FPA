@@ -4,23 +4,23 @@ FPA Grant to Francisco Rosa
 
 ## Report 2, 2025/12/03
 
-This second report on the development of sun radiations analysis by sky domes in FreeCAD is described in two subjects: procedures acquired, and results.
+This second report on the development of sun radiations analysis by sky domes in FreeCAD is described in two parts: procedures acquired and results.
 
-Continuing the work of the Solar Workbench, which focuses on applying the resources available in the Python ladybug library, we have completed the second part dedicated to developing an application of colored sky domes as diagrams for recording and analyzing solar radiation from a specific geographic location over a given period of time.
+Continuing the work of the Solar Workbench, which focuses on applying the resources available in the Python ladybug library, we have completed the second part. This last one and its predecessor were dedicated to developing an application of colored sky domes as diagrams for recording and analyzing solar radiation from a specific geographic location over a given period of time.
 
 ## 1. Procedures acquired
 
-Our main work procedures consisted of the following steps:
+Our main work procedures in this last phase consisted of the following steps:
 
-  • Improving the application of ladybug code resources for producing solar analysis domes, specially the modules: ladybug.legend, ladybug_radiance.skymatrix, and ladybug_radiance.visualize.skydome. We decided to create a separate Solar module, the Lbcomponents for this propose. In this manner, it will be possible to use those ladybug function in more than one Solar tools.
+  • Improving the application of ladybug code resources for producing solar analysis domes, specially in the modules: *ladybug.legend*, *ladybug_radiance.skymatrix*, and *ladybug_radiance.visualize.skydome*. We decided to create a separate Solar module, the *Lbcomponents*, for this propose. In this manner, it is possible to use those ladybug function in more than one set of Solar WB tools.
     
   • Creating the functions to modify the SkyDomes in every possible configurations.
     
   • Developing the dialog window for configuration of the creation and modification of SkyDomes. 
     
-So, the code for the sky domes was consisted in four documents with three modules and an XML file for the configuration window.
+So, the code for the sky domes was consisted in four documents with three Python modules and an XML file for the configuration window.
 
-The first of these, containing the dome classes and the main set of functions, is the  Skydomes.py,  the second and third are the SkyDomesDialog.py  and Skydomes.ui, and the last is a common one, the LBComponents.py, as we commented.
+The first of these, containing the dome classes and the main set of functions, is the  Skydomes.py.  The second and third are the SkyDomesDialog.py and Skydomes.ui, and the last is a common one, the LBComponents.py, as already commented.
 
 ## 2. Results
 
@@ -32,8 +32,8 @@ Now, it is possible with the SkyDomes tools to create, configured and modify ext
     
   • The domes can be presented in two models: Tregenza with 144 patches (low resolution), and Reinhart (high resolution) with 576 patches.
     
-  • We got a two new features with the ladybug.legend. Now, we can apply no one, but 32 sets of color for a legend and we can configure the number of its colors.
+  • We have achieved two new features with the ladybug.legend. Now, we can apply not just one, but 32 color sets for a legend, and we can configure the number of its colors.
     
-It is important to note that the sky domes is fundamental for the understanding and use of future modules of sun analysis. The resulting data of their patch vectors are used to calculate the solar radiation and irradiation over a site, for example.
+It is important to emphasize that the sky domes is fundamental for the understanding and use of future sun analysis modules. The resulting data of their patch vectors are used to calculate the solar radiation and irradiation over a site, for example.
 
 The Solar Workbench with the new features can be downloaded at: https://github.com/Francisco-Rosa/Solar/tree/updates
