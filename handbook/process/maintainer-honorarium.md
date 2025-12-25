@@ -6,9 +6,9 @@ layout: default
 mermaid: true
 ---
 
-# {{Maintainer Honorarium}}
+# {{ page.title }}
 
-{{About giving honorarium to Maintainers in a certain amount per month upon their application.}}
+{{ page.description }}
 
 This text establishes a trust-based honorarium mechanism to compensate members of FreeCAD’s Core Maintainer group for code review, release coordination, and similar efforts, while keeping documentation burdens to a minimum. As a rule, only Core Maintainers benefit from the program; maintainers of plugins and dependencies in the FreeCAD ecosystem (“Ecosystem Maintainers”) may also be included under the special provisions below.
 
