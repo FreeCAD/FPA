@@ -17,13 +17,13 @@ The FPA will also always allow you to know what data we have on you, change that
 
 ### Who keeps your personal data
 
-Collected data is kept and secured by the FPA, an international non-profit association seated Rue Docteur Kuborn 31/46, in Anderlecht, Belgium. 
+Collected data is kept and secured by the FPA, an international non-profit association seated Rue Docteur Kuborn 31/46, in Anderlecht, Belgium.
 
 To make donations or participate to the FreeCAD project, you might also have created accounts on third-parties platforms, such as GitHub, OpenCollective or PayPal. These platforms are fully responsible for the treatment of the data they collect from you, and the FPA is not responsible for them.
 
 ### How is the data stored, who has access
 
-All personal data kept by the FPA is encrypted. Only the [FPA administrators](https://fpa.freecad.org/handbook/people/roster.html) have access to the data. Nobody else has access to the data, and it will never be shared with anybody else, inside or outside the FPA, unless required by law, of course.
+All personal data kept by the FPA is encrypted. Only the [FPA administrators and finances officer](https://fpa.freecad.org/handbook/people/roster.html) have access to the data. Nobody else has access to the data, and it will never be shared with anybody else, inside or outside the FPA, unless required by law, of course.
 
 ### Request, modify or delete your personal data
 
