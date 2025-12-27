@@ -38,7 +38,13 @@ layout: default
 
 | Nick  | Mandate     | Start Date | End date   |
 | ----- | ----------- | ---------- | ---------- |
-| yorik | Chairperson | 2023.11.30 | 2025.11.30 |
+| yorik | Chairperson | 2025.11.30 | 2027.11.30 |
+
+### Finances officer
+
+| Nick        | Mandate          | Start Date | End date   |
+| ----------- | ---------------- | ---------- | ---------- |
+| Reqrefusion | Finances officer | 2025.12.01 | 2026.12.01 |
 
 ### Inactive Members
 
@@ -58,10 +64,9 @@ layout: default
 
 | Nick        | Mandate      | Start Date | End date   |
 | ----------- | ------------ | ---------- | ---------- |
-| yorik       | Chairperson  | 2021.11.30 | 2023.11.30 |
+| yorik       | Chairperson  | 2021.11.30 | 2025.11.30 |
 | sliptonic   | Board member | 2022.04.01 | 2024.04.01 |
 | chennes     | Board member | 2022.10.31 | 2024.10.31 |
-| wandererfan | Board member | 2022.10.31 | 2024.10.31 |
-| wandererfan | Board member | 2024.10.31 | 2025.08.27 |
+| wandererfan | Board member | 2022.10.31 | 2025.08.27 |
 
 *For privacy concerns, some members opted for their full name to not be exposed on the internet*
