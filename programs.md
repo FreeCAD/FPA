@@ -23,6 +23,9 @@ shortcuts:
     - text: The FPA offers a reward to people fixing known bugs in FreeCAD (experimental program)
       button: Bugfix rewards
       href: /programs/bugfix-rewards-program
+    - text: The FPA offers a honorarium to people doing active maintaining work
+      button: Maintainers honorarium
+      href: /programs/maintainer-honorarium
 ---
 
 # {{page.title}}
