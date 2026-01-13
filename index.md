@@ -68,7 +68,7 @@ All members can be contacted individually by sending them a private message on t
 
 ## Donations
 
-The FPA is registered in Belgium as an AISBL with VAT number [BE0781867807](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807) and is aimed at organizing donations for the FreeCAD project. FreeCAD currently offers the following donation channels:
+The FPA is registered in Belgium as an AISBL with VAT number [BE0781867807](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807) and is collecting and organizing donations for the FreeCAD project. It currently offers the following donation channels:
 
 * [Bank account: BE04 0019 2896 4531](https://wiki.freecadweb.org/Donate)
 * [PayPal](https://www.paypal.com/donate/?hosted_button_id=M3Z8BGW6DB69Q)
@@ -97,6 +97,6 @@ The FPA is designed to help FreeCAD and its developers. You can:
 * If you have an idea that could benefit from funding, [open an issue](https://github.com/FreeCAD/FPA/issues) here.
   {% endif %}
 
-### Data protection
+## Data protection
 
 See the [FPA data protection policy](./PRIVACY-POLICY.md)
