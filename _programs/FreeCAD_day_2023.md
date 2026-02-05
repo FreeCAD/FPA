@@ -19,7 +19,7 @@ The day will be organized as an [unconference](https://en.wikipedia.org/wiki/Unc
 
 ## The venue
 
-![pictures of the venue](https://forum.freecadweb.org/download/file.php?id=210453)
+![pictures of the venue](https://forum.freecad.org/download/file.php?id=210453)
 
 The even will happen at[Atelier des Tanneurs](https://www.ateliersdestanneurs.be/), located [rue des Tanneurs 60A in Brussels](https://goo.gl/maps/G3syvCLQA6SraZ3r9), inside the city centre inner ring. It is easy to reach by foot (10 minute walk from [Brussels grote markt](https://goo.gl/maps/ayZELhBRmnzah25L6) or by public transport (10 minutes walk from [Zuid Station subway station](https://goo.gl/maps/mGU4bfU2nfv2nPL36).
 
@@ -41,15 +41,15 @@ There will unfortunately be no live streaming at the event, because of the diffi
 
 ## Goodies
 
-There will be stickers, and t-shirts sold (the cost price is around 10€, plus any contribution you might wish to give to the FPA). As we'll print a limited number of t-shirts, please [reserve yours](https://forum.freecadweb.org/viewtopic.php?p=648891#p648891) to be sure you have one.
+There will be stickers, and t-shirts sold (the cost price is around 10€, plus any contribution you might wish to give to the FPA). As we'll print a limited number of t-shirts, please [reserve yours](https://forum.freecad.org/viewtopic.php?p=648891#p648891) to be sure you have one.
 
 ## Help wanted
 
-We will need people wanting to help with organizing the unconference, welcoming people, and record video interviews during the day. If you think you can help with any of these during the event, please [reach to us](https://forum.freecadweb.org/viewtopic.php?p=648891)!
+We will need people wanting to help with organizing the unconference, welcoming people, and record video interviews during the day. If you think you can help with any of these during the event, please [reach to us](https://forum.freecad.org/viewtopic.php?p=648891)!
 
 ## Thursday night
 
-For who will already be in Brussels the night before, we plan to meet for food and drink in a cool place (to be announced) in the city centre. Please [reach](https://forum.freecadweb.org/viewtopic.php?p=648891#p648891) if you are interested in joining, so we can book a table accordingly.
+For who will already be in Brussels the night before, we plan to meet for food and drink in a cool place (to be announced) in the city centre. Please [reach](https://forum.freecad.org/viewtopic.php?p=648891#p648891) if you are interested in joining, so we can book a table accordingly.
 
 ## HSBXL byteweek
 
