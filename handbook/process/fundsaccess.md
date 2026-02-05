@@ -73,7 +73,7 @@ The FreeCAD Project Association occasionally receives requests from teams (e.g.,
 
 ## Important Financial Accounts
 
-The [FreeCAD Wiki Donations page](https://wiki.freecadweb.org/Donate) has an up-to-date list of accounts at which we accept donations.
+The [FreeCAD Wiki Donations page](https://wiki.freecad.org/Donate) has an up-to-date list of accounts at which we accept donations.
 
 * Bank account at [BNP Paribas Fortis](https://www.bnpparibasfortis.be/): BE04 0019 2896 4531 (managers: Yorik)
 * PayPal account at fpa@freecad.org (managers: Yorik)
