@@ -211,7 +211,7 @@ The publishing tax for ASBLs/AISBLs is of € 157,42 in 2023 ([changes yearly - 
 
 ### Associations tax
 
-ASBLs/AISBLs with **more than € 25,000 in assets** are subject to an [annual tax](https://finances.belgium.be/fr/asbl/impots-tva/taxe-annuelle-asbl) of 0.17% of their declared assets value, not counting liquidities (*fonds de roulement*). If the ASBL's assets are less than or equal to € 25,000, it is not subject to the tax. It is, however, still required to fill a declaration and indicate that the assets do not exceed € 25,000.
+ASBLs/AISBLs with **more than € 50,000 in assets** (new value since 2026) are subject to an [annual tax](https://finances.belgium.be/fr/asbl/impots-tva/taxe-annuelle-asbl) of 0.17% of their declared assets value, not counting liquidities (*fonds de roulement*). If the ASBL's assets are less than or equal to € 50,000, it is not subject to the tax. It is, however, still required to fill a declaration and indicate that the assets do not exceed € 50,000.
 
 The declaration must be filed **no later than March 31**. Each ASBL receives, in principle, an invitation from the Legal Security office to submit a declaration during the month of February.
 
