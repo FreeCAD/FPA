@@ -1,5 +1,7 @@
 # **Competition Coordinator – FreeCAD Modeling Challenge**
 
+Position currently held by Jo Hinchliffe (@concretedog). Originally posted 11 October 2025
+
 ### **About the Role**
 
 The FreeCAD Project Association (FPA) is launching a recurring FreeCAD modeling competition, inspired by the “Too Tall Toby” CAD modeling challenges. We are seeking a **Competition Coordinator** to design, organize, and run the pilot round of this program, with the goal of building a sustainable recurring event that engages the global FreeCAD community.
