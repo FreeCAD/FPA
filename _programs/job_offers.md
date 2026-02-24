@@ -18,7 +18,7 @@ Alongside the [Grants program](fpadf-announcement), the FPA also sponsors specif
 
 ## Current open positions
 
-There are no current open positions. Please consider [applying for a Grant](fpadf_announcement)!
+There are no current open positions. Please consider [applying for a Grant](fpadf-announcement)!
 
 ### How to Apply
 
