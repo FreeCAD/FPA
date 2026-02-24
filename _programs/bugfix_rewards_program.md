@@ -1,6 +1,11 @@
+---
+title: "Bugfix Rewards Program"
+description:
+   "Rewards program to pay contributors who fix bugs"
+layout: default
+---
+
 # Bugfix Rewards Program
-
-
 
 The FreeCAD Project Association (FPA) is introducing an experimental rewards program to thank contributors who improve the reliability and stability of FreeCAD.
 
