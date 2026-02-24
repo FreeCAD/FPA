@@ -20,17 +20,15 @@ Alongside the [Grants program](fpadf-announcement), the FPA also sponsors specif
 
 There are no current open positions. Please consider [applying for a Grant](fpadf_announcement)!
 
-#### **How to Apply**
+### How to Apply
 
 Interested candidates should submit:
 
-* A short proposal or cover letter outlining relevant experience and vision for the competition.  
-* Examples of prior community, event, or project coordination work.  
+* A short proposal or cover letter outlining relevant experience and vision for the competition.
+* Examples of prior community, event, or project coordination work.
 * (Optional) Links to CAD or FreeCAD-related content you’ve created.
 
 Applications should be sent to **fpa@freecad.org**.
-
-
 
 ## Eligibility
 
