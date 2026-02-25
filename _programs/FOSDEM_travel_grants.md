@@ -17,12 +17,14 @@ The FreeCAD project association (FPA) is offering travel grants to help develope
 
 - The FPA seeks to provide financial assistance to FreeCAD community members traveling to events where they can meet other developers.
 - The FPA will only issue grants for the events listed below.
-- The FPA will issue grants up to a maximum of USD 600 per person and will spend a maximum of USD 6000 in total.
-- The grant amount is USD 600 or the price of your travel, whichever is lower.
+- The FPA will issue grants up to a maximum of EUR 600 per person and will spend a maximum of EUR 6000 in total.
+- The grant amount is EUR 600 or the price of your travel, whichever is lower.
 
 ## Events covered by this program
 
-* Open: FOSDEM and FreeCAD day 2025 - 28 jan to 02 feb 2025 - USD 600 grants, up to max USD 6000
+* Open: FreeCAD North America meetup 2026 - to be announced
+* Closed: FOSDEM and FreeCAD day 2026 - 30 jan to 01 feb 2026 - USD 600 grants, up to max USD 6000
+* Closed: FOSDEM and FreeCAD day 2025 - 28 jan to 02 feb 2025 - USD 600 grants, up to max USD 6000
 * Closed: [FOSDEM and FreeCAD day 2024](https://blog.freecad.org/2023/10/31/fosdem-freecad-day-and-hackathon-2024/) - 30 jan to 05 feb 2024 - USD 600 grants, up to max USD 6000
 * Closed: [Vancouver hackathon 2023](https://blog.freecad.org/2023/05/24/freecad-hackathon-11-13-august-2023/) - 11 to 15 aug 2023 - USD 500 grants, up to max USD 5000
 * Closed: [FOSDEM and FreeCAD day 2023](https://github.com/FreeCAD/FPA/issues/22) - 02 to 04 feb 2023. USD 500 grants, up to max USD 5000
@@ -74,7 +76,7 @@ It might take some time to process payments. We will do our best to process paym
 
 * Read the [FPA travel policy](/handbook/process/travel-policy)
 
-* Fill the [request form](https://docs.google.com/forms/d/e/1FAIpQLScUlGXvtF0t7eVdrTU70L_t8T3EPnGHuHXl8WoBu4MfCF8m6g/viewform?usp=header) at least 30 days before the start of the event
+* Fill the [request form](https://cloud.freecad.org/apps/forms/s/Skcty2PeY6egHGsKei8TieEP) at least 30 days before the start of the event
 
 ## How to help
 
