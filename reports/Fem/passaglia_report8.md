@@ -1,0 +1,62 @@
+# Bugfixing and electromagnetic system simulations using CalculiX
+
+FPADF Grant to Mario Passaglia (@marioalexis84)
+
+## Report 7, 2026/03/02
+
+Period dedicated to new CalculiX implementation with electrostatic support, new implementation of the Elmer solver replacing the nonfunctional original one.
+CalculiX Support for 2D boundary conditions for most features, bug fixing and features improvements.
+
+Below is the list of merged pull requests:
+
+
+* [Fem: MaterialMechanicalNonlinear grouped under MaterialSolid](https://github.com/FreeCAD/FreeCAD/pull/27862)
+* [Fem: Remove deprecated Calculix implementation](https://github.com/FreeCAD/FreeCAD/pull/27850)
+* [Fem: Fix import vtk Python module](https://github.com/FreeCAD/FreeCAD/pull/27810)
+* [Fem: Add displace mesh option to new CalculiX](https://github.com/FreeCAD/FreeCAD/pull/27786)
+* [Fem: Load Elmer text output](https://github.com/FreeCAD/FreeCAD/pull/27775)
+* [Fem: Run Elmer examples - fixes #27547](https://github.com/FreeCAD/FreeCAD/pull/27749)
+* [Fem: Fix undefined variable](https://github.com/FreeCAD/FreeCAD/pull/25935)
+* [Fem: Add magnetic flux density boundary condition](https://github.com/FreeCAD/FreeCAD/pull/25897)
+* [Fem: Remove unnecessary code](https://github.com/FreeCAD/FreeCAD/pull/25538)
+* [Fem: Add electrostatic concentrated load](https://github.com/FreeCAD/FreeCAD/pull/25237)
+* [Fem: Fix CapacitanceBody default value](https://github.com/FreeCAD/FreeCAD/pull/25148)
+* [Fem: Enable clipping plane command in feature edit mode](https://github.com/FreeCAD/FreeCAD/pull/25145)
+* [Base: Restore schema spec for electromagnetic potential unit - fix #25093](https://github.com/FreeCAD/FreeCAD/pull/25120)
+* [Fem: Add support for 2D geometries to SectionPrint](https://github.com/FreeCAD/FreeCAD/pull/25081)
+* [Fem: Fix CalculiX body heat source writer for 2D case](https://github.com/FreeCAD/FreeCAD/pull/25079)
+* [Fem: Fix magnetodynamic2D boundary condition](https://github.com/FreeCAD/FreeCAD/pull/25017)
+* [Fem: Rework Elmer solver - fixes #21479](https://github.com/FreeCAD/FreeCAD/pull/24912)
+* [Fem: Fix memory leaks and error handling in post-processing objects](https://github.com/FreeCAD/FreeCAD/pull/24265)
+* [PartDesign: Use AllowCompound user parameter along the workbench - fixes #23596](https://github.com/FreeCAD/FreeCAD/pull/24230)
+* [Fem: Fix plane manipulator - fixes #14523](https://github.com/FreeCAD/FreeCAD/pull/24201)
+* [CMake: Fix Eigen3 version search](https://github.com/FreeCAD/FreeCAD/pull/24099)
+* [Fem: Add tensor components to calculator variables](https://github.com/FreeCAD/FreeCAD/pull/24024)
+* [Fem: Remove pipeline from analysis highlighter - fixes #23466](https://github.com/FreeCAD/FreeCAD/pull/23984)
+* [App: Fix GroupExtension finding wrong group for objects](https://github.com/FreeCAD/FreeCAD/pull/23983)
+* [Fem: Do not allow selection of external objects for analysis objects - fixes #23834](https://github.com/FreeCAD/FreeCAD/pull/23964)
+* [Fem: Better VTK version check](https://github.com/FreeCAD/FreeCAD/pull/23941)
+* [Fem: Fix regression in netgentools](https://github.com/FreeCAD/FreeCAD/pull/23846)
+* [Fem: Remove dependency of the ViewProviderFemPostObject class on user parameters](https://github.com/FreeCAD/FreeCAD/pull/23823)
+* [Fem: Better error handling in task panels with logging](https://github.com/FreeCAD/FreeCAD/pull/23729)
+* [Fem: Fix use of file chooser Qt signals in solvers preferences.](https://github.com/FreeCAD/FreeCAD/pull/23709)
+* [Fem: Add default solver to new analysis - fixes #23043](https://github.com/FreeCAD/FreeCAD/pull/23641)
+* [Fem: Use Netgen bindings entirely in external program](https://github.com/FreeCAD/FreeCAD/pull/23613)
+* [Fem: Update old ElementGeometry\*D with new properties](https://github.com/FreeCAD/FreeCAD/pull/23583)
+* [Fem: Add support for 2D geometries to Centrif constraint](https://github.com/FreeCAD/FreeCAD/pull/23551)
+* [Fem: Use default CalculiX time increments for thermo-mechanical steady state analysis](https://github.com/FreeCAD/FreeCAD/pull/23494)
+* [Part: Remove PartDesign header](https://github.com/FreeCAD/FreeCAD/pull/23473)
+* [Fem: Add support for 2D loads with CalculiX](https://github.com/FreeCAD/FreeCAD/pull/23453)
+* [Fem: Acquire the GIL before running Python code](https://github.com/FreeCAD/FreeCAD/pull/23388)
+* [Fem: Fix module import in solver CalculiX object](https://github.com/FreeCAD/FreeCAD/pull/23229)
+* [PartDesign: Remove use of user parameters from Body constructor](https://github.com/FreeCAD/FreeCAD/pull/23203)
+* [Fem: Add option to create conformal mesh from Netgen](https://github.com/FreeCAD/FreeCAD/pull/23074)
+* [Fem: Fix VTK check version](https://github.com/FreeCAD/FreeCAD/pull/23045)
+* [Fem: Create CalculiX output from .dat file - fixes #22983](https://github.com/FreeCAD/FreeCAD/pull/23020)
+* [Fem: Fix VTK submodule import](https://github.com/FreeCAD/FreeCAD/pull/23000)
+* [Fem: Set Elmer equation priority based on the order of definition - fixes #21351](https://github.com/FreeCAD/FreeCAD/pull/22999)
+* [App: Fix ExtensionPython macro](https://github.com/FreeCAD/FreeCAD/pull/21576)
+* [Fem: Add support for VTK < 9.1 in calculator filter - fixes #21346](https://github.com/FreeCAD/FreeCAD/pull/21375)
+* [Fem: Solve electrostatic systems with CalculiX](https://github.com/FreeCAD/FreeCAD/pull/21197)
+* [Fem: Use string format to round Elmer quantity values - fixes #20938](https://github.com/FreeCAD/FreeCAD/pull/21100)
+* [Fem: SolverCalculiX refactor - Add option to import results as pipeline - Fixes #20541](https://github.com/FreeCAD/FreeCAD/pull/20609)
