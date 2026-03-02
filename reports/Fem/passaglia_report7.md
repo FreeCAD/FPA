@@ -1,0 +1,57 @@
+# Bugfixing and electromagnetic system simulations using CalculiX
+
+FPADF Grant to Mario Passaglia (@marioalexis84)
+
+## Report 7, 2026/03/02
+
+Period dedicated to bug fixing, meshing and pipeline improvements, support for Elmer static current solver, new calculator pipeline filter, new electric charge density object.
+
+Below is the list of merged pull requests:
+
+
+* [Fem: Capitalize label in material task panel](https://github.com/FreeCAD/FreeCAD/pull/20550)
+* [Fem: Update modifcation time for FemFrameSourceAlgorithm - fixes #20543](https://github.com/FreeCAD/FreeCAD/pull/20548)
+* [Fem: Simplify label in material task panel](https://github.com/FreeCAD/FreeCAD/pull/20506)
+* [Base: Improve internal schema translation for electrical units](https://github.com/FreeCAD/FreeCAD/pull/20500)
+* [Fem: Add electric charge density object](https://github.com/FreeCAD/FreeCAD/pull/20494)
+* [Fem: Add method to rename pipeline VTK data arrays](https://github.com/FreeCAD/FreeCAD/pull/20411)
+* [Fem: Fix return value in FemPostPipelinePy::read](https://github.com/FreeCAD/FreeCAD/pull/20410)
+* [Fem: Add calculator filter](https://github.com/FreeCAD/FreeCAD/pull/20286)
+* [Fem: Use left alignment in Gmsh task panel](https://github.com/FreeCAD/FreeCAD/pull/20077)
+* [Fem: Change from radio buttons to combo box to reduce space in heat flux task panel](https://github.com/FreeCAD/FreeCAD/pull/20059)
+* [Fem: Improve magnetization](https://github.com/FreeCAD/FreeCAD/pull/20055)
+* [Fem: Use disambiguation for solid references in Elmer equation task panels](https://github.com/FreeCAD/FreeCAD/pull/20053)
+* [Fem: Some changes in static current features](https://github.com/FreeCAD/FreeCAD/pull/20002)
+* [Fem: Fix crash in Cut filter](https://github.com/FreeCAD/FreeCAD/pull/19994)
+* [Fem: Improve current density boundary condition](https://github.com/FreeCAD/FreeCAD/pull/19930)
+* [CMake: Fix PySide search](https://github.com/FreeCAD/FreeCAD/pull/19875)
+* [Fem: Add support for Elmer static current solver - fixes #11895](https://github.com/FreeCAD/FreeCAD/pull/19835)
+* [Fem: Add Z-refinement support for Netgen](https://github.com/FreeCAD/FreeCAD/pull/19524)
+* [Fem: Add frd format converter to VTK](https://github.com/FreeCAD/FreeCAD/pull/19426)
+* [Fem: Check reference temperature - fixes #19375](https://github.com/FreeCAD/FreeCAD/pull/19424)
+* [Fem: return from Python setEdit methods](https://github.com/FreeCAD/FreeCAD/pull/19193)
+* [Fem: Electromagnetic boundary condition](https://github.com/FreeCAD/FreeCAD/pull/19011)
+* [Fem: Use new material editor in Reinforced material task panel - fixes #18692](https://github.com/FreeCAD/FreeCAD/pull/18893)
+* [App: Use mapping protocol in App::PropertyMap and add the protocol to Materials.Material objects](https://github.com/FreeCAD/FreeCAD/pull/18892)
+* [Fem: Use property constraints on mesh netgen object](https://github.com/FreeCAD/FreeCAD/pull/18807)
+* [Fem: Add suppressible extension to objects - fixes #12115](https://github.com/FreeCAD/FreeCAD/pull/18636)
+* [Fem: Add preference entry to set Netgen (new implementation) log verbosity and number of threads for meshing](https://github.com/FreeCAD/FreeCAD/pull/18608)
+* [Fem: Add electrostatic constraint symbol](https://github.com/FreeCAD/FreeCAD/pull/18514)
+* [Gui: Add missing header <optional>](https://github.com/FreeCAD/FreeCAD/pull/18480)
+* [Fem: Make it possible to run CalculiX with one core - fixes #18339](https://github.com/FreeCAD/FreeCAD/pull/18400)
+* [Base: Add electromagnetic potential unit](https://github.com/FreeCAD/FreeCAD/pull/18392)
+* [CMake: Decouple internal SMESH build from Fem build - fixes #18287](https://github.com/FreeCAD/FreeCAD/pull/18322)
+* [Fem: Fix FemPostPipeline base class](https://github.com/FreeCAD/FreeCAD/pull/18268)
+* [Fem: Fix references assignment in centrif example](https://github.com/FreeCAD/FreeCAD/pull/18090)
+* [Fem: Add smoothing filter extension to contours filter](https://github.com/FreeCAD/FreeCAD/pull/18088)
+* [App: Set PropertyColor to opaque by default](https://github.com/FreeCAD/FreeCAD/pull/18087)
+* [Fem: Add options for Elmer solver output file - fixes #17569](https://github.com/FreeCAD/FreeCAD/pull/17972)
+* [Fem: Set mesher task panel log text to read-only](https://github.com/FreeCAD/FreeCAD/pull/17910)
+* [Fem: Adapt FemPostObject transparency to changes made in #ffa3fa5b5a](https://github.com/FreeCAD/FreeCAD/pull/17896)
+* [Fem: Check empty remaining femelements array - fixes #17570](https://github.com/FreeCAD/FreeCAD/pull/17859)
+* [Fem: Avoid legacy Netgen meshing if there is no referenced shape - fixes #17814](https://github.com/FreeCAD/FreeCAD/pull/17837)
+* [Fem: Use new material editor in materials task panels - fixes #16814 Mod: FEM](https://github.com/FreeCAD/FreeCAD/pull/17778)
+* [Fem: Fix exception if last step in Netgen mesher is geometry analysis](https://github.com/FreeCAD/FreeCAD/pull/17742)
+* [Fem: Add preference entry to set Gmsh log verbosity - fixes #17673](https://github.com/FreeCAD/FreeCAD/pull/17699)
+* [Fem: Prevent race condition between signals in timer update](https://github.com/FreeCAD/FreeCAD/pull/17681)
+* [Fem: Print real-time log messages in mesher task panels - fixes #17594](https://github.com/FreeCAD/FreeCAD/pull/17666)
