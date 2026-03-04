@@ -15,13 +15,13 @@ Numéro d'entreprise 781.867.807
 | Avoirs                               | Dettes       |                                       |            |
 | ------------------------------------ | ------------ | ------------------------------------- | ---------- |
 | Immeubles                            | 0,00 €       | Dettes financières                    | 0,00 €     |
-| Machines, installations et outillage | 260,42 €     | Dettes à l'égard de fournisseurs      | 0,00 €     |
+| Machines, installations et outillage | 468,42 €     | Dettes à l'égard de fournisseurs      | 0,00 €     |
 | Mobilier et matériel roulant         | 0,00 €       | Dettes à l'égard des membres          | 0,00 €     |
-| Stocks                               | 526,18 €     | Dettes fiscales, salariales et social | 2 016,51 € |
+| Stocks                               | 181,61 €     | Dettes fiscales, salariales et social | 8 087,19 € |
 | Créances                             | 0,00 €       | Autres dettes                         | 0,00 €     |
-| Placements de trésorerie             | 20 000,00 €  |                                       |            |
-| Fonds de roulement                   | 185 211,66 € |                                       |            |
-| Autres avoirs                        | 5 193,53 €   |                                       |            |
+| Placements de trésorerie             | 40 000,00 €  |                                       |            |
+| Fonds de roulement                   | 159 896,61 € |                                       |            |
+| Autres avoirs                        | 0,00 €       |                                       |            |
 
 | Droits          |        | Engagements              |        |
 | --------------- | ------ | ------------------------ | ------ |
