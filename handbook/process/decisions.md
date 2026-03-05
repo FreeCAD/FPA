@@ -144,4 +144,21 @@ A list of decisions taken by vote of the association members and passed by conse
 | Approve up to 7000 EUR Non-budgeted Expenses For 2025 NA Meet Up |  27 Aug 2025 | [link](https://forum.freecad.org/viewtopic.php?t=99244) |
 | 6000 EUR to create Addon Ecosystem Technical Lead position |  27 Aug 2025 | [link](https://forum.freecad.org/viewtopic.php?t=99284) |
 | Allocate 5000 EUR funding for a Maintainer grant pool |  27 Aug 2025 | [link](https://forum.freecad.org/viewtopic.php?t=99293) |
+| Buy ISO norm 14649-10:2004 Industrial automation systems and integration | 27 Aug 2025 | [link](https://forum.freecad.org/viewtopic.php?t=98365) |
+| Fund the creation of bisector pilot program | 28 Aug 2025 | [link](https://forum.freecad.org/viewtopic.php?t=99222) |
+| Approve Nonbudgeted Expenses For 2025 NA Meet Up | 28 Aug 2025 | [link](https://forum.freecad.org/viewtopic.php?t=99244) |
+| Fund a FreeCAD Modeling Competition Program | 28 Aug 2025 | [link](https://forum.freecad.org/viewtopic.php?t=99289) |
+| Add obelisk79 to the Admin Board | 02 Sep 2025 | [link](https://forum.freecad.org/viewtopic.php?t=99132) |
+| Create Addon Ecosystem Technical Lead position | 15 Sep 2025 | [link](https://forum.freecad.org/viewtopic.php?t=99284) |
+| Create a Maintainer Honorarium Program | 24 Sep 2025 | [link](https://forum.freecad.org/viewtopic.php?t=100019) |
+| Updated text for sponsorship policy | 11 Oct 2025 | [link](https://forum.freecad.org/viewtopic.php?t=100407) |
+| Fund the creation of a version 1.1 release video | 30 Oct 2025 | [link](https://forum.freecad.org/viewtopic.php?t=100765) |
+| Create the financial officer position | 05 Nov 2025 | [link](https://forum.freecad.org/viewtopic.php?t=100609) |
+| Hire Reqrefusion as the FPA financial officer | 05 Nov 2025 | [link](https://forum.freecad.org/viewtopic.php?t=100607) |
+| Increase admin team discretionary spending limit to 500 euros | 06 Nov 2025 | [link](https://forum.freecad.org/viewtopic.php?t=100972) |
+| Add Billy Huddleston (Connor) to the General Assembly | 17 Dec 2025 | [link](https://forum.freecad.org/viewtopic.php?t=101872) |
+| Re-elect Yorik van Havre to the FPA Board of Directors as Chairperson | 09 Jan 2026 | [link](https://forum.freecad.org/viewtopic.php?t=101332) |
+| Organize FreeCAD Day/FOSDEM 2026 | 14 Jan 2026 | [link](https://forum.freecad.org/viewtopic.php?t=100022) |
+| Raise Max to 1500/month | 06 Feb 2026 | [link](https://forum.freecad.org/viewtopic.php?t=102387) |
+| Re-authorize the bug bounty program | 05 Mar 2026 | [link](https://forum.freecad.org/viewtopic.php?t=103508) |
 
