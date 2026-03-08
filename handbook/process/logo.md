@@ -1,13 +1,15 @@
 ---
 title: "FreeCAD brand guidelines"
 description:
-    "The brand guidelines describe the proper use of the FreeCAD logo and other FPA branded resources."
+    "The brand guidelines describe the proper use of the FreeCAD logo, general usage guidelines, and compliance information for authors and commercial users."
 layout: default
 ---
 
 # {{page.title}}
 
 {{page.description}}
+
+This page provides comprehensive guidelines for properly referencing and using FreeCAD in various contexts, including books, commercial content, and other materials.
 
 
 ### Logo Kit
@@ -85,6 +87,97 @@ We have made some examples of what **not** to do when using the logo:
 ### PDF Guidelines
 
 Download the [FreeCAD brand guidelines](../../images/logos/guidelines/guidelines.pdf) as a PDF. These are also included in the logo kit at the top of the page.
+
+## General FreeCAD Usage Guidelines
+
+### Proper Reference
+
+When referring to FreeCAD in any content, please use the following guidelines:
+
+> You can use the FreeCAD logo when referring to the software project hosted at https://freecad.org, compiled from the source located at https://github.com/FreeCAD/FreeCAD, and digitally signed by The FreeCAD project association AISBL (where applicable). Any links or instructions on how to obtain the software should refer to the 'freecad.org' domain.
+
+### Naming Conventions
+
+- Use "FreeCAD" as a single word with capital "F" and "CAD"
+- Do not use "Freecad", "freecad", "Free Cad", or other variations
+
+### Attribution Requirements
+
+- Include attribution to FreeCAD when using screenshots or featuring the software
+- Provide links to https://freecad.org for downloads and official information
+- When mentioning the source code, reference https://github.com/FreeCAD/FreeCAD
+- For digitally signed releases, mention "The FreeCAD project association AISBL"
+
+## Addons and Third-Party Content
+
+### License Responsibility
+
+FreeCAD does not dictate the licenses used by addon authors. Addons may have licenses or include graphics and assets that have licenses different from the main project.
+
+**Important:** If you intend to use addons in your own FreeCAD related content, it is your responsibility to make sure you comply with the addon licenses.
+
+### Best Practices for Addon Usage
+
+- Always check the license of each addon before including it in your content
+- Some addons may have commercial restrictions that differ from FreeCAD's license
+- Provide proper attribution for addon authors as required by their licenses
+- Include license information for all addons used in your documentation or books
+- When in doubt, contact the addon author directly for clarification
+
+### Finding Addon License Information
+
+- Check the addon's documentation or README file
+- Review the license files in the addon's repository
+- Look for license headers in the source code
+- Visit the addon's official page or repository for licensing details
+
+## Frequently Asked Questions (FAQ)
+
+### Can I use FreeCAD screenshots in my book?
+
+Yes, you can use screenshots of FreeCAD in your book. FreeCAD is licensed under LGPL 2.0+, which generally allows for documentation and educational use.
+
+### Do I need permission to write a book about FreeCAD?
+
+No, you do not need special permission to write a book about FreeCAD. However, you should follow these guidelines. 
+
+### Can I sell FreeCAD training courses or tutorials?
+
+Yes, you can create and sell training courses about FreeCAD. The LGPL license allows for commercial educational content.
+
+### How should I refer to FreeCAD in academic papers?
+
+In academic papers, cite FreeCAD as "FreeCAD (version number), available from https://freecad.org". Include the version number you used and the official website URL.
+
+### Can I modify the FreeCAD logo for my own use?
+
+No, the FreeCAD logo should not be modified. Use the official logos as provided in the logo kit without alterations to colors, shapes, or styling.
+
+### What if I need to use older versions of FreeCAD?
+
+Older versions are available through the GitHub repository and may be archived on freecad.org. When referencing specific versions, always include the version number and download source.
+
+### How do I handle multiple addons with different licenses?
+
+You must comply with each addon's individual license requirements. This may mean providing different attributions, following different usage restrictions, or even excluding certain addons from commercial content.
+
+### Can I bundle FreeCAD with my commercial software?
+
+Yes, FreeCAD's LGPL license allows for distribution with commercial software, but you must comply with LGPL requirements, including making the source code available and including proper attribution and license notices.
+
+### I'm selling my book/video/content.  Do I need to pay royalties?
+
+No, you do not need to pay royalties to use FreeCAD in your content. However, FreeCAD is built and maintained by a community of volunteers.  Purely commercial ventures that don't respect this and don't try to "give back" to the community often face criticism and may lose community support.  Be a good citizen and consider how you can contribute back to the community.  Financial donations can be made to the FreeCAD project association AISBL.
+
+
+## Additional Resources
+
+- [FreeCAD Official Website](https://freecad.org)
+- [FreeCAD Source Code](https://github.com/FreeCAD/FreeCAD)
+- [FreeCAD Addon Repository](https://github.com/FreeCAD/FreeCAD-addons)
+- [LGPL License Information](https://www.gnu.org/licenses/lgpl-2.1.html)
+
+For specific questions not covered here, please contact the FreeCAD community through the official forums or GitHub discussions.
 
 
 
