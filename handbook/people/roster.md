@@ -30,7 +30,7 @@ layout: default
 
 | Nick        | Mandate      | Start Date | End date   |
 | ----------- | ------------ | ---------- | ---------- |
-| yorik       | Chairperson  | 2023.11.30 | 2025.11.30 |
+| yorik       | Chairperson  | 2023.11.30 | 2027.11.30 |
 | sliptonic   | Board member | 2024.04.01 | 2026.04.01 |
 | chennes     | Board member | 2024.10.31 | 2026.10.31 |
 | obelisk79   | Board member | 2025.08.27 | 2027.08.27 |
