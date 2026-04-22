@@ -1,6 +1,6 @@
 # Addon Ecosystem Coordinator
 
-Currently held by: @PhoneDroid
+Not currently held.
 
 ## Original job posting
 
