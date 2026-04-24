@@ -1,0 +1,72 @@
+Exchange rate dollar to euro,0.86,,,
+,,,,
+Position,Held by,Monthly,Currency,Euros/month
+Addon Ecosystem Coordinator,PhoneDroid,500.00,USD,€430.00
+Addon Ecosystem Technical Lead,mnesarco,500.00,USD,€430.00
+Blog coordination,Alex Prokoudine,551.25,EUR,€551.25
+Blogging,Jo Hinchliffe,600.00,USD,€516.00
+FPA Accountant,Reqrefusion,900.00,EUR,€900.00
+FPA Director,Yorik,416.67,USD,€358.33
+Infrastructure Maintenance Leader,Kurt Kremitzki,1000.00,EUR,"€1,000.00"
+Issue Triage,maxwxyz,1500.00,EUR,"€1,500.00"
+OCCT Liaison,Pieter Hijma,500.00,USD,€430.00
+Release Manager,adrianinsaval,1000.00,USD,€860.00
+Bisector,ipatch,500.00,EUR,€500.00
+,,,,"€7,475.58"
+,,,,
+VAT,,,,"€10,000.00"
+Yearly total,,,,"€99,707.00"
+,,,,
+Other expected expenses,Raw amount,Currency,,Euros
+Transaction fees,5000,EUR,,"€5,000.00"
+Release trailer,1500,EUR,,"€1,500.00"
+Competition launch,2500,EUR,,"€2,500.00"
+FPN Creation,10000,USD,,"€8,600.00"
+Long-term savings,20000,EUR,,"€20,000.00"
+,,,,"€39,000.00"
+,,,,
+Flexible/uncertain expenses,Raw amount,Currency,Discount,Euros
+CWG Grant pool,5000,EUR,0.5,"€2,500.00"
+Maintainer grant pool,12000,EUR,0.25,"€3,000.00"
+FOSDEM/FreeCAD Day,8350,EUR,0.9,"€7,515.00"
+North American Meetup,6000,USD,0.75,"€3,870.00"
+Misc. expenses,10000,EUR,1,"€10,000.00"
+,,,,"€26,885.00"
+,,,,
+Grants - Funded but unpaid,Raw amount,Currency,,Euros
+Improve C++ API Documentation,8000,EUR,,"€8,000.00"
+CI Hosting Research Proposal,500,USD,,€430.00
+Improve User Experience VarSets,800,EUR,,€800.00
+"Modernize, revise FreeCAD Art Guidelines and Icons (Fixed-Goal Grant Proposal)",1750,USD,,"€1,505.00"
+Unified Transparent Previews,1500,EUR,,"€1,500.00"
+Refactoring Sketcher 2,2000,EUR,,"€2,000.00"
+New curves for Sketcher,2000,EUR,,"€2,000.00"
+"Maintenance, improvement and development of new features on the FEM workbench",3000,USD,,"€2,580.00"
+Modernizing FreeCAD's Rendering and Selection Systems,4000,EUR,,"€4,000.00"
+Multithreading Architecture Improvements in FreeCAD,2000,EUR,,"€2,000.00"
+CAD Working Group rewards,5000,EUR,,"€5,000.00"
+"Pattern tools refactor, unification and additional functionality.",2000,EUR,,"€2,000.00"
+Configuration Space Visualization for Computer-Aided Geometric Design,500,EUR,,€500.00
+Websites improvements initiative - Step 1,400,EUR,,€400.00
+CAM/BIM: 2D Nesting Tool for FreeCAD,1650,EUR,,"€1,650.00"
+Research ISO GPS / GD&T for an overall concept as implementation in FreeCAD,3000,EUR,,"€3,000.00"
+Assembly Solver Interface Abstraction and Alternative Solver Implementation,2000,USD,,"€1,720.00"
+Update OSH Automated Documentation for FreeCAD 1.0,2000,EUR,,"€2,000.00"
+Promoting Academic and Educational use of FreeCAD via targeted written tutorials,2300,EUR,,"€2,300.00"
+"Maintenance, improvement and development of new features on the Assembly workbench - Q3",3000,EUR,,"€3,000.00"
+"Maintenance, improvement and development of new features on the Sketcher workbench - Q3",3000,EUR,,"€3,000.00"
+TechDraw: Rework annotation tools - Repost,2000,EUR,,"€2,000.00"
+Design System and Style Guidelines,5000,EUR,,"€5,000.00"
+"[LENS] Enhanced Authentication, Branding Customization, and TrueNAS Integration for Lens Platform",12250,USD,,"€10,535.00"
+CAM improvements for the Adaptive operation,4250,USD,,"€3,655.00"
+"Sky domes, sun radiations analysis module",2000,EUR,,"€2,000.00"
+Selection system enhancements / overhaul,3000,EUR,,"€3,000.00"
+Ondsel Lens and Lens addon documentation,1000,EUR,,"€1,000.00"
+"KiConnect PCB Workbench [Time Commitment, Ecosystem]",5200,USD,,"€4,472.00"
+"Maintenance, improvement and development of new features on the Assembly workbench - Q4",3000,EUR,,"€3,000.00"
+"Maintenance, improvement and development of new features on the Sketcher workbench - Q4",3000,EUR,,"€3,000.00"
+,,,,"€87,047.00"
+,,,,
+,,Discount,0.75,"€65,285.25"
+,,,,
+Grand Total Expenses,,,,"€230,877.25"
