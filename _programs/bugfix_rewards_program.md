@@ -12,8 +12,8 @@ The FreeCAD Project Association (FPA) funds a rewards program to thank contribut
 The rules are simple: fix 5 reward-eligible issues from the [FreeCAD GitHub issue tracker](https://github.com/FreeCAD/FreeCAD/issues) and receive a reward of €250.
 Here is how this works.
 
-1. You must register for the rewards program to be eligible to receive a bounty payout, and to gain access to the FPA Reward Program Eligible Issues project (this is a spam-prevention measure). Register by filling out the form [here](https://cloud.freecad.org/apps/forms/s/w3benz3zD7TebkKTm64L7Ht4).
-2. To qualify as one of your 5 issues, the issue must be on the [FPA Reward Program Eligible Issues project board](https://github.com/orgs/FreeCAD/projects/47).
+1. You must register for the rewards program to be eligible to receive a bounty payout, and to gain access to the [FPA Reward Program Eligible Issues project board](https://github.com/orgs/FreeCAD/projects/47) (this is a spam-prevention measure). Register by filling out the form [here](https://cloud.freecad.org/apps/forms/s/w3benz3zD7TebkKTm64L7Ht4).
+2. To qualify as one of your 5 issues, the issue must be on the the FPA Reward Program Eligible Issues project board.
 3. Submit a pull request for each issue and collaborate with maintainers on potential improvements in your patches.
 4. Once you have 5 patches merged within the last 12 weeks, create a new issue in the [FPA tracker](https://github.com/FreeCAD/FPA/issues), include links to 5 qualifying GitHub issues you resolved, and provide links to the commits or pull requests where your fixes were merged.
 5. The FPA reviews your submission and does the payout.
