@@ -32,3 +32,8 @@ Members deemed INACTIVE will not count toward establishing a minimum representat
 ### Reactivation of INACTIVE members
 Any INACTIVE member in otherwise good standing may reactivate by contacting the chairperson, another member of the administrative body, or posting publicly to an FPA discussion and expressing their desire to reactivate.
 *Added on 2022.07.26*
+
+### Financial officer
+
+A financial officer will be hired or designated by the general assembly each year to perform and be responsible for all the accounting tasks needed for the FPA to function properly. The financial officer will have access to the encrypted data needed to perform his duties, the bank accounts and the payment platforms held by the FPA. The work of the financial officer will be supervised by the chairperson.
+*Added on 2025.11.05*

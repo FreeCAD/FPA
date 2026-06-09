@@ -27,7 +27,7 @@ This will produce two csv files from the input:
     * anything else that the streamsplitter can not categorize.
 
 ### Second, use the splitmaker script:
-    python3 splitmaker_PPContrib.py PayPal_Donations.csv PayPal_ContributionSplits.csv
+    python3 splitmaker_PPDonation.py PayPal_Donations.csv PayPal_ContributionSplits.csv
 
 The splitmaker scripts produce multiple line items for each transaction input.  Each line represents a change to a
 single account (PayPal balance, fees expense, currency conversion, etc).  These lines are called "splits" by gnuCash.
@@ -35,6 +35,15 @@ single account (PayPal balance, fees expense, currency conversion, etc).  These 
 The output from the splitmaker can be imported into gnuCash.
 
 ### Third, handle the exceptions:
+
+For weekly transfer:
+
+User Initiated  Currency Conversion USD - From PP USD
+
+User Initiated Currency Conversion EUR - To PP EUR
+
+Withdrawal   Completed EUR - To BNP
+
 The streamsplitter will report on any transactions that can not be identified as a donation.  These 
 must be handled on a case by case basis.
 

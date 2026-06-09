@@ -1,5 +1,4 @@
 ---
-shortcutType: regular
 shortcuts:
     - text: "Apply for a grant from the FPA to improve FreeCAD and its ecosystem"
       button: "Programs"
@@ -69,15 +68,16 @@ All members can be contacted individually by sending them a private message on t
 
 ## Donations
 
-The FPA is registered in Belgium as an AISBL with VAT number [BE0781867807](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807) and is aimed at organizing donations for the FreeCAD project. We are currently setting up different donation options, check the [donations page](https://wiki.freecadweb.org/Donate) for options. FreeCAD currently offers the following donation channels:
+The FPA is registered in Belgium as an AISBL with VAT number [BE0781867807](https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=en&ondernemingsnummer=781867807) and is collecting and organizing donations for the FreeCAD project. It currently offers the following donation channels:
 
-* [Bank account: BE04 0019 2896 4531](https://wiki.freecadweb.org/Donate)
+* [Bank account: BE04 0019 2896 4531](https://wiki.freecad.org/Donate)
 * [PayPal](https://www.paypal.com/donate/?hosted_button_id=M3Z8BGW6DB69Q)
 * [OpenCollective](https://opencollective.com/freecad)
-* [LiberaPay team account (not managed by the FPA)](https://liberapay.com/FreeCAD/)
 * [Stripe](https://donate.stripe.com/14k3ei9TYgwFclq145)
 * [GitHub](https://github.com/sponsors/FreeCAD)
   {: .menuList .newWindow}
+
+Check the [donations page](https://wiki.freecad.org/Donate) for more details and options. You also have the possibility to [donate monthly (sponsor)](https://www.freecad.org/sponsor.php).
 
 ## Tax deduction
 
@@ -96,3 +96,7 @@ The FPA is designed to help FreeCAD and its developers. You can:
 * Consult the [current funding ideas](https://github.com/FreeCAD/FPA/issues)
 * If you have an idea that could benefit from funding, [open an issue](https://github.com/FreeCAD/FPA/issues) here.
   {% endif %}
+
+## Data protection
+
+See the [FPA data protection policy](./PRIVACY-POLICY.md)

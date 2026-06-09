@@ -1,0 +1,80 @@
+== MediaWiki Status and Improvements Report ==
+
+=== System Assessment and Maintenance Work ===
+Upon gaining access to the MediaWiki installation, I found the system to be in a neglected state. The database size was approximately '''25 GB''', posing a serious risk of data corruption and performance issues.
+
+Actions taken:
+* Maintenance and cleanup tasks were executed.
+* Database size was reduced to approximately '''3 GB'''.
+* The system is now more stable, easier to back up, and sustainable.
+
+As a result, the risk of critical failure has been significantly reduced, and data integrity is now reliably maintained.
+
+----
+
+=== Mobile Interface Support ===
+To improve mobile user experience, the following components were installed and configured:
+
+* '''[https://www.mediawiki.org/wiki/Extension:MobileFrontend Extension:MobileFrontend]''' extension.
+* '''[https://www.mediawiki.org/wiki/Skin:MinervaNeue Skin:MinervaNeue]''' set as the default mobile skin.
+
+As a result:
+* Users on mobile devices now experience an interface identical to Wikipedia’s mobile version.
+* The layout is optimized for readability and touchscreen interaction.
+* Contribution from mobile users is now more accessible and practical.
+
+----
+
+=== VisualEditor Integration ===
+The '''[https://www.mediawiki.org/wiki/Extension:VisualEditor VisualEditor]''' extension was successfully integrated to provide a user-friendly WYSIWYG editing experience. Since MediaWiki 1.35+, Parsoid is embedded in core, eliminating the need for a separate Node.js service.
+
+Key features:
+* Users can edit pages without knowing wikitext (wikicode).
+* Tables, headers, links, media, and references can be added or edited visually.
+* Seamless switching between source editing and visual mode is supported.
+
+VisualEditor significantly lowers the barrier to contribution for non-technical users and increases the accuracy and quality of page formatting.
+
+----
+
+=== Enhanced Search with ElasticSearch ===
+The search system has been migrated to '''ElasticSearch 7.x''', the same search backend used by Wikipedia, enabling advanced full-text capabilities.
+
+Improvements:
+* Full-text search is now available across both titles and page content.
+* Results are more relevant, and multilingual indexing is supported.
+* Performance and precision are significantly improved over the default MediaWiki search.
+
+Note: Due to licensing changes in ElasticSearch 8.x, a future migration to OpenSearch may be considered, though current functionality is stable and supported.
+
+----
+
+=== Anti-Vandalism Measures: ApprovedRevs ===
+To ensure content quality and prevent vandalism, the '''[https://www.mediawiki.org/wiki/Extension:ApprovedRevs ApprovedRevs]''' extension was integrated. With this system, only approved revisions are displayed to the public.
+
+Changes implemented:
+* Edits from new users must be reviewed and approved by an editor before becoming visible.
+* Trusted contributors can be granted the "editor" role after a proven track record.
+* The site has been made openly editable through registration while maintaining protection against vandalism.
+
+This provides a sustainable, controlled contribution model that balances openness with content reliability.
+
+----
+
+=== Gordion Knot Project ===
+'''Gordion Knot''' is an independent system that regularly mirrors the wiki content to a GitHub repository.
+
+* Wiki content remains accessible even if the primary site goes offline.
+* The system has already been successfully used by another party.
+* Development of a MediaWiki extension version is postponed due to currently low demand.
+
+The project remains maintained and ready for continued use.
+
+----
+
+== Final Assessment ==
+All major development and maintenance tasks outlined in the grant have been successfully completed. The MediaWiki platform is now more secure, stable, and contributor-friendly. These enhancements ensure both technical reliability and an improved user experience aligned with modern standards.
+
+While the system is now largely operational, there are still minor refinements and fine-tuning tasks to be addressed. This is typical for evolving platforms and part of ongoing quality assurance.
+
+Overall, the system has been placed on a sustainable footing, making it more accessible and maintainable for both users and administrators.

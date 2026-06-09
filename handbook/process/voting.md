@@ -23,7 +23,7 @@ In general, all votes follow the same pattern:
 ## Creating the Vote
 
 Any member of the FPA may propose a vote.  This is done in the form of a forum
-post to the [FreeCAD Project Association](https://forum.freecadweb.org/viewforum.php?f=43) subsection of the forum.
+post to the [FreeCAD Project Association](https://forum.freecad.org/viewforum.php?f=43) subsection of the forum.
 
 Vote topics MUST have the following:
 

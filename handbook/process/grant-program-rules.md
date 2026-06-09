@@ -16,6 +16,8 @@ The FreeCAD grant program has multiple stakeholders with different roles:
 * **The grant committee**: reviews grant applications, issues recommendations for accepting or denying an application
 * **The FPA general assembly**: assesses grant applications and reviews made by the technical committee and votes on the budget allocated to the program.
 * **The FPA board**: only serves as the treasurer: allocates money for each annual grant program and individual grants, does payouts, publishes reports. Does not make decisions on technical topics, does not vote for or against particular grant applications.
+* **The grant program manager**: a member of the FPA general assembly who oversees the entire program, communicates FPA's decisions, and changes the status on issues that represent grant applications. This position is currently held by Chris Chennes.
+* **The grant relations officer**: a member of the FPA general assembly who regularly communicates with the contributors who received grants to keep the FPA in the loop of the work progress. This position is currently held by Turan Furkan Topak (Reqrefusion).
 * **Contributors**: developers and non-programming contributors. Their job is to pick a project, decompose it into stages, estimate the cost, submit a grant application, then upon approval, complete the project within the agreed timeframe.
 * **PR reviewers**: a group of FreeCAD maintainers who provide feedback on submitted pull requests and have the privileges to merge patches. Their role is to review and merge PRs submitted by contributors working on a grant, as part of their routine work.
 * **General community**: other developers and users of FreeCAD who can provide feedback on issued grants and raise concerns if they think that some of the grant assignments have been misplaced.
@@ -135,7 +137,7 @@ For ecosystem projects, we expect you to align with maintainers of those project
 The FPA reserves the right to terminate a grant in the following cases:
 
 * The grant acceptee failed to complete the next stage of work entirely.
-* The grant acceptee abruptly stopped the work without warning.
+* The grant acceptee abruptly stopped the work without warning, **or failed to undertake any activity or to contact FPA for 90 (ninety) consecutive days from the date of their last activity or communication (in which case the budget allocated for the proposal will be automatically cancelled).**
 * The quality of code is inconsistent with credentials provided in the grant application.
 
 The FPA can still issue a partial payment for an incomplete stage. The prerequisites for that are:

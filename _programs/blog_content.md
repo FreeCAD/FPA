@@ -19,8 +19,19 @@ In a new initiative aimed at improving the quantity and quality of online writin
 - Author of selected content will be paid $100 per post.
 - The FPA gets a non-exclusive right to publish the content in perpetuity.
 - Content author retains copyright and may re-use the article on a personal blog, magazine, etc.
-- Submitted posts must be at least 2000 words in length.
 - Published posts will have a byline identifying the author (may use forum handle or another alias)
+
+## Editorial policy
+
+This is a paid gig, so we reserve the right to request changes or decline publishing a submitted post if it doesn't meet our expectations. Here are some common sense guidelines:
+
+- Possible topics: tutorials, overviews of new features, showcases / case studies and interviews, reports from events where FreeCAD was featured prominently.
+- Length: while we generally expect at least 700 words in a post, you should strive for great informative content rather than specific number of words.
+- Avoid writing fluff: no lengthy introductions or summaries.
+- Illustrations: if you discuss features that are visual in nature, provide illustrations.
+- AI-written content: we do not accept content written with ChatGPT, Claude, et al.
+
+## How to contact the blog team
 
 If you are interested in writing blog contents for the FreeCAD blog, drop us a mail at fpa@freecad.org Please note that we will only accept original FreeCAD-related content, and will not participate in any link exchange scheme or any other kind of commercial or sponsored content.
 

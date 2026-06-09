@@ -23,7 +23,7 @@ Funding for items over 100 USD must be put to a vote of the General Membership f
 
 ## Grant program
 
-The FPA is distributing money to FreeCAD developers through its [grant program](../../_programs/FPADF_Announcement.md). FreeCAD contributors wishing to obtain money from the FPA to help them to contribute must do so through the grant program.
+The FPA is distributing money to FreeCAD developers through its [grant program](../../programs/fpadf-announcement). FreeCAD contributors wishing to obtain money from the FPA to help them to contribute must do so through the grant program.
 
 Working on FreeCAD is always, primarily and fundamentally, a voluntary act. One should never expect to receive any kind of monetary compensation for the work they have already done on FreeCAD. In other words, one cannot ask money for pull requests they have already done. To obtain an FPA grant, a contributor must comply with the FPA grant program rules, which require them to submit a proposal that describes the work to be done.
 
@@ -41,9 +41,39 @@ Contractors receive larger amounts of money (typically 5000 EUR or more) spread 
 
 Contractor positions are typically created by the FPA itself and advertised via a "job posting" on the blog, forum, etc. Individuals with new ideas for contractor positions should contact the FPA to discuss their idea.
 
+## Sponsorship Requests from Teams and Organizations
+
+The FreeCAD Project Association occasionally receives requests from teams (e.g., robotics clubs, engineering student groups, or other academic project teams) seeking sponsorship to attend events, competitions, or related activities. While we welcome opportunities to support communities using FreeCAD, the following criteria must be met for sponsorship consideration:
+
+1. **Clear and Tangible Benefit to FreeCAD**
+    Sponsorship will only be provided where there is a demonstrable benefit to the FreeCAD project and community. General visibility, such as placing the FreeCAD logo on a banner or event listing, is not sufficient.
+
+2. **Expected Contributions**
+    Applicants must propose concrete deliverables that highlight their use of FreeCAD and contribute to the project’s visibility or knowledge base. Examples include, but are not limited to:
+
+   * A series of blog posts or articles describing their design process with FreeCAD.
+   * Tutorials, walkthroughs, or demonstrations of how FreeCAD was applied to their project.
+   * Recorded presentations, videos, or educational content shared under open-access terms.
+
+3. **Alignment with Community Values**
+    Sponsored projects should demonstrate an educational or community-building purpose, align with FreeCAD’s open-source principles, and be suitable for sharing with the wider FreeCAD user base.
+
+4. **Sponsorship Scope**
+    The form and amount of sponsorship will be determined on a case-by-case basis, depending on available resources and the potential value of the contributions to the FreeCAD community.
+
+5. **Application Process**
+    Requests must include a clear proposal outlining:
+
+   * The event or activity to be sponsored.
+   * The planned deliverables and timeline.
+   * The expected benefit to FreeCAD.
+      Proposals without specific, measurable contributions will not be considered.
+
+
+
 ## Important Financial Accounts
 
-The [FreeCAD Wiki Donations page](https://wiki.freecadweb.org/Donate) has an up-to-date list of accounts at which we accept donations.
+The [FreeCAD Wiki Donations page](https://wiki.freecad.org/Donate) has an up-to-date list of accounts at which we accept donations.
 
 * Bank account at [BNP Paribas Fortis](https://www.bnpparibasfortis.be/): BE04 0019 2896 4531 (managers: Yorik)
 * PayPal account at fpa@freecad.org (managers: Yorik)

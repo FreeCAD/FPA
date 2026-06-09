@@ -1,0 +1,25 @@
+== On Markdown FreeCad Documentation ==
+
+The most important thing inspired by this study was, of course, Markdown Documentation, which was created by Yorik. The relevant reposity did not change in the near future, but Yorik recently updated this documentation. I decided to write a report on the relevant documentation due to this update. In this report, I will try to create a general idea about the advantages of the system developed in line with this project and what it tries to reach. 
+
+Before starting, I would like to say that the last updated state is quite acceptable. This is probably related to Pandoc's improvements. In fact, the purpose of this report is that it cannot go to advanced level.
+
+Although there is a very good job in English documents, there are incredible shortcomings for translation documents. In addition, the abundance used in the Docnav system is deteriorated.
+
+=== About Markdown ===
+
+Perhaps one of the most fundamental distinctions is to foresee me to completely leave Markdown for my project. Markdown is a prominent marking language with simple. Wiki mainly contains Wikitext and quite a lot of HTML. It also contains many templates. If you try to welcome this with Markdown, you'll be as complex as much as wiki. And you lose the superior side of Markdown. In addition, the newly formed thing is a certain learning curve. Instead, it is the right way to never leave Wikitext. Although the existing Markdown documents are acceptable, they lose many great features in the wikide. Gordion knot uses Wikitext and HTML instead of Mardown. In this way, while maintaining all the features of wikin, the desired file -based system is switched.
+
+In addition, Markdown is converted to html for all kinds of display. In this respect, the Gordion knot found it more logical to show it directly as HTML. HTML may seem complex for regulation, but offers full potential for the screening. And it is planned to be used only for display.
+
+=== About being constantly updated === 
+
+Keeping things up -to -date is a very important task for documents. The relevant repo was updated 1 month ago when writing this report. Perhaps there were no major changes for English documents, but especially in translations, there were very large changes in 1 month. In other words, the relevant documents have already been absorbed. The files in the Gordion Knot project update at any time. And they will never lose their current. With a little go, the version of many times can be obtained quite easily. 
+
+=== About Choosing ===
+
+The relevant repo was mainly created to be a backup. However, it has been suggested that it may be an option in the future. If this option is selected here, I can say that there will be no return. It is of course possible to convert from Markdown to Wikitex again, but it does not make sense. It is not possible to bring back many nuances lost in the transition to Markdown. In this respect, the Gordion knot project keeps both alternatives at the same time. Go and wikide exists at the same time. It allows changes to the same at the same time. Anyone can choose the option they want. The choice does not cause any problems.
+
+=== About reuse ===
+
+In the manifesto of Markdown Repo, their reuse in FreeCAD is mentioned. Gordion Knot is being studied for this. For the Tooltips, a study has been done to update the description area in the relevant Tool document and regularly update it, but this work was stopped due to DWG debates on what to toolples. However, this is a great example to demonstrate the very function of the system.

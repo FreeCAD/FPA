@@ -3,7 +3,6 @@ title: "Initiatives"
 description:
    "Active FPA Programs and Initiatives"
 layout: default
-shortcutType: regular
 shortcuts:
     - text: Travel grants for FreeCAD community members
       button: Travel grants
@@ -18,9 +17,15 @@ shortcuts:
     - text: The FPA seeks authors to write original content for the FreeCAD Blog
       button: Blog content
       href: /programs/blog-content
-    - text: The FPA seeks people interested in obtaining a granto to perform a specific task
+    - text: The FPA seeks people interested in obtaining a grant to perform a specific task
       button: Job offers
       href: /programs/job-offers
+    - text: The FPA offers a reward to people fixing known bugs in FreeCAD
+      button: Bugfix rewards
+      href: /programs/bugfix-rewards-program
+    - text: The FPA offers a honorarium to people doing active maintaining work
+      button: Maintainers honorarium
+      href: /programs/maintainer-honorarium
 ---
 
 # {{page.title}}
@@ -32,7 +37,12 @@ shortcuts:
 {% comment %} only render if not jekyll {% endcomment %}
 {% if false %}
 
-Grants help accelerate FreeCAD development (Development fund)[/_programs/FPADF_Announcement.md]
-The FPA will pay authors to write original content for the FreeCAD Blog (Blog author)[/_programs/blog_content.md]
+* [Travel grants](_programs/FOSDEM_travel_grants.md): Travel grants for FreeCAD community members
+* [Development fund](_programs/FPADF_Announcement.md): The FPA offers grants to accelerate FreeCAD development
+* [Learning initiative](_programs/learning_initiative.md): A program for people willing to learn and teach FreeCAD
+* [Blog content](_programs/blog_content.md): The FPA seeks authors to write original content for the FreeCAD Blog
+* [Job offers](_programs/job_offers.md): The FPA seeks people interested in obtaining a grant to perform a specific task
+* [Bugfix rewards](_programs/bugfix_rewards_program.md): The FPA offers a reward to people fixing known bugs in FreeCAD (experimental program)
+* [Maintainers honorarium](_programs/maintainer_honorarium.md): The FPA offers a honorarium to people doing active maintaining work
 
 {% endif %}

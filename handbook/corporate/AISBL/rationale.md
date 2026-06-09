@@ -47,3 +47,13 @@ An **International Non-Profit Association** ([Association Internationale Sans Bu
 * As software patents don't exist in Europe, the AISBL **cannot be sued** for possible patent infringements in other countries where such patents exist. It can therefore assume any code that possibly violate patents in another country and therefore protect its real author from threats of lawsuits.
 
 * AISBLS are also recognized outside of Belgium, so it is easier for them to get services and things like bank accounts in other european countries. They are also easy to transfer to another european country.
+
+## Disadvantages and difficulties
+
+* At least once per year, one of the administrators, or a person officially mandated, must go in person to the *greffe du tribunal de l'entreprise* in the city where the AISBL is seated, to deliver the yearly financial report. For any administrative body change, one must also go in person (doing it via mail is theoretically possible but they warn of very long delays and it's generally discouraged). This must be done normally no later than one month after the next year budget is approved.
+
+* Online access to Belgian administration websites (for example to deliver tax returns forms or VAT returns) requires a Belgian ID card. There might be other ways to access that don't depend on the Belgian ID (ex: Itsme) but it needs to be checked.
+
+* Starting without VAT is rather simple, but it prohibits any commercial operation. Placing sponsors logos on the website, for example, is a commercial operation (selling advertising space). Once VAT is enabled, a new level of complexity comes. Any purchase of service, for example, is subject to reverse-charged VAT.
+
+* Belgian accountants at ease with non-profits, FOSS software, english language and crowdfunding are a rarity or inexistant. Accountants of other countries won't have access to Belgian platforms and won't be able to do everything. Be prepared to do a lot by yourselves.

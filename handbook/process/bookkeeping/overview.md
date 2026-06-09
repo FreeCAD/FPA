@@ -17,15 +17,17 @@ While we are not required to use formal double entry accounting, we do so in the
 - [The FPA Financial Map](./FPAFinancialMap.md)
 - [Chart of Accounts](./ChartOfAccounts.md)
 
-## Transaction Processing
+## Month End Bookkeeping
 
-Turning data from financial service providers into double entry accounting transactions.
+Each month we must update our books to reflect financial activity in the previous month.  The tasks required are outlined in [Month End Step by Step](./MonthEndStepByStep.md).  Additional details:
+- [python scripts for data formatting](./MonthEndScripts.md)
+- [month end deliverables](./MonthEndDeliverables.md)
+
+Details of how we turn data from financial service providers into double entry accounting transactions:
 - [BNP transactions](./BNPTransactionProcessing.md)
 - [PayPal transactions](./PayPalTransactionProcessing.md)
 - [OpenCollective transactions](./OpenCollectiveTransactionProcessing.md)
-- [BountySource transactions](./BountySourceTransactionProcessing.md)
 
-A number of Python scripts that reduce manual data entry are available in the [FPA Github repo](https://github.com/FreeCAD/FPA/tree/main/code/bookkeepingScripts)
 
 ## Making Payments
 

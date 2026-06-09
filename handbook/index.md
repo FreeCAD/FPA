@@ -47,6 +47,7 @@ This handbook has several major sections:
 - [Issues](./process/issues.md)
 - [Handbook process](./process/handbook.md)
 - [Bookkeeping](./process/bookkeeping/overview.md)
+- [Maintainer honorarium](./process/maintainer-honorarium.md)
   {: .menuList}
 
 ## Resource access and management
