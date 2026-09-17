@@ -83,7 +83,7 @@ Check the [donations page](https://wiki.freecad.org/Donate) for more details and
 
 The FPA, although it is a non-profit organization, is not a charity organization. People and companies donating to the FPA are therefore [not entitled to a tax deduction](https://finances.belgium.be/fr/particuliers/avantages_fiscaux/dons) by Belgian law. Each country, however, has its own rules and laws to decide upon what gives their citizen right to tax reduction or not. You are always advised to consult the laws of your own country.
 
-The FPA can anyway always issue a donation receipt. [Mail us](mailto:fpa@freecad.org) with your donation details and we will gladly send you a receipt.
+The FPA can anyway always issue a donation receipt. [Mail us](mailto:accounting@freecad.org) with your donation details and we will gladly send you a receipt.
 
 {% comment %}Already in shortcuts{% endcomment %}
 {% if false %}
