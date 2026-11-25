@@ -53,6 +53,7 @@ This handbook has several major sections:
 ## Resource access and management
 
 - [Brand guidelines](./process/logo.md)
+- [Trademark enforcement](./process/trademark-enforcement.md)
 - [Source code](./process/source_code_access.md)
 - [Social media](./process/socialmedia.md)
 - [Forum](./process/forum.md)
